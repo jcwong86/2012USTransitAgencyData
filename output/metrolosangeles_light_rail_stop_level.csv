@@ -1,0 +1,208 @@
+stop_id,service_id,direction_id,numroutes,TripsServingStop,stop_name,stop_lat,stop_lon
+80101,APR12-801-1_Weekday,0,1,230,Long Beach Transit Mall,33.768071,-118.192921
+80101,APR12-801-2_Saturday,0,1,220,Long Beach Transit Mall,33.768071,-118.192921
+80101,APR12-801-3_Sunday,0,1,220,Long Beach Transit Mall,33.768071,-118.192921
+80102,APR12-801-1_Weekday,0,1,115,Pacific Station,33.772258,-118.1937
+80102,APR12-801-2_Saturday,0,1,110,Pacific Station,33.772258,-118.1937
+80102,APR12-801-3_Sunday,0,1,110,Pacific Station,33.772258,-118.1937
+80105,APR12-801-1_Weekday,0,1,230,Anaheim Station,33.78183,-118.189384
+80105,APR12-801-2_Saturday,0,1,220,Anaheim Station,33.78183,-118.189384
+80105,APR12-801-3_Sunday,0,1,220,Anaheim Station,33.78183,-118.189384
+80106,APR12-801-1_Weekday,0,1,230,PCH Station,33.78909,-118.189382
+80106,APR12-801-2_Saturday,0,1,220,PCH Station,33.78909,-118.189382
+80106,APR12-801-3_Sunday,0,1,220,PCH Station,33.78909,-118.189382
+80107,APR12-801-1_Weekday,0,1,281,Willow Station,33.807079,-118.189834
+80107,APR12-801-2_Saturday,0,1,227,Willow Station,33.807079,-118.189834
+80107,APR12-801-3_Sunday,0,1,227,Willow Station,33.807079,-118.189834
+80108,APR12-801-1_Weekday,0,1,277,Wardlow Station,33.819865,-118.19609
+80108,APR12-801-2_Saturday,0,1,223,Wardlow Station,33.819865,-118.19609
+80108,APR12-801-3_Sunday,0,1,223,Wardlow Station,33.819865,-118.19609
+80109,APR12-801-1_Weekday,0,1,277,Del Amo Station,33.848222,-118.211017
+80109,APR12-801-2_Saturday,0,1,209,Del Amo Station,33.848222,-118.211017
+80109,APR12-801-3_Sunday,0,1,209,Del Amo Station,33.848222,-118.211017
+80110,APR12-801-1_Weekday,0,1,277,Artesia Station,33.876082,-118.222503
+80110,APR12-801-2_Saturday,0,1,209,Artesia Station,33.876082,-118.222503
+80110,APR12-801-3_Sunday,0,1,209,Artesia Station,33.876082,-118.222503
+80111,APR12-801-1_Weekday,0,1,277,Compton Station,33.89749,-118.224249
+80111,APR12-801-2_Saturday,0,1,209,Compton Station,33.89749,-118.224249
+80111,APR12-801-3_Sunday,0,1,209,Compton Station,33.89749,-118.224249
+80112,APR12-801-1_Weekday,0,1,277,Willowbrook (Rosa Parks) Station - Metro Blue Line,33.928048,-118.237555
+80112,APR12-801-2_Saturday,0,1,209,Willowbrook (Rosa Parks) Station - Metro Blue Line,33.928048,-118.237555
+80112,APR12-801-3_Sunday,0,1,209,Willowbrook (Rosa Parks) Station - Metro Blue Line,33.928048,-118.237555
+80113,APR12-801-1_Weekday,0,1,275,103rd Street / Watts Towers  Station,33.94222,-118.243159
+80113,APR12-801-2_Saturday,0,1,207,103rd Street / Watts Towers  Station,33.94222,-118.243159
+80113,APR12-801-3_Sunday,0,1,207,103rd Street / Watts Towers  Station,33.94222,-118.243159
+80114,APR12-801-1_Weekday,0,1,275,Firestone Station,33.959611,-118.243205
+80114,APR12-801-2_Saturday,0,1,207,Firestone Station,33.959611,-118.243205
+80114,APR12-801-3_Sunday,0,1,207,Firestone Station,33.959611,-118.243205
+80115,APR12-801-1_Weekday,0,1,275,Florence Station,33.97374,-118.243271
+80115,APR12-801-2_Saturday,0,1,207,Florence Station,33.97374,-118.243271
+80115,APR12-801-3_Sunday,0,1,207,Florence Station,33.97374,-118.243271
+80116,APR12-801-1_Weekday,0,1,275,Slauson Station,33.98876,-118.243398
+80116,APR12-801-2_Saturday,0,1,207,Slauson Station,33.98876,-118.243398
+80116,APR12-801-3_Sunday,0,1,207,Slauson Station,33.98876,-118.243398
+80117,APR12-801-1_Weekday,0,1,275,Vernon Station,34.00292,-118.243303
+80117,APR12-801-2_Saturday,0,1,207,Vernon Station,34.00292,-118.243303
+80117,APR12-801-3_Sunday,0,1,207,Vernon Station,34.00292,-118.243303
+80118,APR12-801-1_Weekday,0,1,275,Washington Station,34.01965,-118.243084
+80118,APR12-801-2_Saturday,0,1,207,Washington Station,34.01965,-118.243084
+80118,APR12-801-3_Sunday,0,1,207,Washington Station,34.01965,-118.243084
+80119,APR12-801-1_Weekday,0,1,273,San Pedro Station,34.026807,-118.255505
+80119,APR12-801-2_Saturday,0,1,207,San Pedro Station,34.026807,-118.255505
+80119,APR12-801-3_Sunday,0,1,207,San Pedro Station,34.026807,-118.255505
+80120,APR12-801-1_Weekday,0,1,273,Grand Station,34.033155,-118.269333
+80120,APR12-801-2_Saturday,0,1,207,Grand Station,34.033155,-118.269333
+80120,APR12-801-3_Sunday,0,1,207,Grand Station,34.033155,-118.269333
+80121,APR12-801-1_Weekday,0,1,273,Pico Station,34.040735,-118.266118
+80121,APR12-801-2_Saturday,0,1,207,Pico Station,34.040735,-118.266118
+80121,APR12-801-3_Sunday,0,1,207,Pico Station,34.040735,-118.266118
+80121,JUN12-806-1_Weekday,0,1,174,Pico Station,34.040735,-118.266118
+80121,JUN12-806-2_Saturday,0,1,170,Pico Station,34.040735,-118.266118
+80121,JUN12-806-3_Sunday,0,1,170,Pico Station,34.040735,-118.266118
+80122,APR12-801-1_Weekday,0,1,273,7th Street / Metro Center Station - Metro Blue & Expo Lines,34.04861,-118.258822
+80122,APR12-801-2_Saturday,0,1,207,7th Street / Metro Center Station - Metro Blue & Expo Lines,34.04861,-118.258822
+80122,APR12-801-3_Sunday,0,1,207,7th Street / Metro Center Station - Metro Blue & Expo Lines,34.04861,-118.258822
+80122,JUN12-806-1_Weekday,0,1,174,7th Street / Metro Center Station - Metro Blue & Expo Lines,34.04861,-118.258822
+80122,JUN12-806-2_Saturday,0,1,170,7th Street / Metro Center Station - Metro Blue & Expo Lines,34.04861,-118.258822
+80122,JUN12-806-3_Sunday,0,1,170,7th Street / Metro Center Station - Metro Blue & Expo Lines,34.04861,-118.258822
+80123,JUN12-806-1_Weekday,0,1,174,23rd Street Station,34.029112,-118.273603
+80123,JUN12-806-2_Saturday,0,1,170,23rd Street Station,34.029112,-118.273603
+80123,JUN12-806-3_Sunday,0,1,170,23rd Street Station,34.029112,-118.273603
+80124,JUN12-806-1_Weekday,0,1,174,Jefferson / USC Station,34.022123,-118.278118
+80124,JUN12-806-2_Saturday,0,1,170,Jefferson / USC Station,34.022123,-118.278118
+80124,JUN12-806-3_Sunday,0,1,170,Jefferson / USC Station,34.022123,-118.278118
+80125,JUN12-806-1_Weekday,0,1,174,Expo Park / USC Station,34.018227,-118.285734
+80125,JUN12-806-2_Saturday,0,1,170,Expo Park / USC Station,34.018227,-118.285734
+80125,JUN12-806-3_Sunday,0,1,170,Expo Park / USC Station,34.018227,-118.285734
+80126,JUN12-806-1_Weekday,0,1,174,Expo / Vermont Station,34.018245,-118.29154
+80126,JUN12-806-2_Saturday,0,1,170,Expo / Vermont Station,34.018245,-118.29154
+80126,JUN12-806-3_Sunday,0,1,170,Expo / Vermont Station,34.018245,-118.29154
+80127,JUN12-806-1_Weekday,0,1,174,Expo / Western Station,34.018331,-118.30891
+80127,JUN12-806-2_Saturday,0,1,170,Expo / Western Station,34.018331,-118.30891
+80127,JUN12-806-3_Sunday,0,1,170,Expo / Western Station,34.018331,-118.30891
+80128,JUN12-806-1_Weekday,0,1,174,Expo / Crenshaw Station,34.022526,-118.335078
+80128,JUN12-806-2_Saturday,0,1,170,Expo / Crenshaw Station,34.022526,-118.335078
+80128,JUN12-806-3_Sunday,0,1,170,Expo / Crenshaw Station,34.022526,-118.335078
+80129,JUN12-806-1_Weekday,0,1,174,Farmdale Station,34.023981,-118.346095
+80129,JUN12-806-2_Saturday,0,1,170,Farmdale Station,34.023981,-118.346095
+80129,JUN12-806-3_Sunday,0,1,170,Farmdale Station,34.023981,-118.346095
+80130,JUN12-806-1_Weekday,0,1,174,Expo / La Brea Station,34.024803,-118.355159
+80130,JUN12-806-2_Saturday,0,1,170,Expo / La Brea Station,34.024803,-118.355159
+80130,JUN12-806-3_Sunday,0,1,170,Expo / La Brea Station,34.024803,-118.355159
+80131,JUN12-806-1_Weekday,0,1,174,La Cienega / Jefferson Station,34.026355,-118.37212
+80131,JUN12-806-2_Saturday,0,1,170,La Cienega / Jefferson Station,34.026355,-118.37212
+80131,JUN12-806-3_Sunday,0,1,170,La Cienega / Jefferson Station,34.026355,-118.37212
+80132,JUN12-806-1_Weekday,0,1,174,Culver City Station,34.027896,-118.388986
+80132,JUN12-806-2_Saturday,0,1,170,Culver City Station,34.027896,-118.388986
+80132,JUN12-806-3_Sunday,0,1,170,Culver City Station,34.027896,-118.388986
+80153,APR12-801-1_Weekday,0,1,115,1st Street Station,33.76874,-118.189362
+80153,APR12-801-2_Saturday,0,1,110,1st Street Station,33.76874,-118.189362
+80153,APR12-801-3_Sunday,0,1,110,1st Street Station,33.76874,-118.189362
+80154,APR12-801-1_Weekday,0,1,115,5th Street Station,33.773598,-118.189412
+80154,APR12-801-2_Saturday,0,1,110,5th Street Station,33.773598,-118.189412
+80154,APR12-801-3_Sunday,0,1,110,5th Street Station,33.773598,-118.189412
+80301,NOV11-803-1_Weekday,0,1,207,Redondo Beach Station,33.89464,-118.369196
+80301,NOV11-803-2_Saturday,0,1,150,Redondo Beach Station,33.89464,-118.369196
+80301,NOV11-803-3_Sunday,0,1,150,Redondo Beach Station,33.89464,-118.369196
+80302,NOV11-803-1_Weekday,0,1,215,Douglas Station,33.905299,-118.383113
+80302,NOV11-803-2_Saturday,0,1,152,Douglas Station,33.905299,-118.383113
+80302,NOV11-803-3_Sunday,0,1,152,Douglas Station,33.905299,-118.383113
+80303,NOV11-803-1_Weekday,0,1,215,El Segundo Station,33.916063,-118.386539
+80303,NOV11-803-2_Saturday,0,1,152,El Segundo Station,33.916063,-118.386539
+80303,NOV11-803-3_Sunday,0,1,152,El Segundo Station,33.916063,-118.386539
+80304,NOV11-803-1_Weekday,0,1,215,Mariposa Station,33.9232,-118.387572
+80304,NOV11-803-2_Saturday,0,1,152,Mariposa Station,33.9232,-118.387572
+80304,NOV11-803-3_Sunday,0,1,152,Mariposa Station,33.9232,-118.387572
+80305,NOV11-803-1_Weekday,0,1,215,Aviation / LAX Station,33.929621,-118.377134
+80305,NOV11-803-2_Saturday,0,1,152,Aviation / LAX Station,33.929621,-118.377134
+80305,NOV11-803-3_Sunday,0,1,152,Aviation / LAX Station,33.929621,-118.377134
+80306,NOV11-803-1_Weekday,0,1,215,Hawthorne / Lennox Station,33.933408,-118.351602
+80306,NOV11-803-2_Saturday,0,1,152,Hawthorne / Lennox Station,33.933408,-118.351602
+80306,NOV11-803-3_Sunday,0,1,152,Hawthorne / Lennox Station,33.933408,-118.351602
+80307,NOV11-803-1_Weekday,0,1,215,Crenshaw Station,33.925201,-118.32655
+80307,NOV11-803-2_Saturday,0,1,152,Crenshaw Station,33.925201,-118.32655
+80307,NOV11-803-3_Sunday,0,1,152,Crenshaw Station,33.925201,-118.32655
+80308,NOV11-803-1_Weekday,0,1,215,Vermont / Athens Station,33.928683,-118.291733
+80308,NOV11-803-2_Saturday,0,1,152,Vermont / Athens Station,33.928683,-118.291733
+80308,NOV11-803-3_Sunday,0,1,152,Vermont / Athens Station,33.928683,-118.291733
+80309,NOV11-803-1_Weekday,0,1,215,Harbor Freeway Station,33.928714,-118.2811
+80309,NOV11-803-2_Saturday,0,1,152,Harbor Freeway Station,33.928714,-118.2811
+80309,NOV11-803-3_Sunday,0,1,152,Harbor Freeway Station,33.928714,-118.2811
+80310,NOV11-803-1_Weekday,0,1,215,Avalon Station,33.927465,-118.265217
+80310,NOV11-803-2_Saturday,0,1,152,Avalon Station,33.927465,-118.265217
+80310,NOV11-803-3_Sunday,0,1,152,Avalon Station,33.927465,-118.265217
+80311,NOV11-803-1_Weekday,0,1,216,Willowbrook (Rosa Parks) Station - Metro Green Line,33.928258,-118.238052
+80311,NOV11-803-2_Saturday,0,1,153,Willowbrook (Rosa Parks) Station - Metro Green Line,33.928258,-118.238052
+80311,NOV11-803-3_Sunday,0,1,153,Willowbrook (Rosa Parks) Station - Metro Green Line,33.928258,-118.238052
+80312,NOV11-803-1_Weekday,0,1,216,Long Beach Station,33.92488,-118.209945
+80312,NOV11-803-2_Saturday,0,1,153,Long Beach Station,33.92488,-118.209945
+80312,NOV11-803-3_Sunday,0,1,153,Long Beach Station,33.92488,-118.209945
+80313,NOV11-803-1_Weekday,0,1,216,Lakewood Station,33.91307,-118.1406
+80313,NOV11-803-2_Saturday,0,1,153,Lakewood Station,33.91307,-118.1406
+80313,NOV11-803-3_Sunday,0,1,153,Lakewood Station,33.91307,-118.1406
+80314,NOV11-803-1_Weekday,0,1,216,Norwalk Station,33.914033,-118.104717
+80314,NOV11-803-2_Saturday,0,1,153,Norwalk Station,33.914033,-118.104717
+80314,NOV11-803-3_Sunday,0,1,153,Norwalk Station,33.914033,-118.104717
+80401,FEB12-804-1_Weekday,0,1,253,Atlantic Station,34.033398,-118.154469
+80401,FEB12-804-2_Saturday,0,1,173,Atlantic Station,34.033398,-118.154469
+80401,FEB12-804-3_Sunday,0,1,173,Atlantic Station,34.033398,-118.154469
+80402,FEB12-804-1_Weekday,0,1,253,East LA Civic Center Station,34.033364,-118.161206
+80402,FEB12-804-2_Saturday,0,1,173,East LA Civic Center Station,34.033364,-118.161206
+80402,FEB12-804-3_Sunday,0,1,173,East LA Civic Center Station,34.033364,-118.161206
+80403,FEB12-804-1_Weekday,0,1,253,Maravilla Station,34.033319,-118.16814
+80403,FEB12-804-2_Saturday,0,1,173,Maravilla Station,34.033319,-118.16814
+80403,FEB12-804-3_Sunday,0,1,173,Maravilla Station,34.033319,-118.16814
+80404,FEB12-804-1_Weekday,0,1,253,Indiana Station,34.0343,-118.192182
+80404,FEB12-804-2_Saturday,0,1,173,Indiana Station,34.0343,-118.192182
+80404,FEB12-804-3_Sunday,0,1,173,Indiana Station,34.0343,-118.192182
+80405,FEB12-804-1_Weekday,0,1,253,Soto Station,34.043747,-118.210061
+80405,FEB12-804-2_Saturday,0,1,173,Soto Station,34.043747,-118.210061
+80405,FEB12-804-3_Sunday,0,1,173,Soto Station,34.043747,-118.210061
+80406,FEB12-804-1_Weekday,0,1,253,Mariachi Plaza / Boyle Heights Station,34.047215,-118.219648
+80406,FEB12-804-2_Saturday,0,1,173,Mariachi Plaza / Boyle Heights Station,34.047215,-118.219648
+80406,FEB12-804-3_Sunday,0,1,173,Mariachi Plaza / Boyle Heights Station,34.047215,-118.219648
+80407,FEB12-804-1_Weekday,0,1,253,Pico / Aliso Station,34.047634,-118.22594
+80407,FEB12-804-2_Saturday,0,1,173,Pico / Aliso Station,34.047634,-118.22594
+80407,FEB12-804-3_Sunday,0,1,173,Pico / Aliso Station,34.047634,-118.22594
+80408,FEB12-804-1_Weekday,0,1,253,Little Tokyo / Arts District Station,34.0501,-118.237901
+80408,FEB12-804-2_Saturday,0,1,173,Little Tokyo / Arts District Station,34.0501,-118.237901
+80408,FEB12-804-3_Sunday,0,1,173,Little Tokyo / Arts District Station,34.0501,-118.237901
+80409,FEB12-804-1_Weekday,0,1,280,Union Station - Metro Gold Line,34.056061,-118.234759
+80409,FEB12-804-2_Saturday,0,1,181,Union Station - Metro Gold Line,34.056061,-118.234759
+80409,FEB12-804-3_Sunday,0,1,181,Union Station - Metro Gold Line,34.056061,-118.234759
+80410,FEB12-804-1_Weekday,0,1,257,Chinatown Station,34.063861,-118.23584
+80410,FEB12-804-2_Saturday,0,1,166,Chinatown Station,34.063861,-118.23584
+80410,FEB12-804-3_Sunday,0,1,166,Chinatown Station,34.063861,-118.23584
+80411,FEB12-804-1_Weekday,0,1,257,Lincoln Heights / Cypress Park Station,34.080949,-118.220429
+80411,FEB12-804-2_Saturday,0,1,166,Lincoln Heights / Cypress Park Station,34.080949,-118.220429
+80411,FEB12-804-3_Sunday,0,1,166,Lincoln Heights / Cypress Park Station,34.080949,-118.220429
+80412,FEB12-804-1_Weekday,0,1,257,Heritage Square / Arroyo Station,34.087227,-118.213213
+80412,FEB12-804-2_Saturday,0,1,166,Heritage Square / Arroyo Station,34.087227,-118.213213
+80412,FEB12-804-3_Sunday,0,1,166,Heritage Square / Arroyo Station,34.087227,-118.213213
+80413,FEB12-804-1_Weekday,0,1,257,Southwest Museum Station,34.098243,-118.206712
+80413,FEB12-804-2_Saturday,0,1,166,Southwest Museum Station,34.098243,-118.206712
+80413,FEB12-804-3_Sunday,0,1,166,Southwest Museum Station,34.098243,-118.206712
+80414,FEB12-804-1_Weekday,0,1,257,Highland Park Station,34.111179,-118.192606
+80414,FEB12-804-2_Saturday,0,1,166,Highland Park Station,34.111179,-118.192606
+80414,FEB12-804-3_Sunday,0,1,166,Highland Park Station,34.111179,-118.192606
+80415,FEB12-804-1_Weekday,0,1,257,South Pasadena Station,34.115186,-118.157886
+80415,FEB12-804-2_Saturday,0,1,166,South Pasadena Station,34.115186,-118.157886
+80415,FEB12-804-3_Sunday,0,1,166,South Pasadena Station,34.115186,-118.157886
+80416,FEB12-804-1_Weekday,0,1,257,Fillmore Station,34.133521,-118.148126
+80416,FEB12-804-2_Saturday,0,1,166,Fillmore Station,34.133521,-118.148126
+80416,FEB12-804-3_Sunday,0,1,166,Fillmore Station,34.133521,-118.148126
+80417,FEB12-804-1_Weekday,0,1,257,Del Mar Station,34.14191,-118.148214
+80417,FEB12-804-2_Saturday,0,1,166,Del Mar Station,34.14191,-118.148214
+80417,FEB12-804-3_Sunday,0,1,166,Del Mar Station,34.14191,-118.148214
+80418,FEB12-804-1_Weekday,0,1,257,Memorial Park Station,34.148356,-118.147512
+80418,FEB12-804-2_Saturday,0,1,166,Memorial Park Station,34.148356,-118.147512
+80418,FEB12-804-3_Sunday,0,1,166,Memorial Park Station,34.148356,-118.147512
+80419,FEB12-804-1_Weekday,0,1,257,Lake Station,34.151806,-118.13139
+80419,FEB12-804-2_Saturday,0,1,166,Lake Station,34.151806,-118.13139
+80419,FEB12-804-3_Sunday,0,1,166,Lake Station,34.151806,-118.13139
+80420,FEB12-804-1_Weekday,0,1,257,Allen Station,34.152417,-118.114348
+80420,FEB12-804-2_Saturday,0,1,166,Allen Station,34.152417,-118.114348
+80420,FEB12-804-3_Sunday,0,1,166,Allen Station,34.152417,-118.114348
+80421,FEB12-804-1_Weekday,0,1,257,Sierra Madre Villa Station,34.147752,-118.081212
+80421,FEB12-804-2_Saturday,0,1,166,Sierra Madre Villa Station,34.147752,-118.081212
+80421,FEB12-804-3_Sunday,0,1,166,Sierra Madre Villa Station,34.147752,-118.081212

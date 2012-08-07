@@ -1,0 +1,91 @@
+route_id,stop_id,service_id,direction_id,avghdwy,stdev_hdwy,stop_name,stop_lat,stop_lon,route_short_name,route_long_name
+888-55,53342,DEC11-Multi-Reduced-01,0,36.2,26.7,Target Field Station & Rail Platform,44.983295,-93.277046,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53343,DEC11-Multi-Reduced-01,0,,,Fridley Station & Platform,45.078648,-93.270866,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53344,DEC11-Multi-Reduced-01,0,,,Coon Rapids Riverdale & Platform,45.191261,-93.351707,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53345,DEC11-Multi-Reduced-01,0,,,Anoka Station & Platform,45.207882,-93.384132,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53346,DEC11-Multi-Reduced-01,0,,,Elk River Station & Platform,45.282562,-93.542091,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53347,DEC11-Multi-Reduced-01,0,39.2,29.2,Big Lake Station & Platform,45.329666,-93.730026,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53349,DEC11-Multi-Reduced-01,0,70.0,14.1,Elk River Station & Platform,45.282471,-93.542221,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53350,DEC11-Multi-Reduced-01,0,70.0,14.1,Anoka Station & Platform,45.207657,-93.384285,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53351,DEC11-Multi-Reduced-01,0,70.0,14.1,Coon Rapids Riverdale & Platform,45.191147,-93.351852,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53352,DEC11-Multi-Reduced-01,0,70.0,14.1,Fridley Station & Platform,45.078651,-93.271011,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53342,DEC11-Multi-Saturday-01,0,38.0,28.2,Target Field Station & Rail Platform,44.983295,-93.277046,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53343,DEC11-Multi-Saturday-01,0,,,Fridley Station & Platform,45.078648,-93.270866,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53344,DEC11-Multi-Saturday-01,0,,,Coon Rapids Riverdale & Platform,45.191261,-93.351707,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53345,DEC11-Multi-Saturday-01,0,,,Anoka Station & Platform,45.207882,-93.384132,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53346,DEC11-Multi-Saturday-01,0,,,Elk River Station & Platform,45.282562,-93.542091,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53347,DEC11-Multi-Saturday-01,0,44.0,28.2,Big Lake Station & Platform,45.329666,-93.730026,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53349,DEC11-Multi-Saturday-01,0,,,Elk River Station & Platform,45.282471,-93.542221,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53350,DEC11-Multi-Saturday-01,0,,,Anoka Station & Platform,45.207657,-93.384285,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53351,DEC11-Multi-Saturday-01,0,,,Coon Rapids Riverdale & Platform,45.191147,-93.351852,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53352,DEC11-Multi-Saturday-01,0,,,Fridley Station & Platform,45.078651,-93.271011,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53342,DEC11-Multi-Sunday-01,0,46.3,33.2,Target Field Station & Rail Platform,44.983295,-93.277046,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53343,DEC11-Multi-Sunday-01,0,,,Fridley Station & Platform,45.078648,-93.270866,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53344,DEC11-Multi-Sunday-01,0,,,Coon Rapids Riverdale & Platform,45.191261,-93.351707,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53345,DEC11-Multi-Sunday-01,0,,,Anoka Station & Platform,45.207882,-93.384132,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53346,DEC11-Multi-Sunday-01,0,,,Elk River Station & Platform,45.282562,-93.542091,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53347,DEC11-Multi-Sunday-01,0,29.0,7.0,Big Lake Station & Platform,45.329666,-93.730026,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53349,DEC11-Multi-Sunday-01,0,,,Elk River Station & Platform,45.282471,-93.542221,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53350,DEC11-Multi-Sunday-01,0,,,Anoka Station & Platform,45.207657,-93.384285,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53351,DEC11-Multi-Sunday-01,0,,,Coon Rapids Riverdale & Platform,45.191147,-93.351852,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53352,DEC11-Multi-Sunday-01,0,,,Fridley Station & Platform,45.078651,-93.271011,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53342,DEC11-Multi-Weekday-01,0,27.8,3.5,Target Field Station & Rail Platform,44.983295,-93.277046,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53343,DEC11-Multi-Weekday-01,0,46.0,27.7,Fridley Station & Platform,45.078648,-93.270866,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53344,DEC11-Multi-Weekday-01,0,34.5,10.3,Coon Rapids Riverdale & Platform,45.191261,-93.351707,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53345,DEC11-Multi-Weekday-01,0,34.5,10.3,Anoka Station & Platform,45.207882,-93.384132,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53346,DEC11-Multi-Weekday-01,0,34.5,10.3,Elk River Station & Platform,45.282562,-93.542091,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53347,DEC11-Multi-Weekday-01,0,27.8,14.2,Big Lake Station & Platform,45.329666,-93.730026,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53349,DEC11-Multi-Weekday-01,0,35.0,11.3,Elk River Station & Platform,45.282471,-93.542221,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53350,DEC11-Multi-Weekday-01,0,35.0,11.3,Anoka Station & Platform,45.207657,-93.384285,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53351,DEC11-Multi-Weekday-01,0,35.0,11.3,Coon Rapids Riverdale & Platform,45.191147,-93.351852,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53352,DEC11-Multi-Weekday-01,0,46.6,28.8,Fridley Station & Platform,45.078651,-93.271011,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53342,DEC11-Multi-Weekday-02,0,27.8,3.5,Target Field Station & Rail Platform,44.983295,-93.277046,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53343,DEC11-Multi-Weekday-02,0,46.0,27.7,Fridley Station & Platform,45.078648,-93.270866,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53344,DEC11-Multi-Weekday-02,0,34.5,10.3,Coon Rapids Riverdale & Platform,45.191261,-93.351707,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53345,DEC11-Multi-Weekday-02,0,34.5,10.3,Anoka Station & Platform,45.207882,-93.384132,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53346,DEC11-Multi-Weekday-02,0,34.5,10.3,Elk River Station & Platform,45.282562,-93.542091,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53347,DEC11-Multi-Weekday-02,0,27.8,14.2,Big Lake Station & Platform,45.329666,-93.730026,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53349,DEC11-Multi-Weekday-02,0,35.0,11.3,Elk River Station & Platform,45.282471,-93.542221,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53350,DEC11-Multi-Weekday-02,0,35.0,11.3,Anoka Station & Platform,45.207657,-93.384285,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53351,DEC11-Multi-Weekday-02,0,35.0,11.3,Coon Rapids Riverdale & Platform,45.191147,-93.351852,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-55,53352,DEC11-Multi-Weekday-02,0,46.6,28.8,Fridley Station & Platform,45.078651,-93.271011,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53342,SEP11-Multi-Reduced-01,0,36.2,26.7,Target Field Station & Rail Platform,44.983295,-93.277046,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53343,SEP11-Multi-Reduced-01,0,,,Fridley Station & Platform,45.078648,-93.270866,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53344,SEP11-Multi-Reduced-01,0,,,Coon Rapids Riverdale & Platform,45.191261,-93.351707,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53345,SEP11-Multi-Reduced-01,0,,,Anoka Station & Platform,45.207882,-93.384132,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53346,SEP11-Multi-Reduced-01,0,,,Elk River Station & Platform,45.282562,-93.542091,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53347,SEP11-Multi-Reduced-01,0,39.2,29.2,Big Lake Station & Platform,45.329666,-93.730026,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53349,SEP11-Multi-Reduced-01,0,70.0,14.1,Elk River Station & Platform,45.282471,-93.542221,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53350,SEP11-Multi-Reduced-01,0,70.0,14.1,Anoka Station & Platform,45.207657,-93.384285,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53351,SEP11-Multi-Reduced-01,0,70.0,14.1,Coon Rapids Riverdale & Platform,45.191147,-93.351852,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53352,SEP11-Multi-Reduced-01,0,70.0,14.1,Fridley Station & Platform,45.078651,-93.271011,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53342,SEP11-Multi-Saturday-01,0,38.0,28.2,Target Field Station & Rail Platform,44.983295,-93.277046,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53343,SEP11-Multi-Saturday-01,0,,,Fridley Station & Platform,45.078648,-93.270866,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53344,SEP11-Multi-Saturday-01,0,,,Coon Rapids Riverdale & Platform,45.191261,-93.351707,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53345,SEP11-Multi-Saturday-01,0,,,Anoka Station & Platform,45.207882,-93.384132,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53346,SEP11-Multi-Saturday-01,0,,,Elk River Station & Platform,45.282562,-93.542091,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53347,SEP11-Multi-Saturday-01,0,44.0,28.2,Big Lake Station & Platform,45.329666,-93.730026,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53349,SEP11-Multi-Saturday-01,0,,,Elk River Station & Platform,45.282471,-93.542221,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53350,SEP11-Multi-Saturday-01,0,,,Anoka Station & Platform,45.207657,-93.384285,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53351,SEP11-Multi-Saturday-01,0,,,Coon Rapids Riverdale & Platform,45.191147,-93.351852,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53352,SEP11-Multi-Saturday-01,0,,,Fridley Station & Platform,45.078651,-93.271011,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53342,SEP11-Multi-Sunday-01,0,46.3,33.2,Target Field Station & Rail Platform,44.983295,-93.277046,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53343,SEP11-Multi-Sunday-01,0,,,Fridley Station & Platform,45.078648,-93.270866,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53344,SEP11-Multi-Sunday-01,0,,,Coon Rapids Riverdale & Platform,45.191261,-93.351707,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53345,SEP11-Multi-Sunday-01,0,,,Anoka Station & Platform,45.207882,-93.384132,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53346,SEP11-Multi-Sunday-01,0,,,Elk River Station & Platform,45.282562,-93.542091,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53347,SEP11-Multi-Sunday-01,0,29.0,7.0,Big Lake Station & Platform,45.329666,-93.730026,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53349,SEP11-Multi-Sunday-01,0,,,Elk River Station & Platform,45.282471,-93.542221,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53350,SEP11-Multi-Sunday-01,0,,,Anoka Station & Platform,45.207657,-93.384285,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53351,SEP11-Multi-Sunday-01,0,,,Coon Rapids Riverdale & Platform,45.191147,-93.351852,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53352,SEP11-Multi-Sunday-01,0,,,Fridley Station & Platform,45.078651,-93.271011,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53342,SEP11-Multi-Weekday-01,0,27.8,3.5,Target Field Station & Rail Platform,44.983295,-93.277046,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53343,SEP11-Multi-Weekday-01,0,46.0,27.7,Fridley Station & Platform,45.078648,-93.270866,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53344,SEP11-Multi-Weekday-01,0,34.5,10.3,Coon Rapids Riverdale & Platform,45.191261,-93.351707,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53345,SEP11-Multi-Weekday-01,0,34.5,10.3,Anoka Station & Platform,45.207882,-93.384132,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53346,SEP11-Multi-Weekday-01,0,34.5,10.3,Elk River Station & Platform,45.282562,-93.542091,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53347,SEP11-Multi-Weekday-01,0,27.8,14.2,Big Lake Station & Platform,45.329666,-93.730026,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53349,SEP11-Multi-Weekday-01,0,35.0,11.3,Elk River Station & Platform,45.282471,-93.542221,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53350,SEP11-Multi-Weekday-01,0,35.0,11.3,Anoka Station & Platform,45.207657,-93.384285,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53351,SEP11-Multi-Weekday-01,0,35.0,11.3,Coon Rapids Riverdale & Platform,45.191147,-93.351852,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls
+888-54,53352,SEP11-Multi-Weekday-01,0,46.6,28.8,Fridley Station & Platform,45.078651,-93.271011,888,Northstar-Big Lk-Elk Rv-Anoka-Coon Rp-Mpls

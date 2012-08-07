@@ -1,0 +1,323 @@
+stop_id,service_id,direction_id,numroutes,TripsServingStop,stop_name,stop_lat,stop_lon
+100,1151,0,1,12,Irvine Metrolink Station,33.657056,-117.732932
+100,1151,1,1,13,Irvine Metrolink Station,33.657056,-117.732932
+100,1152,0,1,2,Irvine Metrolink Station,33.657056,-117.732932
+100,1152,1,1,2,Irvine Metrolink Station,33.657056,-117.732932
+100,1153,0,1,7,Irvine Metrolink Station,33.657056,-117.732932
+100,1153,1,1,7,Irvine Metrolink Station,33.657056,-117.732932
+100,1154,0,1,1,Irvine Metrolink Station,33.657056,-117.732932
+100,1154,1,1,1,Irvine Metrolink Station,33.657056,-117.732932
+101,1151,0,1,11,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675
+101,1151,1,1,11,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675
+101,1152,0,1,2,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675
+101,1152,1,1,2,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675
+101,1153,0,1,5,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675
+101,1153,1,1,6,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675
+101,1154,0,1,1,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675
+101,1154,1,1,1,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675
+102,1142,0,1,9,Lancaster Metrolink Station,34.696578,-118.136131
+102,1142,1,1,9,Lancaster Metrolink Station,34.696578,-118.136131
+102,1143,0,1,6,Lancaster Metrolink Station,34.696578,-118.136131
+102,1143,1,1,6,Lancaster Metrolink Station,34.696578,-118.136131
+102,1144,0,1,3,Lancaster Metrolink Station,34.696578,-118.136131
+102,1144,1,1,3,Lancaster Metrolink Station,34.696578,-118.136131
+103,1141,0,1,3,East Ventura Metrolink Station,34.250794,-119.205021
+103,1141,1,1,3,East Ventura Metrolink Station,34.250794,-119.205021
+104,1146,0,1,20,Montclair Metrolink Station,34.094085,-117.695576
+104,1146,1,1,20,Montclair Metrolink Station,34.094085,-117.695576
+104,1147,0,1,10,Montclair Metrolink Station,34.094085,-117.695576
+104,1147,1,1,10,Montclair Metrolink Station,34.094085,-117.695576
+104,1148,0,1,7,Montclair Metrolink Station,34.094085,-117.695576
+104,1148,1,1,7,Montclair Metrolink Station,34.094085,-117.695576
+105,1149,0,1,6,Montebello/ Commerce Metrolink Station,34.00696,-118.125608
+105,1149,1,1,6,Montebello/ Commerce Metrolink Station,34.00696,-118.125608
+106,1141,0,1,8,Moorpark Metrolink Station,34.285323,-118.877873
+106,1141,1,1,8,Moorpark Metrolink Station,34.285323,-118.877873
+107,1142,0,1,14,Newhall Metrolink Station,34.379915,-118.527306
+107,1142,1,1,14,Newhall Metrolink Station,34.379915,-118.527306
+107,1143,0,1,6,Newhall Metrolink Station,34.379915,-118.527306
+107,1143,1,1,6,Newhall Metrolink Station,34.379915,-118.527306
+107,1144,0,1,3,Newhall Metrolink Station,34.379915,-118.527306
+107,1144,1,1,3,Newhall Metrolink Station,34.379915,-118.527306
+108,1150,0,1,5,North Main Corona Metrolink Station,33.882193,-117.563452
+108,1150,1,1,4,North Main Corona Metrolink Station,33.882193,-117.563452
+108,1153,0,1,7,North Main Corona Metrolink Station,33.882193,-117.563452
+108,1153,1,1,7,North Main Corona Metrolink Station,33.882193,-117.563452
+108,1154,0,1,1,North Main Corona Metrolink Station,33.882193,-117.563452
+108,1154,1,1,1,North Main Corona Metrolink Station,33.882193,-117.563452
+109,1141,0,1,11,Northridge Metrolink Station,34.230612,-118.545098
+109,1141,1,1,11,Northridge Metrolink Station,34.230612,-118.545098
+110,1150,0,1,5,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060168
+110,1150,1,1,4,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060168
+110,1151,0,1,9,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060168
+110,1151,1,1,10,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060168
+110,1152,0,1,2,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060168
+110,1152,1,1,2,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060168
+111,1151,0,1,6,Oceanside Metrolink Station,33.192553,-117.379876
+111,1151,1,1,6,Oceanside Metrolink Station,33.192553,-117.379876
+111,1152,0,1,1,Oceanside Metrolink Station,33.192553,-117.379876
+111,1152,1,1,1,Oceanside Metrolink Station,33.192553,-117.379876
+111,1153,0,1,2,Oceanside Metrolink Station,33.192553,-117.379876
+111,1153,1,1,2,Oceanside Metrolink Station,33.192553,-117.379876
+111,1154,0,1,1,Oceanside Metrolink Station,33.192553,-117.379876
+111,1154,1,1,1,Oceanside Metrolink Station,33.192553,-117.379876
+112,1151,0,1,12,Orange Metrolink Station,33.788779,-117.857298
+112,1151,1,1,13,Orange Metrolink Station,33.788779,-117.857298
+112,1152,0,1,2,Orange Metrolink Station,33.788779,-117.857298
+112,1152,1,1,2,Orange Metrolink Station,33.788779,-117.857298
+112,1153,0,1,7,Orange Metrolink Station,33.788779,-117.857298
+112,1153,1,1,7,Orange Metrolink Station,33.788779,-117.857298
+112,1154,0,1,1,Orange Metrolink Station,33.788779,-117.857298
+112,1154,1,1,1,Orange Metrolink Station,33.788779,-117.857298
+113,1141,0,1,4,Oxnard Metrolink Station,34.199275,-119.176308
+113,1141,1,1,4,Oxnard Metrolink Station,34.199275,-119.176308
+114,1142,0,1,10,Palmdale Metrolink Station,34.59077,-118.11929
+114,1142,1,1,10,Palmdale Metrolink Station,34.59077,-118.11929
+114,1143,0,1,6,Palmdale Metrolink Station,34.59077,-118.11929
+114,1143,1,1,6,Palmdale Metrolink Station,34.59077,-118.11929
+114,1144,0,1,3,Palmdale Metrolink Station,34.59077,-118.11929
+114,1144,1,1,3,Palmdale Metrolink Station,34.59077,-118.11929
+115,1149,0,1,6,Pedley Metrolink Station,33.97812,-117.47627
+115,1149,1,1,6,Pedley Metrolink Station,33.97812,-117.47627
+116,1146,0,1,20,Pomona (North) Metrolink Station,34.093638,-117.753048
+116,1146,1,1,20,Pomona (North) Metrolink Station,34.093638,-117.753048
+116,1147,0,1,10,Pomona (North) Metrolink Station,34.093638,-117.753048
+116,1147,1,1,10,Pomona (North) Metrolink Station,34.093638,-117.753048
+116,1148,0,1,7,Pomona (North) Metrolink Station,34.093638,-117.753048
+116,1148,1,1,7,Pomona (North) Metrolink Station,34.093638,-117.753048
+117,1142,0,1,11,Via Princessa Metrolink Station,34.408818,-118.469404
+117,1142,1,1,11,Via Princessa Metrolink Station,34.408818,-118.469404
+117,1143,0,1,6,Via Princessa Metrolink Station,34.408818,-118.469404
+117,1143,1,1,6,Via Princessa Metrolink Station,34.408818,-118.469404
+117,1144,0,1,3,Via Princessa Metrolink Station,34.408818,-118.469404
+117,1144,1,1,3,Via Princessa Metrolink Station,34.408818,-118.469404
+118,1146,0,1,21,Rancho Cucamonga Metrolink Station,34.091853,-117.559936
+118,1146,1,1,21,Rancho Cucamonga Metrolink Station,34.091853,-117.559936
+118,1147,0,1,10,Rancho Cucamonga Metrolink Station,34.091853,-117.559936
+118,1147,1,1,10,Rancho Cucamonga Metrolink Station,34.091853,-117.559936
+118,1148,0,1,7,Rancho Cucamonga Metrolink Station,34.091853,-117.559936
+118,1148,1,1,7,Rancho Cucamonga Metrolink Station,34.091853,-117.559936
+119,1146,0,1,20,Rialto Metrolink Station,34.096788,-117.371884
+119,1146,1,1,20,Rialto Metrolink Station,34.096788,-117.371884
+119,1147,0,1,10,Rialto Metrolink Station,34.096788,-117.371884
+119,1147,1,1,10,Rialto Metrolink Station,34.096788,-117.371884
+119,1148,0,1,7,Rialto Metrolink Station,34.096788,-117.371884
+119,1148,1,1,7,Rialto Metrolink Station,34.096788,-117.371884
+120,1147,0,1,2,Riverside-Downtown Metrolink Station,33.975553,-117.369892
+120,1147,1,1,2,Riverside-Downtown Metrolink Station,33.975553,-117.369892
+120,1148,0,1,2,Riverside-Downtown Metrolink Station,33.975553,-117.369892
+120,1148,1,1,2,Riverside-Downtown Metrolink Station,33.975553,-117.369892
+120,1149,0,1,6,Riverside-Downtown Metrolink Station,33.975553,-117.369892
+120,1149,1,1,6,Riverside-Downtown Metrolink Station,33.975553,-117.369892
+120,1150,0,1,5,Riverside-Downtown Metrolink Station,33.975553,-117.369892
+120,1150,1,1,4,Riverside-Downtown Metrolink Station,33.975553,-117.369892
+120,1153,0,1,7,Riverside-Downtown Metrolink Station,33.975553,-117.369892
+120,1153,1,1,7,Riverside-Downtown Metrolink Station,33.975553,-117.369892
+120,1154,0,1,1,Riverside-Downtown Metrolink Station,33.975553,-117.369892
+120,1154,1,1,1,Riverside-Downtown Metrolink Station,33.975553,-117.369892
+121,1150,0,1,5,Riverside-La Sierra Metrolink Station,33.899926,-117.470201
+121,1150,1,1,4,Riverside-La Sierra Metrolink Station,33.899926,-117.470201
+121,1153,0,1,7,Riverside-La Sierra Metrolink Station,33.899926,-117.470201
+121,1153,1,1,7,Riverside-La Sierra Metrolink Station,33.899926,-117.470201
+121,1154,0,1,1,Riverside-La Sierra Metrolink Station,33.899926,-117.470201
+121,1154,1,1,1,Riverside-La Sierra Metrolink Station,33.899926,-117.470201
+122,1146,0,1,21,San Bernardino Metrolink Station,34.104529,-117.310086
+122,1146,1,1,21,San Bernardino Metrolink Station,34.104529,-117.310086
+122,1147,0,1,10,San Bernardino Metrolink Station,34.104529,-117.310086
+122,1147,1,1,10,San Bernardino Metrolink Station,34.104529,-117.310086
+122,1148,0,1,7,San Bernardino Metrolink Station,34.104529,-117.310086
+122,1148,1,1,7,San Bernardino Metrolink Station,34.104529,-117.310086
+122,1153,0,1,4,San Bernardino Metrolink Station,34.104529,-117.310086
+122,1153,1,1,4,San Bernardino Metrolink Station,34.104529,-117.310086
+122,1154,0,1,1,San Bernardino Metrolink Station,34.104529,-117.310086
+122,1154,1,1,1,San Bernardino Metrolink Station,34.104529,-117.310086
+123,1151,0,1,6,San Clemente Metrolink Station,33.432074,-117.632735
+123,1151,1,1,6,San Clemente Metrolink Station,33.432074,-117.632735
+123,1152,0,1,1,San Clemente Metrolink Station,33.432074,-117.632735
+123,1152,1,1,1,San Clemente Metrolink Station,33.432074,-117.632735
+123,1153,0,1,2,San Clemente Metrolink Station,33.432074,-117.632735
+123,1153,1,1,2,San Clemente Metrolink Station,33.432074,-117.632735
+123,1154,0,1,1,San Clemente Metrolink Station,33.432074,-117.632735
+123,1154,1,1,1,San Clemente Metrolink Station,33.432074,-117.632735
+124,1151,0,1,6,San Juan Capistrano Metrolink Station,33.5014,-117.6637
+124,1151,1,1,6,San Juan Capistrano Metrolink Station,33.5014,-117.6637
+124,1152,0,1,1,San Juan Capistrano Metrolink Station,33.5014,-117.6637
+124,1152,1,1,1,San Juan Capistrano Metrolink Station,33.5014,-117.6637
+124,1153,0,1,3,San Juan Capistrano Metrolink Station,33.5014,-117.6637
+124,1153,1,1,3,San Juan Capistrano Metrolink Station,33.5014,-117.6637
+124,1154,0,1,1,San Juan Capistrano Metrolink Station,33.5014,-117.6637
+124,1154,1,1,1,San Juan Capistrano Metrolink Station,33.5014,-117.6637
+125,1151,0,1,12,Santa Ana Metrolink Station,33.751522,-117.85598
+125,1151,1,1,13,Santa Ana Metrolink Station,33.751522,-117.85598
+125,1152,0,1,2,Santa Ana Metrolink Station,33.751522,-117.85598
+125,1152,1,1,2,Santa Ana Metrolink Station,33.751522,-117.85598
+125,1153,0,1,7,Santa Ana Metrolink Station,33.751522,-117.85598
+125,1153,1,1,7,Santa Ana Metrolink Station,33.751522,-117.85598
+125,1154,0,1,1,Santa Ana Metrolink Station,33.751522,-117.85598
+125,1154,1,1,1,Santa Ana Metrolink Station,33.751522,-117.85598
+126,1142,0,1,15,Santa Clarita Metrolink Station,34.413438,-118.524819
+126,1142,1,1,15,Santa Clarita Metrolink Station,34.413438,-118.524819
+126,1143,0,1,6,Santa Clarita Metrolink Station,34.413438,-118.524819
+126,1143,1,1,6,Santa Clarita Metrolink Station,34.413438,-118.524819
+126,1144,0,1,3,Santa Clarita Metrolink Station,34.413438,-118.524819
+126,1144,1,1,3,Santa Clarita Metrolink Station,34.413438,-118.524819
+127,1141,0,1,8,Simi Valley Metrolink Station,34.270414,-118.695549
+127,1141,1,1,8,Simi Valley Metrolink Station,34.270414,-118.695549
+128,1142,0,1,14,Sun Valley Metrolink Station,34.222402,-118.373401
+128,1142,1,1,14,Sun Valley Metrolink Station,34.222402,-118.373401
+128,1143,0,1,6,Sun Valley Metrolink Station,34.222402,-118.373401
+128,1143,1,1,6,Sun Valley Metrolink Station,34.222402,-118.373401
+128,1144,0,1,3,Sun Valley Metrolink Station,34.222402,-118.373401
+128,1144,1,1,3,Sun Valley Metrolink Station,34.222402,-118.373401
+129,1142,0,1,15,Sylmar/San Fernando Metrolink Station,34.292593,-118.45017
+129,1142,1,1,15,Sylmar/San Fernando Metrolink Station,34.292593,-118.45017
+129,1143,0,1,6,Sylmar/San Fernando Metrolink Station,34.292593,-118.45017
+129,1143,1,1,6,Sylmar/San Fernando Metrolink Station,34.292593,-118.45017
+129,1144,0,1,3,Sylmar/San Fernando Metrolink Station,34.292593,-118.45017
+129,1144,1,1,3,Sylmar/San Fernando Metrolink Station,34.292593,-118.45017
+130,1151,0,1,12,Tustin Metrolink Station,33.707966,-117.806018
+130,1151,1,1,13,Tustin Metrolink Station,33.707966,-117.806018
+130,1152,0,1,2,Tustin Metrolink Station,33.707966,-117.806018
+130,1152,1,1,2,Tustin Metrolink Station,33.707966,-117.806018
+130,1153,0,1,7,Tustin Metrolink Station,33.707966,-117.806018
+130,1153,1,1,7,Tustin Metrolink Station,33.707966,-117.806018
+130,1154,0,1,1,Tustin Metrolink Station,33.707966,-117.806018
+130,1154,1,1,1,Tustin Metrolink Station,33.707966,-117.806018
+131,1141,0,1,11,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1141,1,1,11,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1142,0,1,15,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1142,1,1,15,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1143,0,1,6,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1143,1,1,6,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1144,0,1,3,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1144,1,1,3,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1145,0,1,6,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1145,1,1,5,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1146,0,1,21,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1146,1,1,21,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1147,0,1,10,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1147,1,1,10,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1148,0,1,7,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1148,1,1,7,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1149,0,1,6,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1149,1,1,6,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1150,0,1,5,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1150,1,1,4,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1151,0,1,9,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1151,1,1,10,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1152,0,1,2,L. A. Union Station Metrolink Station,34.054289,-118.234301
+131,1152,1,1,2,L. A. Union Station Metrolink Station,34.054289,-118.234301
+132,1146,0,1,20,Upland Metrolink Station,34.094501,-117.647503
+132,1146,1,1,20,Upland Metrolink Station,34.094501,-117.647503
+132,1147,0,1,10,Upland Metrolink Station,34.094501,-117.647503
+132,1147,1,1,10,Upland Metrolink Station,34.094501,-117.647503
+132,1148,0,1,7,Upland Metrolink Station,34.094501,-117.647503
+132,1148,1,1,7,Upland Metrolink Station,34.094501,-117.647503
+133,1141,0,1,11,Van Nuys Metrolink Station,34.211561,-118.448219
+133,1141,1,1,11,Van Nuys Metrolink Station,34.211561,-118.448219
+134,1142,0,1,9,Vincent Grade/Acton Metrolink Station,34.497859,-118.118299
+134,1142,1,1,8,Vincent Grade/Acton Metrolink Station,34.497859,-118.118299
+134,1143,0,1,6,Vincent Grade/Acton Metrolink Station,34.497859,-118.118299
+134,1143,1,1,6,Vincent Grade/Acton Metrolink Station,34.497859,-118.118299
+134,1144,0,1,3,Vincent Grade/Acton Metrolink Station,34.497859,-118.118299
+134,1144,1,1,3,Vincent Grade/Acton Metrolink Station,34.497859,-118.118299
+135,1150,0,1,5,West Corona Metrolink Station,33.885763,-117.613583
+135,1150,1,1,4,West Corona Metrolink Station,33.885763,-117.613583
+135,1153,0,1,7,West Corona Metrolink Station,33.885763,-117.613583
+135,1153,1,1,7,West Corona Metrolink Station,33.885763,-117.613583
+135,1154,0,1,1,West Corona Metrolink Station,33.885763,-117.613583
+135,1154,1,1,1,West Corona Metrolink Station,33.885763,-117.613583
+141,1154,0,1,1,San Clemente Pier Metrolink Station,33.419474,-117.619596
+141,1154,1,1,1,San Clemente Pier Metrolink Station,33.419474,-117.619596
+81,1151,0,1,12,Anaheim Metrolink Station,33.803607,-117.882461
+81,1151,1,1,13,Anaheim Metrolink Station,33.803607,-117.882461
+81,1152,0,1,2,Anaheim Metrolink Station,33.803607,-117.882461
+81,1152,1,1,2,Anaheim Metrolink Station,33.803607,-117.882461
+82,1153,0,1,7,Anaheim Canyon Metrolink Station,33.854177,-117.840524
+82,1153,1,1,7,Anaheim Canyon Metrolink Station,33.854177,-117.840524
+82,1154,0,1,1,Anaheim Canyon Metrolink Station,33.854177,-117.840524
+82,1154,1,1,1,Anaheim Canyon Metrolink Station,33.854177,-117.840524
+83,1146,0,1,20,Baldwin Park Metrolink Station,34.086426,-117.957398
+83,1146,1,1,20,Baldwin Park Metrolink Station,34.086426,-117.957398
+83,1147,0,1,10,Baldwin Park Metrolink Station,34.086426,-117.957398
+83,1147,1,1,10,Baldwin Park Metrolink Station,34.086426,-117.957398
+83,1148,0,1,7,Baldwin Park Metrolink Station,34.086426,-117.957398
+83,1148,1,1,7,Baldwin Park Metrolink Station,34.086426,-117.957398
+84,1150,0,1,5,Buena Park Metrolink Station,33.875968,-117.986857
+84,1150,1,1,4,Buena Park Metrolink Station,33.875968,-117.986857
+84,1151,0,1,9,Buena Park Metrolink Station,33.875968,-117.986857
+84,1151,1,1,10,Buena Park Metrolink Station,33.875968,-117.986857
+84,1152,0,1,2,Buena Park Metrolink Station,33.875968,-117.986857
+84,1152,1,1,2,Buena Park Metrolink Station,33.875968,-117.986857
+85,1141,0,1,11,Burbank-Bob Hope Airport Metrolink Station,34.192795,-118.352598
+85,1141,1,1,11,Burbank-Bob Hope Airport Metrolink Station,34.192795,-118.352598
+85,1145,0,1,6,Burbank-Bob Hope Airport Metrolink Station,34.192795,-118.352598
+85,1145,1,1,5,Burbank-Bob Hope Airport Metrolink Station,34.192795,-118.352598
+86,1141,0,1,10,Downtown Burbank Metrolink Station,34.178942,-118.312863
+86,1141,1,1,11,Downtown Burbank Metrolink Station,34.178942,-118.312863
+86,1142,0,1,15,Downtown Burbank Metrolink Station,34.178942,-118.312863
+86,1142,1,1,15,Downtown Burbank Metrolink Station,34.178942,-118.312863
+86,1143,0,1,6,Downtown Burbank Metrolink Station,34.178942,-118.312863
+86,1143,1,1,6,Downtown Burbank Metrolink Station,34.178942,-118.312863
+86,1144,0,1,3,Downtown Burbank Metrolink Station,34.178942,-118.312863
+86,1144,1,1,3,Downtown Burbank Metrolink Station,34.178942,-118.312863
+86,1145,0,1,6,Downtown Burbank Metrolink Station,34.178942,-118.312863
+86,1145,1,1,5,Downtown Burbank Metrolink Station,34.178942,-118.312863
+87,1146,0,1,20,Cal State LA Metrolink Station,34.062119,-118.171647
+87,1146,1,1,20,Cal State LA Metrolink Station,34.062119,-118.171647
+87,1147,0,1,10,Cal State LA Metrolink Station,34.062119,-118.171647
+87,1147,1,1,10,Cal State LA Metrolink Station,34.062119,-118.171647
+87,1148,0,1,7,Cal State LA Metrolink Station,34.062119,-118.171647
+87,1148,1,1,7,Cal State LA Metrolink Station,34.062119,-118.171647
+88,1141,0,1,4,Camarillo Metrolink Station,34.216656,-119.033825
+88,1141,1,1,4,Camarillo Metrolink Station,34.216656,-119.033825
+89,1141,0,1,11,Chatsworth Metrolink Station,34.253195,-118.599413
+89,1141,1,1,11,Chatsworth Metrolink Station,34.253195,-118.599413
+90,1146,0,1,20,Claremont Metrolink Station,34.093883,-117.716354
+90,1146,1,1,20,Claremont Metrolink Station,34.093883,-117.716354
+90,1147,0,1,10,Claremont Metrolink Station,34.093883,-117.716354
+90,1147,1,1,10,Claremont Metrolink Station,34.093883,-117.716354
+90,1148,0,1,7,Claremont Metrolink Station,34.093883,-117.716354
+90,1148,1,1,7,Claremont Metrolink Station,34.093883,-117.716354
+91,1151,0,1,4,Commerce Metrolink Station,33.990736,-118.143778
+91,1151,1,1,4,Commerce Metrolink Station,33.990736,-118.143778
+92,1146,0,1,21,Covina Metrolink Station,34.092139,-117.888896
+92,1146,1,1,21,Covina Metrolink Station,34.092139,-117.888896
+92,1147,0,1,10,Covina Metrolink Station,34.092139,-117.888896
+92,1147,1,1,10,Covina Metrolink Station,34.092139,-117.888896
+92,1148,0,1,7,Covina Metrolink Station,34.092139,-117.888896
+92,1148,1,1,7,Covina Metrolink Station,34.092139,-117.888896
+93,1149,0,1,6,Downtown Pomona Metrolink Station,34.058764,-117.750553
+93,1149,1,1,6,Downtown Pomona Metrolink Station,34.058764,-117.750553
+94,1149,0,1,6,East Ontario Metrolink Station,34.039908,-117.579521
+94,1149,1,1,6,East Ontario Metrolink Station,34.039908,-117.579521
+95,1146,0,1,20,El Monte Metrolink Station,34.076806,-118.035496
+95,1146,1,1,20,El Monte Metrolink Station,34.076806,-118.035496
+95,1147,0,1,10,El Monte Metrolink Station,34.076806,-118.035496
+95,1147,1,1,10,El Monte Metrolink Station,34.076806,-118.035496
+95,1148,0,1,7,El Monte Metrolink Station,34.076806,-118.035496
+95,1148,1,1,7,El Monte Metrolink Station,34.076806,-118.035496
+96,1146,0,1,20,Fontana Metrolink Station,34.095167,-117.438096
+96,1146,1,1,20,Fontana Metrolink Station,34.095167,-117.438096
+96,1147,0,1,10,Fontana Metrolink Station,34.095167,-117.438096
+96,1147,1,1,10,Fontana Metrolink Station,34.095167,-117.438096
+96,1148,0,1,7,Fontana Metrolink Station,34.095167,-117.438096
+96,1148,1,1,7,Fontana Metrolink Station,34.095167,-117.438096
+97,1150,0,1,5,Fullerton Metrolink Station,33.868697,-117.922291
+97,1150,1,1,4,Fullerton Metrolink Station,33.868697,-117.922291
+97,1151,0,1,12,Fullerton Metrolink Station,33.868697,-117.922291
+97,1151,1,1,13,Fullerton Metrolink Station,33.868697,-117.922291
+97,1152,0,1,2,Fullerton Metrolink Station,33.868697,-117.922291
+97,1152,1,1,2,Fullerton Metrolink Station,33.868697,-117.922291
+98,1141,0,1,11,Glendale Metrolink Station,34.12334,-118.258927
+98,1141,1,1,11,Glendale Metrolink Station,34.12334,-118.258927
+98,1142,0,1,14,Glendale Metrolink Station,34.12334,-118.258927
+98,1142,1,1,14,Glendale Metrolink Station,34.12334,-118.258927
+98,1143,0,1,6,Glendale Metrolink Station,34.12334,-118.258927
+98,1143,1,1,6,Glendale Metrolink Station,34.12334,-118.258927
+98,1144,0,1,3,Glendale Metrolink Station,34.12334,-118.258927
+98,1144,1,1,3,Glendale Metrolink Station,34.12334,-118.258927
+98,1145,0,1,6,Glendale Metrolink Station,34.12334,-118.258927
+98,1145,1,1,5,Glendale Metrolink Station,34.12334,-118.258927
+99,1149,0,1,6,Industry Metrolink Station,34.007928,-117.845583
+99,1149,1,1,6,Industry Metrolink Station,34.007928,-117.845583

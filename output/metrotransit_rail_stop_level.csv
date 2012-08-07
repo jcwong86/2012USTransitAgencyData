@@ -1,0 +1,91 @@
+stop_id,service_id,direction_id,numroutes,TripsServingStop,stop_name,stop_lat,stop_lon
+53342,DEC11-Multi-Reduced-01,0,1,8,Target Field Station & Rail Platform,44.983295,-93.277046
+53343,DEC11-Multi-Reduced-01,0,1,4,Fridley Station & Platform,45.078648,-93.270866
+53344,DEC11-Multi-Reduced-01,0,1,4,Coon Rapids Riverdale & Platform,45.191261,-93.351707
+53345,DEC11-Multi-Reduced-01,0,1,4,Anoka Station & Platform,45.207882,-93.384132
+53346,DEC11-Multi-Reduced-01,0,1,4,Elk River Station & Platform,45.282562,-93.542091
+53347,DEC11-Multi-Reduced-01,0,1,8,Big Lake Station & Platform,45.329666,-93.730026
+53349,DEC11-Multi-Reduced-01,0,1,4,Elk River Station & Platform,45.282471,-93.542221
+53350,DEC11-Multi-Reduced-01,0,1,4,Anoka Station & Platform,45.207657,-93.384285
+53351,DEC11-Multi-Reduced-01,0,1,4,Coon Rapids Riverdale & Platform,45.191147,-93.351852
+53352,DEC11-Multi-Reduced-01,0,1,4,Fridley Station & Platform,45.078651,-93.271011
+53342,DEC11-Multi-Saturday-01,0,1,6,Target Field Station & Rail Platform,44.983295,-93.277046
+53343,DEC11-Multi-Saturday-01,0,1,3,Fridley Station & Platform,45.078648,-93.270866
+53344,DEC11-Multi-Saturday-01,0,1,3,Coon Rapids Riverdale & Platform,45.191261,-93.351707
+53345,DEC11-Multi-Saturday-01,0,1,3,Anoka Station & Platform,45.207882,-93.384132
+53346,DEC11-Multi-Saturday-01,0,1,3,Elk River Station & Platform,45.282562,-93.542091
+53347,DEC11-Multi-Saturday-01,0,1,6,Big Lake Station & Platform,45.329666,-93.730026
+53349,DEC11-Multi-Saturday-01,0,1,3,Elk River Station & Platform,45.282471,-93.542221
+53350,DEC11-Multi-Saturday-01,0,1,3,Anoka Station & Platform,45.207657,-93.384285
+53351,DEC11-Multi-Saturday-01,0,1,3,Coon Rapids Riverdale & Platform,45.191147,-93.351852
+53352,DEC11-Multi-Saturday-01,0,1,3,Fridley Station & Platform,45.078651,-93.271011
+53342,DEC11-Multi-Sunday-01,0,1,6,Target Field Station & Rail Platform,44.983295,-93.277046
+53343,DEC11-Multi-Sunday-01,0,1,3,Fridley Station & Platform,45.078648,-93.270866
+53344,DEC11-Multi-Sunday-01,0,1,3,Coon Rapids Riverdale & Platform,45.191261,-93.351707
+53345,DEC11-Multi-Sunday-01,0,1,3,Anoka Station & Platform,45.207882,-93.384132
+53346,DEC11-Multi-Sunday-01,0,1,3,Elk River Station & Platform,45.282562,-93.542091
+53347,DEC11-Multi-Sunday-01,0,1,6,Big Lake Station & Platform,45.329666,-93.730026
+53349,DEC11-Multi-Sunday-01,0,1,3,Elk River Station & Platform,45.282471,-93.542221
+53350,DEC11-Multi-Sunday-01,0,1,3,Anoka Station & Platform,45.207657,-93.384285
+53351,DEC11-Multi-Sunday-01,0,1,3,Coon Rapids Riverdale & Platform,45.191147,-93.351852
+53352,DEC11-Multi-Sunday-01,0,1,3,Fridley Station & Platform,45.078651,-93.271011
+53342,DEC11-Multi-Weekday-01,0,1,12,Target Field Station & Rail Platform,44.983295,-93.277046
+53343,DEC11-Multi-Weekday-01,0,1,5,Fridley Station & Platform,45.078648,-93.270866
+53344,DEC11-Multi-Weekday-01,0,1,6,Coon Rapids Riverdale & Platform,45.191261,-93.351707
+53345,DEC11-Multi-Weekday-01,0,1,6,Anoka Station & Platform,45.207882,-93.384132
+53346,DEC11-Multi-Weekday-01,0,1,6,Elk River Station & Platform,45.282562,-93.542091
+53347,DEC11-Multi-Weekday-01,0,1,12,Big Lake Station & Platform,45.329666,-93.730026
+53349,DEC11-Multi-Weekday-01,0,1,6,Elk River Station & Platform,45.282471,-93.542221
+53350,DEC11-Multi-Weekday-01,0,1,6,Anoka Station & Platform,45.207657,-93.384285
+53351,DEC11-Multi-Weekday-01,0,1,6,Coon Rapids Riverdale & Platform,45.191147,-93.351852
+53352,DEC11-Multi-Weekday-01,0,1,5,Fridley Station & Platform,45.078651,-93.271011
+53342,DEC11-Multi-Weekday-02,0,1,12,Target Field Station & Rail Platform,44.983295,-93.277046
+53343,DEC11-Multi-Weekday-02,0,1,5,Fridley Station & Platform,45.078648,-93.270866
+53344,DEC11-Multi-Weekday-02,0,1,6,Coon Rapids Riverdale & Platform,45.191261,-93.351707
+53345,DEC11-Multi-Weekday-02,0,1,6,Anoka Station & Platform,45.207882,-93.384132
+53346,DEC11-Multi-Weekday-02,0,1,6,Elk River Station & Platform,45.282562,-93.542091
+53347,DEC11-Multi-Weekday-02,0,1,12,Big Lake Station & Platform,45.329666,-93.730026
+53349,DEC11-Multi-Weekday-02,0,1,6,Elk River Station & Platform,45.282471,-93.542221
+53350,DEC11-Multi-Weekday-02,0,1,6,Anoka Station & Platform,45.207657,-93.384285
+53351,DEC11-Multi-Weekday-02,0,1,6,Coon Rapids Riverdale & Platform,45.191147,-93.351852
+53352,DEC11-Multi-Weekday-02,0,1,5,Fridley Station & Platform,45.078651,-93.271011
+53342,SEP11-Multi-Reduced-01,0,1,8,Target Field Station & Rail Platform,44.983295,-93.277046
+53343,SEP11-Multi-Reduced-01,0,1,4,Fridley Station & Platform,45.078648,-93.270866
+53344,SEP11-Multi-Reduced-01,0,1,4,Coon Rapids Riverdale & Platform,45.191261,-93.351707
+53345,SEP11-Multi-Reduced-01,0,1,4,Anoka Station & Platform,45.207882,-93.384132
+53346,SEP11-Multi-Reduced-01,0,1,4,Elk River Station & Platform,45.282562,-93.542091
+53347,SEP11-Multi-Reduced-01,0,1,8,Big Lake Station & Platform,45.329666,-93.730026
+53349,SEP11-Multi-Reduced-01,0,1,4,Elk River Station & Platform,45.282471,-93.542221
+53350,SEP11-Multi-Reduced-01,0,1,4,Anoka Station & Platform,45.207657,-93.384285
+53351,SEP11-Multi-Reduced-01,0,1,4,Coon Rapids Riverdale & Platform,45.191147,-93.351852
+53352,SEP11-Multi-Reduced-01,0,1,4,Fridley Station & Platform,45.078651,-93.271011
+53342,SEP11-Multi-Saturday-01,0,1,6,Target Field Station & Rail Platform,44.983295,-93.277046
+53343,SEP11-Multi-Saturday-01,0,1,3,Fridley Station & Platform,45.078648,-93.270866
+53344,SEP11-Multi-Saturday-01,0,1,3,Coon Rapids Riverdale & Platform,45.191261,-93.351707
+53345,SEP11-Multi-Saturday-01,0,1,3,Anoka Station & Platform,45.207882,-93.384132
+53346,SEP11-Multi-Saturday-01,0,1,3,Elk River Station & Platform,45.282562,-93.542091
+53347,SEP11-Multi-Saturday-01,0,1,6,Big Lake Station & Platform,45.329666,-93.730026
+53349,SEP11-Multi-Saturday-01,0,1,3,Elk River Station & Platform,45.282471,-93.542221
+53350,SEP11-Multi-Saturday-01,0,1,3,Anoka Station & Platform,45.207657,-93.384285
+53351,SEP11-Multi-Saturday-01,0,1,3,Coon Rapids Riverdale & Platform,45.191147,-93.351852
+53352,SEP11-Multi-Saturday-01,0,1,3,Fridley Station & Platform,45.078651,-93.271011
+53342,SEP11-Multi-Sunday-01,0,1,6,Target Field Station & Rail Platform,44.983295,-93.277046
+53343,SEP11-Multi-Sunday-01,0,1,3,Fridley Station & Platform,45.078648,-93.270866
+53344,SEP11-Multi-Sunday-01,0,1,3,Coon Rapids Riverdale & Platform,45.191261,-93.351707
+53345,SEP11-Multi-Sunday-01,0,1,3,Anoka Station & Platform,45.207882,-93.384132
+53346,SEP11-Multi-Sunday-01,0,1,3,Elk River Station & Platform,45.282562,-93.542091
+53347,SEP11-Multi-Sunday-01,0,1,6,Big Lake Station & Platform,45.329666,-93.730026
+53349,SEP11-Multi-Sunday-01,0,1,3,Elk River Station & Platform,45.282471,-93.542221
+53350,SEP11-Multi-Sunday-01,0,1,3,Anoka Station & Platform,45.207657,-93.384285
+53351,SEP11-Multi-Sunday-01,0,1,3,Coon Rapids Riverdale & Platform,45.191147,-93.351852
+53352,SEP11-Multi-Sunday-01,0,1,3,Fridley Station & Platform,45.078651,-93.271011
+53342,SEP11-Multi-Weekday-01,0,1,12,Target Field Station & Rail Platform,44.983295,-93.277046
+53343,SEP11-Multi-Weekday-01,0,1,5,Fridley Station & Platform,45.078648,-93.270866
+53344,SEP11-Multi-Weekday-01,0,1,6,Coon Rapids Riverdale & Platform,45.191261,-93.351707
+53345,SEP11-Multi-Weekday-01,0,1,6,Anoka Station & Platform,45.207882,-93.384132
+53346,SEP11-Multi-Weekday-01,0,1,6,Elk River Station & Platform,45.282562,-93.542091
+53347,SEP11-Multi-Weekday-01,0,1,12,Big Lake Station & Platform,45.329666,-93.730026
+53349,SEP11-Multi-Weekday-01,0,1,6,Elk River Station & Platform,45.282471,-93.542221
+53350,SEP11-Multi-Weekday-01,0,1,6,Anoka Station & Platform,45.207657,-93.384285
+53351,SEP11-Multi-Weekday-01,0,1,6,Coon Rapids Riverdale & Platform,45.191147,-93.351852
+53352,SEP11-Multi-Weekday-01,0,1,5,Fridley Station & Platform,45.078651,-93.271011

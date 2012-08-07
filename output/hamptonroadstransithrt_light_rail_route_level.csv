@@ -1,0 +1,9 @@
+route_id,service_id,direction_id,numtripsperroute_both_dir,hours_of_service,first_departure_sec,last_departure_sec,span_of_service_hrs,route_avg_hdwy,route_stdev_hdwy,trips_per_day,average_speed,average_length_mi,w_avg_num_stops,avg_dist_bw_stops_ft,route_short_name,route_long_name
+800,FR,0,174,20,20220,89100,19,13.3,5.0,84,,,10.3,,800,LRT TIDE MAIN LINE
+800,FR,1,174,20,20220,89100,19,13.3,4.8,84,,,10.8,,800,LRT TIDE MAIN LINE
+800,MR,1,170,19,20220,85500,18,12.9,4.1,82,,,10.8,,800,LRT TIDE MAIN LINE
+800,MR,0,170,19,20220,85500,18,12.9,4.3,82,,,10.3,,800,LRT TIDE MAIN LINE
+800,SA,0,134,20,20040,89100,19,17.3,5.9,65,,,10.5,,800,LRT TIDE MAIN LINE
+800,SA,1,134,20,20040,89100,19,17.4,6.0,65,,,10.8,,800,LRT TIDE MAIN LINE
+800,SU,0,92,12,37860,78660,11,14.8,0.9,44,,,10.4,,800,LRT TIDE MAIN LINE
+800,SU,1,92,12,37860,78660,11,14.9,0.4,44,,,10.4,,800,LRT TIDE MAIN LINE

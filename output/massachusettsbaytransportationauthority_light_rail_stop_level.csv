@@ -1,0 +1,1340 @@
+stop_id,service_id,direction_id,numroutes,TripsServingStop,stop_name,stop_lat,stop_lon
+70106,LRV212-hlb22011-Weekday-01,1,1,147,Boston College Station - Inbound,42.340081,-71.166769
+70107,LRV212-hlb22011-Weekday-01,0,1,150,Boston College Station - Green Line,42.340081,-71.166769
+70110,LRV212-hlb22011-Weekday-01,1,1,147,South St - Inbound,42.3396,-71.157661
+70111,LRV212-hlb22011-Weekday-01,0,1,150,South St -  Outbound,42.3396,-71.157661
+70112,LRV212-hlb22011-Weekday-01,1,2,150,Chestnut Hill Ave - Inbound,42.338169,-71.15316
+70113,LRV212-hlb22011-Weekday-01,0,1,150,Chestnut Hill Ave - Outbound,42.338169,-71.15316
+70114,LRV212-hlb22011-Weekday-01,1,2,150,Chiswick Rd - Inbound,42.340805,-71.150711
+70115,LRV212-hlb22011-Weekday-01,0,1,150,Chiswick Rd - Green Line B Outbound,42.340805,-71.150711
+70116,LRV212-hlb22011-Weekday-01,1,2,150,Sutherland Rd - Inbound,42.341614,-71.146202
+70117,LRV212-hlb22011-Weekday-01,0,1,150,Sutherland Rd - Outbound,42.341614,-71.146202
+70120,LRV212-hlb22011-Weekday-01,1,2,150,Washington St - Inbound,42.343864,-71.142853
+70121,LRV212-hlb22011-Weekday-01,0,1,150,Washington St - Outbound,42.343864,-71.142853
+70124,LRV212-hlb22011-Weekday-01,1,2,150,Warren St - Inbound,42.348343,-71.140457
+70125,LRV212-hlb22011-Weekday-01,0,1,150,Warren St - Outbound,42.348343,-71.140457
+70126,LRV212-hlb22011-Weekday-01,1,2,150,Allston St - Inbound,42.348701,-71.137955
+70127,LRV212-hlb22011-Weekday-01,0,1,150,Allston St - Outbound,42.348701,-71.137955
+70128,LRV212-hlb22011-Weekday-01,1,2,150,Griggs St - Inbound,42.348545,-71.134949
+70129,LRV212-hlb22011-Weekday-01,0,1,150,Griggs St - Outbound,42.348545,-71.134949
+70130,LRV212-hlb22011-Weekday-01,1,2,150,Harvard Ave - Inbound,42.350243,-71.131355
+70131,LRV212-hlb22011-Weekday-01,0,1,150,Harvard Ave - Westbound,42.350243,-71.131355
+70134,LRV212-hlb22011-Weekday-01,1,2,150,Packards Corner - Inbound,42.351967,-71.125031
+70135,LRV212-hlb22011-Weekday-01,0,1,150,Packards Corner - Outbound,42.351967,-71.125031
+70136,LRV212-hlb22011-Weekday-01,1,2,150,Babcock St - Inbound,42.35182,-71.12165
+70137,LRV212-hlb22011-Weekday-01,0,1,150,Babcock St - Outbound,42.35182,-71.12165
+70138,LRV212-hlb22011-Weekday-01,1,2,150,Pleasant St - Inbound,42.351521,-71.118889
+70139,LRV212-hlb22011-Weekday-01,0,1,150,Pleasant St - Outbound,42.351521,-71.118889
+70140,LRV212-hlb22011-Weekday-01,1,2,150,Saint Paul St - Inbound,42.3512,-71.116104
+70141,LRV212-hlb22011-Weekday-01,0,1,150,Saint Paul St - Outbound,42.3512,-71.116104
+70142,LRV212-hlb22011-Weekday-01,1,2,150,Boston Univ West - Inbound,42.350941,-71.113876
+70143,LRV212-hlb22011-Weekday-01,0,1,150,Boston Univ West - Green Line B Outbound,42.350941,-71.113876
+70144,LRV212-hlb22011-Weekday-01,1,2,150,Boston Univ Central - Inbound,42.350082,-71.106865
+70145,LRV212-hlb22011-Weekday-01,0,1,150,Boston Univ Central - Outbound,42.350082,-71.106865
+70146,LRV212-hlb22011-Weekday-01,1,2,150,Boston Univ East - Inbound,42.349735,-71.103889
+70147,LRV212-hlb22011-Weekday-01,0,1,150,Boston Univ East - Outbound,42.349735,-71.103889
+70148,LRV212-hlb22011-Weekday-01,1,2,150,Blanford St - Inbound,42.349293,-71.100258
+70149,LRV212-hlb22011-Weekday-01,0,1,150,Blandford St - Outbound,42.349293,-71.100258
+70150,LRV212-hlb22011-Weekday-01,1,7,434,Kenmore Station - Inbound,42.348949,-71.095169
+70151,LRV212-hlb22011-Weekday-01,0,5,434,Kenmore Station - Outbound,42.348949,-71.095169
+70152,LRV212-hlb22011-Weekday-01,1,7,434,Hynes Station - Inbound,42.347888,-71.087903
+70153,LRV212-hlb22011-Weekday-01,0,5,434,Hynes Station - Outbound,42.347888,-71.087903
+70154,LRV212-hlb22011-Weekday-01,1,8,589,Copley Station - Inbound,42.349974,-71.077447
+70155,LRV212-hlb22011-Weekday-01,0,7,590,Copley Station - Outbound,42.349974,-71.077447
+70156,LRV212-hlb22011-Weekday-01,1,8,589,Arlington Station - Inbound,42.351902,-71.070893
+70157,LRV212-hlb22011-Weekday-01,0,7,590,Arlington Station - Outbound,42.351902,-71.070893
+70158,LRV212-hlb22011-Weekday-01,1,8,589,Boylston Station - Inbound,42.35302,-71.06459
+70159,LRV212-hlb22011-Weekday-01,0,7,590,Boylston Station - Outbound,42.35302,-71.06459
+70160,LRV212-hlb22011-Weekday-01,1,1,143,Riverside Station - Inbound,42.337059,-71.251742
+70161,LRV212-hlb22011-Weekday-01,0,1,143,Riverside Station - Green Line,42.337059,-71.251742
+70162,LRV212-hlb22011-Weekday-01,1,1,143,Woodland Station - Inbound,42.333374,-71.244301
+70163,LRV212-hlb22011-Weekday-01,0,1,143,Woodland Station - Outbound,42.333374,-71.244301
+70164,LRV212-hlb22011-Weekday-01,1,1,143,Waban Station - Inbound,42.325943,-71.230728
+70165,LRV212-hlb22011-Weekday-01,0,1,143,Waban Station - Outbound,42.325943,-71.230728
+70166,LRV212-hlb22011-Weekday-01,1,1,143,Eliot Station - Inbound,42.319023,-71.216713
+70167,LRV212-hlb22011-Weekday-01,0,1,143,Eliot Station - Outbound,42.319023,-71.216713
+70168,LRV212-hlb22011-Weekday-01,1,1,143,Newton Highlands Station - Inbound,42.321735,-71.206116
+70169,LRV212-hlb22011-Weekday-01,0,1,143,Newton Highlands Station - Outbound,42.321735,-71.206116
+70170,LRV212-hlb22011-Weekday-01,1,1,143,Newton Centre Station - Inbound,42.329391,-71.192429
+70171,LRV212-hlb22011-Weekday-01,0,1,143,Newton Centre Station - Outbound,42.329391,-71.192429
+70172,LRV212-hlb22011-Weekday-01,1,1,143,Chestnut Hill Station - Inbound,42.326653,-71.165314
+70173,LRV212-hlb22011-Weekday-01,0,1,143,Chestnut Hill Station - Outbound,42.326653,-71.165314
+70174,LRV212-hlb22011-Weekday-01,1,3,151,Reservoir Station - Inbound,42.335027,-71.148952
+70175,LRV212-hlb22011-Weekday-01,0,2,151,Reservoir Station - Outbound,42.335027,-71.148952
+70176,LRV212-hlb22011-Weekday-01,1,3,151,Beaconsfield Station - Inbound,42.335846,-71.140823
+70177,LRV212-hlb22011-Weekday-01,0,2,151,Beaconsfield Station - Outbound,42.335846,-71.140823
+70178,LRV212-hlb22011-Weekday-01,1,3,151,Brookline Hills Station - Inbound,42.331333,-71.126999
+70179,LRV212-hlb22011-Weekday-01,0,2,151,Brookline Hills Station - Outbound,42.331333,-71.126999
+70180,LRV212-hlb22011-Weekday-01,1,3,151,Brookline Village Station - Inbound,42.332774,-71.116296
+70181,LRV212-hlb22011-Weekday-01,0,2,151,Brookline Village Station - Outbound,42.332774,-71.116296
+70182,LRV212-hlb22011-Weekday-01,1,3,151,Longwood Station - Inbound,42.341145,-71.110451
+70183,LRV212-hlb22011-Weekday-01,0,2,151,Longwood Station - Outbound,42.341145,-71.110451
+70186,LRV212-hlb22011-Weekday-01,1,3,151,Fenway Station - Inbound,42.345394,-71.104187
+70187,LRV212-hlb22011-Weekday-01,0,2,151,Fenway Station - Outbound,42.345394,-71.104187
+70196,LRV212-hlb22011-Weekday-01,0,1,150,Park St Station - Green Line - B Berth,42.356395,-71.062424
+70197,LRV212-hlb22011-Weekday-01,0,2,133,Park St Station - Green Line - C Branch Berth,42.356395,-71.062424
+70198,LRV212-hlb22011-Weekday-01,0,2,151,Park St Station - Green Line - D Branch Berth,42.356395,-71.062424
+70199,LRV212-hlb22011-Weekday-01,0,2,156,Park St Station - Green Line - E Line Berth,42.356395,-71.062424
+70200,LRV212-hlb22011-Weekday-01,1,8,589,Park St Station - Green Line Eastbound,42.356395,-71.062424
+70201,LRV212-hlb22011-Weekday-01,1,8,589,Government Center Station - Green Line Eastbound,42.359705,-71.059215
+70202,LRV212-hlb22011-Weekday-01,0,7,590,Government Center Station - Green Line Westbound,42.359705,-71.059215
+70203,LRV212-hlb22011-Weekday-01,1,4,289,Haymarket - Green Line Outbound,42.363021,-71.05829
+70204,LRV212-hlb22011-Weekday-01,0,4,290,Haymarket - Green Line Inbound,42.363021,-71.05829
+70205,LRV212-hlb22011-Weekday-01,1,4,289,North Station - Green Line Outbound,42.365577,-71.06129
+70206,LRV212-hlb22011-Weekday-01,0,4,290,North Station - Green Line Inbound,42.365577,-71.06129
+70207,LRV212-hlb22011-Weekday-01,1,3,159,Science Park - Green Line Outbound,42.366664,-71.067666
+70208,LRV212-hlb22011-Weekday-01,0,3,160,Science Park - Green Line Inbound,42.366664,-71.067666
+70209,LRV212-hlb22011-Weekday-01,1,3,159,Lechmere - Green Line,42.370772,-71.076536
+70210,LRV212-hlb22011-Weekday-01,0,3,160,Lechmere - Green Line Inbound,42.370772,-71.076536
+70211,LRV212-hlb22011-Weekday-01,0,2,133,Saint Mary St - Outbound,42.345974,-71.107353
+70212,LRV212-hlb22011-Weekday-01,1,2,133,Saint Mary St - Inbound,42.345974,-71.107353
+70213,LRV212-hlb22011-Weekday-01,0,2,133,Hawes St - Outbound,42.344906,-71.111145
+70214,LRV212-hlb22011-Weekday-01,1,2,133,Hawes St - Inbound,42.344906,-71.111145
+70215,LRV212-hlb22011-Weekday-01,0,2,133,Kent St - Outbound,42.344074,-71.114197
+70216,LRV212-hlb22011-Weekday-01,1,2,133,Kent St - Inbound,42.344074,-71.114197
+70217,LRV212-hlb22011-Weekday-01,0,2,133,Saint Paul St - Outbound,42.343327,-71.116997
+70218,LRV212-hlb22011-Weekday-01,1,2,133,Saint Paul St - Inbound,42.343327,-71.116997
+70219,LRV212-hlb22011-Weekday-01,0,2,133,Coolidge Corner - Outbound,42.342213,-71.121201
+70220,LRV212-hlb22011-Weekday-01,1,2,133,Coolidge Corner - Inbound,42.342213,-71.121201
+70223,LRV212-hlb22011-Weekday-01,0,2,133,Summit Ave - Outbound,42.34111,-71.12561
+70224,LRV212-hlb22011-Weekday-01,1,2,133,Summit Ave - Inbound,42.34111,-71.12561
+70225,LRV212-hlb22011-Weekday-01,0,2,133,Brandon Hall - Outbound,42.340023,-71.129082
+70226,LRV212-hlb22011-Weekday-01,1,2,133,Brandon Hall - Inbound,42.340023,-71.129082
+70227,LRV212-hlb22011-Weekday-01,0,2,133,Fairbanks St - Outbound,42.339725,-71.131073
+70228,LRV212-hlb22011-Weekday-01,1,2,133,Fairbanks St - Inbound,42.339725,-71.131073
+70229,LRV212-hlb22011-Weekday-01,0,2,133,Washington Sq - Outbound,42.339394,-71.13533
+70230,LRV212-hlb22011-Weekday-01,1,2,133,Washington Sq - Inbound,42.339394,-71.13533
+70231,LRV212-hlb22011-Weekday-01,0,2,133,Tappan St - Outbound,42.338459,-71.138702
+70232,LRV212-hlb22011-Weekday-01,1,2,133,Tappan St - Inbound,42.338459,-71.138702
+70233,LRV212-hlb22011-Weekday-01,0,2,133,Dean Rd - Outbound,42.337807,-71.141853
+70234,LRV212-hlb22011-Weekday-01,1,2,133,Dean Rd - Inbound,42.337807,-71.141853
+70235,LRV212-hlb22011-Weekday-01,0,2,133,Englewood Ave - Outbound,42.336971,-71.14566
+70236,LRV212-hlb22011-Weekday-01,1,2,133,Englewood Ave - Inbound,42.336971,-71.14566
+70237,LRV212-hlb22011-Weekday-01,0,2,133,Cleveland Circle Platform,42.336142,-71.149326
+70238,LRV212-hlb22011-Weekday-01,1,2,133,Cleveland Circle Platform - Inbound,42.336142,-71.149326
+70239,LRV212-hlb22011-Weekday-01,0,2,156,Prudential Station - Outbound,42.34557,-71.081696
+70240,LRV212-hlb22011-Weekday-01,1,1,155,Prudential Station - Inbound,42.34557,-71.081696
+70241,LRV212-hlb22011-Weekday-01,0,2,156,Symphony Station - Outbound,42.342687,-71.085056
+70242,LRV212-hlb22011-Weekday-01,1,1,155,Symphony Station - Inbound,42.342687,-71.085056
+70243,LRV212-hlb22011-Weekday-01,0,2,156,Northeastern - Outbound,42.340401,-71.088806
+70244,LRV212-hlb22011-Weekday-01,1,1,155,Northeastern - Inbound,42.340401,-71.088806
+70245,LRV212-hlb22011-Weekday-01,0,2,156,Museum of Fine Arts - Outbound,42.337711,-71.095512
+70246,LRV212-hlb22011-Weekday-01,1,1,155,Museum of Fine Arts - Inbound,42.337711,-71.095512
+70247,LRV212-hlb22011-Weekday-01,0,2,156,Longwood Med Area - Outbound,42.33596,-71.100052
+70248,LRV212-hlb22011-Weekday-01,1,1,155,Longwood Med Area - Inbound,42.33596,-71.100052
+70249,LRV212-hlb22011-Weekday-01,0,2,156,Brigham Circle - Outbound,42.334229,-71.104609
+70250,LRV212-hlb22011-Weekday-01,1,1,155,Brigham Circle - Inbound,42.334229,-71.104609
+70251,LRV212-hlb22011-Weekday-01,0,2,156,Fenwood Rd - Outbound,42.333706,-71.105728
+70252,LRV212-hlb22011-Weekday-01,1,1,155,Fenwood Rd - Inbound,42.333706,-71.105728
+70253,LRV212-hlb22011-Weekday-01,0,2,156,Mission Park - Outbound,42.333195,-71.109756
+70254,LRV212-hlb22011-Weekday-01,1,1,155,Mission Park - Inbound,42.333195,-71.109756
+70255,LRV212-hlb22011-Weekday-01,0,2,156,Riverway - Outbound,42.331684,-71.111931
+70256,LRV212-hlb22011-Weekday-01,1,1,155,Riverway - Inbound,42.331684,-71.111931
+70257,LRV212-hlb22011-Weekday-01,0,2,156,Back of Hill - Outbound,42.330139,-71.111313
+70258,LRV212-hlb22011-Weekday-01,1,1,155,Back of Hill - Inbound,42.330139,-71.111313
+70260,LRV212-hlb22011-Weekday-01,0,2,156,Heath St Platform - Green Line E,42.328681,-71.110559
+70260,LRV212-hlb22011-Weekday-01,1,1,155,Heath St Platform - Green Line E,42.328681,-71.110559
+70106,LRV212-hlb22016-Saturday-01,1,2,158,Boston College Station - Inbound,42.340081,-71.166769
+70107,LRV212-hlb22016-Saturday-01,0,2,158,Boston College Station - Green Line,42.340081,-71.166769
+70110,LRV212-hlb22016-Saturday-01,1,2,158,South St - Inbound,42.3396,-71.157661
+70111,LRV212-hlb22016-Saturday-01,0,2,158,South St -  Outbound,42.3396,-71.157661
+70112,LRV212-hlb22016-Saturday-01,1,2,158,Chestnut Hill Ave - Inbound,42.338169,-71.15316
+70113,LRV212-hlb22016-Saturday-01,0,2,158,Chestnut Hill Ave - Outbound,42.338169,-71.15316
+70114,LRV212-hlb22016-Saturday-01,1,2,158,Chiswick Rd - Inbound,42.340805,-71.150711
+70115,LRV212-hlb22016-Saturday-01,0,2,158,Chiswick Rd - Green Line B Outbound,42.340805,-71.150711
+70116,LRV212-hlb22016-Saturday-01,1,2,158,Sutherland Rd - Inbound,42.341614,-71.146202
+70117,LRV212-hlb22016-Saturday-01,0,2,158,Sutherland Rd - Outbound,42.341614,-71.146202
+70120,LRV212-hlb22016-Saturday-01,1,2,158,Washington St - Inbound,42.343864,-71.142853
+70121,LRV212-hlb22016-Saturday-01,0,2,158,Washington St - Outbound,42.343864,-71.142853
+70124,LRV212-hlb22016-Saturday-01,1,2,158,Warren St - Inbound,42.348343,-71.140457
+70125,LRV212-hlb22016-Saturday-01,0,2,158,Warren St - Outbound,42.348343,-71.140457
+70126,LRV212-hlb22016-Saturday-01,1,2,158,Allston St - Inbound,42.348701,-71.137955
+70127,LRV212-hlb22016-Saturday-01,0,2,158,Allston St - Outbound,42.348701,-71.137955
+70128,LRV212-hlb22016-Saturday-01,1,2,158,Griggs St - Inbound,42.348545,-71.134949
+70129,LRV212-hlb22016-Saturday-01,0,2,158,Griggs St - Outbound,42.348545,-71.134949
+70130,LRV212-hlb22016-Saturday-01,1,2,158,Harvard Ave - Inbound,42.350243,-71.131355
+70131,LRV212-hlb22016-Saturday-01,0,2,158,Harvard Ave - Westbound,42.350243,-71.131355
+70134,LRV212-hlb22016-Saturday-01,1,2,158,Packards Corner - Inbound,42.351967,-71.125031
+70135,LRV212-hlb22016-Saturday-01,0,2,158,Packards Corner - Outbound,42.351967,-71.125031
+70136,LRV212-hlb22016-Saturday-01,1,2,158,Babcock St - Inbound,42.35182,-71.12165
+70137,LRV212-hlb22016-Saturday-01,0,2,158,Babcock St - Outbound,42.35182,-71.12165
+70138,LRV212-hlb22016-Saturday-01,1,2,158,Pleasant St - Inbound,42.351521,-71.118889
+70139,LRV212-hlb22016-Saturday-01,0,2,158,Pleasant St - Outbound,42.351521,-71.118889
+70140,LRV212-hlb22016-Saturday-01,1,2,158,Saint Paul St - Inbound,42.3512,-71.116104
+70141,LRV212-hlb22016-Saturday-01,0,2,158,Saint Paul St - Outbound,42.3512,-71.116104
+70142,LRV212-hlb22016-Saturday-01,1,2,158,Boston Univ West - Inbound,42.350941,-71.113876
+70143,LRV212-hlb22016-Saturday-01,0,2,158,Boston Univ West - Green Line B Outbound,42.350941,-71.113876
+70144,LRV212-hlb22016-Saturday-01,1,2,158,Boston Univ Central - Inbound,42.350082,-71.106865
+70145,LRV212-hlb22016-Saturday-01,0,2,158,Boston Univ Central - Outbound,42.350082,-71.106865
+70146,LRV212-hlb22016-Saturday-01,1,2,158,Boston Univ East - Inbound,42.349735,-71.103889
+70147,LRV212-hlb22016-Saturday-01,0,2,158,Boston Univ East - Outbound,42.349735,-71.103889
+70148,LRV212-hlb22016-Saturday-01,1,2,158,Blanford St - Inbound,42.349293,-71.100258
+70149,LRV212-hlb22016-Saturday-01,0,2,158,Blandford St - Outbound,42.349293,-71.100258
+70150,LRV212-hlb22016-Saturday-01,1,5,432,Kenmore Station - Inbound,42.348949,-71.095169
+70151,LRV212-hlb22016-Saturday-01,0,5,432,Kenmore Station - Outbound,42.348949,-71.095169
+70152,LRV212-hlb22016-Saturday-01,1,5,432,Hynes Station - Inbound,42.347888,-71.087903
+70153,LRV212-hlb22016-Saturday-01,0,5,432,Hynes Station - Outbound,42.347888,-71.087903
+70154,LRV212-hlb22016-Saturday-01,1,7,569,Copley Station - Inbound,42.349974,-71.077447
+70155,LRV212-hlb22016-Saturday-01,0,6,570,Copley Station - Outbound,42.349974,-71.077447
+70156,LRV212-hlb22016-Saturday-01,1,7,569,Arlington Station - Inbound,42.351902,-71.070893
+70157,LRV212-hlb22016-Saturday-01,0,6,570,Arlington Station - Outbound,42.351902,-71.070893
+70158,LRV212-hlb22016-Saturday-01,1,7,569,Boylston Station - Inbound,42.35302,-71.06459
+70159,LRV212-hlb22016-Saturday-01,0,6,570,Boylston Station - Outbound,42.35302,-71.06459
+70160,LRV212-hlb22016-Saturday-01,1,1,137,Riverside Station - Inbound,42.337059,-71.251742
+70161,LRV212-hlb22016-Saturday-01,0,1,137,Riverside Station - Green Line,42.337059,-71.251742
+70162,LRV212-hlb22016-Saturday-01,1,1,137,Woodland Station - Inbound,42.333374,-71.244301
+70163,LRV212-hlb22016-Saturday-01,0,1,137,Woodland Station - Outbound,42.333374,-71.244301
+70164,LRV212-hlb22016-Saturday-01,1,1,137,Waban Station - Inbound,42.325943,-71.230728
+70165,LRV212-hlb22016-Saturday-01,0,1,137,Waban Station - Outbound,42.325943,-71.230728
+70166,LRV212-hlb22016-Saturday-01,1,1,137,Eliot Station - Inbound,42.319023,-71.216713
+70167,LRV212-hlb22016-Saturday-01,0,1,137,Eliot Station - Outbound,42.319023,-71.216713
+70168,LRV212-hlb22016-Saturday-01,1,1,137,Newton Highlands Station - Inbound,42.321735,-71.206116
+70169,LRV212-hlb22016-Saturday-01,0,1,137,Newton Highlands Station - Outbound,42.321735,-71.206116
+70170,LRV212-hlb22016-Saturday-01,1,1,137,Newton Centre Station - Inbound,42.329391,-71.192429
+70171,LRV212-hlb22016-Saturday-01,0,1,137,Newton Centre Station - Outbound,42.329391,-71.192429
+70172,LRV212-hlb22016-Saturday-01,1,1,137,Chestnut Hill Station - Inbound,42.326653,-71.165314
+70173,LRV212-hlb22016-Saturday-01,0,1,137,Chestnut Hill Station - Outbound,42.326653,-71.165314
+70174,LRV212-hlb22016-Saturday-01,1,1,137,Reservoir Station - Inbound,42.335027,-71.148952
+70175,LRV212-hlb22016-Saturday-01,0,1,137,Reservoir Station - Outbound,42.335027,-71.148952
+70176,LRV212-hlb22016-Saturday-01,1,1,137,Beaconsfield Station - Inbound,42.335846,-71.140823
+70177,LRV212-hlb22016-Saturday-01,0,1,137,Beaconsfield Station - Outbound,42.335846,-71.140823
+70178,LRV212-hlb22016-Saturday-01,1,1,137,Brookline Hills Station - Inbound,42.331333,-71.126999
+70179,LRV212-hlb22016-Saturday-01,0,1,137,Brookline Hills Station - Outbound,42.331333,-71.126999
+70180,LRV212-hlb22016-Saturday-01,1,1,137,Brookline Village Station - Inbound,42.332774,-71.116296
+70181,LRV212-hlb22016-Saturday-01,0,1,137,Brookline Village Station - Outbound,42.332774,-71.116296
+70182,LRV212-hlb22016-Saturday-01,1,1,137,Longwood Station - Inbound,42.341145,-71.110451
+70183,LRV212-hlb22016-Saturday-01,0,1,137,Longwood Station - Outbound,42.341145,-71.110451
+70186,LRV212-hlb22016-Saturday-01,1,1,137,Fenway Station - Inbound,42.345394,-71.104187
+70187,LRV212-hlb22016-Saturday-01,0,1,137,Fenway Station - Outbound,42.345394,-71.104187
+70196,LRV212-hlb22016-Saturday-01,0,2,158,Park St Station - Green Line - B Berth,42.356395,-71.062424
+70197,LRV212-hlb22016-Saturday-01,0,2,137,Park St Station - Green Line - C Branch Berth,42.356395,-71.062424
+70198,LRV212-hlb22016-Saturday-01,0,1,137,Park St Station - Green Line - D Branch Berth,42.356395,-71.062424
+70199,LRV212-hlb22016-Saturday-01,0,1,138,Park St Station - Green Line - E Line Berth,42.356395,-71.062424
+70200,LRV212-hlb22016-Saturday-01,1,7,569,Park St Station - Green Line Eastbound,42.356395,-71.062424
+70201,LRV212-hlb22016-Saturday-01,1,7,569,Government Center Station - Green Line Eastbound,42.359705,-71.059215
+70202,LRV212-hlb22016-Saturday-01,0,6,570,Government Center Station - Green Line Westbound,42.359705,-71.059215
+70203,LRV212-hlb22016-Saturday-01,1,5,275,Haymarket - Green Line Outbound,42.363021,-71.05829
+70204,LRV212-hlb22016-Saturday-01,0,4,276,Haymarket - Green Line Inbound,42.363021,-71.05829
+70205,LRV212-hlb22016-Saturday-01,1,5,275,North Station - Green Line Outbound,42.365577,-71.06129
+70206,LRV212-hlb22016-Saturday-01,0,4,276,North Station - Green Line Inbound,42.365577,-71.06129
+70207,LRV212-hlb22016-Saturday-01,1,3,139,Science Park - Green Line Outbound,42.366664,-71.067666
+70208,LRV212-hlb22016-Saturday-01,0,3,140,Science Park - Green Line Inbound,42.366664,-71.067666
+70209,LRV212-hlb22016-Saturday-01,1,3,139,Lechmere - Green Line,42.370772,-71.076536
+70210,LRV212-hlb22016-Saturday-01,0,3,140,Lechmere - Green Line Inbound,42.370772,-71.076536
+70211,LRV212-hlb22016-Saturday-01,0,2,137,Saint Mary St - Outbound,42.345974,-71.107353
+70212,LRV212-hlb22016-Saturday-01,1,2,137,Saint Mary St - Inbound,42.345974,-71.107353
+70213,LRV212-hlb22016-Saturday-01,0,2,137,Hawes St - Outbound,42.344906,-71.111145
+70214,LRV212-hlb22016-Saturday-01,1,2,137,Hawes St - Inbound,42.344906,-71.111145
+70215,LRV212-hlb22016-Saturday-01,0,2,137,Kent St - Outbound,42.344074,-71.114197
+70216,LRV212-hlb22016-Saturday-01,1,2,137,Kent St - Inbound,42.344074,-71.114197
+70217,LRV212-hlb22016-Saturday-01,0,2,137,Saint Paul St - Outbound,42.343327,-71.116997
+70218,LRV212-hlb22016-Saturday-01,1,2,137,Saint Paul St - Inbound,42.343327,-71.116997
+70219,LRV212-hlb22016-Saturday-01,0,2,137,Coolidge Corner - Outbound,42.342213,-71.121201
+70220,LRV212-hlb22016-Saturday-01,1,2,137,Coolidge Corner - Inbound,42.342213,-71.121201
+70223,LRV212-hlb22016-Saturday-01,0,2,137,Summit Ave - Outbound,42.34111,-71.12561
+70224,LRV212-hlb22016-Saturday-01,1,2,137,Summit Ave - Inbound,42.34111,-71.12561
+70225,LRV212-hlb22016-Saturday-01,0,2,137,Brandon Hall - Outbound,42.340023,-71.129082
+70226,LRV212-hlb22016-Saturday-01,1,2,137,Brandon Hall - Inbound,42.340023,-71.129082
+70227,LRV212-hlb22016-Saturday-01,0,2,137,Fairbanks St - Outbound,42.339725,-71.131073
+70228,LRV212-hlb22016-Saturday-01,1,2,137,Fairbanks St - Inbound,42.339725,-71.131073
+70229,LRV212-hlb22016-Saturday-01,0,2,137,Washington Sq - Outbound,42.339394,-71.13533
+70230,LRV212-hlb22016-Saturday-01,1,2,137,Washington Sq - Inbound,42.339394,-71.13533
+70231,LRV212-hlb22016-Saturday-01,0,2,137,Tappan St - Outbound,42.338459,-71.138702
+70232,LRV212-hlb22016-Saturday-01,1,2,137,Tappan St - Inbound,42.338459,-71.138702
+70233,LRV212-hlb22016-Saturday-01,0,2,137,Dean Rd - Outbound,42.337807,-71.141853
+70234,LRV212-hlb22016-Saturday-01,1,2,137,Dean Rd - Inbound,42.337807,-71.141853
+70235,LRV212-hlb22016-Saturday-01,0,2,137,Englewood Ave - Outbound,42.336971,-71.14566
+70236,LRV212-hlb22016-Saturday-01,1,2,137,Englewood Ave - Inbound,42.336971,-71.14566
+70237,LRV212-hlb22016-Saturday-01,0,2,137,Cleveland Circle Platform,42.336142,-71.149326
+70238,LRV212-hlb22016-Saturday-01,1,2,137,Cleveland Circle Platform - Inbound,42.336142,-71.149326
+70239,LRV212-hlb22016-Saturday-01,0,1,138,Prudential Station - Outbound,42.34557,-71.081696
+70240,LRV212-hlb22016-Saturday-01,1,2,137,Prudential Station - Inbound,42.34557,-71.081696
+70241,LRV212-hlb22016-Saturday-01,0,1,138,Symphony Station - Outbound,42.342687,-71.085056
+70242,LRV212-hlb22016-Saturday-01,1,2,137,Symphony Station - Inbound,42.342687,-71.085056
+70243,LRV212-hlb22016-Saturday-01,0,1,138,Northeastern - Outbound,42.340401,-71.088806
+70244,LRV212-hlb22016-Saturday-01,1,2,137,Northeastern - Inbound,42.340401,-71.088806
+70245,LRV212-hlb22016-Saturday-01,0,1,138,Museum of Fine Arts - Outbound,42.337711,-71.095512
+70246,LRV212-hlb22016-Saturday-01,1,2,137,Museum of Fine Arts - Inbound,42.337711,-71.095512
+70247,LRV212-hlb22016-Saturday-01,0,1,138,Longwood Med Area - Outbound,42.33596,-71.100052
+70248,LRV212-hlb22016-Saturday-01,1,2,137,Longwood Med Area - Inbound,42.33596,-71.100052
+70249,LRV212-hlb22016-Saturday-01,0,1,138,Brigham Circle - Outbound,42.334229,-71.104609
+70250,LRV212-hlb22016-Saturday-01,1,2,137,Brigham Circle - Inbound,42.334229,-71.104609
+70251,LRV212-hlb22016-Saturday-01,0,1,138,Fenwood Rd - Outbound,42.333706,-71.105728
+70252,LRV212-hlb22016-Saturday-01,1,2,137,Fenwood Rd - Inbound,42.333706,-71.105728
+70253,LRV212-hlb22016-Saturday-01,0,1,138,Mission Park - Outbound,42.333195,-71.109756
+70254,LRV212-hlb22016-Saturday-01,1,2,137,Mission Park - Inbound,42.333195,-71.109756
+70255,LRV212-hlb22016-Saturday-01,0,1,138,Riverway - Outbound,42.331684,-71.111931
+70256,LRV212-hlb22016-Saturday-01,1,2,137,Riverway - Inbound,42.331684,-71.111931
+70257,LRV212-hlb22016-Saturday-01,0,1,138,Back of Hill - Outbound,42.330139,-71.111313
+70258,LRV212-hlb22016-Saturday-01,1,2,137,Back of Hill - Inbound,42.330139,-71.111313
+70260,LRV212-hlb22016-Saturday-01,0,1,138,Heath St Platform - Green Line E,42.328681,-71.110559
+70260,LRV212-hlb22016-Saturday-01,1,2,137,Heath St Platform - Green Line E,42.328681,-71.110559
+70106,LRV212-hlb22017-Sunday-01,1,2,128,Boston College Station - Inbound,42.340081,-71.166769
+70107,LRV212-hlb22017-Sunday-01,0,2,128,Boston College Station - Green Line,42.340081,-71.166769
+70110,LRV212-hlb22017-Sunday-01,1,2,128,South St - Inbound,42.3396,-71.157661
+70111,LRV212-hlb22017-Sunday-01,0,2,128,South St -  Outbound,42.3396,-71.157661
+70112,LRV212-hlb22017-Sunday-01,1,2,128,Chestnut Hill Ave - Inbound,42.338169,-71.15316
+70113,LRV212-hlb22017-Sunday-01,0,2,128,Chestnut Hill Ave - Outbound,42.338169,-71.15316
+70114,LRV212-hlb22017-Sunday-01,1,2,128,Chiswick Rd - Inbound,42.340805,-71.150711
+70115,LRV212-hlb22017-Sunday-01,0,2,128,Chiswick Rd - Green Line B Outbound,42.340805,-71.150711
+70116,LRV212-hlb22017-Sunday-01,1,2,128,Sutherland Rd - Inbound,42.341614,-71.146202
+70117,LRV212-hlb22017-Sunday-01,0,2,128,Sutherland Rd - Outbound,42.341614,-71.146202
+70120,LRV212-hlb22017-Sunday-01,1,2,128,Washington St - Inbound,42.343864,-71.142853
+70121,LRV212-hlb22017-Sunday-01,0,2,128,Washington St - Outbound,42.343864,-71.142853
+70124,LRV212-hlb22017-Sunday-01,1,2,128,Warren St - Inbound,42.348343,-71.140457
+70125,LRV212-hlb22017-Sunday-01,0,2,128,Warren St - Outbound,42.348343,-71.140457
+70126,LRV212-hlb22017-Sunday-01,1,2,128,Allston St - Inbound,42.348701,-71.137955
+70127,LRV212-hlb22017-Sunday-01,0,2,128,Allston St - Outbound,42.348701,-71.137955
+70128,LRV212-hlb22017-Sunday-01,1,2,128,Griggs St - Inbound,42.348545,-71.134949
+70129,LRV212-hlb22017-Sunday-01,0,2,128,Griggs St - Outbound,42.348545,-71.134949
+70130,LRV212-hlb22017-Sunday-01,1,2,128,Harvard Ave - Inbound,42.350243,-71.131355
+70131,LRV212-hlb22017-Sunday-01,0,2,128,Harvard Ave - Westbound,42.350243,-71.131355
+70134,LRV212-hlb22017-Sunday-01,1,2,128,Packards Corner - Inbound,42.351967,-71.125031
+70135,LRV212-hlb22017-Sunday-01,0,2,128,Packards Corner - Outbound,42.351967,-71.125031
+70136,LRV212-hlb22017-Sunday-01,1,2,128,Babcock St - Inbound,42.35182,-71.12165
+70137,LRV212-hlb22017-Sunday-01,0,2,128,Babcock St - Outbound,42.35182,-71.12165
+70138,LRV212-hlb22017-Sunday-01,1,2,128,Pleasant St - Inbound,42.351521,-71.118889
+70139,LRV212-hlb22017-Sunday-01,0,2,128,Pleasant St - Outbound,42.351521,-71.118889
+70140,LRV212-hlb22017-Sunday-01,1,2,128,Saint Paul St - Inbound,42.3512,-71.116104
+70141,LRV212-hlb22017-Sunday-01,0,2,128,Saint Paul St - Outbound,42.3512,-71.116104
+70142,LRV212-hlb22017-Sunday-01,1,2,128,Boston Univ West - Inbound,42.350941,-71.113876
+70143,LRV212-hlb22017-Sunday-01,0,2,128,Boston Univ West - Green Line B Outbound,42.350941,-71.113876
+70144,LRV212-hlb22017-Sunday-01,1,2,128,Boston Univ Central - Inbound,42.350082,-71.106865
+70145,LRV212-hlb22017-Sunday-01,0,2,128,Boston Univ Central - Outbound,42.350082,-71.106865
+70146,LRV212-hlb22017-Sunday-01,1,2,128,Boston Univ East - Inbound,42.349735,-71.103889
+70147,LRV212-hlb22017-Sunday-01,0,2,128,Boston Univ East - Outbound,42.349735,-71.103889
+70148,LRV212-hlb22017-Sunday-01,1,2,128,Blanford St - Inbound,42.349293,-71.100258
+70149,LRV212-hlb22017-Sunday-01,0,2,128,Blandford St - Outbound,42.349293,-71.100258
+70150,LRV212-hlb22017-Sunday-01,1,5,359,Kenmore Station - Inbound,42.348949,-71.095169
+70151,LRV212-hlb22017-Sunday-01,0,5,359,Kenmore Station - Outbound,42.348949,-71.095169
+70152,LRV212-hlb22017-Sunday-01,1,5,359,Hynes Station - Inbound,42.347888,-71.087903
+70153,LRV212-hlb22017-Sunday-01,0,5,359,Hynes Station - Outbound,42.347888,-71.087903
+70154,LRV212-hlb22017-Sunday-01,1,6,476,Copley Station - Inbound,42.349974,-71.077447
+70155,LRV212-hlb22017-Sunday-01,0,6,477,Copley Station - Outbound,42.349974,-71.077447
+70156,LRV212-hlb22017-Sunday-01,1,6,476,Arlington Station - Inbound,42.351902,-71.070893
+70157,LRV212-hlb22017-Sunday-01,0,6,477,Arlington Station - Outbound,42.351902,-71.070893
+70158,LRV212-hlb22017-Sunday-01,1,6,476,Boylston Station - Inbound,42.35302,-71.06459
+70159,LRV212-hlb22017-Sunday-01,0,6,477,Boylston Station - Outbound,42.35302,-71.06459
+70160,LRV212-hlb22017-Sunday-01,1,1,114,Riverside Station - Inbound,42.337059,-71.251742
+70161,LRV212-hlb22017-Sunday-01,0,1,114,Riverside Station - Green Line,42.337059,-71.251742
+70162,LRV212-hlb22017-Sunday-01,1,1,114,Woodland Station - Inbound,42.333374,-71.244301
+70163,LRV212-hlb22017-Sunday-01,0,1,114,Woodland Station - Outbound,42.333374,-71.244301
+70164,LRV212-hlb22017-Sunday-01,1,1,114,Waban Station - Inbound,42.325943,-71.230728
+70165,LRV212-hlb22017-Sunday-01,0,1,114,Waban Station - Outbound,42.325943,-71.230728
+70166,LRV212-hlb22017-Sunday-01,1,1,114,Eliot Station - Inbound,42.319023,-71.216713
+70167,LRV212-hlb22017-Sunday-01,0,1,114,Eliot Station - Outbound,42.319023,-71.216713
+70168,LRV212-hlb22017-Sunday-01,1,1,114,Newton Highlands Station - Inbound,42.321735,-71.206116
+70169,LRV212-hlb22017-Sunday-01,0,1,114,Newton Highlands Station - Outbound,42.321735,-71.206116
+70170,LRV212-hlb22017-Sunday-01,1,1,114,Newton Centre Station - Inbound,42.329391,-71.192429
+70171,LRV212-hlb22017-Sunday-01,0,1,114,Newton Centre Station - Outbound,42.329391,-71.192429
+70172,LRV212-hlb22017-Sunday-01,1,1,114,Chestnut Hill Station - Inbound,42.326653,-71.165314
+70173,LRV212-hlb22017-Sunday-01,0,1,114,Chestnut Hill Station - Outbound,42.326653,-71.165314
+70174,LRV212-hlb22017-Sunday-01,1,1,114,Reservoir Station - Inbound,42.335027,-71.148952
+70175,LRV212-hlb22017-Sunday-01,0,1,114,Reservoir Station - Outbound,42.335027,-71.148952
+70176,LRV212-hlb22017-Sunday-01,1,1,114,Beaconsfield Station - Inbound,42.335846,-71.140823
+70177,LRV212-hlb22017-Sunday-01,0,1,114,Beaconsfield Station - Outbound,42.335846,-71.140823
+70178,LRV212-hlb22017-Sunday-01,1,1,114,Brookline Hills Station - Inbound,42.331333,-71.126999
+70179,LRV212-hlb22017-Sunday-01,0,1,114,Brookline Hills Station - Outbound,42.331333,-71.126999
+70180,LRV212-hlb22017-Sunday-01,1,1,114,Brookline Village Station - Inbound,42.332774,-71.116296
+70181,LRV212-hlb22017-Sunday-01,0,1,114,Brookline Village Station - Outbound,42.332774,-71.116296
+70182,LRV212-hlb22017-Sunday-01,1,1,114,Longwood Station - Inbound,42.341145,-71.110451
+70183,LRV212-hlb22017-Sunday-01,0,1,114,Longwood Station - Outbound,42.341145,-71.110451
+70186,LRV212-hlb22017-Sunday-01,1,1,114,Fenway Station - Inbound,42.345394,-71.104187
+70187,LRV212-hlb22017-Sunday-01,0,1,114,Fenway Station - Outbound,42.345394,-71.104187
+70196,LRV212-hlb22017-Sunday-01,0,2,128,Park St Station - Green Line - B Berth,42.356395,-71.062424
+70197,LRV212-hlb22017-Sunday-01,0,2,117,Park St Station - Green Line - C Branch Berth,42.356395,-71.062424
+70198,LRV212-hlb22017-Sunday-01,0,1,114,Park St Station - Green Line - D Branch Berth,42.356395,-71.062424
+70199,LRV212-hlb22017-Sunday-01,0,1,118,Park St Station - Green Line - E Line Berth,42.356395,-71.062424
+70200,LRV212-hlb22017-Sunday-01,1,6,476,Park St Station - Green Line Eastbound,42.356395,-71.062424
+70201,LRV212-hlb22017-Sunday-01,1,6,476,Government Center Station - Green Line Eastbound,42.359705,-71.059215
+70202,LRV212-hlb22017-Sunday-01,0,6,477,Government Center Station - Green Line Westbound,42.359705,-71.059215
+70203,LRV212-hlb22017-Sunday-01,1,4,235,Haymarket - Green Line Outbound,42.363021,-71.05829
+70204,LRV212-hlb22017-Sunday-01,0,4,236,Haymarket - Green Line Inbound,42.363021,-71.05829
+70205,LRV212-hlb22017-Sunday-01,1,4,235,North Station - Green Line Outbound,42.365577,-71.06129
+70206,LRV212-hlb22017-Sunday-01,0,4,236,North Station - Green Line Inbound,42.365577,-71.06129
+70207,LRV212-hlb22017-Sunday-01,1,3,119,Science Park - Green Line Outbound,42.366664,-71.067666
+70208,LRV212-hlb22017-Sunday-01,0,3,120,Science Park - Green Line Inbound,42.366664,-71.067666
+70209,LRV212-hlb22017-Sunday-01,1,3,119,Lechmere - Green Line,42.370772,-71.076536
+70210,LRV212-hlb22017-Sunday-01,0,3,120,Lechmere - Green Line Inbound,42.370772,-71.076536
+70211,LRV212-hlb22017-Sunday-01,0,2,117,Saint Mary St - Outbound,42.345974,-71.107353
+70212,LRV212-hlb22017-Sunday-01,1,2,117,Saint Mary St - Inbound,42.345974,-71.107353
+70213,LRV212-hlb22017-Sunday-01,0,2,117,Hawes St - Outbound,42.344906,-71.111145
+70214,LRV212-hlb22017-Sunday-01,1,2,117,Hawes St - Inbound,42.344906,-71.111145
+70215,LRV212-hlb22017-Sunday-01,0,2,117,Kent St - Outbound,42.344074,-71.114197
+70216,LRV212-hlb22017-Sunday-01,1,2,117,Kent St - Inbound,42.344074,-71.114197
+70217,LRV212-hlb22017-Sunday-01,0,2,117,Saint Paul St - Outbound,42.343327,-71.116997
+70218,LRV212-hlb22017-Sunday-01,1,2,117,Saint Paul St - Inbound,42.343327,-71.116997
+70219,LRV212-hlb22017-Sunday-01,0,2,117,Coolidge Corner - Outbound,42.342213,-71.121201
+70220,LRV212-hlb22017-Sunday-01,1,2,117,Coolidge Corner - Inbound,42.342213,-71.121201
+70223,LRV212-hlb22017-Sunday-01,0,2,117,Summit Ave - Outbound,42.34111,-71.12561
+70224,LRV212-hlb22017-Sunday-01,1,2,117,Summit Ave - Inbound,42.34111,-71.12561
+70225,LRV212-hlb22017-Sunday-01,0,2,117,Brandon Hall - Outbound,42.340023,-71.129082
+70226,LRV212-hlb22017-Sunday-01,1,2,117,Brandon Hall - Inbound,42.340023,-71.129082
+70227,LRV212-hlb22017-Sunday-01,0,2,117,Fairbanks St - Outbound,42.339725,-71.131073
+70228,LRV212-hlb22017-Sunday-01,1,2,117,Fairbanks St - Inbound,42.339725,-71.131073
+70229,LRV212-hlb22017-Sunday-01,0,2,117,Washington Sq - Outbound,42.339394,-71.13533
+70230,LRV212-hlb22017-Sunday-01,1,2,117,Washington Sq - Inbound,42.339394,-71.13533
+70231,LRV212-hlb22017-Sunday-01,0,2,117,Tappan St - Outbound,42.338459,-71.138702
+70232,LRV212-hlb22017-Sunday-01,1,2,117,Tappan St - Inbound,42.338459,-71.138702
+70233,LRV212-hlb22017-Sunday-01,0,2,117,Dean Rd - Outbound,42.337807,-71.141853
+70234,LRV212-hlb22017-Sunday-01,1,2,117,Dean Rd - Inbound,42.337807,-71.141853
+70235,LRV212-hlb22017-Sunday-01,0,2,117,Englewood Ave - Outbound,42.336971,-71.14566
+70236,LRV212-hlb22017-Sunday-01,1,2,117,Englewood Ave - Inbound,42.336971,-71.14566
+70237,LRV212-hlb22017-Sunday-01,0,2,117,Cleveland Circle Platform,42.336142,-71.149326
+70238,LRV212-hlb22017-Sunday-01,1,2,117,Cleveland Circle Platform - Inbound,42.336142,-71.149326
+70239,LRV212-hlb22017-Sunday-01,0,1,118,Prudential Station - Outbound,42.34557,-71.081696
+70240,LRV212-hlb22017-Sunday-01,1,1,117,Prudential Station - Inbound,42.34557,-71.081696
+70241,LRV212-hlb22017-Sunday-01,0,1,118,Symphony Station - Outbound,42.342687,-71.085056
+70242,LRV212-hlb22017-Sunday-01,1,1,117,Symphony Station - Inbound,42.342687,-71.085056
+70243,LRV212-hlb22017-Sunday-01,0,1,118,Northeastern - Outbound,42.340401,-71.088806
+70244,LRV212-hlb22017-Sunday-01,1,1,117,Northeastern - Inbound,42.340401,-71.088806
+70245,LRV212-hlb22017-Sunday-01,0,1,118,Museum of Fine Arts - Outbound,42.337711,-71.095512
+70246,LRV212-hlb22017-Sunday-01,1,1,117,Museum of Fine Arts - Inbound,42.337711,-71.095512
+70247,LRV212-hlb22017-Sunday-01,0,1,118,Longwood Med Area - Outbound,42.33596,-71.100052
+70248,LRV212-hlb22017-Sunday-01,1,1,117,Longwood Med Area - Inbound,42.33596,-71.100052
+70249,LRV212-hlb22017-Sunday-01,0,1,118,Brigham Circle - Outbound,42.334229,-71.104609
+70250,LRV212-hlb22017-Sunday-01,1,1,117,Brigham Circle - Inbound,42.334229,-71.104609
+70251,LRV212-hlb22017-Sunday-01,0,1,118,Fenwood Rd - Outbound,42.333706,-71.105728
+70252,LRV212-hlb22017-Sunday-01,1,1,117,Fenwood Rd - Inbound,42.333706,-71.105728
+70253,LRV212-hlb22017-Sunday-01,0,1,118,Mission Park - Outbound,42.333195,-71.109756
+70254,LRV212-hlb22017-Sunday-01,1,1,117,Mission Park - Inbound,42.333195,-71.109756
+70255,LRV212-hlb22017-Sunday-01,0,1,118,Riverway - Outbound,42.331684,-71.111931
+70256,LRV212-hlb22017-Sunday-01,1,1,117,Riverway - Inbound,42.331684,-71.111931
+70257,LRV212-hlb22017-Sunday-01,0,1,118,Back of Hill - Outbound,42.330139,-71.111313
+70258,LRV212-hlb22017-Sunday-01,1,1,117,Back of Hill - Inbound,42.330139,-71.111313
+70260,LRV212-hlb22017-Sunday-01,0,1,118,Heath St Platform - Green Line E,42.328681,-71.110559
+70260,LRV212-hlb22017-Sunday-01,1,1,117,Heath St Platform - Green Line E,42.328681,-71.110559
+70106,LRV212-hlb22bk1-Weekday-01,1,1,147,Boston College Station - Inbound,42.340081,-71.166769
+70107,LRV212-hlb22bk1-Weekday-01,0,1,150,Boston College Station - Green Line,42.340081,-71.166769
+70110,LRV212-hlb22bk1-Weekday-01,1,1,147,South St - Inbound,42.3396,-71.157661
+70111,LRV212-hlb22bk1-Weekday-01,0,1,150,South St -  Outbound,42.3396,-71.157661
+70112,LRV212-hlb22bk1-Weekday-01,1,2,150,Chestnut Hill Ave - Inbound,42.338169,-71.15316
+70113,LRV212-hlb22bk1-Weekday-01,0,1,150,Chestnut Hill Ave - Outbound,42.338169,-71.15316
+70114,LRV212-hlb22bk1-Weekday-01,1,2,150,Chiswick Rd - Inbound,42.340805,-71.150711
+70115,LRV212-hlb22bk1-Weekday-01,0,1,150,Chiswick Rd - Green Line B Outbound,42.340805,-71.150711
+70116,LRV212-hlb22bk1-Weekday-01,1,2,150,Sutherland Rd - Inbound,42.341614,-71.146202
+70117,LRV212-hlb22bk1-Weekday-01,0,1,150,Sutherland Rd - Outbound,42.341614,-71.146202
+70120,LRV212-hlb22bk1-Weekday-01,1,2,150,Washington St - Inbound,42.343864,-71.142853
+70121,LRV212-hlb22bk1-Weekday-01,0,1,150,Washington St - Outbound,42.343864,-71.142853
+70124,LRV212-hlb22bk1-Weekday-01,1,2,150,Warren St - Inbound,42.348343,-71.140457
+70125,LRV212-hlb22bk1-Weekday-01,0,1,150,Warren St - Outbound,42.348343,-71.140457
+70126,LRV212-hlb22bk1-Weekday-01,1,2,150,Allston St - Inbound,42.348701,-71.137955
+70127,LRV212-hlb22bk1-Weekday-01,0,1,150,Allston St - Outbound,42.348701,-71.137955
+70128,LRV212-hlb22bk1-Weekday-01,1,2,150,Griggs St - Inbound,42.348545,-71.134949
+70129,LRV212-hlb22bk1-Weekday-01,0,1,150,Griggs St - Outbound,42.348545,-71.134949
+70130,LRV212-hlb22bk1-Weekday-01,1,2,150,Harvard Ave - Inbound,42.350243,-71.131355
+70131,LRV212-hlb22bk1-Weekday-01,0,1,150,Harvard Ave - Westbound,42.350243,-71.131355
+70134,LRV212-hlb22bk1-Weekday-01,1,2,150,Packards Corner - Inbound,42.351967,-71.125031
+70135,LRV212-hlb22bk1-Weekday-01,0,1,150,Packards Corner - Outbound,42.351967,-71.125031
+70136,LRV212-hlb22bk1-Weekday-01,1,2,150,Babcock St - Inbound,42.35182,-71.12165
+70137,LRV212-hlb22bk1-Weekday-01,0,1,150,Babcock St - Outbound,42.35182,-71.12165
+70138,LRV212-hlb22bk1-Weekday-01,1,2,150,Pleasant St - Inbound,42.351521,-71.118889
+70139,LRV212-hlb22bk1-Weekday-01,0,1,150,Pleasant St - Outbound,42.351521,-71.118889
+70140,LRV212-hlb22bk1-Weekday-01,1,2,150,Saint Paul St - Inbound,42.3512,-71.116104
+70141,LRV212-hlb22bk1-Weekday-01,0,1,150,Saint Paul St - Outbound,42.3512,-71.116104
+70142,LRV212-hlb22bk1-Weekday-01,1,2,150,Boston Univ West - Inbound,42.350941,-71.113876
+70143,LRV212-hlb22bk1-Weekday-01,0,1,150,Boston Univ West - Green Line B Outbound,42.350941,-71.113876
+70144,LRV212-hlb22bk1-Weekday-01,1,2,150,Boston Univ Central - Inbound,42.350082,-71.106865
+70145,LRV212-hlb22bk1-Weekday-01,0,1,150,Boston Univ Central - Outbound,42.350082,-71.106865
+70146,LRV212-hlb22bk1-Weekday-01,1,2,150,Boston Univ East - Inbound,42.349735,-71.103889
+70147,LRV212-hlb22bk1-Weekday-01,0,1,150,Boston Univ East - Outbound,42.349735,-71.103889
+70148,LRV212-hlb22bk1-Weekday-01,1,2,150,Blanford St - Inbound,42.349293,-71.100258
+70149,LRV212-hlb22bk1-Weekday-01,0,1,150,Blandford St - Outbound,42.349293,-71.100258
+70150,LRV212-hlb22bk1-Weekday-01,1,7,434,Kenmore Station - Inbound,42.348949,-71.095169
+70151,LRV212-hlb22bk1-Weekday-01,0,5,434,Kenmore Station - Outbound,42.348949,-71.095169
+70152,LRV212-hlb22bk1-Weekday-01,1,7,434,Hynes Station - Inbound,42.347888,-71.087903
+70153,LRV212-hlb22bk1-Weekday-01,0,5,434,Hynes Station - Outbound,42.347888,-71.087903
+70154,LRV212-hlb22bk1-Weekday-01,1,8,589,Copley Station - Inbound,42.349974,-71.077447
+70155,LRV212-hlb22bk1-Weekday-01,0,7,590,Copley Station - Outbound,42.349974,-71.077447
+70156,LRV212-hlb22bk1-Weekday-01,1,8,589,Arlington Station - Inbound,42.351902,-71.070893
+70157,LRV212-hlb22bk1-Weekday-01,0,7,590,Arlington Station - Outbound,42.351902,-71.070893
+70158,LRV212-hlb22bk1-Weekday-01,1,8,589,Boylston Station - Inbound,42.35302,-71.06459
+70159,LRV212-hlb22bk1-Weekday-01,0,7,590,Boylston Station - Outbound,42.35302,-71.06459
+70160,LRV212-hlb22bk1-Weekday-01,1,1,143,Riverside Station - Inbound,42.337059,-71.251742
+70161,LRV212-hlb22bk1-Weekday-01,0,1,143,Riverside Station - Green Line,42.337059,-71.251742
+70162,LRV212-hlb22bk1-Weekday-01,1,1,143,Woodland Station - Inbound,42.333374,-71.244301
+70163,LRV212-hlb22bk1-Weekday-01,0,1,143,Woodland Station - Outbound,42.333374,-71.244301
+70164,LRV212-hlb22bk1-Weekday-01,1,1,143,Waban Station - Inbound,42.325943,-71.230728
+70165,LRV212-hlb22bk1-Weekday-01,0,1,143,Waban Station - Outbound,42.325943,-71.230728
+70166,LRV212-hlb22bk1-Weekday-01,1,1,143,Eliot Station - Inbound,42.319023,-71.216713
+70167,LRV212-hlb22bk1-Weekday-01,0,1,143,Eliot Station - Outbound,42.319023,-71.216713
+70168,LRV212-hlb22bk1-Weekday-01,1,1,143,Newton Highlands Station - Inbound,42.321735,-71.206116
+70169,LRV212-hlb22bk1-Weekday-01,0,1,143,Newton Highlands Station - Outbound,42.321735,-71.206116
+70170,LRV212-hlb22bk1-Weekday-01,1,1,143,Newton Centre Station - Inbound,42.329391,-71.192429
+70171,LRV212-hlb22bk1-Weekday-01,0,1,143,Newton Centre Station - Outbound,42.329391,-71.192429
+70172,LRV212-hlb22bk1-Weekday-01,1,1,143,Chestnut Hill Station - Inbound,42.326653,-71.165314
+70173,LRV212-hlb22bk1-Weekday-01,0,1,143,Chestnut Hill Station - Outbound,42.326653,-71.165314
+70174,LRV212-hlb22bk1-Weekday-01,1,3,151,Reservoir Station - Inbound,42.335027,-71.148952
+70175,LRV212-hlb22bk1-Weekday-01,0,2,151,Reservoir Station - Outbound,42.335027,-71.148952
+70176,LRV212-hlb22bk1-Weekday-01,1,3,151,Beaconsfield Station - Inbound,42.335846,-71.140823
+70177,LRV212-hlb22bk1-Weekday-01,0,2,151,Beaconsfield Station - Outbound,42.335846,-71.140823
+70178,LRV212-hlb22bk1-Weekday-01,1,3,151,Brookline Hills Station - Inbound,42.331333,-71.126999
+70179,LRV212-hlb22bk1-Weekday-01,0,2,151,Brookline Hills Station - Outbound,42.331333,-71.126999
+70180,LRV212-hlb22bk1-Weekday-01,1,3,151,Brookline Village Station - Inbound,42.332774,-71.116296
+70181,LRV212-hlb22bk1-Weekday-01,0,2,151,Brookline Village Station - Outbound,42.332774,-71.116296
+70182,LRV212-hlb22bk1-Weekday-01,1,3,151,Longwood Station - Inbound,42.341145,-71.110451
+70183,LRV212-hlb22bk1-Weekday-01,0,2,151,Longwood Station - Outbound,42.341145,-71.110451
+70186,LRV212-hlb22bk1-Weekday-01,1,3,151,Fenway Station - Inbound,42.345394,-71.104187
+70187,LRV212-hlb22bk1-Weekday-01,0,2,151,Fenway Station - Outbound,42.345394,-71.104187
+70196,LRV212-hlb22bk1-Weekday-01,0,1,150,Park St Station - Green Line - B Berth,42.356395,-71.062424
+70197,LRV212-hlb22bk1-Weekday-01,0,2,133,Park St Station - Green Line - C Branch Berth,42.356395,-71.062424
+70198,LRV212-hlb22bk1-Weekday-01,0,2,151,Park St Station - Green Line - D Branch Berth,42.356395,-71.062424
+70199,LRV212-hlb22bk1-Weekday-01,0,2,156,Park St Station - Green Line - E Line Berth,42.356395,-71.062424
+70200,LRV212-hlb22bk1-Weekday-01,1,8,589,Park St Station - Green Line Eastbound,42.356395,-71.062424
+70201,LRV212-hlb22bk1-Weekday-01,1,8,589,Government Center Station - Green Line Eastbound,42.359705,-71.059215
+70202,LRV212-hlb22bk1-Weekday-01,0,7,590,Government Center Station - Green Line Westbound,42.359705,-71.059215
+70203,LRV212-hlb22bk1-Weekday-01,1,4,289,Haymarket - Green Line Outbound,42.363021,-71.05829
+70204,LRV212-hlb22bk1-Weekday-01,0,4,290,Haymarket - Green Line Inbound,42.363021,-71.05829
+70205,LRV212-hlb22bk1-Weekday-01,1,4,289,North Station - Green Line Outbound,42.365577,-71.06129
+70206,LRV212-hlb22bk1-Weekday-01,0,4,290,North Station - Green Line Inbound,42.365577,-71.06129
+70207,LRV212-hlb22bk1-Weekday-01,1,3,159,Science Park - Green Line Outbound,42.366664,-71.067666
+70208,LRV212-hlb22bk1-Weekday-01,0,3,160,Science Park - Green Line Inbound,42.366664,-71.067666
+70209,LRV212-hlb22bk1-Weekday-01,1,3,159,Lechmere - Green Line,42.370772,-71.076536
+70210,LRV212-hlb22bk1-Weekday-01,0,3,160,Lechmere - Green Line Inbound,42.370772,-71.076536
+70211,LRV212-hlb22bk1-Weekday-01,0,2,133,Saint Mary St - Outbound,42.345974,-71.107353
+70212,LRV212-hlb22bk1-Weekday-01,1,2,133,Saint Mary St - Inbound,42.345974,-71.107353
+70213,LRV212-hlb22bk1-Weekday-01,0,2,133,Hawes St - Outbound,42.344906,-71.111145
+70214,LRV212-hlb22bk1-Weekday-01,1,2,133,Hawes St - Inbound,42.344906,-71.111145
+70215,LRV212-hlb22bk1-Weekday-01,0,2,133,Kent St - Outbound,42.344074,-71.114197
+70216,LRV212-hlb22bk1-Weekday-01,1,2,133,Kent St - Inbound,42.344074,-71.114197
+70217,LRV212-hlb22bk1-Weekday-01,0,2,133,Saint Paul St - Outbound,42.343327,-71.116997
+70218,LRV212-hlb22bk1-Weekday-01,1,2,133,Saint Paul St - Inbound,42.343327,-71.116997
+70219,LRV212-hlb22bk1-Weekday-01,0,2,133,Coolidge Corner - Outbound,42.342213,-71.121201
+70220,LRV212-hlb22bk1-Weekday-01,1,2,133,Coolidge Corner - Inbound,42.342213,-71.121201
+70223,LRV212-hlb22bk1-Weekday-01,0,2,133,Summit Ave - Outbound,42.34111,-71.12561
+70224,LRV212-hlb22bk1-Weekday-01,1,2,133,Summit Ave - Inbound,42.34111,-71.12561
+70225,LRV212-hlb22bk1-Weekday-01,0,2,133,Brandon Hall - Outbound,42.340023,-71.129082
+70226,LRV212-hlb22bk1-Weekday-01,1,2,133,Brandon Hall - Inbound,42.340023,-71.129082
+70227,LRV212-hlb22bk1-Weekday-01,0,2,133,Fairbanks St - Outbound,42.339725,-71.131073
+70228,LRV212-hlb22bk1-Weekday-01,1,2,133,Fairbanks St - Inbound,42.339725,-71.131073
+70229,LRV212-hlb22bk1-Weekday-01,0,2,133,Washington Sq - Outbound,42.339394,-71.13533
+70230,LRV212-hlb22bk1-Weekday-01,1,2,133,Washington Sq - Inbound,42.339394,-71.13533
+70231,LRV212-hlb22bk1-Weekday-01,0,2,133,Tappan St - Outbound,42.338459,-71.138702
+70232,LRV212-hlb22bk1-Weekday-01,1,2,133,Tappan St - Inbound,42.338459,-71.138702
+70233,LRV212-hlb22bk1-Weekday-01,0,2,133,Dean Rd - Outbound,42.337807,-71.141853
+70234,LRV212-hlb22bk1-Weekday-01,1,2,133,Dean Rd - Inbound,42.337807,-71.141853
+70235,LRV212-hlb22bk1-Weekday-01,0,2,133,Englewood Ave - Outbound,42.336971,-71.14566
+70236,LRV212-hlb22bk1-Weekday-01,1,2,133,Englewood Ave - Inbound,42.336971,-71.14566
+70237,LRV212-hlb22bk1-Weekday-01,0,2,133,Cleveland Circle Platform,42.336142,-71.149326
+70238,LRV212-hlb22bk1-Weekday-01,1,2,133,Cleveland Circle Platform - Inbound,42.336142,-71.149326
+70239,LRV212-hlb22bk1-Weekday-01,0,2,156,Prudential Station - Outbound,42.34557,-71.081696
+70240,LRV212-hlb22bk1-Weekday-01,1,1,155,Prudential Station - Inbound,42.34557,-71.081696
+70241,LRV212-hlb22bk1-Weekday-01,0,2,156,Symphony Station - Outbound,42.342687,-71.085056
+70242,LRV212-hlb22bk1-Weekday-01,1,1,155,Symphony Station - Inbound,42.342687,-71.085056
+70243,LRV212-hlb22bk1-Weekday-01,0,2,156,Northeastern - Outbound,42.340401,-71.088806
+70244,LRV212-hlb22bk1-Weekday-01,1,1,155,Northeastern - Inbound,42.340401,-71.088806
+70245,LRV212-hlb22bk1-Weekday-01,0,2,156,Museum of Fine Arts - Outbound,42.337711,-71.095512
+70246,LRV212-hlb22bk1-Weekday-01,1,1,155,Museum of Fine Arts - Inbound,42.337711,-71.095512
+70247,LRV212-hlb22bk1-Weekday-01,0,2,156,Longwood Med Area - Outbound,42.33596,-71.100052
+70248,LRV212-hlb22bk1-Weekday-01,1,1,155,Longwood Med Area - Inbound,42.33596,-71.100052
+70249,LRV212-hlb22bk1-Weekday-01,0,2,156,Brigham Circle - Outbound,42.334229,-71.104609
+70250,LRV212-hlb22bk1-Weekday-01,1,1,155,Brigham Circle - Inbound,42.334229,-71.104609
+70251,LRV212-hlb22bk1-Weekday-01,0,2,156,Fenwood Rd - Outbound,42.333706,-71.105728
+70252,LRV212-hlb22bk1-Weekday-01,1,1,155,Fenwood Rd - Inbound,42.333706,-71.105728
+70253,LRV212-hlb22bk1-Weekday-01,0,2,156,Mission Park - Outbound,42.333195,-71.109756
+70254,LRV212-hlb22bk1-Weekday-01,1,1,155,Mission Park - Inbound,42.333195,-71.109756
+70255,LRV212-hlb22bk1-Weekday-01,0,2,156,Riverway - Outbound,42.331684,-71.111931
+70256,LRV212-hlb22bk1-Weekday-01,1,1,155,Riverway - Inbound,42.331684,-71.111931
+70257,LRV212-hlb22bk1-Weekday-01,0,2,156,Back of Hill - Outbound,42.330139,-71.111313
+70258,LRV212-hlb22bk1-Weekday-01,1,1,155,Back of Hill - Inbound,42.330139,-71.111313
+70260,LRV212-hlb22bk1-Weekday-01,0,2,156,Heath St Platform - Green Line E,42.328681,-71.110559
+70260,LRV212-hlb22bk1-Weekday-01,1,1,155,Heath St Platform - Green Line E,42.328681,-71.110559
+70261,LRV212-hlm22011-Weekday-01,0,1,163,Ashmont Station - Westbound,42.284652,-71.064489
+70262,LRV212-hlm22011-Weekday-01,1,1,163,Ashmont Station - Eastbound,42.284652,-71.064489
+70263,LRV212-hlm22011-Weekday-01,0,1,163,Cedar Grove - Westbound,42.279682,-71.060432
+70264,LRV212-hlm22011-Weekday-01,1,1,163,Cedar Grove - Eastbound,42.279682,-71.060432
+70265,LRV212-hlm22011-Weekday-01,0,1,163,Butler Station - Westbound,42.272343,-71.062584
+70266,LRV212-hlm22011-Weekday-01,1,1,163,Butler Station - Eastbound,42.272343,-71.062584
+70267,LRV212-hlm22011-Weekday-01,0,1,163,Milton Station - Westbound,42.270306,-71.067673
+70268,LRV212-hlm22011-Weekday-01,1,1,163,Milton Station - Eastbound,42.270306,-71.067673
+70269,LRV212-hlm22011-Weekday-01,0,1,163,Central Ave - Westbound,42.270027,-71.073334
+70270,LRV212-hlm22011-Weekday-01,1,1,163,Central Ave - Eastbound,42.270027,-71.073334
+70271,LRV212-hlm22011-Weekday-01,0,1,163,Valley Rd - Westbound,42.268322,-71.081566
+70272,LRV212-hlm22011-Weekday-01,1,1,163,Valley Rd - Eastbound,42.268322,-71.081566
+70273,LRV212-hlm22011-Weekday-01,0,1,163,Capen St - Westbound,42.267712,-71.087753
+70274,LRV212-hlm22011-Weekday-01,1,1,163,Capen St - Eastbound,42.267712,-71.087753
+70275,LRV212-hlm22011-Weekday-01,0,1,163,Mattapan Station - Westbound,42.267762,-71.092241
+70276,LRV212-hlm22011-Weekday-01,1,1,163,Mattapan Station - Eastbound,42.267762,-71.092241
+70261,LRV212-hlm22016-Saturday-01,0,1,102,Ashmont Station - Westbound,42.284652,-71.064489
+70262,LRV212-hlm22016-Saturday-01,1,1,102,Ashmont Station - Eastbound,42.284652,-71.064489
+70263,LRV212-hlm22016-Saturday-01,0,1,102,Cedar Grove - Westbound,42.279682,-71.060432
+70264,LRV212-hlm22016-Saturday-01,1,1,102,Cedar Grove - Eastbound,42.279682,-71.060432
+70265,LRV212-hlm22016-Saturday-01,0,1,102,Butler Station - Westbound,42.272343,-71.062584
+70266,LRV212-hlm22016-Saturday-01,1,1,102,Butler Station - Eastbound,42.272343,-71.062584
+70267,LRV212-hlm22016-Saturday-01,0,1,102,Milton Station - Westbound,42.270306,-71.067673
+70268,LRV212-hlm22016-Saturday-01,1,1,102,Milton Station - Eastbound,42.270306,-71.067673
+70269,LRV212-hlm22016-Saturday-01,0,1,102,Central Ave - Westbound,42.270027,-71.073334
+70270,LRV212-hlm22016-Saturday-01,1,1,102,Central Ave - Eastbound,42.270027,-71.073334
+70271,LRV212-hlm22016-Saturday-01,0,1,102,Valley Rd - Westbound,42.268322,-71.081566
+70272,LRV212-hlm22016-Saturday-01,1,1,102,Valley Rd - Eastbound,42.268322,-71.081566
+70273,LRV212-hlm22016-Saturday-01,0,1,102,Capen St - Westbound,42.267712,-71.087753
+70274,LRV212-hlm22016-Saturday-01,1,1,102,Capen St - Eastbound,42.267712,-71.087753
+70275,LRV212-hlm22016-Saturday-01,0,1,102,Mattapan Station - Westbound,42.267762,-71.092241
+70276,LRV212-hlm22016-Saturday-01,1,1,102,Mattapan Station - Eastbound,42.267762,-71.092241
+70261,LRV212-hlm22017-Sunday-01,0,1,82,Ashmont Station - Westbound,42.284652,-71.064489
+70262,LRV212-hlm22017-Sunday-01,1,1,82,Ashmont Station - Eastbound,42.284652,-71.064489
+70263,LRV212-hlm22017-Sunday-01,0,1,82,Cedar Grove - Westbound,42.279682,-71.060432
+70264,LRV212-hlm22017-Sunday-01,1,1,82,Cedar Grove - Eastbound,42.279682,-71.060432
+70265,LRV212-hlm22017-Sunday-01,0,1,82,Butler Station - Westbound,42.272343,-71.062584
+70266,LRV212-hlm22017-Sunday-01,1,1,82,Butler Station - Eastbound,42.272343,-71.062584
+70267,LRV212-hlm22017-Sunday-01,0,1,82,Milton Station - Westbound,42.270306,-71.067673
+70268,LRV212-hlm22017-Sunday-01,1,1,82,Milton Station - Eastbound,42.270306,-71.067673
+70269,LRV212-hlm22017-Sunday-01,0,1,82,Central Ave - Westbound,42.270027,-71.073334
+70270,LRV212-hlm22017-Sunday-01,1,1,82,Central Ave - Eastbound,42.270027,-71.073334
+70271,LRV212-hlm22017-Sunday-01,0,1,82,Valley Rd - Westbound,42.268322,-71.081566
+70272,LRV212-hlm22017-Sunday-01,1,1,82,Valley Rd - Eastbound,42.268322,-71.081566
+70273,LRV212-hlm22017-Sunday-01,0,1,82,Capen St - Westbound,42.267712,-71.087753
+70274,LRV212-hlm22017-Sunday-01,1,1,82,Capen St - Eastbound,42.267712,-71.087753
+70275,LRV212-hlm22017-Sunday-01,0,1,82,Mattapan Station - Westbound,42.267762,-71.092241
+70276,LRV212-hlm22017-Sunday-01,1,1,82,Mattapan Station - Eastbound,42.267762,-71.092241
+70261,LRV212-hlm22bk1-Weekday-01,0,1,163,Ashmont Station - Westbound,42.284652,-71.064489
+70262,LRV212-hlm22bk1-Weekday-01,1,1,163,Ashmont Station - Eastbound,42.284652,-71.064489
+70263,LRV212-hlm22bk1-Weekday-01,0,1,163,Cedar Grove - Westbound,42.279682,-71.060432
+70264,LRV212-hlm22bk1-Weekday-01,1,1,163,Cedar Grove - Eastbound,42.279682,-71.060432
+70265,LRV212-hlm22bk1-Weekday-01,0,1,163,Butler Station - Westbound,42.272343,-71.062584
+70266,LRV212-hlm22bk1-Weekday-01,1,1,163,Butler Station - Eastbound,42.272343,-71.062584
+70267,LRV212-hlm22bk1-Weekday-01,0,1,163,Milton Station - Westbound,42.270306,-71.067673
+70268,LRV212-hlm22bk1-Weekday-01,1,1,163,Milton Station - Eastbound,42.270306,-71.067673
+70269,LRV212-hlm22bk1-Weekday-01,0,1,163,Central Ave - Westbound,42.270027,-71.073334
+70270,LRV212-hlm22bk1-Weekday-01,1,1,163,Central Ave - Eastbound,42.270027,-71.073334
+70271,LRV212-hlm22bk1-Weekday-01,0,1,163,Valley Rd - Westbound,42.268322,-71.081566
+70272,LRV212-hlm22bk1-Weekday-01,1,1,163,Valley Rd - Eastbound,42.268322,-71.081566
+70273,LRV212-hlm22bk1-Weekday-01,0,1,163,Capen St - Westbound,42.267712,-71.087753
+70274,LRV212-hlm22bk1-Weekday-01,1,1,163,Capen St - Eastbound,42.267712,-71.087753
+70275,LRV212-hlm22bk1-Weekday-01,0,1,163,Mattapan Station - Westbound,42.267762,-71.092241
+70276,LRV212-hlm22bk1-Weekday-01,1,1,163,Mattapan Station - Eastbound,42.267762,-71.092241
+70106,LRV312-hlb32011-Weekday-01,1,1,145,Boston College Station - Inbound,42.340081,-71.166769
+70107,LRV312-hlb32011-Weekday-01,0,1,148,Boston College Station - Green Line,42.340081,-71.166769
+70110,LRV312-hlb32011-Weekday-01,1,1,145,South St - Inbound,42.3396,-71.157661
+70111,LRV312-hlb32011-Weekday-01,0,1,148,South St -  Outbound,42.3396,-71.157661
+70112,LRV312-hlb32011-Weekday-01,1,2,148,Chestnut Hill Ave - Inbound,42.338169,-71.15316
+70113,LRV312-hlb32011-Weekday-01,0,1,148,Chestnut Hill Ave - Outbound,42.338169,-71.15316
+70114,LRV312-hlb32011-Weekday-01,1,2,148,Chiswick Rd - Inbound,42.340805,-71.150711
+70115,LRV312-hlb32011-Weekday-01,0,1,148,Chiswick Rd - Green Line B Outbound,42.340805,-71.150711
+70116,LRV312-hlb32011-Weekday-01,1,2,148,Sutherland Rd - Inbound,42.341614,-71.146202
+70117,LRV312-hlb32011-Weekday-01,0,1,148,Sutherland Rd - Outbound,42.341614,-71.146202
+70120,LRV312-hlb32011-Weekday-01,1,2,148,Washington St - Inbound,42.343864,-71.142853
+70121,LRV312-hlb32011-Weekday-01,0,1,148,Washington St - Outbound,42.343864,-71.142853
+70124,LRV312-hlb32011-Weekday-01,1,2,148,Warren St - Inbound,42.348343,-71.140457
+70125,LRV312-hlb32011-Weekday-01,0,1,148,Warren St - Outbound,42.348343,-71.140457
+70126,LRV312-hlb32011-Weekday-01,1,2,148,Allston St - Inbound,42.348701,-71.137955
+70127,LRV312-hlb32011-Weekday-01,0,1,148,Allston St - Outbound,42.348701,-71.137955
+70128,LRV312-hlb32011-Weekday-01,1,2,148,Griggs St - Inbound,42.348545,-71.134949
+70129,LRV312-hlb32011-Weekday-01,0,1,148,Griggs St - Outbound,42.348545,-71.134949
+70130,LRV312-hlb32011-Weekday-01,1,2,148,Harvard Ave - Inbound,42.350243,-71.131355
+70131,LRV312-hlb32011-Weekday-01,0,1,148,Harvard Ave - Westbound,42.350243,-71.131355
+70134,LRV312-hlb32011-Weekday-01,1,2,148,Packards Corner - Inbound,42.351967,-71.125031
+70135,LRV312-hlb32011-Weekday-01,0,1,148,Packards Corner - Outbound,42.351967,-71.125031
+70136,LRV312-hlb32011-Weekday-01,1,2,148,Babcock St - Inbound,42.35182,-71.12165
+70137,LRV312-hlb32011-Weekday-01,0,1,148,Babcock St - Outbound,42.35182,-71.12165
+70138,LRV312-hlb32011-Weekday-01,1,2,148,Pleasant St - Inbound,42.351521,-71.118889
+70139,LRV312-hlb32011-Weekday-01,0,1,148,Pleasant St - Outbound,42.351521,-71.118889
+70140,LRV312-hlb32011-Weekday-01,1,2,148,Saint Paul St - Inbound,42.3512,-71.116104
+70141,LRV312-hlb32011-Weekday-01,0,1,148,Saint Paul St - Outbound,42.3512,-71.116104
+70142,LRV312-hlb32011-Weekday-01,1,2,148,Boston Univ West - Inbound,42.350941,-71.113876
+70143,LRV312-hlb32011-Weekday-01,0,1,148,Boston Univ West - Green Line B Outbound,42.350941,-71.113876
+70144,LRV312-hlb32011-Weekday-01,1,2,148,Boston Univ Central - Inbound,42.350082,-71.106865
+70145,LRV312-hlb32011-Weekday-01,0,1,148,Boston Univ Central - Outbound,42.350082,-71.106865
+70146,LRV312-hlb32011-Weekday-01,1,2,148,Boston Univ East - Inbound,42.349735,-71.103889
+70147,LRV312-hlb32011-Weekday-01,0,1,148,Boston Univ East - Outbound,42.349735,-71.103889
+70148,LRV312-hlb32011-Weekday-01,1,2,148,Blanford St - Inbound,42.349293,-71.100258
+70149,LRV312-hlb32011-Weekday-01,0,1,148,Blandford St - Outbound,42.349293,-71.100258
+70150,LRV312-hlb32011-Weekday-01,1,7,432,Kenmore Station - Inbound,42.348949,-71.095169
+70151,LRV312-hlb32011-Weekday-01,0,5,432,Kenmore Station - Outbound,42.348949,-71.095169
+70152,LRV312-hlb32011-Weekday-01,1,7,432,Hynes Station - Inbound,42.347888,-71.087903
+70153,LRV312-hlb32011-Weekday-01,0,5,432,Hynes Station - Outbound,42.347888,-71.087903
+70154,LRV312-hlb32011-Weekday-01,1,8,587,Copley Station - Inbound,42.349974,-71.077447
+70155,LRV312-hlb32011-Weekday-01,0,7,588,Copley Station - Outbound,42.349974,-71.077447
+70156,LRV312-hlb32011-Weekday-01,1,8,587,Arlington Station - Inbound,42.351902,-71.070893
+70157,LRV312-hlb32011-Weekday-01,0,7,588,Arlington Station - Outbound,42.351902,-71.070893
+70158,LRV312-hlb32011-Weekday-01,1,8,587,Boylston Station - Inbound,42.35302,-71.06459
+70159,LRV312-hlb32011-Weekday-01,0,7,588,Boylston Station - Outbound,42.35302,-71.06459
+70160,LRV312-hlb32011-Weekday-01,1,1,143,Riverside Station - Inbound,42.337059,-71.251742
+70161,LRV312-hlb32011-Weekday-01,0,1,143,Riverside Station - Green Line,42.337059,-71.251742
+70162,LRV312-hlb32011-Weekday-01,1,1,143,Woodland Station - Inbound,42.333374,-71.244301
+70163,LRV312-hlb32011-Weekday-01,0,1,143,Woodland Station - Outbound,42.333374,-71.244301
+70164,LRV312-hlb32011-Weekday-01,1,1,143,Waban Station - Inbound,42.325943,-71.230728
+70165,LRV312-hlb32011-Weekday-01,0,1,143,Waban Station - Outbound,42.325943,-71.230728
+70166,LRV312-hlb32011-Weekday-01,1,1,143,Eliot Station - Inbound,42.319023,-71.216713
+70167,LRV312-hlb32011-Weekday-01,0,1,143,Eliot Station - Outbound,42.319023,-71.216713
+70168,LRV312-hlb32011-Weekday-01,1,1,143,Newton Highlands Station - Inbound,42.321735,-71.206116
+70169,LRV312-hlb32011-Weekday-01,0,1,143,Newton Highlands Station - Outbound,42.321735,-71.206116
+70170,LRV312-hlb32011-Weekday-01,1,1,143,Newton Centre Station - Inbound,42.329391,-71.192429
+70171,LRV312-hlb32011-Weekday-01,0,1,143,Newton Centre Station - Outbound,42.329391,-71.192429
+70172,LRV312-hlb32011-Weekday-01,1,1,143,Chestnut Hill Station - Inbound,42.326653,-71.165314
+70173,LRV312-hlb32011-Weekday-01,0,1,143,Chestnut Hill Station - Outbound,42.326653,-71.165314
+70174,LRV312-hlb32011-Weekday-01,1,3,151,Reservoir Station - Inbound,42.335027,-71.148952
+70175,LRV312-hlb32011-Weekday-01,0,2,151,Reservoir Station - Outbound,42.335027,-71.148952
+70176,LRV312-hlb32011-Weekday-01,1,3,151,Beaconsfield Station - Inbound,42.335846,-71.140823
+70177,LRV312-hlb32011-Weekday-01,0,2,151,Beaconsfield Station - Outbound,42.335846,-71.140823
+70178,LRV312-hlb32011-Weekday-01,1,3,151,Brookline Hills Station - Inbound,42.331333,-71.126999
+70179,LRV312-hlb32011-Weekday-01,0,2,151,Brookline Hills Station - Outbound,42.331333,-71.126999
+70180,LRV312-hlb32011-Weekday-01,1,3,151,Brookline Village Station - Inbound,42.332774,-71.116296
+70181,LRV312-hlb32011-Weekday-01,0,2,151,Brookline Village Station - Outbound,42.332774,-71.116296
+70182,LRV312-hlb32011-Weekday-01,1,3,151,Longwood Station - Inbound,42.341145,-71.110451
+70183,LRV312-hlb32011-Weekday-01,0,2,151,Longwood Station - Outbound,42.341145,-71.110451
+70186,LRV312-hlb32011-Weekday-01,1,3,151,Fenway Station - Inbound,42.345394,-71.104187
+70187,LRV312-hlb32011-Weekday-01,0,2,151,Fenway Station - Outbound,42.345394,-71.104187
+70196,LRV312-hlb32011-Weekday-01,0,1,148,Park St Station - Green Line - B Berth,42.356395,-71.062424
+70197,LRV312-hlb32011-Weekday-01,0,2,133,Park St Station - Green Line - C Branch Berth,42.356395,-71.062424
+70198,LRV312-hlb32011-Weekday-01,0,2,151,Park St Station - Green Line - D Branch Berth,42.356395,-71.062424
+70199,LRV312-hlb32011-Weekday-01,0,2,156,Park St Station - Green Line - E Line Berth,42.356395,-71.062424
+70200,LRV312-hlb32011-Weekday-01,1,8,587,Park St Station - Green Line Eastbound,42.356395,-71.062424
+70201,LRV312-hlb32011-Weekday-01,1,8,587,Government Center Station - Green Line Eastbound,42.359705,-71.059215
+70202,LRV312-hlb32011-Weekday-01,0,7,588,Government Center Station - Green Line Westbound,42.359705,-71.059215
+70203,LRV312-hlb32011-Weekday-01,1,4,291,Haymarket - Green Line Outbound,42.363021,-71.05829
+70204,LRV312-hlb32011-Weekday-01,0,4,292,Haymarket - Green Line Inbound,42.363021,-71.05829
+70205,LRV312-hlb32011-Weekday-01,1,4,291,North Station - Green Line Outbound,42.365577,-71.06129
+70206,LRV312-hlb32011-Weekday-01,0,4,292,North Station - Green Line Inbound,42.365577,-71.06129
+70207,LRV312-hlb32011-Weekday-01,1,3,161,Science Park - Green Line Outbound,42.366664,-71.067666
+70208,LRV312-hlb32011-Weekday-01,0,3,162,Science Park - Green Line Inbound,42.366664,-71.067666
+70209,LRV312-hlb32011-Weekday-01,1,3,161,Lechmere - Green Line,42.370772,-71.076536
+70210,LRV312-hlb32011-Weekday-01,0,3,162,Lechmere - Green Line Inbound,42.370772,-71.076536
+70211,LRV312-hlb32011-Weekday-01,0,2,133,Saint Mary St - Outbound,42.345974,-71.107353
+70212,LRV312-hlb32011-Weekday-01,1,2,133,Saint Mary St - Inbound,42.345974,-71.107353
+70213,LRV312-hlb32011-Weekday-01,0,2,133,Hawes St - Outbound,42.344906,-71.111145
+70214,LRV312-hlb32011-Weekday-01,1,2,133,Hawes St - Inbound,42.344906,-71.111145
+70215,LRV312-hlb32011-Weekday-01,0,2,133,Kent St - Outbound,42.344074,-71.114197
+70216,LRV312-hlb32011-Weekday-01,1,2,133,Kent St - Inbound,42.344074,-71.114197
+70217,LRV312-hlb32011-Weekday-01,0,2,133,Saint Paul St - Outbound,42.343327,-71.116997
+70218,LRV312-hlb32011-Weekday-01,1,2,133,Saint Paul St - Inbound,42.343327,-71.116997
+70219,LRV312-hlb32011-Weekday-01,0,2,133,Coolidge Corner - Outbound,42.342213,-71.121201
+70220,LRV312-hlb32011-Weekday-01,1,2,133,Coolidge Corner - Inbound,42.342213,-71.121201
+70223,LRV312-hlb32011-Weekday-01,0,2,133,Summit Ave - Outbound,42.34111,-71.12561
+70224,LRV312-hlb32011-Weekday-01,1,2,133,Summit Ave - Inbound,42.34111,-71.12561
+70225,LRV312-hlb32011-Weekday-01,0,2,133,Brandon Hall - Outbound,42.340023,-71.129082
+70226,LRV312-hlb32011-Weekday-01,1,2,133,Brandon Hall - Inbound,42.340023,-71.129082
+70227,LRV312-hlb32011-Weekday-01,0,2,133,Fairbanks St - Outbound,42.339725,-71.131073
+70228,LRV312-hlb32011-Weekday-01,1,2,133,Fairbanks St - Inbound,42.339725,-71.131073
+70229,LRV312-hlb32011-Weekday-01,0,2,133,Washington Sq - Outbound,42.339394,-71.13533
+70230,LRV312-hlb32011-Weekday-01,1,2,133,Washington Sq - Inbound,42.339394,-71.13533
+70231,LRV312-hlb32011-Weekday-01,0,2,133,Tappan St - Outbound,42.338459,-71.138702
+70232,LRV312-hlb32011-Weekday-01,1,2,133,Tappan St - Inbound,42.338459,-71.138702
+70233,LRV312-hlb32011-Weekday-01,0,2,133,Dean Rd - Outbound,42.337807,-71.141853
+70234,LRV312-hlb32011-Weekday-01,1,2,133,Dean Rd - Inbound,42.337807,-71.141853
+70235,LRV312-hlb32011-Weekday-01,0,2,133,Englewood Ave - Outbound,42.336971,-71.14566
+70236,LRV312-hlb32011-Weekday-01,1,2,133,Englewood Ave - Inbound,42.336971,-71.14566
+70237,LRV312-hlb32011-Weekday-01,0,2,133,Cleveland Circle Platform,42.336142,-71.149326
+70238,LRV312-hlb32011-Weekday-01,1,2,133,Cleveland Circle Platform - Inbound,42.336142,-71.149326
+70239,LRV312-hlb32011-Weekday-01,0,2,156,Prudential Station - Outbound,42.34557,-71.081696
+70240,LRV312-hlb32011-Weekday-01,1,1,155,Prudential Station - Inbound,42.34557,-71.081696
+70241,LRV312-hlb32011-Weekday-01,0,2,156,Symphony Station - Outbound,42.342687,-71.085056
+70242,LRV312-hlb32011-Weekday-01,1,1,155,Symphony Station - Inbound,42.342687,-71.085056
+70243,LRV312-hlb32011-Weekday-01,0,2,156,Northeastern - Outbound,42.340401,-71.088806
+70244,LRV312-hlb32011-Weekday-01,1,1,155,Northeastern - Inbound,42.340401,-71.088806
+70245,LRV312-hlb32011-Weekday-01,0,2,156,Museum of Fine Arts - Outbound,42.337711,-71.095512
+70246,LRV312-hlb32011-Weekday-01,1,1,155,Museum of Fine Arts - Inbound,42.337711,-71.095512
+70247,LRV312-hlb32011-Weekday-01,0,2,156,Longwood Med Area - Outbound,42.33596,-71.100052
+70248,LRV312-hlb32011-Weekday-01,1,1,155,Longwood Med Area - Inbound,42.33596,-71.100052
+70249,LRV312-hlb32011-Weekday-01,0,2,156,Brigham Circle - Outbound,42.334229,-71.104609
+70250,LRV312-hlb32011-Weekday-01,1,1,155,Brigham Circle - Inbound,42.334229,-71.104609
+70251,LRV312-hlb32011-Weekday-01,0,2,156,Fenwood Rd - Outbound,42.333706,-71.105728
+70252,LRV312-hlb32011-Weekday-01,1,1,155,Fenwood Rd - Inbound,42.333706,-71.105728
+70253,LRV312-hlb32011-Weekday-01,0,2,156,Mission Park - Outbound,42.333195,-71.109756
+70254,LRV312-hlb32011-Weekday-01,1,1,155,Mission Park - Inbound,42.333195,-71.109756
+70255,LRV312-hlb32011-Weekday-01,0,2,156,Riverway - Outbound,42.331684,-71.111931
+70256,LRV312-hlb32011-Weekday-01,1,1,155,Riverway - Inbound,42.331684,-71.111931
+70257,LRV312-hlb32011-Weekday-01,0,2,156,Back of Hill - Outbound,42.330139,-71.111313
+70258,LRV312-hlb32011-Weekday-01,1,1,155,Back of Hill - Inbound,42.330139,-71.111313
+70260,LRV312-hlb32011-Weekday-01,0,2,156,Heath St Platform - Green Line E,42.328681,-71.110559
+70260,LRV312-hlb32011-Weekday-01,1,1,155,Heath St Platform - Green Line E,42.328681,-71.110559
+70106,LRV312-hlb32017-Sunday-01,1,2,128,Boston College Station - Inbound,42.340081,-71.166769
+70107,LRV312-hlb32017-Sunday-01,0,2,128,Boston College Station - Green Line,42.340081,-71.166769
+70110,LRV312-hlb32017-Sunday-01,1,2,128,South St - Inbound,42.3396,-71.157661
+70111,LRV312-hlb32017-Sunday-01,0,2,128,South St -  Outbound,42.3396,-71.157661
+70112,LRV312-hlb32017-Sunday-01,1,2,128,Chestnut Hill Ave - Inbound,42.338169,-71.15316
+70113,LRV312-hlb32017-Sunday-01,0,2,128,Chestnut Hill Ave - Outbound,42.338169,-71.15316
+70114,LRV312-hlb32017-Sunday-01,1,2,128,Chiswick Rd - Inbound,42.340805,-71.150711
+70115,LRV312-hlb32017-Sunday-01,0,2,128,Chiswick Rd - Green Line B Outbound,42.340805,-71.150711
+70116,LRV312-hlb32017-Sunday-01,1,2,128,Sutherland Rd - Inbound,42.341614,-71.146202
+70117,LRV312-hlb32017-Sunday-01,0,2,128,Sutherland Rd - Outbound,42.341614,-71.146202
+70120,LRV312-hlb32017-Sunday-01,1,2,128,Washington St - Inbound,42.343864,-71.142853
+70121,LRV312-hlb32017-Sunday-01,0,2,128,Washington St - Outbound,42.343864,-71.142853
+70124,LRV312-hlb32017-Sunday-01,1,2,128,Warren St - Inbound,42.348343,-71.140457
+70125,LRV312-hlb32017-Sunday-01,0,2,128,Warren St - Outbound,42.348343,-71.140457
+70126,LRV312-hlb32017-Sunday-01,1,2,128,Allston St - Inbound,42.348701,-71.137955
+70127,LRV312-hlb32017-Sunday-01,0,2,128,Allston St - Outbound,42.348701,-71.137955
+70128,LRV312-hlb32017-Sunday-01,1,2,128,Griggs St - Inbound,42.348545,-71.134949
+70129,LRV312-hlb32017-Sunday-01,0,2,128,Griggs St - Outbound,42.348545,-71.134949
+70130,LRV312-hlb32017-Sunday-01,1,2,128,Harvard Ave - Inbound,42.350243,-71.131355
+70131,LRV312-hlb32017-Sunday-01,0,2,128,Harvard Ave - Westbound,42.350243,-71.131355
+70134,LRV312-hlb32017-Sunday-01,1,2,128,Packards Corner - Inbound,42.351967,-71.125031
+70135,LRV312-hlb32017-Sunday-01,0,2,128,Packards Corner - Outbound,42.351967,-71.125031
+70136,LRV312-hlb32017-Sunday-01,1,2,128,Babcock St - Inbound,42.35182,-71.12165
+70137,LRV312-hlb32017-Sunday-01,0,2,128,Babcock St - Outbound,42.35182,-71.12165
+70138,LRV312-hlb32017-Sunday-01,1,2,128,Pleasant St - Inbound,42.351521,-71.118889
+70139,LRV312-hlb32017-Sunday-01,0,2,128,Pleasant St - Outbound,42.351521,-71.118889
+70140,LRV312-hlb32017-Sunday-01,1,2,128,Saint Paul St - Inbound,42.3512,-71.116104
+70141,LRV312-hlb32017-Sunday-01,0,2,128,Saint Paul St - Outbound,42.3512,-71.116104
+70142,LRV312-hlb32017-Sunday-01,1,2,128,Boston Univ West - Inbound,42.350941,-71.113876
+70143,LRV312-hlb32017-Sunday-01,0,2,128,Boston Univ West - Green Line B Outbound,42.350941,-71.113876
+70144,LRV312-hlb32017-Sunday-01,1,2,128,Boston Univ Central - Inbound,42.350082,-71.106865
+70145,LRV312-hlb32017-Sunday-01,0,2,128,Boston Univ Central - Outbound,42.350082,-71.106865
+70146,LRV312-hlb32017-Sunday-01,1,2,128,Boston Univ East - Inbound,42.349735,-71.103889
+70147,LRV312-hlb32017-Sunday-01,0,2,128,Boston Univ East - Outbound,42.349735,-71.103889
+70148,LRV312-hlb32017-Sunday-01,1,2,128,Blanford St - Inbound,42.349293,-71.100258
+70149,LRV312-hlb32017-Sunday-01,0,2,128,Blandford St - Outbound,42.349293,-71.100258
+70150,LRV312-hlb32017-Sunday-01,1,5,359,Kenmore Station - Inbound,42.348949,-71.095169
+70151,LRV312-hlb32017-Sunday-01,0,5,359,Kenmore Station - Outbound,42.348949,-71.095169
+70152,LRV312-hlb32017-Sunday-01,1,5,359,Hynes Station - Inbound,42.347888,-71.087903
+70153,LRV312-hlb32017-Sunday-01,0,5,359,Hynes Station - Outbound,42.347888,-71.087903
+70154,LRV312-hlb32017-Sunday-01,1,6,464,Copley Station - Inbound,42.349974,-71.077447
+70155,LRV312-hlb32017-Sunday-01,0,6,465,Copley Station - Outbound,42.349974,-71.077447
+70156,LRV312-hlb32017-Sunday-01,1,6,464,Arlington Station - Inbound,42.351902,-71.070893
+70157,LRV312-hlb32017-Sunday-01,0,6,465,Arlington Station - Outbound,42.351902,-71.070893
+70158,LRV312-hlb32017-Sunday-01,1,6,464,Boylston Station - Inbound,42.35302,-71.06459
+70159,LRV312-hlb32017-Sunday-01,0,6,465,Boylston Station - Outbound,42.35302,-71.06459
+70160,LRV312-hlb32017-Sunday-01,1,1,114,Riverside Station - Inbound,42.337059,-71.251742
+70161,LRV312-hlb32017-Sunday-01,0,1,114,Riverside Station - Green Line,42.337059,-71.251742
+70162,LRV312-hlb32017-Sunday-01,1,1,114,Woodland Station - Inbound,42.333374,-71.244301
+70163,LRV312-hlb32017-Sunday-01,0,1,114,Woodland Station - Outbound,42.333374,-71.244301
+70164,LRV312-hlb32017-Sunday-01,1,1,114,Waban Station - Inbound,42.325943,-71.230728
+70165,LRV312-hlb32017-Sunday-01,0,1,114,Waban Station - Outbound,42.325943,-71.230728
+70166,LRV312-hlb32017-Sunday-01,1,1,114,Eliot Station - Inbound,42.319023,-71.216713
+70167,LRV312-hlb32017-Sunday-01,0,1,114,Eliot Station - Outbound,42.319023,-71.216713
+70168,LRV312-hlb32017-Sunday-01,1,1,114,Newton Highlands Station - Inbound,42.321735,-71.206116
+70169,LRV312-hlb32017-Sunday-01,0,1,114,Newton Highlands Station - Outbound,42.321735,-71.206116
+70170,LRV312-hlb32017-Sunday-01,1,1,114,Newton Centre Station - Inbound,42.329391,-71.192429
+70171,LRV312-hlb32017-Sunday-01,0,1,114,Newton Centre Station - Outbound,42.329391,-71.192429
+70172,LRV312-hlb32017-Sunday-01,1,1,114,Chestnut Hill Station - Inbound,42.326653,-71.165314
+70173,LRV312-hlb32017-Sunday-01,0,1,114,Chestnut Hill Station - Outbound,42.326653,-71.165314
+70174,LRV312-hlb32017-Sunday-01,1,1,114,Reservoir Station - Inbound,42.335027,-71.148952
+70175,LRV312-hlb32017-Sunday-01,0,1,114,Reservoir Station - Outbound,42.335027,-71.148952
+70176,LRV312-hlb32017-Sunday-01,1,1,114,Beaconsfield Station - Inbound,42.335846,-71.140823
+70177,LRV312-hlb32017-Sunday-01,0,1,114,Beaconsfield Station - Outbound,42.335846,-71.140823
+70178,LRV312-hlb32017-Sunday-01,1,1,114,Brookline Hills Station - Inbound,42.331333,-71.126999
+70179,LRV312-hlb32017-Sunday-01,0,1,114,Brookline Hills Station - Outbound,42.331333,-71.126999
+70180,LRV312-hlb32017-Sunday-01,1,1,114,Brookline Village Station - Inbound,42.332774,-71.116296
+70181,LRV312-hlb32017-Sunday-01,0,1,114,Brookline Village Station - Outbound,42.332774,-71.116296
+70182,LRV312-hlb32017-Sunday-01,1,1,114,Longwood Station - Inbound,42.341145,-71.110451
+70183,LRV312-hlb32017-Sunday-01,0,1,114,Longwood Station - Outbound,42.341145,-71.110451
+70186,LRV312-hlb32017-Sunday-01,1,1,114,Fenway Station - Inbound,42.345394,-71.104187
+70187,LRV312-hlb32017-Sunday-01,0,1,114,Fenway Station - Outbound,42.345394,-71.104187
+70196,LRV312-hlb32017-Sunday-01,0,2,128,Park St Station - Green Line - B Berth,42.356395,-71.062424
+70197,LRV312-hlb32017-Sunday-01,0,2,117,Park St Station - Green Line - C Branch Berth,42.356395,-71.062424
+70198,LRV312-hlb32017-Sunday-01,0,1,114,Park St Station - Green Line - D Branch Berth,42.356395,-71.062424
+70199,LRV312-hlb32017-Sunday-01,0,1,106,Park St Station - Green Line - E Line Berth,42.356395,-71.062424
+70200,LRV312-hlb32017-Sunday-01,1,6,464,Park St Station - Green Line Eastbound,42.356395,-71.062424
+70201,LRV312-hlb32017-Sunday-01,1,6,464,Government Center Station - Green Line Eastbound,42.359705,-71.059215
+70202,LRV312-hlb32017-Sunday-01,0,6,465,Government Center Station - Green Line Westbound,42.359705,-71.059215
+70203,LRV312-hlb32017-Sunday-01,1,4,223,Haymarket - Green Line Outbound,42.363021,-71.05829
+70204,LRV312-hlb32017-Sunday-01,0,4,224,Haymarket - Green Line Inbound,42.363021,-71.05829
+70205,LRV312-hlb32017-Sunday-01,1,4,223,North Station - Green Line Outbound,42.365577,-71.06129
+70206,LRV312-hlb32017-Sunday-01,0,4,224,North Station - Green Line Inbound,42.365577,-71.06129
+70207,LRV312-hlb32017-Sunday-01,1,3,107,Science Park - Green Line Outbound,42.366664,-71.067666
+70208,LRV312-hlb32017-Sunday-01,0,3,108,Science Park - Green Line Inbound,42.366664,-71.067666
+70209,LRV312-hlb32017-Sunday-01,1,3,107,Lechmere - Green Line,42.370772,-71.076536
+70210,LRV312-hlb32017-Sunday-01,0,3,108,Lechmere - Green Line Inbound,42.370772,-71.076536
+70211,LRV312-hlb32017-Sunday-01,0,2,117,Saint Mary St - Outbound,42.345974,-71.107353
+70212,LRV312-hlb32017-Sunday-01,1,2,117,Saint Mary St - Inbound,42.345974,-71.107353
+70213,LRV312-hlb32017-Sunday-01,0,2,117,Hawes St - Outbound,42.344906,-71.111145
+70214,LRV312-hlb32017-Sunday-01,1,2,117,Hawes St - Inbound,42.344906,-71.111145
+70215,LRV312-hlb32017-Sunday-01,0,2,117,Kent St - Outbound,42.344074,-71.114197
+70216,LRV312-hlb32017-Sunday-01,1,2,117,Kent St - Inbound,42.344074,-71.114197
+70217,LRV312-hlb32017-Sunday-01,0,2,117,Saint Paul St - Outbound,42.343327,-71.116997
+70218,LRV312-hlb32017-Sunday-01,1,2,117,Saint Paul St - Inbound,42.343327,-71.116997
+70219,LRV312-hlb32017-Sunday-01,0,2,117,Coolidge Corner - Outbound,42.342213,-71.121201
+70220,LRV312-hlb32017-Sunday-01,1,2,117,Coolidge Corner - Inbound,42.342213,-71.121201
+70223,LRV312-hlb32017-Sunday-01,0,2,117,Summit Ave - Outbound,42.34111,-71.12561
+70224,LRV312-hlb32017-Sunday-01,1,2,117,Summit Ave - Inbound,42.34111,-71.12561
+70225,LRV312-hlb32017-Sunday-01,0,2,117,Brandon Hall - Outbound,42.340023,-71.129082
+70226,LRV312-hlb32017-Sunday-01,1,2,117,Brandon Hall - Inbound,42.340023,-71.129082
+70227,LRV312-hlb32017-Sunday-01,0,2,117,Fairbanks St - Outbound,42.339725,-71.131073
+70228,LRV312-hlb32017-Sunday-01,1,2,117,Fairbanks St - Inbound,42.339725,-71.131073
+70229,LRV312-hlb32017-Sunday-01,0,2,117,Washington Sq - Outbound,42.339394,-71.13533
+70230,LRV312-hlb32017-Sunday-01,1,2,117,Washington Sq - Inbound,42.339394,-71.13533
+70231,LRV312-hlb32017-Sunday-01,0,2,117,Tappan St - Outbound,42.338459,-71.138702
+70232,LRV312-hlb32017-Sunday-01,1,2,117,Tappan St - Inbound,42.338459,-71.138702
+70233,LRV312-hlb32017-Sunday-01,0,2,117,Dean Rd - Outbound,42.337807,-71.141853
+70234,LRV312-hlb32017-Sunday-01,1,2,117,Dean Rd - Inbound,42.337807,-71.141853
+70235,LRV312-hlb32017-Sunday-01,0,2,117,Englewood Ave - Outbound,42.336971,-71.14566
+70236,LRV312-hlb32017-Sunday-01,1,2,117,Englewood Ave - Inbound,42.336971,-71.14566
+70237,LRV312-hlb32017-Sunday-01,0,2,117,Cleveland Circle Platform,42.336142,-71.149326
+70238,LRV312-hlb32017-Sunday-01,1,2,117,Cleveland Circle Platform - Inbound,42.336142,-71.149326
+70239,LRV312-hlb32017-Sunday-01,0,1,106,Prudential Station - Outbound,42.34557,-71.081696
+70240,LRV312-hlb32017-Sunday-01,1,1,105,Prudential Station - Inbound,42.34557,-71.081696
+70241,LRV312-hlb32017-Sunday-01,0,1,106,Symphony Station - Outbound,42.342687,-71.085056
+70242,LRV312-hlb32017-Sunday-01,1,1,105,Symphony Station - Inbound,42.342687,-71.085056
+70243,LRV312-hlb32017-Sunday-01,0,1,106,Northeastern - Outbound,42.340401,-71.088806
+70244,LRV312-hlb32017-Sunday-01,1,1,105,Northeastern - Inbound,42.340401,-71.088806
+70245,LRV312-hlb32017-Sunday-01,0,1,106,Museum of Fine Arts - Outbound,42.337711,-71.095512
+70246,LRV312-hlb32017-Sunday-01,1,1,105,Museum of Fine Arts - Inbound,42.337711,-71.095512
+70247,LRV312-hlb32017-Sunday-01,0,1,106,Longwood Med Area - Outbound,42.33596,-71.100052
+70248,LRV312-hlb32017-Sunday-01,1,1,105,Longwood Med Area - Inbound,42.33596,-71.100052
+70249,LRV312-hlb32017-Sunday-01,0,1,106,Brigham Circle - Outbound,42.334229,-71.104609
+70250,LRV312-hlb32017-Sunday-01,1,1,105,Brigham Circle - Inbound,42.334229,-71.104609
+70106,LRV312-hlb32026-Saturday-01,1,2,157,Boston College Station - Inbound,42.340081,-71.166769
+70107,LRV312-hlb32026-Saturday-01,0,2,157,Boston College Station - Green Line,42.340081,-71.166769
+70110,LRV312-hlb32026-Saturday-01,1,2,157,South St - Inbound,42.3396,-71.157661
+70111,LRV312-hlb32026-Saturday-01,0,2,157,South St -  Outbound,42.3396,-71.157661
+70112,LRV312-hlb32026-Saturday-01,1,2,157,Chestnut Hill Ave - Inbound,42.338169,-71.15316
+70113,LRV312-hlb32026-Saturday-01,0,2,157,Chestnut Hill Ave - Outbound,42.338169,-71.15316
+70114,LRV312-hlb32026-Saturday-01,1,2,157,Chiswick Rd - Inbound,42.340805,-71.150711
+70115,LRV312-hlb32026-Saturday-01,0,2,157,Chiswick Rd - Green Line B Outbound,42.340805,-71.150711
+70116,LRV312-hlb32026-Saturday-01,1,2,157,Sutherland Rd - Inbound,42.341614,-71.146202
+70117,LRV312-hlb32026-Saturday-01,0,2,157,Sutherland Rd - Outbound,42.341614,-71.146202
+70120,LRV312-hlb32026-Saturday-01,1,2,157,Washington St - Inbound,42.343864,-71.142853
+70121,LRV312-hlb32026-Saturday-01,0,2,157,Washington St - Outbound,42.343864,-71.142853
+70124,LRV312-hlb32026-Saturday-01,1,2,157,Warren St - Inbound,42.348343,-71.140457
+70125,LRV312-hlb32026-Saturday-01,0,2,157,Warren St - Outbound,42.348343,-71.140457
+70126,LRV312-hlb32026-Saturday-01,1,2,157,Allston St - Inbound,42.348701,-71.137955
+70127,LRV312-hlb32026-Saturday-01,0,2,157,Allston St - Outbound,42.348701,-71.137955
+70128,LRV312-hlb32026-Saturday-01,1,2,157,Griggs St - Inbound,42.348545,-71.134949
+70129,LRV312-hlb32026-Saturday-01,0,2,157,Griggs St - Outbound,42.348545,-71.134949
+70130,LRV312-hlb32026-Saturday-01,1,2,157,Harvard Ave - Inbound,42.350243,-71.131355
+70131,LRV312-hlb32026-Saturday-01,0,2,157,Harvard Ave - Westbound,42.350243,-71.131355
+70134,LRV312-hlb32026-Saturday-01,1,2,157,Packards Corner - Inbound,42.351967,-71.125031
+70135,LRV312-hlb32026-Saturday-01,0,2,157,Packards Corner - Outbound,42.351967,-71.125031
+70136,LRV312-hlb32026-Saturday-01,1,2,157,Babcock St - Inbound,42.35182,-71.12165
+70137,LRV312-hlb32026-Saturday-01,0,2,157,Babcock St - Outbound,42.35182,-71.12165
+70138,LRV312-hlb32026-Saturday-01,1,2,157,Pleasant St - Inbound,42.351521,-71.118889
+70139,LRV312-hlb32026-Saturday-01,0,2,157,Pleasant St - Outbound,42.351521,-71.118889
+70140,LRV312-hlb32026-Saturday-01,1,2,157,Saint Paul St - Inbound,42.3512,-71.116104
+70141,LRV312-hlb32026-Saturday-01,0,2,157,Saint Paul St - Outbound,42.3512,-71.116104
+70142,LRV312-hlb32026-Saturday-01,1,2,157,Boston Univ West - Inbound,42.350941,-71.113876
+70143,LRV312-hlb32026-Saturday-01,0,2,157,Boston Univ West - Green Line B Outbound,42.350941,-71.113876
+70144,LRV312-hlb32026-Saturday-01,1,2,157,Boston Univ Central - Inbound,42.350082,-71.106865
+70145,LRV312-hlb32026-Saturday-01,0,2,157,Boston Univ Central - Outbound,42.350082,-71.106865
+70146,LRV312-hlb32026-Saturday-01,1,2,157,Boston Univ East - Inbound,42.349735,-71.103889
+70147,LRV312-hlb32026-Saturday-01,0,2,157,Boston Univ East - Outbound,42.349735,-71.103889
+70148,LRV312-hlb32026-Saturday-01,1,2,157,Blanford St - Inbound,42.349293,-71.100258
+70149,LRV312-hlb32026-Saturday-01,0,2,157,Blandford St - Outbound,42.349293,-71.100258
+70150,LRV312-hlb32026-Saturday-01,1,5,430,Kenmore Station - Inbound,42.348949,-71.095169
+70151,LRV312-hlb32026-Saturday-01,0,5,430,Kenmore Station - Outbound,42.348949,-71.095169
+70152,LRV312-hlb32026-Saturday-01,1,5,430,Hynes Station - Inbound,42.347888,-71.087903
+70153,LRV312-hlb32026-Saturday-01,0,5,430,Hynes Station - Outbound,42.347888,-71.087903
+70154,LRV312-hlb32026-Saturday-01,1,6,567,Copley Station - Inbound,42.349974,-71.077447
+70155,LRV312-hlb32026-Saturday-01,0,6,568,Copley Station - Outbound,42.349974,-71.077447
+70156,LRV312-hlb32026-Saturday-01,1,6,567,Arlington Station - Inbound,42.351902,-71.070893
+70157,LRV312-hlb32026-Saturday-01,0,6,568,Arlington Station - Outbound,42.351902,-71.070893
+70158,LRV312-hlb32026-Saturday-01,1,6,567,Boylston Station - Inbound,42.35302,-71.06459
+70159,LRV312-hlb32026-Saturday-01,0,6,568,Boylston Station - Outbound,42.35302,-71.06459
+70160,LRV312-hlb32026-Saturday-01,1,1,137,Riverside Station - Inbound,42.337059,-71.251742
+70161,LRV312-hlb32026-Saturday-01,0,1,137,Riverside Station - Green Line,42.337059,-71.251742
+70162,LRV312-hlb32026-Saturday-01,1,1,137,Woodland Station - Inbound,42.333374,-71.244301
+70163,LRV312-hlb32026-Saturday-01,0,1,137,Woodland Station - Outbound,42.333374,-71.244301
+70164,LRV312-hlb32026-Saturday-01,1,1,137,Waban Station - Inbound,42.325943,-71.230728
+70165,LRV312-hlb32026-Saturday-01,0,1,137,Waban Station - Outbound,42.325943,-71.230728
+70166,LRV312-hlb32026-Saturday-01,1,1,137,Eliot Station - Inbound,42.319023,-71.216713
+70167,LRV312-hlb32026-Saturday-01,0,1,137,Eliot Station - Outbound,42.319023,-71.216713
+70168,LRV312-hlb32026-Saturday-01,1,1,137,Newton Highlands Station - Inbound,42.321735,-71.206116
+70169,LRV312-hlb32026-Saturday-01,0,1,137,Newton Highlands Station - Outbound,42.321735,-71.206116
+70170,LRV312-hlb32026-Saturday-01,1,1,137,Newton Centre Station - Inbound,42.329391,-71.192429
+70171,LRV312-hlb32026-Saturday-01,0,1,137,Newton Centre Station - Outbound,42.329391,-71.192429
+70172,LRV312-hlb32026-Saturday-01,1,1,137,Chestnut Hill Station - Inbound,42.326653,-71.165314
+70173,LRV312-hlb32026-Saturday-01,0,1,137,Chestnut Hill Station - Outbound,42.326653,-71.165314
+70174,LRV312-hlb32026-Saturday-01,1,1,137,Reservoir Station - Inbound,42.335027,-71.148952
+70175,LRV312-hlb32026-Saturday-01,0,1,137,Reservoir Station - Outbound,42.335027,-71.148952
+70176,LRV312-hlb32026-Saturday-01,1,1,137,Beaconsfield Station - Inbound,42.335846,-71.140823
+70177,LRV312-hlb32026-Saturday-01,0,1,137,Beaconsfield Station - Outbound,42.335846,-71.140823
+70178,LRV312-hlb32026-Saturday-01,1,1,137,Brookline Hills Station - Inbound,42.331333,-71.126999
+70179,LRV312-hlb32026-Saturday-01,0,1,137,Brookline Hills Station - Outbound,42.331333,-71.126999
+70180,LRV312-hlb32026-Saturday-01,1,1,137,Brookline Village Station - Inbound,42.332774,-71.116296
+70181,LRV312-hlb32026-Saturday-01,0,1,137,Brookline Village Station - Outbound,42.332774,-71.116296
+70182,LRV312-hlb32026-Saturday-01,1,1,137,Longwood Station - Inbound,42.341145,-71.110451
+70183,LRV312-hlb32026-Saturday-01,0,1,137,Longwood Station - Outbound,42.341145,-71.110451
+70186,LRV312-hlb32026-Saturday-01,1,1,137,Fenway Station - Inbound,42.345394,-71.104187
+70187,LRV312-hlb32026-Saturday-01,0,1,137,Fenway Station - Outbound,42.345394,-71.104187
+70196,LRV312-hlb32026-Saturday-01,0,2,157,Park St Station - Green Line - B Berth,42.356395,-71.062424
+70197,LRV312-hlb32026-Saturday-01,0,2,136,Park St Station - Green Line - C Branch Berth,42.356395,-71.062424
+70198,LRV312-hlb32026-Saturday-01,0,1,137,Park St Station - Green Line - D Branch Berth,42.356395,-71.062424
+70199,LRV312-hlb32026-Saturday-01,0,1,138,Park St Station - Green Line - E Line Berth,42.356395,-71.062424
+70200,LRV312-hlb32026-Saturday-01,1,6,567,Park St Station - Green Line Eastbound,42.356395,-71.062424
+70201,LRV312-hlb32026-Saturday-01,1,6,567,Government Center Station - Green Line Eastbound,42.359705,-71.059215
+70202,LRV312-hlb32026-Saturday-01,0,6,568,Government Center Station - Green Line Westbound,42.359705,-71.059215
+70203,LRV312-hlb32026-Saturday-01,1,4,274,Haymarket - Green Line Outbound,42.363021,-71.05829
+70204,LRV312-hlb32026-Saturday-01,0,4,275,Haymarket - Green Line Inbound,42.363021,-71.05829
+70205,LRV312-hlb32026-Saturday-01,1,4,274,North Station - Green Line Outbound,42.365577,-71.06129
+70206,LRV312-hlb32026-Saturday-01,0,4,275,North Station - Green Line Inbound,42.365577,-71.06129
+70207,LRV312-hlb32026-Saturday-01,1,3,139,Science Park - Green Line Outbound,42.366664,-71.067666
+70208,LRV312-hlb32026-Saturday-01,0,3,140,Science Park - Green Line Inbound,42.366664,-71.067666
+70209,LRV312-hlb32026-Saturday-01,1,3,139,Lechmere - Green Line,42.370772,-71.076536
+70210,LRV312-hlb32026-Saturday-01,0,3,140,Lechmere - Green Line Inbound,42.370772,-71.076536
+70211,LRV312-hlb32026-Saturday-01,0,2,136,Saint Mary St - Outbound,42.345974,-71.107353
+70212,LRV312-hlb32026-Saturday-01,1,2,136,Saint Mary St - Inbound,42.345974,-71.107353
+70213,LRV312-hlb32026-Saturday-01,0,2,136,Hawes St - Outbound,42.344906,-71.111145
+70214,LRV312-hlb32026-Saturday-01,1,2,136,Hawes St - Inbound,42.344906,-71.111145
+70215,LRV312-hlb32026-Saturday-01,0,2,136,Kent St - Outbound,42.344074,-71.114197
+70216,LRV312-hlb32026-Saturday-01,1,2,136,Kent St - Inbound,42.344074,-71.114197
+70217,LRV312-hlb32026-Saturday-01,0,2,136,Saint Paul St - Outbound,42.343327,-71.116997
+70218,LRV312-hlb32026-Saturday-01,1,2,136,Saint Paul St - Inbound,42.343327,-71.116997
+70219,LRV312-hlb32026-Saturday-01,0,2,136,Coolidge Corner - Outbound,42.342213,-71.121201
+70220,LRV312-hlb32026-Saturday-01,1,2,136,Coolidge Corner - Inbound,42.342213,-71.121201
+70223,LRV312-hlb32026-Saturday-01,0,2,136,Summit Ave - Outbound,42.34111,-71.12561
+70224,LRV312-hlb32026-Saturday-01,1,2,136,Summit Ave - Inbound,42.34111,-71.12561
+70225,LRV312-hlb32026-Saturday-01,0,2,136,Brandon Hall - Outbound,42.340023,-71.129082
+70226,LRV312-hlb32026-Saturday-01,1,2,136,Brandon Hall - Inbound,42.340023,-71.129082
+70227,LRV312-hlb32026-Saturday-01,0,2,136,Fairbanks St - Outbound,42.339725,-71.131073
+70228,LRV312-hlb32026-Saturday-01,1,2,136,Fairbanks St - Inbound,42.339725,-71.131073
+70229,LRV312-hlb32026-Saturday-01,0,2,136,Washington Sq - Outbound,42.339394,-71.13533
+70230,LRV312-hlb32026-Saturday-01,1,2,136,Washington Sq - Inbound,42.339394,-71.13533
+70231,LRV312-hlb32026-Saturday-01,0,2,136,Tappan St - Outbound,42.338459,-71.138702
+70232,LRV312-hlb32026-Saturday-01,1,2,136,Tappan St - Inbound,42.338459,-71.138702
+70233,LRV312-hlb32026-Saturday-01,0,2,136,Dean Rd - Outbound,42.337807,-71.141853
+70234,LRV312-hlb32026-Saturday-01,1,2,136,Dean Rd - Inbound,42.337807,-71.141853
+70235,LRV312-hlb32026-Saturday-01,0,2,136,Englewood Ave - Outbound,42.336971,-71.14566
+70236,LRV312-hlb32026-Saturday-01,1,2,136,Englewood Ave - Inbound,42.336971,-71.14566
+70237,LRV312-hlb32026-Saturday-01,0,2,136,Cleveland Circle Platform,42.336142,-71.149326
+70238,LRV312-hlb32026-Saturday-01,1,2,136,Cleveland Circle Platform - Inbound,42.336142,-71.149326
+70239,LRV312-hlb32026-Saturday-01,0,1,138,Prudential Station - Outbound,42.34557,-71.081696
+70240,LRV312-hlb32026-Saturday-01,1,1,137,Prudential Station - Inbound,42.34557,-71.081696
+70241,LRV312-hlb32026-Saturday-01,0,1,138,Symphony Station - Outbound,42.342687,-71.085056
+70242,LRV312-hlb32026-Saturday-01,1,1,137,Symphony Station - Inbound,42.342687,-71.085056
+70243,LRV312-hlb32026-Saturday-01,0,1,138,Northeastern - Outbound,42.340401,-71.088806
+70244,LRV312-hlb32026-Saturday-01,1,1,137,Northeastern - Inbound,42.340401,-71.088806
+70245,LRV312-hlb32026-Saturday-01,0,1,138,Museum of Fine Arts - Outbound,42.337711,-71.095512
+70246,LRV312-hlb32026-Saturday-01,1,1,137,Museum of Fine Arts - Inbound,42.337711,-71.095512
+70247,LRV312-hlb32026-Saturday-01,0,1,138,Longwood Med Area - Outbound,42.33596,-71.100052
+70248,LRV312-hlb32026-Saturday-01,1,1,137,Longwood Med Area - Inbound,42.33596,-71.100052
+70249,LRV312-hlb32026-Saturday-01,0,1,138,Brigham Circle - Outbound,42.334229,-71.104609
+70250,LRV312-hlb32026-Saturday-01,1,1,137,Brigham Circle - Inbound,42.334229,-71.104609
+70106,LRV312-hlb32j47-Sunday-01,1,1,113,Boston College Station - Inbound,42.340081,-71.166769
+70107,LRV312-hlb32j47-Sunday-01,0,1,113,Boston College Station - Green Line,42.340081,-71.166769
+70110,LRV312-hlb32j47-Sunday-01,1,1,113,South St - Inbound,42.3396,-71.157661
+70111,LRV312-hlb32j47-Sunday-01,0,1,113,South St -  Outbound,42.3396,-71.157661
+70112,LRV312-hlb32j47-Sunday-01,1,1,113,Chestnut Hill Ave - Inbound,42.338169,-71.15316
+70113,LRV312-hlb32j47-Sunday-01,0,1,113,Chestnut Hill Ave - Outbound,42.338169,-71.15316
+70114,LRV312-hlb32j47-Sunday-01,1,1,113,Chiswick Rd - Inbound,42.340805,-71.150711
+70115,LRV312-hlb32j47-Sunday-01,0,1,113,Chiswick Rd - Green Line B Outbound,42.340805,-71.150711
+70116,LRV312-hlb32j47-Sunday-01,1,1,113,Sutherland Rd - Inbound,42.341614,-71.146202
+70117,LRV312-hlb32j47-Sunday-01,0,1,113,Sutherland Rd - Outbound,42.341614,-71.146202
+70120,LRV312-hlb32j47-Sunday-01,1,1,113,Washington St - Inbound,42.343864,-71.142853
+70121,LRV312-hlb32j47-Sunday-01,0,1,113,Washington St - Outbound,42.343864,-71.142853
+70124,LRV312-hlb32j47-Sunday-01,1,1,113,Warren St - Inbound,42.348343,-71.140457
+70125,LRV312-hlb32j47-Sunday-01,0,1,113,Warren St - Outbound,42.348343,-71.140457
+70126,LRV312-hlb32j47-Sunday-01,1,1,113,Allston St - Inbound,42.348701,-71.137955
+70127,LRV312-hlb32j47-Sunday-01,0,1,113,Allston St - Outbound,42.348701,-71.137955
+70128,LRV312-hlb32j47-Sunday-01,1,1,113,Griggs St - Inbound,42.348545,-71.134949
+70129,LRV312-hlb32j47-Sunday-01,0,1,113,Griggs St - Outbound,42.348545,-71.134949
+70130,LRV312-hlb32j47-Sunday-01,1,1,113,Harvard Ave - Inbound,42.350243,-71.131355
+70131,LRV312-hlb32j47-Sunday-01,0,1,113,Harvard Ave - Westbound,42.350243,-71.131355
+70134,LRV312-hlb32j47-Sunday-01,1,1,113,Packards Corner - Inbound,42.351967,-71.125031
+70135,LRV312-hlb32j47-Sunday-01,0,1,113,Packards Corner - Outbound,42.351967,-71.125031
+70136,LRV312-hlb32j47-Sunday-01,1,1,113,Babcock St - Inbound,42.35182,-71.12165
+70137,LRV312-hlb32j47-Sunday-01,0,1,113,Babcock St - Outbound,42.35182,-71.12165
+70138,LRV312-hlb32j47-Sunday-01,1,1,113,Pleasant St - Inbound,42.351521,-71.118889
+70139,LRV312-hlb32j47-Sunday-01,0,1,113,Pleasant St - Outbound,42.351521,-71.118889
+70140,LRV312-hlb32j47-Sunday-01,1,1,113,Saint Paul St - Inbound,42.3512,-71.116104
+70141,LRV312-hlb32j47-Sunday-01,0,1,113,Saint Paul St - Outbound,42.3512,-71.116104
+70142,LRV312-hlb32j47-Sunday-01,1,1,113,Boston Univ West - Inbound,42.350941,-71.113876
+70143,LRV312-hlb32j47-Sunday-01,0,1,113,Boston Univ West - Green Line B Outbound,42.350941,-71.113876
+70144,LRV312-hlb32j47-Sunday-01,1,1,113,Boston Univ Central - Inbound,42.350082,-71.106865
+70145,LRV312-hlb32j47-Sunday-01,0,1,113,Boston Univ Central - Outbound,42.350082,-71.106865
+70146,LRV312-hlb32j47-Sunday-01,1,1,113,Boston Univ East - Inbound,42.349735,-71.103889
+70147,LRV312-hlb32j47-Sunday-01,0,1,113,Boston Univ East - Outbound,42.349735,-71.103889
+70148,LRV312-hlb32j47-Sunday-01,1,1,113,Blanford St - Inbound,42.349293,-71.100258
+70149,LRV312-hlb32j47-Sunday-01,0,1,113,Blandford St - Outbound,42.349293,-71.100258
+70150,LRV312-hlb32j47-Sunday-01,1,3,343,Kenmore Station - Inbound,42.348949,-71.095169
+70151,LRV312-hlb32j47-Sunday-01,0,3,343,Kenmore Station - Outbound,42.348949,-71.095169
+70152,LRV312-hlb32j47-Sunday-01,1,3,343,Hynes Station - Inbound,42.347888,-71.087903
+70153,LRV312-hlb32j47-Sunday-01,0,3,343,Hynes Station - Outbound,42.347888,-71.087903
+70154,LRV312-hlb32j47-Sunday-01,1,4,453,Copley Station - Inbound,42.349974,-71.077447
+70155,LRV312-hlb32j47-Sunday-01,0,4,454,Copley Station - Outbound,42.349974,-71.077447
+70156,LRV312-hlb32j47-Sunday-01,1,4,453,Arlington Station - Inbound,42.351902,-71.070893
+70157,LRV312-hlb32j47-Sunday-01,0,4,454,Arlington Station - Outbound,42.351902,-71.070893
+70158,LRV312-hlb32j47-Sunday-01,1,4,453,Boylston Station - Inbound,42.35302,-71.06459
+70159,LRV312-hlb32j47-Sunday-01,0,4,454,Boylston Station - Outbound,42.35302,-71.06459
+70160,LRV312-hlb32j47-Sunday-01,1,1,111,Riverside Station - Inbound,42.337059,-71.251742
+70161,LRV312-hlb32j47-Sunday-01,0,1,111,Riverside Station - Green Line,42.337059,-71.251742
+70162,LRV312-hlb32j47-Sunday-01,1,1,111,Woodland Station - Inbound,42.333374,-71.244301
+70163,LRV312-hlb32j47-Sunday-01,0,1,111,Woodland Station - Outbound,42.333374,-71.244301
+70164,LRV312-hlb32j47-Sunday-01,1,1,111,Waban Station - Inbound,42.325943,-71.230728
+70165,LRV312-hlb32j47-Sunday-01,0,1,111,Waban Station - Outbound,42.325943,-71.230728
+70166,LRV312-hlb32j47-Sunday-01,1,1,111,Eliot Station - Inbound,42.319023,-71.216713
+70167,LRV312-hlb32j47-Sunday-01,0,1,111,Eliot Station - Outbound,42.319023,-71.216713
+70168,LRV312-hlb32j47-Sunday-01,1,1,111,Newton Highlands Station - Inbound,42.321735,-71.206116
+70169,LRV312-hlb32j47-Sunday-01,0,1,111,Newton Highlands Station - Outbound,42.321735,-71.206116
+70170,LRV312-hlb32j47-Sunday-01,1,1,111,Newton Centre Station - Inbound,42.329391,-71.192429
+70171,LRV312-hlb32j47-Sunday-01,0,1,111,Newton Centre Station - Outbound,42.329391,-71.192429
+70172,LRV312-hlb32j47-Sunday-01,1,1,111,Chestnut Hill Station - Inbound,42.326653,-71.165314
+70173,LRV312-hlb32j47-Sunday-01,0,1,111,Chestnut Hill Station - Outbound,42.326653,-71.165314
+70174,LRV312-hlb32j47-Sunday-01,1,1,111,Reservoir Station - Inbound,42.335027,-71.148952
+70175,LRV312-hlb32j47-Sunday-01,0,1,111,Reservoir Station - Outbound,42.335027,-71.148952
+70176,LRV312-hlb32j47-Sunday-01,1,1,111,Beaconsfield Station - Inbound,42.335846,-71.140823
+70177,LRV312-hlb32j47-Sunday-01,0,1,111,Beaconsfield Station - Outbound,42.335846,-71.140823
+70178,LRV312-hlb32j47-Sunday-01,1,1,111,Brookline Hills Station - Inbound,42.331333,-71.126999
+70179,LRV312-hlb32j47-Sunday-01,0,1,111,Brookline Hills Station - Outbound,42.331333,-71.126999
+70180,LRV312-hlb32j47-Sunday-01,1,1,111,Brookline Village Station - Inbound,42.332774,-71.116296
+70181,LRV312-hlb32j47-Sunday-01,0,1,111,Brookline Village Station - Outbound,42.332774,-71.116296
+70182,LRV312-hlb32j47-Sunday-01,1,1,111,Longwood Station - Inbound,42.341145,-71.110451
+70183,LRV312-hlb32j47-Sunday-01,0,1,111,Longwood Station - Outbound,42.341145,-71.110451
+70186,LRV312-hlb32j47-Sunday-01,1,1,111,Fenway Station - Inbound,42.345394,-71.104187
+70187,LRV312-hlb32j47-Sunday-01,0,1,111,Fenway Station - Outbound,42.345394,-71.104187
+70196,LRV312-hlb32j47-Sunday-01,0,1,113,Park St Station - Green Line - B Berth,42.356395,-71.062424
+70197,LRV312-hlb32j47-Sunday-01,0,1,119,Park St Station - Green Line - C Branch Berth,42.356395,-71.062424
+70198,LRV312-hlb32j47-Sunday-01,0,1,111,Park St Station - Green Line - D Branch Berth,42.356395,-71.062424
+70199,LRV312-hlb32j47-Sunday-01,0,1,111,Park St Station - Green Line - E Line Berth,42.356395,-71.062424
+70200,LRV312-hlb32j47-Sunday-01,1,4,453,Park St Station - Green Line Eastbound,42.356395,-71.062424
+70201,LRV312-hlb32j47-Sunday-01,1,4,453,Government Center Station - Green Line Eastbound,42.359705,-71.059215
+70202,LRV312-hlb32j47-Sunday-01,0,4,454,Government Center Station - Green Line Westbound,42.359705,-71.059215
+70203,LRV312-hlb32j47-Sunday-01,1,2,229,Haymarket - Green Line Outbound,42.363021,-71.05829
+70204,LRV312-hlb32j47-Sunday-01,0,2,230,Haymarket - Green Line Inbound,42.363021,-71.05829
+70205,LRV312-hlb32j47-Sunday-01,1,2,229,North Station - Green Line Outbound,42.365577,-71.06129
+70206,LRV312-hlb32j47-Sunday-01,0,2,230,North Station - Green Line Inbound,42.365577,-71.06129
+70207,LRV312-hlb32j47-Sunday-01,1,1,110,Science Park - Green Line Outbound,42.366664,-71.067666
+70208,LRV312-hlb32j47-Sunday-01,0,1,111,Science Park - Green Line Inbound,42.366664,-71.067666
+70209,LRV312-hlb32j47-Sunday-01,1,1,110,Lechmere - Green Line,42.370772,-71.076536
+70210,LRV312-hlb32j47-Sunday-01,0,1,111,Lechmere - Green Line Inbound,42.370772,-71.076536
+70211,LRV312-hlb32j47-Sunday-01,0,1,119,Saint Mary St - Outbound,42.345974,-71.107353
+70212,LRV312-hlb32j47-Sunday-01,1,1,119,Saint Mary St - Inbound,42.345974,-71.107353
+70213,LRV312-hlb32j47-Sunday-01,0,1,119,Hawes St - Outbound,42.344906,-71.111145
+70214,LRV312-hlb32j47-Sunday-01,1,1,119,Hawes St - Inbound,42.344906,-71.111145
+70215,LRV312-hlb32j47-Sunday-01,0,1,119,Kent St - Outbound,42.344074,-71.114197
+70216,LRV312-hlb32j47-Sunday-01,1,1,119,Kent St - Inbound,42.344074,-71.114197
+70217,LRV312-hlb32j47-Sunday-01,0,1,119,Saint Paul St - Outbound,42.343327,-71.116997
+70218,LRV312-hlb32j47-Sunday-01,1,1,119,Saint Paul St - Inbound,42.343327,-71.116997
+70219,LRV312-hlb32j47-Sunday-01,0,1,119,Coolidge Corner - Outbound,42.342213,-71.121201
+70220,LRV312-hlb32j47-Sunday-01,1,1,119,Coolidge Corner - Inbound,42.342213,-71.121201
+70223,LRV312-hlb32j47-Sunday-01,0,1,119,Summit Ave - Outbound,42.34111,-71.12561
+70224,LRV312-hlb32j47-Sunday-01,1,1,119,Summit Ave - Inbound,42.34111,-71.12561
+70225,LRV312-hlb32j47-Sunday-01,0,1,119,Brandon Hall - Outbound,42.340023,-71.129082
+70226,LRV312-hlb32j47-Sunday-01,1,1,119,Brandon Hall - Inbound,42.340023,-71.129082
+70227,LRV312-hlb32j47-Sunday-01,0,1,119,Fairbanks St - Outbound,42.339725,-71.131073
+70228,LRV312-hlb32j47-Sunday-01,1,1,119,Fairbanks St - Inbound,42.339725,-71.131073
+70229,LRV312-hlb32j47-Sunday-01,0,1,119,Washington Sq - Outbound,42.339394,-71.13533
+70230,LRV312-hlb32j47-Sunday-01,1,1,119,Washington Sq - Inbound,42.339394,-71.13533
+70231,LRV312-hlb32j47-Sunday-01,0,1,119,Tappan St - Outbound,42.338459,-71.138702
+70232,LRV312-hlb32j47-Sunday-01,1,1,119,Tappan St - Inbound,42.338459,-71.138702
+70233,LRV312-hlb32j47-Sunday-01,0,1,119,Dean Rd - Outbound,42.337807,-71.141853
+70234,LRV312-hlb32j47-Sunday-01,1,1,119,Dean Rd - Inbound,42.337807,-71.141853
+70235,LRV312-hlb32j47-Sunday-01,0,1,119,Englewood Ave - Outbound,42.336971,-71.14566
+70236,LRV312-hlb32j47-Sunday-01,1,1,119,Englewood Ave - Inbound,42.336971,-71.14566
+70237,LRV312-hlb32j47-Sunday-01,0,1,119,Cleveland Circle Platform,42.336142,-71.149326
+70238,LRV312-hlb32j47-Sunday-01,1,1,119,Cleveland Circle Platform - Inbound,42.336142,-71.149326
+70239,LRV312-hlb32j47-Sunday-01,0,1,111,Prudential Station - Outbound,42.34557,-71.081696
+70240,LRV312-hlb32j47-Sunday-01,1,1,110,Prudential Station - Inbound,42.34557,-71.081696
+70241,LRV312-hlb32j47-Sunday-01,0,1,111,Symphony Station - Outbound,42.342687,-71.085056
+70242,LRV312-hlb32j47-Sunday-01,1,1,110,Symphony Station - Inbound,42.342687,-71.085056
+70243,LRV312-hlb32j47-Sunday-01,0,1,111,Northeastern - Outbound,42.340401,-71.088806
+70244,LRV312-hlb32j47-Sunday-01,1,1,110,Northeastern - Inbound,42.340401,-71.088806
+70245,LRV312-hlb32j47-Sunday-01,0,1,111,Museum of Fine Arts - Outbound,42.337711,-71.095512
+70246,LRV312-hlb32j47-Sunday-01,1,1,110,Museum of Fine Arts - Inbound,42.337711,-71.095512
+70247,LRV312-hlb32j47-Sunday-01,0,1,111,Longwood Med Area - Outbound,42.33596,-71.100052
+70248,LRV312-hlb32j47-Sunday-01,1,1,110,Longwood Med Area - Inbound,42.33596,-71.100052
+70249,LRV312-hlb32j47-Sunday-01,0,1,111,Brigham Circle - Outbound,42.334229,-71.104609
+70250,LRV312-hlb32j47-Sunday-01,1,1,110,Brigham Circle - Inbound,42.334229,-71.104609
+70251,LRV312-hlb32j47-Sunday-01,0,1,111,Fenwood Rd - Outbound,42.333706,-71.105728
+70252,LRV312-hlb32j47-Sunday-01,1,1,110,Fenwood Rd - Inbound,42.333706,-71.105728
+70253,LRV312-hlb32j47-Sunday-01,0,1,111,Mission Park - Outbound,42.333195,-71.109756
+70254,LRV312-hlb32j47-Sunday-01,1,1,110,Mission Park - Inbound,42.333195,-71.109756
+70255,LRV312-hlb32j47-Sunday-01,0,1,111,Riverway - Outbound,42.331684,-71.111931
+70256,LRV312-hlb32j47-Sunday-01,1,1,110,Riverway - Inbound,42.331684,-71.111931
+70257,LRV312-hlb32j47-Sunday-01,0,1,111,Back of Hill - Outbound,42.330139,-71.111313
+70258,LRV312-hlb32j47-Sunday-01,1,1,110,Back of Hill - Inbound,42.330139,-71.111313
+70260,LRV312-hlb32j47-Sunday-01,0,1,111,Heath St Platform - Green Line E,42.328681,-71.110559
+70260,LRV312-hlb32j47-Sunday-01,1,1,110,Heath St Platform - Green Line E,42.328681,-71.110559
+70106,LRV312-hlb32sp6-Saturday-01,1,2,158,Boston College Station - Inbound,42.340081,-71.166769
+70107,LRV312-hlb32sp6-Saturday-01,0,2,158,Boston College Station - Green Line,42.340081,-71.166769
+70110,LRV312-hlb32sp6-Saturday-01,1,2,158,South St - Inbound,42.3396,-71.157661
+70111,LRV312-hlb32sp6-Saturday-01,0,2,158,South St -  Outbound,42.3396,-71.157661
+70112,LRV312-hlb32sp6-Saturday-01,1,2,158,Chestnut Hill Ave - Inbound,42.338169,-71.15316
+70113,LRV312-hlb32sp6-Saturday-01,0,2,158,Chestnut Hill Ave - Outbound,42.338169,-71.15316
+70114,LRV312-hlb32sp6-Saturday-01,1,2,158,Chiswick Rd - Inbound,42.340805,-71.150711
+70115,LRV312-hlb32sp6-Saturday-01,0,2,158,Chiswick Rd - Green Line B Outbound,42.340805,-71.150711
+70116,LRV312-hlb32sp6-Saturday-01,1,2,158,Sutherland Rd - Inbound,42.341614,-71.146202
+70117,LRV312-hlb32sp6-Saturday-01,0,2,158,Sutherland Rd - Outbound,42.341614,-71.146202
+70120,LRV312-hlb32sp6-Saturday-01,1,2,158,Washington St - Inbound,42.343864,-71.142853
+70121,LRV312-hlb32sp6-Saturday-01,0,2,158,Washington St - Outbound,42.343864,-71.142853
+70124,LRV312-hlb32sp6-Saturday-01,1,2,158,Warren St - Inbound,42.348343,-71.140457
+70125,LRV312-hlb32sp6-Saturday-01,0,2,158,Warren St - Outbound,42.348343,-71.140457
+70126,LRV312-hlb32sp6-Saturday-01,1,2,158,Allston St - Inbound,42.348701,-71.137955
+70127,LRV312-hlb32sp6-Saturday-01,0,2,158,Allston St - Outbound,42.348701,-71.137955
+70128,LRV312-hlb32sp6-Saturday-01,1,2,158,Griggs St - Inbound,42.348545,-71.134949
+70129,LRV312-hlb32sp6-Saturday-01,0,2,158,Griggs St - Outbound,42.348545,-71.134949
+70130,LRV312-hlb32sp6-Saturday-01,1,2,158,Harvard Ave - Inbound,42.350243,-71.131355
+70131,LRV312-hlb32sp6-Saturday-01,0,2,158,Harvard Ave - Westbound,42.350243,-71.131355
+70134,LRV312-hlb32sp6-Saturday-01,1,2,158,Packards Corner - Inbound,42.351967,-71.125031
+70135,LRV312-hlb32sp6-Saturday-01,0,2,158,Packards Corner - Outbound,42.351967,-71.125031
+70136,LRV312-hlb32sp6-Saturday-01,1,2,158,Babcock St - Inbound,42.35182,-71.12165
+70137,LRV312-hlb32sp6-Saturday-01,0,2,158,Babcock St - Outbound,42.35182,-71.12165
+70138,LRV312-hlb32sp6-Saturday-01,1,2,158,Pleasant St - Inbound,42.351521,-71.118889
+70139,LRV312-hlb32sp6-Saturday-01,0,2,158,Pleasant St - Outbound,42.351521,-71.118889
+70140,LRV312-hlb32sp6-Saturday-01,1,2,158,Saint Paul St - Inbound,42.3512,-71.116104
+70141,LRV312-hlb32sp6-Saturday-01,0,2,158,Saint Paul St - Outbound,42.3512,-71.116104
+70142,LRV312-hlb32sp6-Saturday-01,1,2,158,Boston Univ West - Inbound,42.350941,-71.113876
+70143,LRV312-hlb32sp6-Saturday-01,0,2,158,Boston Univ West - Green Line B Outbound,42.350941,-71.113876
+70144,LRV312-hlb32sp6-Saturday-01,1,2,158,Boston Univ Central - Inbound,42.350082,-71.106865
+70145,LRV312-hlb32sp6-Saturday-01,0,2,158,Boston Univ Central - Outbound,42.350082,-71.106865
+70146,LRV312-hlb32sp6-Saturday-01,1,2,158,Boston Univ East - Inbound,42.349735,-71.103889
+70147,LRV312-hlb32sp6-Saturday-01,0,2,158,Boston Univ East - Outbound,42.349735,-71.103889
+70148,LRV312-hlb32sp6-Saturday-01,1,2,158,Blanford St - Inbound,42.349293,-71.100258
+70149,LRV312-hlb32sp6-Saturday-01,0,2,158,Blandford St - Outbound,42.349293,-71.100258
+70150,LRV312-hlb32sp6-Saturday-01,1,5,432,Kenmore Station - Inbound,42.348949,-71.095169
+70151,LRV312-hlb32sp6-Saturday-01,0,5,432,Kenmore Station - Outbound,42.348949,-71.095169
+70152,LRV312-hlb32sp6-Saturday-01,1,5,432,Hynes Station - Inbound,42.347888,-71.087903
+70153,LRV312-hlb32sp6-Saturday-01,0,5,432,Hynes Station - Outbound,42.347888,-71.087903
+70154,LRV312-hlb32sp6-Saturday-01,1,7,569,Copley Station - Inbound,42.349974,-71.077447
+70155,LRV312-hlb32sp6-Saturday-01,0,6,570,Copley Station - Outbound,42.349974,-71.077447
+70156,LRV312-hlb32sp6-Saturday-01,1,7,569,Arlington Station - Inbound,42.351902,-71.070893
+70157,LRV312-hlb32sp6-Saturday-01,0,6,570,Arlington Station - Outbound,42.351902,-71.070893
+70158,LRV312-hlb32sp6-Saturday-01,1,7,569,Boylston Station - Inbound,42.35302,-71.06459
+70159,LRV312-hlb32sp6-Saturday-01,0,6,570,Boylston Station - Outbound,42.35302,-71.06459
+70160,LRV312-hlb32sp6-Saturday-01,1,1,137,Riverside Station - Inbound,42.337059,-71.251742
+70161,LRV312-hlb32sp6-Saturday-01,0,1,137,Riverside Station - Green Line,42.337059,-71.251742
+70162,LRV312-hlb32sp6-Saturday-01,1,1,137,Woodland Station - Inbound,42.333374,-71.244301
+70163,LRV312-hlb32sp6-Saturday-01,0,1,137,Woodland Station - Outbound,42.333374,-71.244301
+70164,LRV312-hlb32sp6-Saturday-01,1,1,137,Waban Station - Inbound,42.325943,-71.230728
+70165,LRV312-hlb32sp6-Saturday-01,0,1,137,Waban Station - Outbound,42.325943,-71.230728
+70166,LRV312-hlb32sp6-Saturday-01,1,1,137,Eliot Station - Inbound,42.319023,-71.216713
+70167,LRV312-hlb32sp6-Saturday-01,0,1,137,Eliot Station - Outbound,42.319023,-71.216713
+70168,LRV312-hlb32sp6-Saturday-01,1,1,137,Newton Highlands Station - Inbound,42.321735,-71.206116
+70169,LRV312-hlb32sp6-Saturday-01,0,1,137,Newton Highlands Station - Outbound,42.321735,-71.206116
+70170,LRV312-hlb32sp6-Saturday-01,1,1,137,Newton Centre Station - Inbound,42.329391,-71.192429
+70171,LRV312-hlb32sp6-Saturday-01,0,1,137,Newton Centre Station - Outbound,42.329391,-71.192429
+70172,LRV312-hlb32sp6-Saturday-01,1,1,137,Chestnut Hill Station - Inbound,42.326653,-71.165314
+70173,LRV312-hlb32sp6-Saturday-01,0,1,137,Chestnut Hill Station - Outbound,42.326653,-71.165314
+70174,LRV312-hlb32sp6-Saturday-01,1,1,137,Reservoir Station - Inbound,42.335027,-71.148952
+70175,LRV312-hlb32sp6-Saturday-01,0,1,137,Reservoir Station - Outbound,42.335027,-71.148952
+70176,LRV312-hlb32sp6-Saturday-01,1,1,137,Beaconsfield Station - Inbound,42.335846,-71.140823
+70177,LRV312-hlb32sp6-Saturday-01,0,1,137,Beaconsfield Station - Outbound,42.335846,-71.140823
+70178,LRV312-hlb32sp6-Saturday-01,1,1,137,Brookline Hills Station - Inbound,42.331333,-71.126999
+70179,LRV312-hlb32sp6-Saturday-01,0,1,137,Brookline Hills Station - Outbound,42.331333,-71.126999
+70180,LRV312-hlb32sp6-Saturday-01,1,1,137,Brookline Village Station - Inbound,42.332774,-71.116296
+70181,LRV312-hlb32sp6-Saturday-01,0,1,137,Brookline Village Station - Outbound,42.332774,-71.116296
+70182,LRV312-hlb32sp6-Saturday-01,1,1,137,Longwood Station - Inbound,42.341145,-71.110451
+70183,LRV312-hlb32sp6-Saturday-01,0,1,137,Longwood Station - Outbound,42.341145,-71.110451
+70186,LRV312-hlb32sp6-Saturday-01,1,1,137,Fenway Station - Inbound,42.345394,-71.104187
+70187,LRV312-hlb32sp6-Saturday-01,0,1,137,Fenway Station - Outbound,42.345394,-71.104187
+70196,LRV312-hlb32sp6-Saturday-01,0,2,158,Park St Station - Green Line - B Berth,42.356395,-71.062424
+70197,LRV312-hlb32sp6-Saturday-01,0,2,137,Park St Station - Green Line - C Branch Berth,42.356395,-71.062424
+70198,LRV312-hlb32sp6-Saturday-01,0,1,137,Park St Station - Green Line - D Branch Berth,42.356395,-71.062424
+70199,LRV312-hlb32sp6-Saturday-01,0,1,138,Park St Station - Green Line - E Line Berth,42.356395,-71.062424
+70200,LRV312-hlb32sp6-Saturday-01,1,7,569,Park St Station - Green Line Eastbound,42.356395,-71.062424
+70201,LRV312-hlb32sp6-Saturday-01,1,7,569,Government Center Station - Green Line Eastbound,42.359705,-71.059215
+70202,LRV312-hlb32sp6-Saturday-01,0,6,570,Government Center Station - Green Line Westbound,42.359705,-71.059215
+70203,LRV312-hlb32sp6-Saturday-01,1,5,275,Haymarket - Green Line Outbound,42.363021,-71.05829
+70204,LRV312-hlb32sp6-Saturday-01,0,4,276,Haymarket - Green Line Inbound,42.363021,-71.05829
+70205,LRV312-hlb32sp6-Saturday-01,1,5,275,North Station - Green Line Outbound,42.365577,-71.06129
+70206,LRV312-hlb32sp6-Saturday-01,0,4,276,North Station - Green Line Inbound,42.365577,-71.06129
+70207,LRV312-hlb32sp6-Saturday-01,1,3,139,Science Park - Green Line Outbound,42.366664,-71.067666
+70208,LRV312-hlb32sp6-Saturday-01,0,3,140,Science Park - Green Line Inbound,42.366664,-71.067666
+70209,LRV312-hlb32sp6-Saturday-01,1,3,139,Lechmere - Green Line,42.370772,-71.076536
+70210,LRV312-hlb32sp6-Saturday-01,0,3,140,Lechmere - Green Line Inbound,42.370772,-71.076536
+70211,LRV312-hlb32sp6-Saturday-01,0,2,137,Saint Mary St - Outbound,42.345974,-71.107353
+70212,LRV312-hlb32sp6-Saturday-01,1,2,137,Saint Mary St - Inbound,42.345974,-71.107353
+70213,LRV312-hlb32sp6-Saturday-01,0,2,137,Hawes St - Outbound,42.344906,-71.111145
+70214,LRV312-hlb32sp6-Saturday-01,1,2,137,Hawes St - Inbound,42.344906,-71.111145
+70215,LRV312-hlb32sp6-Saturday-01,0,2,137,Kent St - Outbound,42.344074,-71.114197
+70216,LRV312-hlb32sp6-Saturday-01,1,2,137,Kent St - Inbound,42.344074,-71.114197
+70217,LRV312-hlb32sp6-Saturday-01,0,2,137,Saint Paul St - Outbound,42.343327,-71.116997
+70218,LRV312-hlb32sp6-Saturday-01,1,2,137,Saint Paul St - Inbound,42.343327,-71.116997
+70219,LRV312-hlb32sp6-Saturday-01,0,2,137,Coolidge Corner - Outbound,42.342213,-71.121201
+70220,LRV312-hlb32sp6-Saturday-01,1,2,137,Coolidge Corner - Inbound,42.342213,-71.121201
+70223,LRV312-hlb32sp6-Saturday-01,0,2,137,Summit Ave - Outbound,42.34111,-71.12561
+70224,LRV312-hlb32sp6-Saturday-01,1,2,137,Summit Ave - Inbound,42.34111,-71.12561
+70225,LRV312-hlb32sp6-Saturday-01,0,2,137,Brandon Hall - Outbound,42.340023,-71.129082
+70226,LRV312-hlb32sp6-Saturday-01,1,2,137,Brandon Hall - Inbound,42.340023,-71.129082
+70227,LRV312-hlb32sp6-Saturday-01,0,2,137,Fairbanks St - Outbound,42.339725,-71.131073
+70228,LRV312-hlb32sp6-Saturday-01,1,2,137,Fairbanks St - Inbound,42.339725,-71.131073
+70229,LRV312-hlb32sp6-Saturday-01,0,2,137,Washington Sq - Outbound,42.339394,-71.13533
+70230,LRV312-hlb32sp6-Saturday-01,1,2,137,Washington Sq - Inbound,42.339394,-71.13533
+70231,LRV312-hlb32sp6-Saturday-01,0,2,137,Tappan St - Outbound,42.338459,-71.138702
+70232,LRV312-hlb32sp6-Saturday-01,1,2,137,Tappan St - Inbound,42.338459,-71.138702
+70233,LRV312-hlb32sp6-Saturday-01,0,2,137,Dean Rd - Outbound,42.337807,-71.141853
+70234,LRV312-hlb32sp6-Saturday-01,1,2,137,Dean Rd - Inbound,42.337807,-71.141853
+70235,LRV312-hlb32sp6-Saturday-01,0,2,137,Englewood Ave - Outbound,42.336971,-71.14566
+70236,LRV312-hlb32sp6-Saturday-01,1,2,137,Englewood Ave - Inbound,42.336971,-71.14566
+70237,LRV312-hlb32sp6-Saturday-01,0,2,137,Cleveland Circle Platform,42.336142,-71.149326
+70238,LRV312-hlb32sp6-Saturday-01,1,2,137,Cleveland Circle Platform - Inbound,42.336142,-71.149326
+70239,LRV312-hlb32sp6-Saturday-01,0,1,138,Prudential Station - Outbound,42.34557,-71.081696
+70240,LRV312-hlb32sp6-Saturday-01,1,2,137,Prudential Station - Inbound,42.34557,-71.081696
+70241,LRV312-hlb32sp6-Saturday-01,0,1,138,Symphony Station - Outbound,42.342687,-71.085056
+70242,LRV312-hlb32sp6-Saturday-01,1,2,137,Symphony Station - Inbound,42.342687,-71.085056
+70243,LRV312-hlb32sp6-Saturday-01,0,1,138,Northeastern - Outbound,42.340401,-71.088806
+70244,LRV312-hlb32sp6-Saturday-01,1,2,137,Northeastern - Inbound,42.340401,-71.088806
+70245,LRV312-hlb32sp6-Saturday-01,0,1,138,Museum of Fine Arts - Outbound,42.337711,-71.095512
+70246,LRV312-hlb32sp6-Saturday-01,1,2,137,Museum of Fine Arts - Inbound,42.337711,-71.095512
+70247,LRV312-hlb32sp6-Saturday-01,0,1,138,Longwood Med Area - Outbound,42.33596,-71.100052
+70248,LRV312-hlb32sp6-Saturday-01,1,2,137,Longwood Med Area - Inbound,42.33596,-71.100052
+70249,LRV312-hlb32sp6-Saturday-01,0,1,138,Brigham Circle - Outbound,42.334229,-71.104609
+70250,LRV312-hlb32sp6-Saturday-01,1,2,137,Brigham Circle - Inbound,42.334229,-71.104609
+70251,LRV312-hlb32sp6-Saturday-01,0,1,138,Fenwood Rd - Outbound,42.333706,-71.105728
+70252,LRV312-hlb32sp6-Saturday-01,1,2,137,Fenwood Rd - Inbound,42.333706,-71.105728
+70253,LRV312-hlb32sp6-Saturday-01,0,1,138,Mission Park - Outbound,42.333195,-71.109756
+70254,LRV312-hlb32sp6-Saturday-01,1,2,137,Mission Park - Inbound,42.333195,-71.109756
+70255,LRV312-hlb32sp6-Saturday-01,0,1,138,Riverway - Outbound,42.331684,-71.111931
+70256,LRV312-hlb32sp6-Saturday-01,1,2,137,Riverway - Inbound,42.331684,-71.111931
+70257,LRV312-hlb32sp6-Saturday-01,0,1,138,Back of Hill - Outbound,42.330139,-71.111313
+70258,LRV312-hlb32sp6-Saturday-01,1,2,137,Back of Hill - Inbound,42.330139,-71.111313
+70260,LRV312-hlb32sp6-Saturday-01,0,1,138,Heath St Platform - Green Line E,42.328681,-71.110559
+70260,LRV312-hlb32sp6-Saturday-01,1,2,137,Heath St Platform - Green Line E,42.328681,-71.110559
+70261,LRV312-hlm32011-Weekday-01,0,1,157,Ashmont Station - Westbound,42.284652,-71.064489
+70262,LRV312-hlm32011-Weekday-01,1,1,157,Ashmont Station - Eastbound,42.284652,-71.064489
+70263,LRV312-hlm32011-Weekday-01,0,1,157,Cedar Grove - Westbound,42.279682,-71.060432
+70264,LRV312-hlm32011-Weekday-01,1,1,157,Cedar Grove - Eastbound,42.279682,-71.060432
+70265,LRV312-hlm32011-Weekday-01,0,1,157,Butler Station - Westbound,42.272343,-71.062584
+70266,LRV312-hlm32011-Weekday-01,1,1,157,Butler Station - Eastbound,42.272343,-71.062584
+70267,LRV312-hlm32011-Weekday-01,0,1,157,Milton Station - Westbound,42.270306,-71.067673
+70268,LRV312-hlm32011-Weekday-01,1,1,157,Milton Station - Eastbound,42.270306,-71.067673
+70269,LRV312-hlm32011-Weekday-01,0,1,157,Central Ave - Westbound,42.270027,-71.073334
+70270,LRV312-hlm32011-Weekday-01,1,1,157,Central Ave - Eastbound,42.270027,-71.073334
+70271,LRV312-hlm32011-Weekday-01,0,1,157,Valley Rd - Westbound,42.268322,-71.081566
+70272,LRV312-hlm32011-Weekday-01,1,1,157,Valley Rd - Eastbound,42.268322,-71.081566
+70273,LRV312-hlm32011-Weekday-01,0,1,157,Capen St - Westbound,42.267712,-71.087753
+70274,LRV312-hlm32011-Weekday-01,1,1,157,Capen St - Eastbound,42.267712,-71.087753
+70275,LRV312-hlm32011-Weekday-01,0,1,157,Mattapan Station - Westbound,42.267762,-71.092241
+70276,LRV312-hlm32011-Weekday-01,1,1,157,Mattapan Station - Eastbound,42.267762,-71.092241
+70261,LRV312-hlm32017-Sunday-01,0,1,74,Ashmont Station - Westbound,42.284652,-71.064489
+70262,LRV312-hlm32017-Sunday-01,1,1,74,Ashmont Station - Eastbound,42.284652,-71.064489
+70263,LRV312-hlm32017-Sunday-01,0,1,74,Cedar Grove - Westbound,42.279682,-71.060432
+70264,LRV312-hlm32017-Sunday-01,1,1,74,Cedar Grove - Eastbound,42.279682,-71.060432
+70265,LRV312-hlm32017-Sunday-01,0,1,74,Butler Station - Westbound,42.272343,-71.062584
+70266,LRV312-hlm32017-Sunday-01,1,1,74,Butler Station - Eastbound,42.272343,-71.062584
+70267,LRV312-hlm32017-Sunday-01,0,1,74,Milton Station - Westbound,42.270306,-71.067673
+70268,LRV312-hlm32017-Sunday-01,1,1,74,Milton Station - Eastbound,42.270306,-71.067673
+70269,LRV312-hlm32017-Sunday-01,0,1,74,Central Ave - Westbound,42.270027,-71.073334
+70270,LRV312-hlm32017-Sunday-01,1,1,74,Central Ave - Eastbound,42.270027,-71.073334
+70271,LRV312-hlm32017-Sunday-01,0,1,74,Valley Rd - Westbound,42.268322,-71.081566
+70272,LRV312-hlm32017-Sunday-01,1,1,74,Valley Rd - Eastbound,42.268322,-71.081566
+70273,LRV312-hlm32017-Sunday-01,0,1,74,Capen St - Westbound,42.267712,-71.087753
+70274,LRV312-hlm32017-Sunday-01,1,1,74,Capen St - Eastbound,42.267712,-71.087753
+70275,LRV312-hlm32017-Sunday-01,0,1,74,Mattapan Station - Westbound,42.267762,-71.092241
+70276,LRV312-hlm32017-Sunday-01,1,1,74,Mattapan Station - Eastbound,42.267762,-71.092241
+70261,LRV312-hlm32026-Saturday-01,0,1,76,Ashmont Station - Westbound,42.284652,-71.064489
+70262,LRV312-hlm32026-Saturday-01,1,1,76,Ashmont Station - Eastbound,42.284652,-71.064489
+70263,LRV312-hlm32026-Saturday-01,0,1,76,Cedar Grove - Westbound,42.279682,-71.060432
+70264,LRV312-hlm32026-Saturday-01,1,1,76,Cedar Grove - Eastbound,42.279682,-71.060432
+70265,LRV312-hlm32026-Saturday-01,0,1,76,Butler Station - Westbound,42.272343,-71.062584
+70266,LRV312-hlm32026-Saturday-01,1,1,76,Butler Station - Eastbound,42.272343,-71.062584
+70267,LRV312-hlm32026-Saturday-01,0,1,76,Milton Station - Westbound,42.270306,-71.067673
+70268,LRV312-hlm32026-Saturday-01,1,1,76,Milton Station - Eastbound,42.270306,-71.067673
+70269,LRV312-hlm32026-Saturday-01,0,1,76,Central Ave - Westbound,42.270027,-71.073334
+70270,LRV312-hlm32026-Saturday-01,1,1,76,Central Ave - Eastbound,42.270027,-71.073334
+70271,LRV312-hlm32026-Saturday-01,0,1,76,Valley Rd - Westbound,42.268322,-71.081566
+70272,LRV312-hlm32026-Saturday-01,1,1,76,Valley Rd - Eastbound,42.268322,-71.081566
+70273,LRV312-hlm32026-Saturday-01,0,1,76,Capen St - Westbound,42.267712,-71.087753
+70274,LRV312-hlm32026-Saturday-01,1,1,76,Capen St - Eastbound,42.267712,-71.087753
+70275,LRV312-hlm32026-Saturday-01,0,1,76,Mattapan Station - Westbound,42.267762,-71.092241
+70276,LRV312-hlm32026-Saturday-01,1,1,76,Mattapan Station - Eastbound,42.267762,-71.092241
+70261,LRV312-hlm32j47-Sunday-01,0,1,98,Ashmont Station - Westbound,42.284652,-71.064489
+70262,LRV312-hlm32j47-Sunday-01,1,1,98,Ashmont Station - Eastbound,42.284652,-71.064489
+70263,LRV312-hlm32j47-Sunday-01,0,1,98,Cedar Grove - Westbound,42.279682,-71.060432
+70264,LRV312-hlm32j47-Sunday-01,1,1,98,Cedar Grove - Eastbound,42.279682,-71.060432
+70265,LRV312-hlm32j47-Sunday-01,0,1,98,Butler Station - Westbound,42.272343,-71.062584
+70266,LRV312-hlm32j47-Sunday-01,1,1,98,Butler Station - Eastbound,42.272343,-71.062584
+70267,LRV312-hlm32j47-Sunday-01,0,1,98,Milton Station - Westbound,42.270306,-71.067673
+70268,LRV312-hlm32j47-Sunday-01,1,1,98,Milton Station - Eastbound,42.270306,-71.067673
+70269,LRV312-hlm32j47-Sunday-01,0,1,98,Central Ave - Westbound,42.270027,-71.073334
+70270,LRV312-hlm32j47-Sunday-01,1,1,98,Central Ave - Eastbound,42.270027,-71.073334
+70271,LRV312-hlm32j47-Sunday-01,0,1,98,Valley Rd - Westbound,42.268322,-71.081566
+70272,LRV312-hlm32j47-Sunday-01,1,1,98,Valley Rd - Eastbound,42.268322,-71.081566
+70273,LRV312-hlm32j47-Sunday-01,0,1,98,Capen St - Westbound,42.267712,-71.087753
+70274,LRV312-hlm32j47-Sunday-01,1,1,98,Capen St - Eastbound,42.267712,-71.087753
+70275,LRV312-hlm32j47-Sunday-01,0,1,98,Mattapan Station - Westbound,42.267762,-71.092241
+70276,LRV312-hlm32j47-Sunday-01,1,1,98,Mattapan Station - Eastbound,42.267762,-71.092241
+70261,LRV312-hlm32sp6-Saturday-01,0,1,102,Ashmont Station - Westbound,42.284652,-71.064489
+70262,LRV312-hlm32sp6-Saturday-01,1,1,102,Ashmont Station - Eastbound,42.284652,-71.064489
+70263,LRV312-hlm32sp6-Saturday-01,0,1,102,Cedar Grove - Westbound,42.279682,-71.060432
+70264,LRV312-hlm32sp6-Saturday-01,1,1,102,Cedar Grove - Eastbound,42.279682,-71.060432
+70265,LRV312-hlm32sp6-Saturday-01,0,1,102,Butler Station - Westbound,42.272343,-71.062584
+70266,LRV312-hlm32sp6-Saturday-01,1,1,102,Butler Station - Eastbound,42.272343,-71.062584
+70267,LRV312-hlm32sp6-Saturday-01,0,1,102,Milton Station - Westbound,42.270306,-71.067673
+70268,LRV312-hlm32sp6-Saturday-01,1,1,102,Milton Station - Eastbound,42.270306,-71.067673
+70269,LRV312-hlm32sp6-Saturday-01,0,1,102,Central Ave - Westbound,42.270027,-71.073334
+70270,LRV312-hlm32sp6-Saturday-01,1,1,102,Central Ave - Eastbound,42.270027,-71.073334
+70271,LRV312-hlm32sp6-Saturday-01,0,1,102,Valley Rd - Westbound,42.268322,-71.081566
+70272,LRV312-hlm32sp6-Saturday-01,1,1,102,Valley Rd - Eastbound,42.268322,-71.081566
+70273,LRV312-hlm32sp6-Saturday-01,0,1,102,Capen St - Westbound,42.267712,-71.087753
+70274,LRV312-hlm32sp6-Saturday-01,1,1,102,Capen St - Eastbound,42.267712,-71.087753
+70275,LRV312-hlm32sp6-Saturday-01,0,1,102,Mattapan Station - Westbound,42.267762,-71.092241
+70276,LRV312-hlm32sp6-Saturday-01,1,1,102,Mattapan Station - Eastbound,42.267762,-71.092241

@@ -1,0 +1,26 @@
+route_id,service_id,direction_id,numtripsperroute_both_dir,hours_of_service,first_departure_sec,last_departure_sec,span_of_service_hrs,route_avg_hdwy,route_stdev_hdwy,trips_per_day,average_speed,average_length_mi,w_avg_num_stops,avg_dist_bw_stops_ft,route_short_name,route_long_name
+55-55,DEC11-Multi-Holiday-01,0,199,24,12720,96720,23,9.4,6.6,195,24.3,16.9,19.5,4750.5984370309951058796,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,DEC11-Multi-Holiday-01,0,60,9,10140,96600,24,13.5,4.5,30,49.1,1.8,2.1,8392.6532500000000000965,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,DEC11-Multi-Reduced-01,0,204,24,12720,96780,23,9.5,6.1,200,24.3,16.9,19.5,4752.4154220572640509146,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,DEC11-Multi-Reduced-01,0,60,9,10140,96600,24,13.6,4.7,30,49.1,1.8,2.1,8392.6532500000000000965,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,DEC11-Multi-Saturday-01,0,204,24,12720,96780,23,9.5,6.1,200,24.3,16.9,19.5,4752.4154220572640509146,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,DEC11-Multi-Saturday-01,0,60,9,10140,96600,24,13.6,4.7,30,49.1,1.8,2.1,8392.6532500000000000965,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,DEC11-Multi-Sunday-01,0,199,24,12720,96720,23,9.4,6.6,195,24.3,16.9,19.5,4750.5984370309951058796,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,DEC11-Multi-Sunday-01,0,60,9,10140,96600,24,13.5,4.5,30,49.1,1.8,2.1,8392.6532500000000000965,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,DEC11-Multi-Weekday-01,0,245,24,12720,96720,23,7.9,6.5,241,23.5,15.5,18.1,4710.3468747674695922632,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,DEC11-Multi-Weekday-01,0,55,8,10140,96600,24,13.0,4.0,28,49.7,1.7,2.1,8686.4475000000000000000,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,DEC11-Multi-Weekday-01-0000100,0,1,1,94380,96780,1,,,1,25.8,17.2,19.0,5038.5952444444444444809,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,DEC11-Multi-Weekday-02,0,245,24,12720,96720,23,7.9,6.5,241,23.5,15.5,18.1,4710.3468747674695922632,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,DEC11-Multi-Weekday-02,0,55,8,10140,96600,24,13.0,4.0,28,49.7,1.7,2.1,8686.4475000000000000000,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,DEC11-Multi-Weekday-02-0000100,0,1,1,94380,96780,1,,,1,25.8,17.2,19.0,5038.5952444444444444809,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,SEP11-Multi-Holiday-01,0,199,24,12720,96720,23,9.4,6.6,195,24.3,16.9,19.5,4750.5984370309951058796,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,SEP11-Multi-Holiday-01,0,60,9,10260,96600,24,13.3,4.6,30,49.1,1.8,2.1,8392.6532500000000000965,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,SEP11-Multi-Reduced-01,0,204,24,12720,96780,23,9.5,6.1,200,24.3,16.9,19.5,4752.4154220572640509146,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,SEP11-Multi-Reduced-01,0,60,9,10140,96600,24,13.5,4.5,30,49.1,1.8,2.1,8409.5552250000000000386,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,SEP11-Multi-Saturday-01,0,204,24,12720,96780,23,9.5,6.1,200,24.3,16.9,19.5,4752.4154220572640509146,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,SEP11-Multi-Saturday-01,0,60,9,10140,96600,24,13.6,4.7,30,49.1,1.8,2.1,8409.5552250000000000386,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,SEP11-Multi-Sunday-01,0,199,24,12720,96720,23,9.4,6.6,195,24.3,16.9,19.5,4750.5984370309951058796,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,SEP11-Multi-Sunday-01,0,60,9,10260,96600,24,13.6,4.7,30,49.1,1.8,2.1,8392.6532500000000000965,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,SEP11-Multi-Weekday-01,0,245,24,12720,96720,23,7.9,6.5,241,23.5,15.5,18.1,4710.3468747674695922632,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,SEP11-Multi-Weekday-01,0,55,8,10140,96600,24,13.0,4.0,28,49.7,1.7,2.1,8686.4475000000000000000,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,SEP11-Multi-Weekday-01-0000100,0,1,1,94380,96780,1,,,1,25.8,17.2,19.0,5038.5952444444444444809,55,Hiawatha LRT - Mpls - Airport - MOA

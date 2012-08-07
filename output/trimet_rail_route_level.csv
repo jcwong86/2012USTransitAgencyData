@@ -1,0 +1,5 @@
+route_id,service_id,direction_id,numtripsperroute_both_dir,hours_of_service,first_departure_sec,last_departure_sec,span_of_service_hrs,route_avg_hdwy,route_stdev_hdwy,trips_per_day,average_speed,average_length_mi,w_avg_num_stops,avg_dist_bw_stops_ft,route_short_name,route_long_name
+203,W.335,0,32,11,19260,72120,15,30.0,0.0,16,46.1,20.8,5.0,27407.5054000000000000000,"",WES Commuter Rail
+203,W.335,1,32,11,19260,72120,15,30.0,0.0,16,46.1,20.8,5.0,27410.5403250000000000000,"",WES Commuter Rail
+203,W.336,1,32,11,19260,72120,15,30.0,0.0,16,46.1,20.8,5.0,27410.5403250000000000000,"",WES Commuter Rail
+203,W.336,0,32,11,19260,72120,15,30.0,0.0,16,46.1,20.8,5.0,27407.5054000000000000000,"",WES Commuter Rail

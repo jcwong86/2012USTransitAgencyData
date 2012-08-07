@@ -1,0 +1,495 @@
+stop_id,service_id,direction_id,numroutes,TripsServingStop,stop_name,stop_lat,stop_lon
+17874,DEC11-Multi-Holiday-01,0,1,93,Warehouse Station & Platform,44.980038,-93.273117
+17875,DEC11-Multi-Holiday-01,0,1,102,Warehouse Station & Platform,44.980083,-93.273155
+51405,DEC11-Multi-Holiday-01,0,1,193,MOA Transit Station & Platform,44.854286,-93.238869
+51408,DEC11-Multi-Holiday-01,0,1,93,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,DEC11-Multi-Holiday-01,0,1,93,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,DEC11-Multi-Holiday-01,0,1,93,Metrodome Station & Platform,44.974922,-93.259895
+51411,DEC11-Multi-Holiday-01,0,1,93,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,DEC11-Multi-Holiday-01,0,1,96,Franklin Station & Platform,44.962608,-93.247124
+51413,DEC11-Multi-Holiday-01,0,1,96,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,DEC11-Multi-Holiday-01,0,1,96,38 St Station & Platform,44.934589,-93.229401
+51415,DEC11-Multi-Holiday-01,0,1,96,46 St Station & Platform,44.920795,-93.220009
+51416,DEC11-Multi-Holiday-01,0,1,96,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,DEC11-Multi-Holiday-01,0,1,96,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,DEC11-Multi-Holiday-01,0,1,97,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,DEC11-Multi-Holiday-01,0,2,127,Lindbergh Station & Platform,44.880733,-93.205025
+51420,DEC11-Multi-Holiday-01,0,2,127,Humphrey Station & Platform,44.874104,-93.224129
+51421,DEC11-Multi-Holiday-01,0,1,97,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,DEC11-Multi-Holiday-01,0,1,97,28 Av Station & Platform,44.855721,-93.231766
+51423,DEC11-Multi-Holiday-01,0,1,102,Nicollet Mall Station & Platform,44.978565,-93.270004
+51424,DEC11-Multi-Holiday-01,0,1,102,Govt Plaza Station & Platform,44.976833,-93.26593
+51425,DEC11-Multi-Holiday-01,0,1,102,Metrodome Station & Platform,44.975052,-93.259857
+51426,DEC11-Multi-Holiday-01,0,1,102,Cedar-Riverside Sta & Platform,44.968472,-93.251068
+51427,DEC11-Multi-Holiday-01,0,1,96,Franklin Station & Platform,44.962444,-93.246902
+51428,DEC11-Multi-Holiday-01,0,1,96,Lake St Midtown Sta & Platform,44.948364,-93.238823
+51429,DEC11-Multi-Holiday-01,0,1,96,38 St Station & Platform,44.934853,-93.229546
+51430,DEC11-Multi-Holiday-01,0,1,96,46 St Station & Platform,44.920845,-93.219826
+51431,DEC11-Multi-Holiday-01,0,1,96,50 St Minnehaha Sta & Platform,44.912521,-93.210205
+51432,DEC11-Multi-Holiday-01,0,1,96,VA Medical Ctr Sta & Platform,44.902958,-93.202309
+51433,DEC11-Multi-Holiday-01,0,1,96,Fort Snelling Station & Platform,44.893532,-93.197937
+51434,DEC11-Multi-Holiday-01,0,2,126,Lindbergh Station & Platform,44.880833,-93.204811
+51435,DEC11-Multi-Holiday-01,0,2,126,Humphrey Station & Platform,44.874264,-93.224197
+51436,DEC11-Multi-Holiday-01,0,1,96,Bloomington Central Sta & Platform,44.856365,-93.226028
+51437,DEC11-Multi-Holiday-01,0,1,96,28 Av Station & Platform,44.855804,-93.231644
+51866,DEC11-Multi-Holiday-01,0,1,6,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738
+51867,DEC11-Multi-Holiday-01,0,1,2,Pocket Track - Node & NWA LV,44.870502,-93.223244
+53220,DEC11-Multi-Holiday-01,0,1,195,Target Field - Board & Platform,44.982986,-93.277344
+53221,DEC11-Multi-Holiday-01,0,1,102,Target Field Sta & LRT Platform,44.983067,-93.277374
+53278,DEC11-Multi-Holiday-01,0,1,102,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365
+53279,DEC11-Multi-Holiday-01,0,1,97,American Blv 34 Av S & Platform,44.858311,-93.223175
+53280,DEC11-Multi-Holiday-01,0,1,96,American Blv 34 Av S & Platform,44.859127,-93.223129
+17874,DEC11-Multi-Reduced-01,0,1,96,Warehouse Station & Platform,44.980038,-93.273117
+17875,DEC11-Multi-Reduced-01,0,1,104,Warehouse Station & Platform,44.980083,-93.273155
+51405,DEC11-Multi-Reduced-01,0,1,198,MOA Transit Station & Platform,44.854286,-93.238869
+51408,DEC11-Multi-Reduced-01,0,1,96,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,DEC11-Multi-Reduced-01,0,1,96,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,DEC11-Multi-Reduced-01,0,1,96,Metrodome Station & Platform,44.974922,-93.259895
+51411,DEC11-Multi-Reduced-01,0,1,96,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,DEC11-Multi-Reduced-01,0,1,99,Franklin Station & Platform,44.962608,-93.247124
+51413,DEC11-Multi-Reduced-01,0,1,99,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,DEC11-Multi-Reduced-01,0,1,99,38 St Station & Platform,44.934589,-93.229401
+51415,DEC11-Multi-Reduced-01,0,1,99,46 St Station & Platform,44.920795,-93.220009
+51416,DEC11-Multi-Reduced-01,0,1,99,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,DEC11-Multi-Reduced-01,0,1,99,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,DEC11-Multi-Reduced-01,0,1,100,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,DEC11-Multi-Reduced-01,0,2,130,Lindbergh Station & Platform,44.880733,-93.205025
+51420,DEC11-Multi-Reduced-01,0,2,130,Humphrey Station & Platform,44.874104,-93.224129
+51421,DEC11-Multi-Reduced-01,0,1,100,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,DEC11-Multi-Reduced-01,0,1,100,28 Av Station & Platform,44.855721,-93.231766
+51423,DEC11-Multi-Reduced-01,0,1,104,Nicollet Mall Station & Platform,44.978565,-93.270004
+51424,DEC11-Multi-Reduced-01,0,1,104,Govt Plaza Station & Platform,44.976833,-93.26593
+51425,DEC11-Multi-Reduced-01,0,1,104,Metrodome Station & Platform,44.975052,-93.259857
+51426,DEC11-Multi-Reduced-01,0,1,104,Cedar-Riverside Sta & Platform,44.968472,-93.251068
+51427,DEC11-Multi-Reduced-01,0,1,98,Franklin Station & Platform,44.962444,-93.246902
+51428,DEC11-Multi-Reduced-01,0,1,98,Lake St Midtown Sta & Platform,44.948364,-93.238823
+51429,DEC11-Multi-Reduced-01,0,1,98,38 St Station & Platform,44.934853,-93.229546
+51430,DEC11-Multi-Reduced-01,0,1,98,46 St Station & Platform,44.920845,-93.219826
+51431,DEC11-Multi-Reduced-01,0,1,98,50 St Minnehaha Sta & Platform,44.912521,-93.210205
+51432,DEC11-Multi-Reduced-01,0,1,98,VA Medical Ctr Sta & Platform,44.902958,-93.202309
+51433,DEC11-Multi-Reduced-01,0,1,98,Fort Snelling Station & Platform,44.893532,-93.197937
+51434,DEC11-Multi-Reduced-01,0,2,128,Lindbergh Station & Platform,44.880833,-93.204811
+51435,DEC11-Multi-Reduced-01,0,2,128,Humphrey Station & Platform,44.874264,-93.224197
+51436,DEC11-Multi-Reduced-01,0,1,98,Bloomington Central Sta & Platform,44.856365,-93.226028
+51437,DEC11-Multi-Reduced-01,0,1,98,28 Av Station & Platform,44.855804,-93.231644
+51866,DEC11-Multi-Reduced-01,0,1,6,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738
+51867,DEC11-Multi-Reduced-01,0,1,2,Pocket Track - Node & NWA LV,44.870502,-93.223244
+53220,DEC11-Multi-Reduced-01,0,1,200,Target Field - Board & Platform,44.982986,-93.277344
+53221,DEC11-Multi-Reduced-01,0,1,104,Target Field Sta & LRT Platform,44.983067,-93.277374
+53278,DEC11-Multi-Reduced-01,0,1,104,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365
+53279,DEC11-Multi-Reduced-01,0,1,100,American Blv 34 Av S & Platform,44.858311,-93.223175
+53280,DEC11-Multi-Reduced-01,0,1,98,American Blv 34 Av S & Platform,44.859127,-93.223129
+17874,DEC11-Multi-Saturday-01,0,1,96,Warehouse Station & Platform,44.980038,-93.273117
+17875,DEC11-Multi-Saturday-01,0,1,104,Warehouse Station & Platform,44.980083,-93.273155
+51405,DEC11-Multi-Saturday-01,0,1,198,MOA Transit Station & Platform,44.854286,-93.238869
+51408,DEC11-Multi-Saturday-01,0,1,96,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,DEC11-Multi-Saturday-01,0,1,96,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,DEC11-Multi-Saturday-01,0,1,96,Metrodome Station & Platform,44.974922,-93.259895
+51411,DEC11-Multi-Saturday-01,0,1,96,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,DEC11-Multi-Saturday-01,0,1,99,Franklin Station & Platform,44.962608,-93.247124
+51413,DEC11-Multi-Saturday-01,0,1,99,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,DEC11-Multi-Saturday-01,0,1,99,38 St Station & Platform,44.934589,-93.229401
+51415,DEC11-Multi-Saturday-01,0,1,99,46 St Station & Platform,44.920795,-93.220009
+51416,DEC11-Multi-Saturday-01,0,1,99,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,DEC11-Multi-Saturday-01,0,1,99,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,DEC11-Multi-Saturday-01,0,1,100,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,DEC11-Multi-Saturday-01,0,2,130,Lindbergh Station & Platform,44.880733,-93.205025
+51420,DEC11-Multi-Saturday-01,0,2,130,Humphrey Station & Platform,44.874104,-93.224129
+51421,DEC11-Multi-Saturday-01,0,1,100,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,DEC11-Multi-Saturday-01,0,1,100,28 Av Station & Platform,44.855721,-93.231766
+51423,DEC11-Multi-Saturday-01,0,1,104,Nicollet Mall Station & Platform,44.978565,-93.270004
+51424,DEC11-Multi-Saturday-01,0,1,104,Govt Plaza Station & Platform,44.976833,-93.26593
+51425,DEC11-Multi-Saturday-01,0,1,104,Metrodome Station & Platform,44.975052,-93.259857
+51426,DEC11-Multi-Saturday-01,0,1,104,Cedar-Riverside Sta & Platform,44.968472,-93.251068
+51427,DEC11-Multi-Saturday-01,0,1,98,Franklin Station & Platform,44.962444,-93.246902
+51428,DEC11-Multi-Saturday-01,0,1,98,Lake St Midtown Sta & Platform,44.948364,-93.238823
+51429,DEC11-Multi-Saturday-01,0,1,98,38 St Station & Platform,44.934853,-93.229546
+51430,DEC11-Multi-Saturday-01,0,1,98,46 St Station & Platform,44.920845,-93.219826
+51431,DEC11-Multi-Saturday-01,0,1,98,50 St Minnehaha Sta & Platform,44.912521,-93.210205
+51432,DEC11-Multi-Saturday-01,0,1,98,VA Medical Ctr Sta & Platform,44.902958,-93.202309
+51433,DEC11-Multi-Saturday-01,0,1,98,Fort Snelling Station & Platform,44.893532,-93.197937
+51434,DEC11-Multi-Saturday-01,0,2,128,Lindbergh Station & Platform,44.880833,-93.204811
+51435,DEC11-Multi-Saturday-01,0,2,128,Humphrey Station & Platform,44.874264,-93.224197
+51436,DEC11-Multi-Saturday-01,0,1,98,Bloomington Central Sta & Platform,44.856365,-93.226028
+51437,DEC11-Multi-Saturday-01,0,1,98,28 Av Station & Platform,44.855804,-93.231644
+51866,DEC11-Multi-Saturday-01,0,1,6,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738
+51867,DEC11-Multi-Saturday-01,0,1,2,Pocket Track - Node & NWA LV,44.870502,-93.223244
+53220,DEC11-Multi-Saturday-01,0,1,200,Target Field - Board & Platform,44.982986,-93.277344
+53221,DEC11-Multi-Saturday-01,0,1,104,Target Field Sta & LRT Platform,44.983067,-93.277374
+53278,DEC11-Multi-Saturday-01,0,1,104,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365
+53279,DEC11-Multi-Saturday-01,0,1,100,American Blv 34 Av S & Platform,44.858311,-93.223175
+53280,DEC11-Multi-Saturday-01,0,1,98,American Blv 34 Av S & Platform,44.859127,-93.223129
+17874,DEC11-Multi-Sunday-01,0,1,93,Warehouse Station & Platform,44.980038,-93.273117
+17875,DEC11-Multi-Sunday-01,0,1,102,Warehouse Station & Platform,44.980083,-93.273155
+51405,DEC11-Multi-Sunday-01,0,1,193,MOA Transit Station & Platform,44.854286,-93.238869
+51408,DEC11-Multi-Sunday-01,0,1,93,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,DEC11-Multi-Sunday-01,0,1,93,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,DEC11-Multi-Sunday-01,0,1,93,Metrodome Station & Platform,44.974922,-93.259895
+51411,DEC11-Multi-Sunday-01,0,1,93,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,DEC11-Multi-Sunday-01,0,1,96,Franklin Station & Platform,44.962608,-93.247124
+51413,DEC11-Multi-Sunday-01,0,1,96,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,DEC11-Multi-Sunday-01,0,1,96,38 St Station & Platform,44.934589,-93.229401
+51415,DEC11-Multi-Sunday-01,0,1,96,46 St Station & Platform,44.920795,-93.220009
+51416,DEC11-Multi-Sunday-01,0,1,96,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,DEC11-Multi-Sunday-01,0,1,96,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,DEC11-Multi-Sunday-01,0,1,97,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,DEC11-Multi-Sunday-01,0,2,127,Lindbergh Station & Platform,44.880733,-93.205025
+51420,DEC11-Multi-Sunday-01,0,2,127,Humphrey Station & Platform,44.874104,-93.224129
+51421,DEC11-Multi-Sunday-01,0,1,97,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,DEC11-Multi-Sunday-01,0,1,97,28 Av Station & Platform,44.855721,-93.231766
+51423,DEC11-Multi-Sunday-01,0,1,102,Nicollet Mall Station & Platform,44.978565,-93.270004
+51424,DEC11-Multi-Sunday-01,0,1,102,Govt Plaza Station & Platform,44.976833,-93.26593
+51425,DEC11-Multi-Sunday-01,0,1,102,Metrodome Station & Platform,44.975052,-93.259857
+51426,DEC11-Multi-Sunday-01,0,1,102,Cedar-Riverside Sta & Platform,44.968472,-93.251068
+51427,DEC11-Multi-Sunday-01,0,1,96,Franklin Station & Platform,44.962444,-93.246902
+51428,DEC11-Multi-Sunday-01,0,1,96,Lake St Midtown Sta & Platform,44.948364,-93.238823
+51429,DEC11-Multi-Sunday-01,0,1,96,38 St Station & Platform,44.934853,-93.229546
+51430,DEC11-Multi-Sunday-01,0,1,96,46 St Station & Platform,44.920845,-93.219826
+51431,DEC11-Multi-Sunday-01,0,1,96,50 St Minnehaha Sta & Platform,44.912521,-93.210205
+51432,DEC11-Multi-Sunday-01,0,1,96,VA Medical Ctr Sta & Platform,44.902958,-93.202309
+51433,DEC11-Multi-Sunday-01,0,1,96,Fort Snelling Station & Platform,44.893532,-93.197937
+51434,DEC11-Multi-Sunday-01,0,2,126,Lindbergh Station & Platform,44.880833,-93.204811
+51435,DEC11-Multi-Sunday-01,0,2,126,Humphrey Station & Platform,44.874264,-93.224197
+51436,DEC11-Multi-Sunday-01,0,1,96,Bloomington Central Sta & Platform,44.856365,-93.226028
+51437,DEC11-Multi-Sunday-01,0,1,96,28 Av Station & Platform,44.855804,-93.231644
+51866,DEC11-Multi-Sunday-01,0,1,6,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738
+51867,DEC11-Multi-Sunday-01,0,1,2,Pocket Track - Node & NWA LV,44.870502,-93.223244
+53220,DEC11-Multi-Sunday-01,0,1,195,Target Field - Board & Platform,44.982986,-93.277344
+53221,DEC11-Multi-Sunday-01,0,1,102,Target Field Sta & LRT Platform,44.983067,-93.277374
+53278,DEC11-Multi-Sunday-01,0,1,102,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365
+53279,DEC11-Multi-Sunday-01,0,1,97,American Blv 34 Av S & Platform,44.858311,-93.223175
+53280,DEC11-Multi-Sunday-01,0,1,96,American Blv 34 Av S & Platform,44.859127,-93.223129
+17874,DEC11-Multi-Weekday-01,0,1,105,Warehouse Station & Platform,44.980038,-93.273117
+17875,DEC11-Multi-Weekday-01,0,1,114,Warehouse Station & Platform,44.980083,-93.273155
+51405,DEC11-Multi-Weekday-01,0,1,217,MOA Transit Station & Platform,44.854286,-93.238869
+51408,DEC11-Multi-Weekday-01,0,1,105,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,DEC11-Multi-Weekday-01,0,1,105,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,DEC11-Multi-Weekday-01,0,1,105,Metrodome Station & Platform,44.974922,-93.259895
+51411,DEC11-Multi-Weekday-01,0,1,105,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,DEC11-Multi-Weekday-01,0,1,109,Franklin Station & Platform,44.962608,-93.247124
+51413,DEC11-Multi-Weekday-01,0,1,109,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,DEC11-Multi-Weekday-01,0,1,109,38 St Station & Platform,44.934589,-93.229401
+51415,DEC11-Multi-Weekday-01,0,1,109,46 St Station & Platform,44.920795,-93.220009
+51416,DEC11-Multi-Weekday-01,0,1,109,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,DEC11-Multi-Weekday-01,0,1,109,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,DEC11-Multi-Weekday-01,0,1,109,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,DEC11-Multi-Weekday-01,0,2,137,Lindbergh Station & Platform,44.880733,-93.205025
+51420,DEC11-Multi-Weekday-01,0,2,137,Humphrey Station & Platform,44.874104,-93.224129
+51421,DEC11-Multi-Weekday-01,0,1,109,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,DEC11-Multi-Weekday-01,0,1,109,28 Av Station & Platform,44.855721,-93.231766
+51423,DEC11-Multi-Weekday-01,0,1,114,Nicollet Mall Station & Platform,44.978565,-93.270004
+51424,DEC11-Multi-Weekday-01,0,1,114,Govt Plaza Station & Platform,44.976833,-93.26593
+51425,DEC11-Multi-Weekday-01,0,1,114,Metrodome Station & Platform,44.975052,-93.259857
+51426,DEC11-Multi-Weekday-01,0,1,114,Cedar-Riverside Sta & Platform,44.968472,-93.251068
+51427,DEC11-Multi-Weekday-01,0,1,109,Franklin Station & Platform,44.962444,-93.246902
+51428,DEC11-Multi-Weekday-01,0,1,109,Lake St Midtown Sta & Platform,44.948364,-93.238823
+51429,DEC11-Multi-Weekday-01,0,1,109,38 St Station & Platform,44.934853,-93.229546
+51430,DEC11-Multi-Weekday-01,0,1,109,46 St Station & Platform,44.920845,-93.219826
+51431,DEC11-Multi-Weekday-01,0,1,109,50 St Minnehaha Sta & Platform,44.912521,-93.210205
+51432,DEC11-Multi-Weekday-01,0,1,109,VA Medical Ctr Sta & Platform,44.902958,-93.202309
+51433,DEC11-Multi-Weekday-01,0,1,109,Fort Snelling Station & Platform,44.893532,-93.197937
+51434,DEC11-Multi-Weekday-01,0,2,136,Lindbergh Station & Platform,44.880833,-93.204811
+51435,DEC11-Multi-Weekday-01,0,2,136,Humphrey Station & Platform,44.874264,-93.224197
+51436,DEC11-Multi-Weekday-01,0,1,108,Bloomington Central Sta & Platform,44.856365,-93.226028
+51437,DEC11-Multi-Weekday-01,0,1,108,28 Av Station & Platform,44.855804,-93.231644
+51866,DEC11-Multi-Weekday-01,0,1,3,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738
+53220,DEC11-Multi-Weekday-01,0,1,241,Target Field - Board & Platform,44.982986,-93.277344
+53221,DEC11-Multi-Weekday-01,0,1,136,Target Field Sta & LRT Platform,44.983067,-93.277374
+53278,DEC11-Multi-Weekday-01,0,1,136,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365
+53279,DEC11-Multi-Weekday-01,0,1,109,American Blv 34 Av S & Platform,44.858311,-93.223175
+53280,DEC11-Multi-Weekday-01,0,1,108,American Blv 34 Av S & Platform,44.859127,-93.223129
+17874,DEC11-Multi-Weekday-01-0000100,0,1,1,Warehouse Station & Platform,44.980038,-93.273117
+51405,DEC11-Multi-Weekday-01-0000100,0,1,1,MOA Transit Station & Platform,44.854286,-93.238869
+51408,DEC11-Multi-Weekday-01-0000100,0,1,1,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,DEC11-Multi-Weekday-01-0000100,0,1,1,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,DEC11-Multi-Weekday-01-0000100,0,1,1,Metrodome Station & Platform,44.974922,-93.259895
+51411,DEC11-Multi-Weekday-01-0000100,0,1,1,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,DEC11-Multi-Weekday-01-0000100,0,1,1,Franklin Station & Platform,44.962608,-93.247124
+51413,DEC11-Multi-Weekday-01-0000100,0,1,1,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,DEC11-Multi-Weekday-01-0000100,0,1,1,38 St Station & Platform,44.934589,-93.229401
+51415,DEC11-Multi-Weekday-01-0000100,0,1,1,46 St Station & Platform,44.920795,-93.220009
+51416,DEC11-Multi-Weekday-01-0000100,0,1,1,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,DEC11-Multi-Weekday-01-0000100,0,1,1,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,DEC11-Multi-Weekday-01-0000100,0,1,1,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,DEC11-Multi-Weekday-01-0000100,0,1,1,Lindbergh Station & Platform,44.880733,-93.205025
+51420,DEC11-Multi-Weekday-01-0000100,0,1,1,Humphrey Station & Platform,44.874104,-93.224129
+51421,DEC11-Multi-Weekday-01-0000100,0,1,1,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,DEC11-Multi-Weekday-01-0000100,0,1,1,28 Av Station & Platform,44.855721,-93.231766
+53220,DEC11-Multi-Weekday-01-0000100,0,1,1,Target Field - Board & Platform,44.982986,-93.277344
+53279,DEC11-Multi-Weekday-01-0000100,0,1,1,American Blv 34 Av S & Platform,44.858311,-93.223175
+17874,DEC11-Multi-Weekday-02,0,1,105,Warehouse Station & Platform,44.980038,-93.273117
+17875,DEC11-Multi-Weekday-02,0,1,114,Warehouse Station & Platform,44.980083,-93.273155
+51405,DEC11-Multi-Weekday-02,0,1,217,MOA Transit Station & Platform,44.854286,-93.238869
+51408,DEC11-Multi-Weekday-02,0,1,105,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,DEC11-Multi-Weekday-02,0,1,105,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,DEC11-Multi-Weekday-02,0,1,105,Metrodome Station & Platform,44.974922,-93.259895
+51411,DEC11-Multi-Weekday-02,0,1,105,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,DEC11-Multi-Weekday-02,0,1,109,Franklin Station & Platform,44.962608,-93.247124
+51413,DEC11-Multi-Weekday-02,0,1,109,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,DEC11-Multi-Weekday-02,0,1,109,38 St Station & Platform,44.934589,-93.229401
+51415,DEC11-Multi-Weekday-02,0,1,109,46 St Station & Platform,44.920795,-93.220009
+51416,DEC11-Multi-Weekday-02,0,1,109,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,DEC11-Multi-Weekday-02,0,1,109,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,DEC11-Multi-Weekday-02,0,1,109,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,DEC11-Multi-Weekday-02,0,2,137,Lindbergh Station & Platform,44.880733,-93.205025
+51420,DEC11-Multi-Weekday-02,0,2,137,Humphrey Station & Platform,44.874104,-93.224129
+51421,DEC11-Multi-Weekday-02,0,1,109,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,DEC11-Multi-Weekday-02,0,1,109,28 Av Station & Platform,44.855721,-93.231766
+51423,DEC11-Multi-Weekday-02,0,1,114,Nicollet Mall Station & Platform,44.978565,-93.270004
+51424,DEC11-Multi-Weekday-02,0,1,114,Govt Plaza Station & Platform,44.976833,-93.26593
+51425,DEC11-Multi-Weekday-02,0,1,114,Metrodome Station & Platform,44.975052,-93.259857
+51426,DEC11-Multi-Weekday-02,0,1,114,Cedar-Riverside Sta & Platform,44.968472,-93.251068
+51427,DEC11-Multi-Weekday-02,0,1,109,Franklin Station & Platform,44.962444,-93.246902
+51428,DEC11-Multi-Weekday-02,0,1,109,Lake St Midtown Sta & Platform,44.948364,-93.238823
+51429,DEC11-Multi-Weekday-02,0,1,109,38 St Station & Platform,44.934853,-93.229546
+51430,DEC11-Multi-Weekday-02,0,1,109,46 St Station & Platform,44.920845,-93.219826
+51431,DEC11-Multi-Weekday-02,0,1,109,50 St Minnehaha Sta & Platform,44.912521,-93.210205
+51432,DEC11-Multi-Weekday-02,0,1,109,VA Medical Ctr Sta & Platform,44.902958,-93.202309
+51433,DEC11-Multi-Weekday-02,0,1,109,Fort Snelling Station & Platform,44.893532,-93.197937
+51434,DEC11-Multi-Weekday-02,0,2,136,Lindbergh Station & Platform,44.880833,-93.204811
+51435,DEC11-Multi-Weekday-02,0,2,136,Humphrey Station & Platform,44.874264,-93.224197
+51436,DEC11-Multi-Weekday-02,0,1,108,Bloomington Central Sta & Platform,44.856365,-93.226028
+51437,DEC11-Multi-Weekday-02,0,1,108,28 Av Station & Platform,44.855804,-93.231644
+51866,DEC11-Multi-Weekday-02,0,1,3,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738
+53220,DEC11-Multi-Weekday-02,0,1,241,Target Field - Board & Platform,44.982986,-93.277344
+53221,DEC11-Multi-Weekday-02,0,1,136,Target Field Sta & LRT Platform,44.983067,-93.277374
+53278,DEC11-Multi-Weekday-02,0,1,136,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365
+53279,DEC11-Multi-Weekday-02,0,1,109,American Blv 34 Av S & Platform,44.858311,-93.223175
+53280,DEC11-Multi-Weekday-02,0,1,108,American Blv 34 Av S & Platform,44.859127,-93.223129
+17874,DEC11-Multi-Weekday-02-0000100,0,1,1,Warehouse Station & Platform,44.980038,-93.273117
+51405,DEC11-Multi-Weekday-02-0000100,0,1,1,MOA Transit Station & Platform,44.854286,-93.238869
+51408,DEC11-Multi-Weekday-02-0000100,0,1,1,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,DEC11-Multi-Weekday-02-0000100,0,1,1,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,DEC11-Multi-Weekday-02-0000100,0,1,1,Metrodome Station & Platform,44.974922,-93.259895
+51411,DEC11-Multi-Weekday-02-0000100,0,1,1,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,DEC11-Multi-Weekday-02-0000100,0,1,1,Franklin Station & Platform,44.962608,-93.247124
+51413,DEC11-Multi-Weekday-02-0000100,0,1,1,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,DEC11-Multi-Weekday-02-0000100,0,1,1,38 St Station & Platform,44.934589,-93.229401
+51415,DEC11-Multi-Weekday-02-0000100,0,1,1,46 St Station & Platform,44.920795,-93.220009
+51416,DEC11-Multi-Weekday-02-0000100,0,1,1,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,DEC11-Multi-Weekday-02-0000100,0,1,1,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,DEC11-Multi-Weekday-02-0000100,0,1,1,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,DEC11-Multi-Weekday-02-0000100,0,1,1,Lindbergh Station & Platform,44.880733,-93.205025
+51420,DEC11-Multi-Weekday-02-0000100,0,1,1,Humphrey Station & Platform,44.874104,-93.224129
+51421,DEC11-Multi-Weekday-02-0000100,0,1,1,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,DEC11-Multi-Weekday-02-0000100,0,1,1,28 Av Station & Platform,44.855721,-93.231766
+53220,DEC11-Multi-Weekday-02-0000100,0,1,1,Target Field - Board & Platform,44.982986,-93.277344
+53279,DEC11-Multi-Weekday-02-0000100,0,1,1,American Blv 34 Av S & Platform,44.858311,-93.223175
+17874,SEP11-Multi-Holiday-01,0,1,93,Warehouse Station & Platform,44.980038,-93.273117
+17875,SEP11-Multi-Holiday-01,0,1,102,Warehouse Station & Platform,44.980083,-93.273155
+51405,SEP11-Multi-Holiday-01,0,1,193,MOA Transit Station & Platform,44.854286,-93.238869
+51408,SEP11-Multi-Holiday-01,0,1,93,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,SEP11-Multi-Holiday-01,0,1,93,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,SEP11-Multi-Holiday-01,0,1,93,Metrodome Station & Platform,44.974922,-93.259895
+51411,SEP11-Multi-Holiday-01,0,1,93,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,SEP11-Multi-Holiday-01,0,1,96,Franklin Station & Platform,44.962608,-93.247124
+51413,SEP11-Multi-Holiday-01,0,1,96,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,SEP11-Multi-Holiday-01,0,1,96,38 St Station & Platform,44.934589,-93.229401
+51415,SEP11-Multi-Holiday-01,0,1,96,46 St Station & Platform,44.920795,-93.220009
+51416,SEP11-Multi-Holiday-01,0,1,96,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,SEP11-Multi-Holiday-01,0,1,96,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,SEP11-Multi-Holiday-01,0,1,97,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,SEP11-Multi-Holiday-01,0,2,127,Lindbergh Station & Platform,44.880733,-93.205025
+51420,SEP11-Multi-Holiday-01,0,2,127,Humphrey Station & Platform,44.874104,-93.224129
+51421,SEP11-Multi-Holiday-01,0,1,97,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,SEP11-Multi-Holiday-01,0,1,97,28 Av Station & Platform,44.855721,-93.231766
+51423,SEP11-Multi-Holiday-01,0,1,102,Nicollet Mall Station & Platform,44.978565,-93.270004
+51424,SEP11-Multi-Holiday-01,0,1,102,Govt Plaza Station & Platform,44.976833,-93.26593
+51425,SEP11-Multi-Holiday-01,0,1,102,Metrodome Station & Platform,44.975052,-93.259857
+51426,SEP11-Multi-Holiday-01,0,1,102,Cedar-Riverside Sta & Platform,44.968472,-93.251068
+51427,SEP11-Multi-Holiday-01,0,1,96,Franklin Station & Platform,44.962444,-93.246902
+51428,SEP11-Multi-Holiday-01,0,1,96,Lake St Midtown Sta & Platform,44.948364,-93.238823
+51429,SEP11-Multi-Holiday-01,0,1,96,38 St Station & Platform,44.934853,-93.229546
+51430,SEP11-Multi-Holiday-01,0,1,96,46 St Station & Platform,44.920845,-93.219826
+51431,SEP11-Multi-Holiday-01,0,1,96,50 St Minnehaha Sta & Platform,44.912521,-93.210205
+51432,SEP11-Multi-Holiday-01,0,1,96,VA Medical Ctr Sta & Platform,44.902958,-93.202309
+51433,SEP11-Multi-Holiday-01,0,1,96,Fort Snelling Station & Platform,44.893532,-93.197937
+51434,SEP11-Multi-Holiday-01,0,2,126,Lindbergh Station & Platform,44.880833,-93.204811
+51435,SEP11-Multi-Holiday-01,0,2,126,Humphrey Station & Platform,44.874264,-93.224197
+51436,SEP11-Multi-Holiday-01,0,1,96,Bloomington Central Sta & Platform,44.856365,-93.226028
+51437,SEP11-Multi-Holiday-01,0,1,96,28 Av Station & Platform,44.855804,-93.231644
+51866,SEP11-Multi-Holiday-01,0,1,6,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738
+51867,SEP11-Multi-Holiday-01,0,1,2,Pocket Track - Node & NWA LV,44.870502,-93.223244
+53220,SEP11-Multi-Holiday-01,0,1,195,Target Field - Board & Platform,44.982986,-93.277344
+53221,SEP11-Multi-Holiday-01,0,1,102,Target Field Sta & LRT Platform,44.983067,-93.277374
+53278,SEP11-Multi-Holiday-01,0,1,102,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365
+53279,SEP11-Multi-Holiday-01,0,1,97,American Blv 34 Av S & Platform,44.858311,-93.223175
+53280,SEP11-Multi-Holiday-01,0,1,96,American Blv 34 Av S & Platform,44.859127,-93.223129
+17874,SEP11-Multi-Reduced-01,0,1,96,Warehouse Station & Platform,44.980038,-93.273117
+17875,SEP11-Multi-Reduced-01,0,1,104,Warehouse Station & Platform,44.980083,-93.273155
+51405,SEP11-Multi-Reduced-01,0,1,198,MOA Transit Station & Platform,44.854286,-93.238869
+51408,SEP11-Multi-Reduced-01,0,1,96,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,SEP11-Multi-Reduced-01,0,1,96,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,SEP11-Multi-Reduced-01,0,1,96,Metrodome Station & Platform,44.974922,-93.259895
+51411,SEP11-Multi-Reduced-01,0,1,96,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,SEP11-Multi-Reduced-01,0,1,99,Franklin Station & Platform,44.962608,-93.247124
+51413,SEP11-Multi-Reduced-01,0,1,99,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,SEP11-Multi-Reduced-01,0,1,99,38 St Station & Platform,44.934589,-93.229401
+51415,SEP11-Multi-Reduced-01,0,1,99,46 St Station & Platform,44.920795,-93.220009
+51416,SEP11-Multi-Reduced-01,0,1,99,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,SEP11-Multi-Reduced-01,0,1,99,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,SEP11-Multi-Reduced-01,0,1,100,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,SEP11-Multi-Reduced-01,0,2,130,Lindbergh Station & Platform,44.880733,-93.205025
+51420,SEP11-Multi-Reduced-01,0,2,130,Humphrey Station & Platform,44.874104,-93.224129
+51421,SEP11-Multi-Reduced-01,0,1,100,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,SEP11-Multi-Reduced-01,0,1,100,28 Av Station & Platform,44.855721,-93.231766
+51423,SEP11-Multi-Reduced-01,0,1,104,Nicollet Mall Station & Platform,44.978565,-93.270004
+51424,SEP11-Multi-Reduced-01,0,1,104,Govt Plaza Station & Platform,44.976833,-93.26593
+51425,SEP11-Multi-Reduced-01,0,1,104,Metrodome Station & Platform,44.975052,-93.259857
+51426,SEP11-Multi-Reduced-01,0,1,104,Cedar-Riverside Sta & Platform,44.968472,-93.251068
+51427,SEP11-Multi-Reduced-01,0,1,98,Franklin Station & Platform,44.962444,-93.246902
+51428,SEP11-Multi-Reduced-01,0,1,98,Lake St Midtown Sta & Platform,44.948364,-93.238823
+51429,SEP11-Multi-Reduced-01,0,1,98,38 St Station & Platform,44.934853,-93.229546
+51430,SEP11-Multi-Reduced-01,0,1,98,46 St Station & Platform,44.920845,-93.219826
+51431,SEP11-Multi-Reduced-01,0,1,98,50 St Minnehaha Sta & Platform,44.912521,-93.210205
+51432,SEP11-Multi-Reduced-01,0,1,98,VA Medical Ctr Sta & Platform,44.902958,-93.202309
+51433,SEP11-Multi-Reduced-01,0,2,99,Fort Snelling Station & Platform,44.893532,-93.197937
+51434,SEP11-Multi-Reduced-01,0,2,128,Lindbergh Station & Platform,44.880833,-93.204811
+51435,SEP11-Multi-Reduced-01,0,2,128,Humphrey Station & Platform,44.874264,-93.224197
+51436,SEP11-Multi-Reduced-01,0,1,98,Bloomington Central Sta & Platform,44.856365,-93.226028
+51437,SEP11-Multi-Reduced-01,0,1,98,28 Av Station & Platform,44.855804,-93.231644
+51866,SEP11-Multi-Reduced-01,0,1,5,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738
+51867,SEP11-Multi-Reduced-01,0,1,2,Pocket Track - Node & NWA LV,44.870502,-93.223244
+53220,SEP11-Multi-Reduced-01,0,1,200,Target Field - Board & Platform,44.982986,-93.277344
+53221,SEP11-Multi-Reduced-01,0,1,104,Target Field Sta & LRT Platform,44.983067,-93.277374
+53278,SEP11-Multi-Reduced-01,0,1,104,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365
+53279,SEP11-Multi-Reduced-01,0,1,100,American Blv 34 Av S & Platform,44.858311,-93.223175
+53280,SEP11-Multi-Reduced-01,0,1,98,American Blv 34 Av S & Platform,44.859127,-93.223129
+17874,SEP11-Multi-Saturday-01,0,1,96,Warehouse Station & Platform,44.980038,-93.273117
+17875,SEP11-Multi-Saturday-01,0,1,104,Warehouse Station & Platform,44.980083,-93.273155
+51405,SEP11-Multi-Saturday-01,0,1,198,MOA Transit Station & Platform,44.854286,-93.238869
+51408,SEP11-Multi-Saturday-01,0,1,96,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,SEP11-Multi-Saturday-01,0,1,96,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,SEP11-Multi-Saturday-01,0,1,96,Metrodome Station & Platform,44.974922,-93.259895
+51411,SEP11-Multi-Saturday-01,0,1,96,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,SEP11-Multi-Saturday-01,0,1,99,Franklin Station & Platform,44.962608,-93.247124
+51413,SEP11-Multi-Saturday-01,0,1,99,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,SEP11-Multi-Saturday-01,0,1,99,38 St Station & Platform,44.934589,-93.229401
+51415,SEP11-Multi-Saturday-01,0,1,99,46 St Station & Platform,44.920795,-93.220009
+51416,SEP11-Multi-Saturday-01,0,1,99,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,SEP11-Multi-Saturday-01,0,1,99,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,SEP11-Multi-Saturday-01,0,1,100,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,SEP11-Multi-Saturday-01,0,2,130,Lindbergh Station & Platform,44.880733,-93.205025
+51420,SEP11-Multi-Saturday-01,0,2,130,Humphrey Station & Platform,44.874104,-93.224129
+51421,SEP11-Multi-Saturday-01,0,1,100,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,SEP11-Multi-Saturday-01,0,1,100,28 Av Station & Platform,44.855721,-93.231766
+51423,SEP11-Multi-Saturday-01,0,1,104,Nicollet Mall Station & Platform,44.978565,-93.270004
+51424,SEP11-Multi-Saturday-01,0,1,104,Govt Plaza Station & Platform,44.976833,-93.26593
+51425,SEP11-Multi-Saturday-01,0,1,104,Metrodome Station & Platform,44.975052,-93.259857
+51426,SEP11-Multi-Saturday-01,0,1,104,Cedar-Riverside Sta & Platform,44.968472,-93.251068
+51427,SEP11-Multi-Saturday-01,0,1,98,Franklin Station & Platform,44.962444,-93.246902
+51428,SEP11-Multi-Saturday-01,0,1,98,Lake St Midtown Sta & Platform,44.948364,-93.238823
+51429,SEP11-Multi-Saturday-01,0,1,98,38 St Station & Platform,44.934853,-93.229546
+51430,SEP11-Multi-Saturday-01,0,1,98,46 St Station & Platform,44.920845,-93.219826
+51431,SEP11-Multi-Saturday-01,0,1,98,50 St Minnehaha Sta & Platform,44.912521,-93.210205
+51432,SEP11-Multi-Saturday-01,0,1,98,VA Medical Ctr Sta & Platform,44.902958,-93.202309
+51433,SEP11-Multi-Saturday-01,0,2,99,Fort Snelling Station & Platform,44.893532,-93.197937
+51434,SEP11-Multi-Saturday-01,0,2,128,Lindbergh Station & Platform,44.880833,-93.204811
+51435,SEP11-Multi-Saturday-01,0,2,128,Humphrey Station & Platform,44.874264,-93.224197
+51436,SEP11-Multi-Saturday-01,0,1,98,Bloomington Central Sta & Platform,44.856365,-93.226028
+51437,SEP11-Multi-Saturday-01,0,1,98,28 Av Station & Platform,44.855804,-93.231644
+51866,SEP11-Multi-Saturday-01,0,1,5,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738
+51867,SEP11-Multi-Saturday-01,0,1,2,Pocket Track - Node & NWA LV,44.870502,-93.223244
+53220,SEP11-Multi-Saturday-01,0,1,200,Target Field - Board & Platform,44.982986,-93.277344
+53221,SEP11-Multi-Saturday-01,0,1,104,Target Field Sta & LRT Platform,44.983067,-93.277374
+53278,SEP11-Multi-Saturday-01,0,1,104,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365
+53279,SEP11-Multi-Saturday-01,0,1,100,American Blv 34 Av S & Platform,44.858311,-93.223175
+53280,SEP11-Multi-Saturday-01,0,1,98,American Blv 34 Av S & Platform,44.859127,-93.223129
+17874,SEP11-Multi-Sunday-01,0,1,93,Warehouse Station & Platform,44.980038,-93.273117
+17875,SEP11-Multi-Sunday-01,0,1,102,Warehouse Station & Platform,44.980083,-93.273155
+51405,SEP11-Multi-Sunday-01,0,1,193,MOA Transit Station & Platform,44.854286,-93.238869
+51408,SEP11-Multi-Sunday-01,0,1,93,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,SEP11-Multi-Sunday-01,0,1,93,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,SEP11-Multi-Sunday-01,0,1,93,Metrodome Station & Platform,44.974922,-93.259895
+51411,SEP11-Multi-Sunday-01,0,1,93,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,SEP11-Multi-Sunday-01,0,1,96,Franklin Station & Platform,44.962608,-93.247124
+51413,SEP11-Multi-Sunday-01,0,1,96,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,SEP11-Multi-Sunday-01,0,1,96,38 St Station & Platform,44.934589,-93.229401
+51415,SEP11-Multi-Sunday-01,0,1,96,46 St Station & Platform,44.920795,-93.220009
+51416,SEP11-Multi-Sunday-01,0,1,96,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,SEP11-Multi-Sunday-01,0,1,96,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,SEP11-Multi-Sunday-01,0,1,97,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,SEP11-Multi-Sunday-01,0,2,127,Lindbergh Station & Platform,44.880733,-93.205025
+51420,SEP11-Multi-Sunday-01,0,2,127,Humphrey Station & Platform,44.874104,-93.224129
+51421,SEP11-Multi-Sunday-01,0,1,97,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,SEP11-Multi-Sunday-01,0,1,97,28 Av Station & Platform,44.855721,-93.231766
+51423,SEP11-Multi-Sunday-01,0,1,102,Nicollet Mall Station & Platform,44.978565,-93.270004
+51424,SEP11-Multi-Sunday-01,0,1,102,Govt Plaza Station & Platform,44.976833,-93.26593
+51425,SEP11-Multi-Sunday-01,0,1,102,Metrodome Station & Platform,44.975052,-93.259857
+51426,SEP11-Multi-Sunday-01,0,1,102,Cedar-Riverside Sta & Platform,44.968472,-93.251068
+51427,SEP11-Multi-Sunday-01,0,1,96,Franklin Station & Platform,44.962444,-93.246902
+51428,SEP11-Multi-Sunday-01,0,1,96,Lake St Midtown Sta & Platform,44.948364,-93.238823
+51429,SEP11-Multi-Sunday-01,0,1,96,38 St Station & Platform,44.934853,-93.229546
+51430,SEP11-Multi-Sunday-01,0,1,96,46 St Station & Platform,44.920845,-93.219826
+51431,SEP11-Multi-Sunday-01,0,1,96,50 St Minnehaha Sta & Platform,44.912521,-93.210205
+51432,SEP11-Multi-Sunday-01,0,1,96,VA Medical Ctr Sta & Platform,44.902958,-93.202309
+51433,SEP11-Multi-Sunday-01,0,1,96,Fort Snelling Station & Platform,44.893532,-93.197937
+51434,SEP11-Multi-Sunday-01,0,2,126,Lindbergh Station & Platform,44.880833,-93.204811
+51435,SEP11-Multi-Sunday-01,0,2,126,Humphrey Station & Platform,44.874264,-93.224197
+51436,SEP11-Multi-Sunday-01,0,1,96,Bloomington Central Sta & Platform,44.856365,-93.226028
+51437,SEP11-Multi-Sunday-01,0,1,96,28 Av Station & Platform,44.855804,-93.231644
+51866,SEP11-Multi-Sunday-01,0,1,6,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738
+51867,SEP11-Multi-Sunday-01,0,1,2,Pocket Track - Node & NWA LV,44.870502,-93.223244
+53220,SEP11-Multi-Sunday-01,0,1,195,Target Field - Board & Platform,44.982986,-93.277344
+53221,SEP11-Multi-Sunday-01,0,1,102,Target Field Sta & LRT Platform,44.983067,-93.277374
+53278,SEP11-Multi-Sunday-01,0,1,102,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365
+53279,SEP11-Multi-Sunday-01,0,1,97,American Blv 34 Av S & Platform,44.858311,-93.223175
+53280,SEP11-Multi-Sunday-01,0,1,96,American Blv 34 Av S & Platform,44.859127,-93.223129
+17874,SEP11-Multi-Weekday-01,0,1,105,Warehouse Station & Platform,44.980038,-93.273117
+17875,SEP11-Multi-Weekday-01,0,1,114,Warehouse Station & Platform,44.980083,-93.273155
+51405,SEP11-Multi-Weekday-01,0,1,217,MOA Transit Station & Platform,44.854286,-93.238869
+51408,SEP11-Multi-Weekday-01,0,1,105,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,SEP11-Multi-Weekday-01,0,1,105,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,SEP11-Multi-Weekday-01,0,1,105,Metrodome Station & Platform,44.974922,-93.259895
+51411,SEP11-Multi-Weekday-01,0,1,105,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,SEP11-Multi-Weekday-01,0,1,109,Franklin Station & Platform,44.962608,-93.247124
+51413,SEP11-Multi-Weekday-01,0,1,109,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,SEP11-Multi-Weekday-01,0,1,109,38 St Station & Platform,44.934589,-93.229401
+51415,SEP11-Multi-Weekday-01,0,1,109,46 St Station & Platform,44.920795,-93.220009
+51416,SEP11-Multi-Weekday-01,0,1,109,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,SEP11-Multi-Weekday-01,0,1,109,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,SEP11-Multi-Weekday-01,0,1,109,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,SEP11-Multi-Weekday-01,0,2,137,Lindbergh Station & Platform,44.880733,-93.205025
+51420,SEP11-Multi-Weekday-01,0,2,137,Humphrey Station & Platform,44.874104,-93.224129
+51421,SEP11-Multi-Weekday-01,0,1,109,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,SEP11-Multi-Weekday-01,0,1,109,28 Av Station & Platform,44.855721,-93.231766
+51423,SEP11-Multi-Weekday-01,0,1,114,Nicollet Mall Station & Platform,44.978565,-93.270004
+51424,SEP11-Multi-Weekday-01,0,1,114,Govt Plaza Station & Platform,44.976833,-93.26593
+51425,SEP11-Multi-Weekday-01,0,1,114,Metrodome Station & Platform,44.975052,-93.259857
+51426,SEP11-Multi-Weekday-01,0,1,114,Cedar-Riverside Sta & Platform,44.968472,-93.251068
+51427,SEP11-Multi-Weekday-01,0,1,109,Franklin Station & Platform,44.962444,-93.246902
+51428,SEP11-Multi-Weekday-01,0,1,109,Lake St Midtown Sta & Platform,44.948364,-93.238823
+51429,SEP11-Multi-Weekday-01,0,1,109,38 St Station & Platform,44.934853,-93.229546
+51430,SEP11-Multi-Weekday-01,0,1,109,46 St Station & Platform,44.920845,-93.219826
+51431,SEP11-Multi-Weekday-01,0,1,109,50 St Minnehaha Sta & Platform,44.912521,-93.210205
+51432,SEP11-Multi-Weekday-01,0,1,109,VA Medical Ctr Sta & Platform,44.902958,-93.202309
+51433,SEP11-Multi-Weekday-01,0,1,109,Fort Snelling Station & Platform,44.893532,-93.197937
+51434,SEP11-Multi-Weekday-01,0,2,136,Lindbergh Station & Platform,44.880833,-93.204811
+51435,SEP11-Multi-Weekday-01,0,2,136,Humphrey Station & Platform,44.874264,-93.224197
+51436,SEP11-Multi-Weekday-01,0,1,108,Bloomington Central Sta & Platform,44.856365,-93.226028
+51437,SEP11-Multi-Weekday-01,0,1,108,28 Av Station & Platform,44.855804,-93.231644
+51866,SEP11-Multi-Weekday-01,0,1,3,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738
+53220,SEP11-Multi-Weekday-01,0,1,241,Target Field - Board & Platform,44.982986,-93.277344
+53221,SEP11-Multi-Weekday-01,0,1,136,Target Field Sta & LRT Platform,44.983067,-93.277374
+53278,SEP11-Multi-Weekday-01,0,1,136,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365
+53279,SEP11-Multi-Weekday-01,0,1,109,American Blv 34 Av S & Platform,44.858311,-93.223175
+53280,SEP11-Multi-Weekday-01,0,1,108,American Blv 34 Av S & Platform,44.859127,-93.223129
+17874,SEP11-Multi-Weekday-01-0000100,0,1,1,Warehouse Station & Platform,44.980038,-93.273117
+51405,SEP11-Multi-Weekday-01-0000100,0,1,1,MOA Transit Station & Platform,44.854286,-93.238869
+51408,SEP11-Multi-Weekday-01-0000100,0,1,1,Nicollet Mall Station & Platform,44.978504,-93.269913
+51409,SEP11-Multi-Weekday-01-0000100,0,1,1,Govt Plaza Station & Platform,44.976788,-93.265854
+51410,SEP11-Multi-Weekday-01-0000100,0,1,1,Metrodome Station & Platform,44.974922,-93.259895
+51411,SEP11-Multi-Weekday-01-0000100,0,1,1,Cedar-Riverside Station & Platform,44.968288,-93.250961
+51412,SEP11-Multi-Weekday-01-0000100,0,1,1,Franklin Station & Platform,44.962608,-93.247124
+51413,SEP11-Multi-Weekday-01-0000100,0,1,1,Lake St Midtown Sta & Platform,44.948364,-93.238945
+51414,SEP11-Multi-Weekday-01-0000100,0,1,1,38 St Station & Platform,44.934589,-93.229401
+51415,SEP11-Multi-Weekday-01-0000100,0,1,1,46 St Station & Platform,44.920795,-93.220009
+51416,SEP11-Multi-Weekday-01-0000100,0,1,1,50 St Minnehaha Sta & Platform,44.912457,-93.210289
+51417,SEP11-Multi-Weekday-01-0000100,0,1,1,VA Medical Ctr Sta & Platform,44.902637,-93.202217
+51418,SEP11-Multi-Weekday-01-0000100,0,1,1,Fort Snelling Station & Platform,44.893162,-93.198112
+51419,SEP11-Multi-Weekday-01-0000100,0,1,1,Lindbergh Station & Platform,44.880733,-93.205025
+51420,SEP11-Multi-Weekday-01-0000100,0,1,1,Humphrey Station & Platform,44.874104,-93.224129
+51421,SEP11-Multi-Weekday-01-0000100,0,1,1,Bloomington Central Sta & Platform,44.856392,-93.226387
+51422,SEP11-Multi-Weekday-01-0000100,0,1,1,28 Av Station & Platform,44.855721,-93.231766
+53220,SEP11-Multi-Weekday-01-0000100,0,1,1,Target Field - Board & Platform,44.982986,-93.277344
+53279,SEP11-Multi-Weekday-01-0000100,0,1,1,American Blv 34 Av S & Platform,44.858311,-93.223175

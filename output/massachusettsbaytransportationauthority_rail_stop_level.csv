@@ -1,0 +1,755 @@
+stop_id,service_id,direction_id,numroutes,TripsServingStop,stop_name,stop_lat,stop_lon
+Abington,CR-SatSuspended,0,1,8,Abington,42.108034,-70.935296
+Abington,CR-SatSuspended,1,1,8,Abington,42.108034,-70.935296
+Abington,CR-SunSuspended,0,1,8,Abington,42.108034,-70.935296
+Abington,CR-SunSuspended,1,1,8,Abington,42.108034,-70.935296
+Abington,CR-Weekday,0,1,12,Abington,42.108034,-70.935296
+Abington,CR-Weekday,1,1,12,Abington,42.108034,-70.935296
+Anderson/ Woburn,CR-Saturday,0,1,8,Anderson/ Woburn,42.518082,-71.13865
+Anderson/ Woburn,CR-Saturday,1,1,8,Anderson/ Woburn,42.518082,-71.13865
+Anderson/ Woburn,CR-Sunday,0,1,8,Anderson/ Woburn,42.518082,-71.13865
+Anderson/ Woburn,CR-Sunday,1,1,8,Anderson/ Woburn,42.518082,-71.13865
+Anderson/ Woburn,CR-Weekday,0,2,27,Anderson/ Woburn,42.518082,-71.13865
+Anderson/ Woburn,CR-Weekday,1,2,30,Anderson/ Woburn,42.518082,-71.13865
+Andover,CR-Saturday,0,1,6,Andover,42.657798,-71.144513
+Andover,CR-Saturday,1,1,6,Andover,42.657798,-71.144513
+Andover,CR-Sunday,0,1,6,Andover,42.657798,-71.144513
+Andover,CR-Sunday,1,1,6,Andover,42.657798,-71.144513
+Andover,CR-Weekday,0,1,14,Andover,42.657798,-71.144513
+Andover,CR-Weekday,1,1,14,Andover,42.657798,-71.144513
+Ashland,CR-Saturday,0,1,5,Ashland,42.261694,-71.478813
+Ashland,CR-Saturday,1,1,5,Ashland,42.261694,-71.478813
+Ashland,CR-Sunday,0,1,5,Ashland,42.261694,-71.478813
+Ashland,CR-Sunday,1,1,5,Ashland,42.261694,-71.478813
+Ashland,CR-Weekday,0,1,11,Ashland,42.261694,-71.478813
+Ashland,CR-Weekday,1,1,13,Ashland,42.261694,-71.478813
+Attleboro,CR-Saturday,0,1,9,Attleboro,41.942097,-71.284897
+Attleboro,CR-Saturday,1,1,9,Attleboro,41.942097,-71.284897
+Attleboro,CR-Sunday,0,1,7,Attleboro,41.942097,-71.284897
+Attleboro,CR-Sunday,1,1,7,Attleboro,41.942097,-71.284897
+Attleboro,CR-Weekday,0,1,17,Attleboro,41.942097,-71.284897
+Attleboro,CR-Weekday,1,1,17,Attleboro,41.942097,-71.284897
+Auburndale,CR-Saturday,0,1,9,Auburndale,42.346087,-71.246658
+Auburndale,CR-Saturday,1,1,9,Auburndale,42.346087,-71.246658
+Auburndale,CR-Sunday,0,1,8,Auburndale,42.346087,-71.246658
+Auburndale,CR-Sunday,1,1,8,Auburndale,42.346087,-71.246658
+Auburndale,CR-Weekday,0,1,11,Auburndale,42.346087,-71.246658
+Auburndale,CR-Weekday,1,1,9,Auburndale,42.346087,-71.246658
+Ayer,CR-Saturday,0,1,6,Ayer,42.560047,-71.590117
+Ayer,CR-Saturday,1,1,6,Ayer,42.560047,-71.590117
+Ayer,CR-Sunday,0,1,6,Ayer,42.560047,-71.590117
+Ayer,CR-Sunday,1,1,6,Ayer,42.560047,-71.590117
+Ayer,CR-Weekday,0,1,13,Ayer,42.560047,-71.590117
+Ayer,CR-Weekday,1,1,13,Ayer,42.560047,-71.590117
+Back Bay,CR-SatSuspended,0,1,9,Back Bay,42.347158,-71.075769
+Back Bay,CR-SatSuspended,1,1,8,Back Bay,42.347158,-71.075769
+Back Bay,CR-Saturday,0,3,27,Back Bay,42.347158,-71.075769
+Back Bay,CR-Saturday,1,3,27,Back Bay,42.347158,-71.075769
+Back Bay,CR-Sunday,0,3,22,Back Bay,42.347158,-71.075769
+Back Bay,CR-Sunday,1,3,22,Back Bay,42.347158,-71.075769
+Back Bay,CR-Weekday,0,4,84,Back Bay,42.347158,-71.075769
+Back Bay,CR-Weekday,1,4,86,Back Bay,42.347158,-71.075769
+Ballardvale,CR-Saturday,0,1,6,Ballardvale,42.626449,-71.159653
+Ballardvale,CR-Saturday,1,1,6,Ballardvale,42.626449,-71.159653
+Ballardvale,CR-Sunday,0,1,6,Ballardvale,42.626449,-71.159653
+Ballardvale,CR-Sunday,1,1,6,Ballardvale,42.626449,-71.159653
+Ballardvale,CR-Weekday,0,1,14,Ballardvale,42.626449,-71.159653
+Ballardvale,CR-Weekday,1,1,14,Ballardvale,42.626449,-71.159653
+Bellevue,CR-SatSuspended,0,1,9,Bellevue,42.287138,-71.14606
+Bellevue,CR-SatSuspended,1,1,8,Bellevue,42.287138,-71.14606
+Bellevue,CR-Weekday,0,1,15,Bellevue,42.287138,-71.14606
+Bellevue,CR-Weekday,1,1,14,Bellevue,42.287138,-71.14606
+Belmont,CR-Saturday,0,1,8,Belmont,42.395896,-71.17619
+Belmont,CR-Saturday,1,1,8,Belmont,42.395896,-71.17619
+Belmont,CR-Sunday,0,1,8,Belmont,42.395896,-71.17619
+Belmont,CR-Sunday,1,1,8,Belmont,42.395896,-71.17619
+Belmont,CR-Weekday,0,1,13,Belmont,42.395896,-71.17619
+Belmont,CR-Weekday,1,1,13,Belmont,42.395896,-71.17619
+Beverly,CR-Saturday,0,1,13,Beverly,42.546907,-70.885168
+Beverly,CR-Saturday,1,1,13,Beverly,42.546907,-70.885168
+Beverly,CR-Sunday,0,1,13,Beverly,42.546907,-70.885168
+Beverly,CR-Sunday,1,1,13,Beverly,42.546907,-70.885168
+Beverly,CR-Weekday,0,1,30,Beverly,42.546907,-70.885168
+Beverly,CR-Weekday,1,1,31,Beverly,42.546907,-70.885168
+Beverly Farms,CR-Saturday,0,1,7,Beverly Farms,42.561403,-70.812745
+Beverly Farms,CR-Saturday,1,1,7,Beverly Farms,42.561403,-70.812745
+Beverly Farms,CR-Sunday,0,1,7,Beverly Farms,42.561403,-70.812745
+Beverly Farms,CR-Sunday,1,1,7,Beverly Farms,42.561403,-70.812745
+Beverly Farms,CR-Weekday,0,1,13,Beverly Farms,42.561403,-70.812745
+Beverly Farms,CR-Weekday,1,1,12,Beverly Farms,42.561403,-70.812745
+Bradford,CR-Saturday,0,1,6,Bradford,42.768899,-71.085998
+Bradford,CR-Saturday,1,1,6,Bradford,42.768899,-71.085998
+Bradford,CR-Sunday,0,1,6,Bradford,42.768899,-71.085998
+Bradford,CR-Sunday,1,1,6,Bradford,42.768899,-71.085998
+Bradford,CR-Weekday,0,1,13,Bradford,42.768899,-71.085998
+Bradford,CR-Weekday,1,1,13,Bradford,42.768899,-71.085998
+Braintree,CR-SatSuspended,0,1,8,Braintree,42.20855,-71.00085
+Braintree,CR-SatSuspended,1,1,8,Braintree,42.20855,-71.00085
+Braintree,CR-Saturday,0,1,4,Braintree,42.20855,-71.00085
+Braintree,CR-Saturday,1,1,3,Braintree,42.20855,-71.00085
+Braintree,CR-Sunday,0,1,4,Braintree,42.20855,-71.00085
+Braintree,CR-Sunday,1,1,3,Braintree,42.20855,-71.00085
+Braintree,CR-SunSuspended,0,1,8,Braintree,42.20855,-71.00085
+Braintree,CR-SunSuspended,1,1,8,Braintree,42.20855,-71.00085
+Braintree,CR-Weekday,0,2,14,Braintree,42.20855,-71.00085
+Braintree,CR-Weekday,1,2,18,Braintree,42.20855,-71.00085
+Brandeis/ Roberts,CR-Saturday,0,1,8,Brandeis/ Roberts,42.361728,-71.260854
+Brandeis/ Roberts,CR-Saturday,1,1,8,Brandeis/ Roberts,42.361728,-71.260854
+Brandeis/ Roberts,CR-Sunday,0,1,8,Brandeis/ Roberts,42.361728,-71.260854
+Brandeis/ Roberts,CR-Sunday,1,1,8,Brandeis/ Roberts,42.361728,-71.260854
+Brandeis/ Roberts,CR-Weekday,0,1,15,Brandeis/ Roberts,42.361728,-71.260854
+Brandeis/ Roberts,CR-Weekday,1,1,15,Brandeis/ Roberts,42.361728,-71.260854
+Bridgewater,CR-Saturday,0,1,8,Bridgewater,41.986355,-70.966625
+Bridgewater,CR-Saturday,1,1,8,Bridgewater,41.986355,-70.966625
+Bridgewater,CR-Sunday,0,1,8,Bridgewater,41.986355,-70.966625
+Bridgewater,CR-Sunday,1,1,8,Bridgewater,41.986355,-70.966625
+Bridgewater,CR-Weekday,0,1,12,Bridgewater,41.986355,-70.966625
+Bridgewater,CR-Weekday,1,1,12,Bridgewater,41.986355,-70.966625
+Brockton,CR-Saturday,0,1,8,Brockton,42.08572,-71.01686
+Brockton,CR-Saturday,1,1,8,Brockton,42.08572,-71.01686
+Brockton,CR-Sunday,0,1,8,Brockton,42.08572,-71.01686
+Brockton,CR-Sunday,1,1,8,Brockton,42.08572,-71.01686
+Brockton,CR-Weekday,0,1,12,Brockton,42.08572,-71.01686
+Brockton,CR-Weekday,1,1,12,Brockton,42.08572,-71.01686
+Campello,CR-Saturday,0,1,8,Campello,42.060038,-71.01246
+Campello,CR-Saturday,1,1,8,Campello,42.060038,-71.01246
+Campello,CR-Sunday,0,1,8,Campello,42.060038,-71.01246
+Campello,CR-Sunday,1,1,8,Campello,42.060038,-71.01246
+Campello,CR-Weekday,0,1,12,Campello,42.060038,-71.01246
+Campello,CR-Weekday,1,1,12,Campello,42.060038,-71.01246
+Canton Center,CR-Weekday,0,1,16,Canton Center,42.156769,-71.14553
+Canton Center,CR-Weekday,1,1,9,Canton Center,42.156769,-71.14553
+Canton Junction,CR-Saturday,0,1,9,Canton Junction,42.163423,-71.153374
+Canton Junction,CR-Saturday,1,1,9,Canton Junction,42.163423,-71.153374
+Canton Junction,CR-Sunday,0,1,7,Canton Junction,42.163423,-71.153374
+Canton Junction,CR-Sunday,1,1,7,Canton Junction,42.163423,-71.153374
+Canton Junction,CR-Weekday,0,1,25,Canton Junction,42.163423,-71.153374
+Canton Junction,CR-Weekday,1,1,24,Canton Junction,42.163423,-71.153374
+Chelsea,CR-Saturday,0,1,13,Chelsea,42.395661,-71.034826
+Chelsea,CR-Saturday,1,1,13,Chelsea,42.395661,-71.034826
+Chelsea,CR-Sunday,0,1,13,Chelsea,42.395661,-71.034826
+Chelsea,CR-Sunday,1,1,13,Chelsea,42.395661,-71.034826
+Chelsea,CR-Weekday,0,1,24,Chelsea,42.395661,-71.034826
+Chelsea,CR-Weekday,1,1,26,Chelsea,42.395661,-71.034826
+Cohasset,CR-SatSuspended,0,1,8,Cohasset,42.2424,-70.837
+Cohasset,CR-SatSuspended,1,1,8,Cohasset,42.2424,-70.837
+Cohasset,CR-SunSuspended,0,1,8,Cohasset,42.2424,-70.837
+Cohasset,CR-SunSuspended,1,1,8,Cohasset,42.2424,-70.837
+Cohasset,CR-Weekday,0,1,12,Cohasset,42.2424,-70.837
+Cohasset,CR-Weekday,1,1,12,Cohasset,42.2424,-70.837
+Concord,CR-Saturday,0,1,8,Concord,42.457147,-71.358051
+Concord,CR-Saturday,1,1,8,Concord,42.457147,-71.358051
+Concord,CR-Sunday,0,1,8,Concord,42.457147,-71.358051
+Concord,CR-Sunday,1,1,8,Concord,42.457147,-71.358051
+Concord,CR-Weekday,0,1,16,Concord,42.457147,-71.358051
+Concord,CR-Weekday,1,1,16,Concord,42.457147,-71.358051
+Dedham Corp Center,CR-Saturday,0,1,9,Dedham Corp Center,42.225896,-71.173806
+Dedham Corp Center,CR-Saturday,1,1,9,Dedham Corp Center,42.225896,-71.173806
+Dedham Corp Center,CR-Sunday,0,1,7,Dedham Corp Center,42.225896,-71.173806
+Dedham Corp Center,CR-Sunday,1,1,7,Dedham Corp Center,42.225896,-71.173806
+Dedham Corp Center,CR-Weekday,0,1,16,Dedham Corp Center,42.225896,-71.173806
+Dedham Corp Center,CR-Weekday,1,1,19,Dedham Corp Center,42.225896,-71.173806
+East Weymouth,CR-SatSuspended,0,1,8,East Weymouth,42.2191,-70.9214
+East Weymouth,CR-SatSuspended,1,1,8,East Weymouth,42.2191,-70.9214
+East Weymouth,CR-SunSuspended,0,1,8,East Weymouth,42.2191,-70.9214
+East Weymouth,CR-SunSuspended,1,1,8,East Weymouth,42.2191,-70.9214
+East Weymouth,CR-Weekday,0,1,12,East Weymouth,42.2191,-70.9214
+East Weymouth,CR-Weekday,1,1,12,East Weymouth,42.2191,-70.9214
+Endicott,CR-Saturday,0,1,9,Endicott,42.232881,-71.160413
+Endicott,CR-Saturday,1,1,9,Endicott,42.232881,-71.160413
+Endicott,CR-Sunday,0,1,7,Endicott,42.232881,-71.160413
+Endicott,CR-Sunday,1,1,7,Endicott,42.232881,-71.160413
+Endicott,CR-Weekday,0,1,14,Endicott,42.232881,-71.160413
+Endicott,CR-Weekday,1,1,14,Endicott,42.232881,-71.160413
+Fairmount,CR-Weekday,0,1,14,Fairmount,42.253638,-71.11927
+Fairmount,CR-Weekday,1,2,15,Fairmount,42.253638,-71.11927
+Fitchburg,CR-Saturday,0,1,6,Fitchburg,42.581739,-71.79275
+Fitchburg,CR-Saturday,1,1,6,Fitchburg,42.581739,-71.79275
+Fitchburg,CR-Sunday,0,1,6,Fitchburg,42.581739,-71.79275
+Fitchburg,CR-Sunday,1,1,6,Fitchburg,42.581739,-71.79275
+Fitchburg,CR-Weekday,0,1,13,Fitchburg,42.581739,-71.79275
+Fitchburg,CR-Weekday,1,1,13,Fitchburg,42.581739,-71.79275
+Forest Hills,CR-SatSuspended,0,1,9,Forest Hills,42.300023,-71.113377
+Forest Hills,CR-SatSuspended,1,1,8,Forest Hills,42.300023,-71.113377
+Forest Hills,CR-Weekday,0,1,14,Forest Hills,42.300023,-71.113377
+Forest Hills,CR-Weekday,1,1,16,Forest Hills,42.300023,-71.113377
+Forge Park / 495,CR-Saturday,0,1,9,Forge Park / 495,42.089941,-71.43902
+Forge Park / 495,CR-Saturday,1,1,9,Forge Park / 495,42.089941,-71.43902
+Forge Park / 495,CR-Sunday,0,1,7,Forge Park / 495,42.089941,-71.43902
+Forge Park / 495,CR-Sunday,1,1,7,Forge Park / 495,42.089941,-71.43902
+Forge Park / 495,CR-Weekday,0,1,15,Forge Park / 495,42.089941,-71.43902
+Forge Park / 495,CR-Weekday,1,1,16,Forge Park / 495,42.089941,-71.43902
+Framingham,CR-Saturday,0,1,9,Framingham,42.276719,-71.416792
+Framingham,CR-Saturday,1,1,9,Framingham,42.276719,-71.416792
+Framingham,CR-Sunday,0,1,8,Framingham,42.276719,-71.416792
+Framingham,CR-Sunday,1,1,8,Framingham,42.276719,-71.416792
+Framingham,CR-Weekday,0,1,20,Framingham,42.276719,-71.416792
+Framingham,CR-Weekday,1,1,21,Framingham,42.276719,-71.416792
+Franklin,CR-Saturday,0,1,9,Franklin,42.083591,-71.396735
+Franklin,CR-Saturday,1,1,9,Franklin,42.083591,-71.396735
+Franklin,CR-Sunday,0,1,7,Franklin,42.083591,-71.396735
+Franklin,CR-Sunday,1,1,7,Franklin,42.083591,-71.396735
+Franklin,CR-Weekday,0,1,15,Franklin,42.083591,-71.396735
+Franklin,CR-Weekday,1,1,16,Franklin,42.083591,-71.396735
+Gloucester,CR-Saturday,0,1,7,Gloucester,42.616069,-70.668767
+Gloucester,CR-Saturday,1,1,7,Gloucester,42.616069,-70.668767
+Gloucester,CR-Sunday,0,1,7,Gloucester,42.616069,-70.668767
+Gloucester,CR-Sunday,1,1,7,Gloucester,42.616069,-70.668767
+Gloucester,CR-Weekday,0,1,13,Gloucester,42.616069,-70.668767
+Gloucester,CR-Weekday,1,1,13,Gloucester,42.616069,-70.668767
+Grafton,CR-Saturday,0,1,5,Grafton,42.246291,-71.684614
+Grafton,CR-Saturday,1,1,5,Grafton,42.246291,-71.684614
+Grafton,CR-Sunday,0,1,5,Grafton,42.246291,-71.684614
+Grafton,CR-Sunday,1,1,5,Grafton,42.246291,-71.684614
+Grafton,CR-Weekday,0,1,12,Grafton,42.246291,-71.684614
+Grafton,CR-Weekday,1,1,13,Grafton,42.246291,-71.684614
+Greenbush,CR-SatSuspended,0,1,8,Greenbush,42.1781,-70.7462
+Greenbush,CR-SatSuspended,1,1,8,Greenbush,42.1781,-70.7462
+Greenbush,CR-SunSuspended,0,1,8,Greenbush,42.1781,-70.7462
+Greenbush,CR-SunSuspended,1,1,8,Greenbush,42.1781,-70.7462
+Greenbush,CR-Weekday,0,1,12,Greenbush,42.1781,-70.7462
+Greenbush,CR-Weekday,1,1,12,Greenbush,42.1781,-70.7462
+Greenwood,CR-Saturday,0,1,6,Greenwood,42.483473,-71.067233
+Greenwood,CR-Saturday,1,1,6,Greenwood,42.483473,-71.067233
+Greenwood,CR-Sunday,0,1,6,Greenwood,42.483473,-71.067233
+Greenwood,CR-Sunday,1,1,6,Greenwood,42.483473,-71.067233
+Greenwood,CR-Weekday,0,1,17,Greenwood,42.483473,-71.067233
+Greenwood,CR-Weekday,1,1,18,Greenwood,42.483473,-71.067233
+Halifax,CR-SatSuspended,0,1,8,Halifax,42.012867,-70.820832
+Halifax,CR-SatSuspended,1,1,8,Halifax,42.012867,-70.820832
+Halifax,CR-SunSuspended,0,1,8,Halifax,42.012867,-70.820832
+Halifax,CR-SunSuspended,1,1,8,Halifax,42.012867,-70.820832
+Halifax,CR-Weekday,0,1,12,Halifax,42.012867,-70.820832
+Halifax,CR-Weekday,1,1,12,Halifax,42.012867,-70.820832
+Hamilton/ Wenham,CR-Saturday,0,1,6,Hamilton/ Wenham,42.610756,-70.874005
+Hamilton/ Wenham,CR-Saturday,1,1,6,Hamilton/ Wenham,42.610756,-70.874005
+Hamilton/ Wenham,CR-Sunday,0,1,6,Hamilton/ Wenham,42.610756,-70.874005
+Hamilton/ Wenham,CR-Sunday,1,1,6,Hamilton/ Wenham,42.610756,-70.874005
+Hamilton/ Wenham,CR-Weekday,0,1,13,Hamilton/ Wenham,42.610756,-70.874005
+Hamilton/ Wenham,CR-Weekday,1,1,14,Hamilton/ Wenham,42.610756,-70.874005
+Hanson,CR-SatSuspended,0,1,8,Hanson,42.043262,-70.881553
+Hanson,CR-SatSuspended,1,1,8,Hanson,42.043262,-70.881553
+Hanson,CR-SunSuspended,0,1,8,Hanson,42.043262,-70.881553
+Hanson,CR-SunSuspended,1,1,8,Hanson,42.043262,-70.881553
+Hanson,CR-Weekday,0,1,12,Hanson,42.043262,-70.881553
+Hanson,CR-Weekday,1,1,12,Hanson,42.043262,-70.881553
+Hastings,CR-Weekday,0,1,6,Hastings,42.385755,-71.289203
+Hastings,CR-Weekday,1,1,5,Hastings,42.385755,-71.289203
+Haverhill,CR-Saturday,0,1,6,Haverhill,42.772684,-71.085962
+Haverhill,CR-Saturday,1,1,6,Haverhill,42.772684,-71.085962
+Haverhill,CR-Sunday,0,1,6,Haverhill,42.772684,-71.085962
+Haverhill,CR-Sunday,1,1,6,Haverhill,42.772684,-71.085962
+Haverhill,CR-Weekday,0,1,13,Haverhill,42.772684,-71.085962
+Haverhill,CR-Weekday,1,1,13,Haverhill,42.772684,-71.085962
+Hersey,CR-SatSuspended,0,1,9,Hersey,42.275842,-71.214853
+Hersey,CR-SatSuspended,1,1,8,Hersey,42.275842,-71.214853
+Hersey,CR-Weekday,0,1,16,Hersey,42.275842,-71.214853
+Hersey,CR-Weekday,1,1,16,Hersey,42.275842,-71.214853
+Highland,CR-SatSuspended,0,1,9,Highland,42.284869,-71.1547
+Highland,CR-SatSuspended,1,1,8,Highland,42.284869,-71.1547
+Highland,CR-Weekday,0,1,15,Highland,42.284869,-71.1547
+Highland,CR-Weekday,1,1,14,Highland,42.284869,-71.1547
+Holbrook/ Randolph,CR-Saturday,0,1,8,Holbrook/ Randolph,42.155314,-71.027518
+Holbrook/ Randolph,CR-Saturday,1,1,8,Holbrook/ Randolph,42.155314,-71.027518
+Holbrook/ Randolph,CR-Sunday,0,1,8,Holbrook/ Randolph,42.155314,-71.027518
+Holbrook/ Randolph,CR-Sunday,1,1,8,Holbrook/ Randolph,42.155314,-71.027518
+Holbrook/ Randolph,CR-Weekday,0,1,12,Holbrook/ Randolph,42.155314,-71.027518
+Holbrook/ Randolph,CR-Weekday,1,1,12,Holbrook/ Randolph,42.155314,-71.027518
+Hyde Park,CR-Saturday,0,1,9,Hyde Park,42.255121,-71.125022
+Hyde Park,CR-Saturday,1,1,9,Hyde Park,42.255121,-71.125022
+Hyde Park,CR-Sunday,0,1,7,Hyde Park,42.255121,-71.125022
+Hyde Park,CR-Sunday,1,1,7,Hyde Park,42.255121,-71.125022
+Hyde Park,CR-Weekday,0,2,21,Hyde Park,42.255121,-71.125022
+Hyde Park,CR-Weekday,1,2,22,Hyde Park,42.255121,-71.125022
+Ipswich,CR-Saturday,0,1,6,Ipswich,42.678355,-70.840024
+Ipswich,CR-Saturday,1,1,6,Ipswich,42.678355,-70.840024
+Ipswich,CR-Sunday,0,1,6,Ipswich,42.678355,-70.840024
+Ipswich,CR-Sunday,1,1,6,Ipswich,42.678355,-70.840024
+Ipswich,CR-Weekday,0,1,13,Ipswich,42.678355,-70.840024
+Ipswich,CR-Weekday,1,1,13,Ipswich,42.678355,-70.840024
+Islington,CR-Saturday,0,1,9,Islington,42.220714,-71.183406
+Islington,CR-Saturday,1,1,9,Islington,42.220714,-71.183406
+Islington,CR-Sunday,0,1,7,Islington,42.220714,-71.183406
+Islington,CR-Sunday,1,1,7,Islington,42.220714,-71.183406
+Islington,CR-Weekday,0,1,13,Islington,42.220714,-71.183406
+Islington,CR-Weekday,1,1,14,Islington,42.220714,-71.183406
+JFK/UMASS,CR-SatSuspended,0,2,16,JFK/UMASS,42.321123,-71.052555
+JFK/UMASS,CR-SatSuspended,1,2,16,JFK/UMASS,42.321123,-71.052555
+JFK/UMASS,CR-Saturday,0,1,8,JFK/UMASS,42.321123,-71.052555
+JFK/UMASS,CR-Saturday,1,1,8,JFK/UMASS,42.321123,-71.052555
+JFK/UMASS,CR-Sunday,0,1,8,JFK/UMASS,42.321123,-71.052555
+JFK/UMASS,CR-Sunday,1,1,8,JFK/UMASS,42.321123,-71.052555
+JFK/UMASS,CR-SunSuspended,0,2,16,JFK/UMASS,42.321123,-71.052555
+JFK/UMASS,CR-SunSuspended,1,2,16,JFK/UMASS,42.321123,-71.052555
+JFK/UMASS,CR-Weekday,0,3,10,JFK/UMASS,42.321123,-71.052555
+JFK/UMASS,CR-Weekday,1,3,11,JFK/UMASS,42.321123,-71.052555
+Kendal Green,CR-Saturday,0,1,8,Kendal Green,42.37897,-71.282411
+Kendal Green,CR-Saturday,1,1,8,Kendal Green,42.37897,-71.282411
+Kendal Green,CR-Sunday,0,1,8,Kendal Green,42.37897,-71.282411
+Kendal Green,CR-Sunday,1,1,8,Kendal Green,42.37897,-71.282411
+Kendal Green,CR-Weekday,0,1,14,Kendal Green,42.37897,-71.282411
+Kendal Green,CR-Weekday,1,1,14,Kendal Green,42.37897,-71.282411
+Kingston,CR-SatSuspended,0,1,8,Kingston,41.978548,-70.720315
+Kingston,CR-SatSuspended,1,1,8,Kingston,41.978548,-70.720315
+Kingston,CR-SunSuspended,0,1,8,Kingston,41.978548,-70.720315
+Kingston,CR-SunSuspended,1,1,8,Kingston,41.978548,-70.720315
+Kingston,CR-Weekday,0,1,11,Kingston,41.978548,-70.720315
+Kingston,CR-Weekday,1,1,11,Kingston,41.978548,-70.720315
+Lawrence,CR-Saturday,0,1,6,Lawrence,42.701806,-71.15198
+Lawrence,CR-Saturday,1,1,6,Lawrence,42.701806,-71.15198
+Lawrence,CR-Sunday,0,1,6,Lawrence,42.701806,-71.15198
+Lawrence,CR-Sunday,1,1,6,Lawrence,42.701806,-71.15198
+Lawrence,CR-Weekday,0,1,13,Lawrence,42.701806,-71.15198
+Lawrence,CR-Weekday,1,1,13,Lawrence,42.701806,-71.15198
+Lincoln,CR-Saturday,0,1,8,Lincoln,42.414229,-71.325344
+Lincoln,CR-Saturday,1,1,8,Lincoln,42.414229,-71.325344
+Lincoln,CR-Sunday,0,1,8,Lincoln,42.414229,-71.325344
+Lincoln,CR-Sunday,1,1,8,Lincoln,42.414229,-71.325344
+Lincoln,CR-Weekday,0,1,15,Lincoln,42.414229,-71.325344
+Lincoln,CR-Weekday,1,1,16,Lincoln,42.414229,-71.325344
+Littleton / Rte 495,CR-Saturday,0,1,6,Littleton / Rte 495,42.519236,-71.502643
+Littleton / Rte 495,CR-Saturday,1,1,6,Littleton / Rte 495,42.519236,-71.502643
+Littleton / Rte 495,CR-Sunday,0,1,6,Littleton / Rte 495,42.519236,-71.502643
+Littleton / Rte 495,CR-Sunday,1,1,6,Littleton / Rte 495,42.519236,-71.502643
+Littleton / Rte 495,CR-Weekday,0,1,13,Littleton / Rte 495,42.519236,-71.502643
+Littleton / Rte 495,CR-Weekday,1,1,13,Littleton / Rte 495,42.519236,-71.502643
+Lowell,CR-Saturday,0,1,8,Lowell,42.638402,-71.314916
+Lowell,CR-Saturday,1,1,8,Lowell,42.638402,-71.314916
+Lowell,CR-Sunday,0,1,8,Lowell,42.638402,-71.314916
+Lowell,CR-Sunday,1,1,8,Lowell,42.638402,-71.314916
+Lowell,CR-Weekday,0,1,22,Lowell,42.638402,-71.314916
+Lowell,CR-Weekday,1,1,22,Lowell,42.638402,-71.314916
+Lynn,CR-Saturday,0,1,13,Lynn,42.462293,-70.947794
+Lynn,CR-Saturday,1,1,13,Lynn,42.462293,-70.947794
+Lynn,CR-Sunday,0,1,13,Lynn,42.462293,-70.947794
+Lynn,CR-Sunday,1,1,13,Lynn,42.462293,-70.947794
+Lynn,CR-Weekday,0,1,24,Lynn,42.462293,-70.947794
+Lynn,CR-Weekday,1,1,25,Lynn,42.462293,-70.947794
+Malden Center,CR-Saturday,0,1,6,Malden Center,42.426407,-71.074227
+Malden Center,CR-Saturday,1,1,6,Malden Center,42.426407,-71.074227
+Malden Center,CR-Sunday,0,1,6,Malden Center,42.426407,-71.074227
+Malden Center,CR-Sunday,1,1,6,Malden Center,42.426407,-71.074227
+Malden Center,CR-Weekday,0,1,22,Malden Center,42.426407,-71.074227
+Malden Center,CR-Weekday,1,1,19,Malden Center,42.426407,-71.074227
+Manchester,CR-Saturday,0,1,7,Manchester,42.57357,-70.770473
+Manchester,CR-Saturday,1,1,7,Manchester,42.57357,-70.770473
+Manchester,CR-Sunday,0,1,7,Manchester,42.57357,-70.770473
+Manchester,CR-Sunday,1,1,7,Manchester,42.57357,-70.770473
+Manchester,CR-Weekday,0,1,13,Manchester,42.57357,-70.770473
+Manchester,CR-Weekday,1,1,13,Manchester,42.57357,-70.770473
+Mansfield,CR-Saturday,0,1,9,Mansfield,42.032734,-71.219318
+Mansfield,CR-Saturday,1,1,9,Mansfield,42.032734,-71.219318
+Mansfield,CR-Sunday,0,1,7,Mansfield,42.032734,-71.219318
+Mansfield,CR-Sunday,1,1,7,Mansfield,42.032734,-71.219318
+Mansfield,CR-Weekday,0,1,18,Mansfield,42.032734,-71.219318
+Mansfield,CR-Weekday,1,1,18,Mansfield,42.032734,-71.219318
+Melrose Cedar Park,CR-Saturday,0,1,6,Melrose Cedar Park,42.459128,-71.069448
+Melrose Cedar Park,CR-Saturday,1,1,6,Melrose Cedar Park,42.459128,-71.069448
+Melrose Cedar Park,CR-Sunday,0,1,6,Melrose Cedar Park,42.459128,-71.069448
+Melrose Cedar Park,CR-Sunday,1,1,6,Melrose Cedar Park,42.459128,-71.069448
+Melrose Cedar Park,CR-Weekday,0,1,21,Melrose Cedar Park,42.459128,-71.069448
+Melrose Cedar Park,CR-Weekday,1,1,18,Melrose Cedar Park,42.459128,-71.069448
+Melrose Highlands,CR-Saturday,0,1,6,Melrose Highlands,42.468793,-71.06827
+Melrose Highlands,CR-Saturday,1,1,6,Melrose Highlands,42.468793,-71.06827
+Melrose Highlands,CR-Sunday,0,1,6,Melrose Highlands,42.468793,-71.06827
+Melrose Highlands,CR-Sunday,1,1,6,Melrose Highlands,42.468793,-71.06827
+Melrose Highlands,CR-Weekday,0,1,21,Melrose Highlands,42.468793,-71.06827
+Melrose Highlands,CR-Weekday,1,1,19,Melrose Highlands,42.468793,-71.06827
+Middleborough/ Lakeville,CR-Saturday,0,1,8,Middleborough/ Lakeville,41.87821,-70.918444
+Middleborough/ Lakeville,CR-Saturday,1,1,8,Middleborough/ Lakeville,41.87821,-70.918444
+Middleborough/ Lakeville,CR-Sunday,0,1,8,Middleborough/ Lakeville,41.87821,-70.918444
+Middleborough/ Lakeville,CR-Sunday,1,1,8,Middleborough/ Lakeville,41.87821,-70.918444
+Middleborough/ Lakeville,CR-Weekday,0,1,12,Middleborough/ Lakeville,41.87821,-70.918444
+Middleborough/ Lakeville,CR-Weekday,1,1,12,Middleborough/ Lakeville,41.87821,-70.918444
+Mishawum,CR-Weekday,0,1,3,Mishawum,42.503595,-71.137511
+Mishawum,CR-Weekday,1,1,3,Mishawum,42.503595,-71.137511
+Montello,CR-Saturday,0,1,8,Montello,42.106047,-71.021078
+Montello,CR-Saturday,1,1,8,Montello,42.106047,-71.021078
+Montello,CR-Sunday,0,1,8,Montello,42.106047,-71.021078
+Montello,CR-Sunday,1,1,8,Montello,42.106047,-71.021078
+Montello,CR-Weekday,0,1,12,Montello,42.106047,-71.021078
+Montello,CR-Weekday,1,1,12,Montello,42.106047,-71.021078
+Montserrat,CR-Saturday,0,1,7,Montserrat,42.561483,-70.870035
+Montserrat,CR-Saturday,1,1,7,Montserrat,42.561483,-70.870035
+Montserrat,CR-Sunday,0,1,7,Montserrat,42.561483,-70.870035
+Montserrat,CR-Sunday,1,1,7,Montserrat,42.561483,-70.870035
+Montserrat,CR-Weekday,0,1,13,Montserrat,42.561483,-70.870035
+Montserrat,CR-Weekday,1,1,12,Montserrat,42.561483,-70.870035
+Morton Street,CR-Weekday,0,1,14,Morton Street,42.280994,-71.085475
+Morton Street,CR-Weekday,1,2,14,Morton Street,42.280994,-71.085475
+Nantasket Junction,CR-SatSuspended,0,1,8,Nantasket Junction,42.2452,-70.8698
+Nantasket Junction,CR-SatSuspended,1,1,8,Nantasket Junction,42.2452,-70.8698
+Nantasket Junction,CR-SunSuspended,0,1,8,Nantasket Junction,42.2452,-70.8698
+Nantasket Junction,CR-SunSuspended,1,1,8,Nantasket Junction,42.2452,-70.8698
+Nantasket Junction,CR-Weekday,0,1,12,Nantasket Junction,42.2452,-70.8698
+Nantasket Junction,CR-Weekday,1,1,12,Nantasket Junction,42.2452,-70.8698
+Natick,CR-Saturday,0,1,9,Natick,42.285239,-71.347641
+Natick,CR-Saturday,1,1,9,Natick,42.285239,-71.347641
+Natick,CR-Sunday,0,1,8,Natick,42.285239,-71.347641
+Natick,CR-Sunday,1,1,8,Natick,42.285239,-71.347641
+Natick,CR-Weekday,0,1,16,Natick,42.285239,-71.347641
+Natick,CR-Weekday,1,1,19,Natick,42.285239,-71.347641
+Needham Center,CR-SatSuspended,0,1,9,Needham Center,42.280274,-71.238089
+Needham Center,CR-SatSuspended,1,1,8,Needham Center,42.280274,-71.238089
+Needham Center,CR-Weekday,0,1,16,Needham Center,42.280274,-71.238089
+Needham Center,CR-Weekday,1,1,16,Needham Center,42.280274,-71.238089
+Needham Heights,CR-SatSuspended,0,1,9,Needham Heights,42.293139,-71.235087
+Needham Heights,CR-SatSuspended,1,1,9,Needham Heights,42.293139,-71.235087
+Needham Heights,CR-Weekday,0,1,16,Needham Heights,42.293139,-71.235087
+Needham Heights,CR-Weekday,1,1,16,Needham Heights,42.293139,-71.235087
+Needham Junction,CR-SatSuspended,0,1,9,Needham Junction,42.273327,-71.238007
+Needham Junction,CR-SatSuspended,1,1,8,Needham Junction,42.273327,-71.238007
+Needham Junction,CR-Weekday,0,1,16,Needham Junction,42.273327,-71.238007
+Needham Junction,CR-Weekday,1,1,16,Needham Junction,42.273327,-71.238007
+Newburyport,CR-Saturday,0,1,6,Newburyport,42.800292,-70.880262
+Newburyport,CR-Saturday,1,1,6,Newburyport,42.800292,-70.880262
+Newburyport,CR-Sunday,0,1,6,Newburyport,42.800292,-70.880262
+Newburyport,CR-Sunday,1,1,6,Newburyport,42.800292,-70.880262
+Newburyport,CR-Weekday,0,1,13,Newburyport,42.800292,-70.880262
+Newburyport,CR-Weekday,1,1,13,Newburyport,42.800292,-70.880262
+Newtonville,CR-Saturday,0,1,9,Newtonville,42.351603,-71.207338
+Newtonville,CR-Saturday,1,1,9,Newtonville,42.351603,-71.207338
+Newtonville,CR-Sunday,0,1,8,Newtonville,42.351603,-71.207338
+Newtonville,CR-Sunday,1,1,8,Newtonville,42.351603,-71.207338
+Newtonville,CR-Weekday,0,1,11,Newtonville,42.351603,-71.207338
+Newtonville,CR-Weekday,1,1,9,Newtonville,42.351603,-71.207338
+Norfolk,CR-Saturday,0,1,9,Norfolk,42.120694,-71.325217
+Norfolk,CR-Saturday,1,1,9,Norfolk,42.120694,-71.325217
+Norfolk,CR-Sunday,0,1,7,Norfolk,42.120694,-71.325217
+Norfolk,CR-Sunday,1,1,7,Norfolk,42.120694,-71.325217
+Norfolk,CR-Weekday,0,1,14,Norfolk,42.120694,-71.325217
+Norfolk,CR-Weekday,1,1,14,Norfolk,42.120694,-71.325217
+North Beverly,CR-Saturday,0,1,6,North Beverly,42.582471,-70.884501
+North Beverly,CR-Saturday,1,1,6,North Beverly,42.582471,-70.884501
+North Beverly,CR-Sunday,0,1,6,North Beverly,42.582471,-70.884501
+North Beverly,CR-Sunday,1,1,6,North Beverly,42.582471,-70.884501
+North Beverly,CR-Weekday,0,1,13,North Beverly,42.582471,-70.884501
+North Beverly,CR-Weekday,1,1,14,North Beverly,42.582471,-70.884501
+North Billerica,CR-Saturday,0,1,8,North Billerica,42.592881,-71.280869
+North Billerica,CR-Saturday,1,1,8,North Billerica,42.592881,-71.280869
+North Billerica,CR-Sunday,0,1,8,North Billerica,42.592881,-71.280869
+North Billerica,CR-Sunday,1,1,8,North Billerica,42.592881,-71.280869
+North Billerica,CR-Weekday,0,1,22,North Billerica,42.592881,-71.280869
+North Billerica,CR-Weekday,1,1,22,North Billerica,42.592881,-71.280869
+North Leominster,CR-Saturday,0,1,6,North Leominster,42.540577,-71.739402
+North Leominster,CR-Saturday,1,1,6,North Leominster,42.540577,-71.739402
+North Leominster,CR-Sunday,0,1,6,North Leominster,42.540577,-71.739402
+North Leominster,CR-Sunday,1,1,6,North Leominster,42.540577,-71.739402
+North Leominster,CR-Weekday,0,1,13,North Leominster,42.540577,-71.739402
+North Leominster,CR-Weekday,1,1,13,North Leominster,42.540577,-71.739402
+North Scituate,CR-SatSuspended,0,1,8,North Scituate,42.2197,-70.7877
+North Scituate,CR-SatSuspended,1,1,8,North Scituate,42.2197,-70.7877
+North Scituate,CR-SunSuspended,0,1,8,North Scituate,42.2197,-70.7877
+North Scituate,CR-SunSuspended,1,1,8,North Scituate,42.2197,-70.7877
+North Scituate,CR-Weekday,0,1,12,North Scituate,42.2197,-70.7877
+North Scituate,CR-Weekday,1,1,12,North Scituate,42.2197,-70.7877
+North Station,CR-Saturday,0,4,35,North Station,42.365551,-71.061251
+North Station,CR-Saturday,1,4,35,North Station,42.365551,-71.061251
+North Station,CR-Sunday,0,4,35,North Station,42.365551,-71.061251
+North Station,CR-Sunday,1,4,35,North Station,42.365551,-71.061251
+North Station,CR-Weekday,0,4,96,North Station,42.365551,-71.061251
+North Station,CR-Weekday,1,4,96,North Station,42.365551,-71.061251
+North Wilmington,CR-Saturday,0,1,6,North Wilmington,42.568462,-71.159724
+North Wilmington,CR-Saturday,1,1,6,North Wilmington,42.568462,-71.159724
+North Wilmington,CR-Sunday,0,1,6,North Wilmington,42.568462,-71.159724
+North Wilmington,CR-Sunday,1,1,6,North Wilmington,42.568462,-71.159724
+North Wilmington,CR-Weekday,0,1,13,North Wilmington,42.568462,-71.159724
+North Wilmington,CR-Weekday,1,1,9,North Wilmington,42.568462,-71.159724
+Norwood Central,CR-Saturday,0,1,9,Norwood Central,42.190776,-71.199748
+Norwood Central,CR-Saturday,1,1,9,Norwood Central,42.190776,-71.199748
+Norwood Central,CR-Sunday,0,1,7,Norwood Central,42.190776,-71.199748
+Norwood Central,CR-Sunday,1,1,7,Norwood Central,42.190776,-71.199748
+Norwood Central,CR-Weekday,0,1,18,Norwood Central,42.190776,-71.199748
+Norwood Central,CR-Weekday,1,1,19,Norwood Central,42.190776,-71.199748
+Norwood Depot,CR-Saturday,0,1,9,Norwood Depot,42.195668,-71.196784
+Norwood Depot,CR-Saturday,1,1,9,Norwood Depot,42.195668,-71.196784
+Norwood Depot,CR-Sunday,0,1,7,Norwood Depot,42.195668,-71.196784
+Norwood Depot,CR-Sunday,1,1,7,Norwood Depot,42.195668,-71.196784
+Norwood Depot,CR-Weekday,0,1,16,Norwood Depot,42.195668,-71.196784
+Norwood Depot,CR-Weekday,1,1,14,Norwood Depot,42.195668,-71.196784
+Plimptonville,CR-Weekday,0,1,1,Plimptonville,42.159123,-71.236125
+Plimptonville,CR-Weekday,1,1,1,Plimptonville,42.159123,-71.236125
+Plymouth,CR-SatSuspended,0,1,3,Plymouth,41.981184,-70.692514
+Plymouth,CR-SatSuspended,1,1,3,Plymouth,41.981184,-70.692514
+Plymouth,CR-SunSuspended,0,1,3,Plymouth,41.981184,-70.692514
+Plymouth,CR-SunSuspended,1,1,3,Plymouth,41.981184,-70.692514
+Plymouth,CR-Weekday,0,1,4,Plymouth,41.981184,-70.692514
+Plymouth,CR-Weekday,1,1,4,Plymouth,41.981184,-70.692514
+Porter Square,CR-Saturday,0,1,8,Porter Square,42.388353,-71.119159
+Porter Square,CR-Saturday,1,1,8,Porter Square,42.388353,-71.119159
+Porter Square,CR-Sunday,0,1,8,Porter Square,42.388353,-71.119159
+Porter Square,CR-Sunday,1,1,8,Porter Square,42.388353,-71.119159
+Porter Square,CR-Weekday,0,1,17,Porter Square,42.388353,-71.119159
+Porter Square,CR-Weekday,1,1,17,Porter Square,42.388353,-71.119159
+Prides Crossing,CR-Weekday,0,1,5,Prides Crossing,42.559513,-70.824813
+Prides Crossing,CR-Weekday,1,1,3,Prides Crossing,42.559513,-70.824813
+Providence,CR-Saturday,0,1,9,Providence,41.829641,-71.413332
+Providence,CR-Saturday,1,1,9,Providence,41.829641,-71.413332
+Providence,CR-Sunday,0,1,7,Providence,41.829641,-71.413332
+Providence,CR-Sunday,1,1,7,Providence,41.829641,-71.413332
+Providence,CR-Weekday,0,1,19,Providence,41.829641,-71.413332
+Providence,CR-Weekday,1,1,18,Providence,41.829641,-71.413332
+Quincy Center,CR-SatSuspended,0,2,16,Quincy Center,42.251809,-71.005409
+Quincy Center,CR-SatSuspended,1,2,13,Quincy Center,42.251809,-71.005409
+Quincy Center,CR-Saturday,0,1,8,Quincy Center,42.251809,-71.005409
+Quincy Center,CR-Saturday,1,1,8,Quincy Center,42.251809,-71.005409
+Quincy Center,CR-Sunday,0,1,8,Quincy Center,42.251809,-71.005409
+Quincy Center,CR-Sunday,1,1,8,Quincy Center,42.251809,-71.005409
+Quincy Center,CR-SunSuspended,0,2,16,Quincy Center,42.251809,-71.005409
+Quincy Center,CR-SunSuspended,1,2,13,Quincy Center,42.251809,-71.005409
+Quincy Center,CR-Weekday,0,3,22,Quincy Center,42.251809,-71.005409
+Quincy Center,CR-Weekday,1,2,17,Quincy Center,42.251809,-71.005409
+Reading,CR-Saturday,0,1,6,Reading,42.52148,-71.10744
+Reading,CR-Saturday,1,1,6,Reading,42.52148,-71.10744
+Reading,CR-Sunday,0,1,6,Reading,42.52148,-71.10744
+Reading,CR-Sunday,1,1,6,Reading,42.52148,-71.10744
+Reading,CR-Weekday,0,1,23,Reading,42.52148,-71.10744
+Reading,CR-Weekday,1,1,19,Reading,42.52148,-71.10744
+Readville,CR-Saturday,0,1,9,Readville,42.23775,-71.132376
+Readville,CR-Saturday,1,1,9,Readville,42.23775,-71.132376
+Readville,CR-Sunday,0,1,7,Readville,42.23775,-71.132376
+Readville,CR-Sunday,1,1,7,Readville,42.23775,-71.132376
+Readville,CR-Weekday,0,2,29,Readville,42.23775,-71.132376
+Readville,CR-Weekday,1,2,27,Readville,42.23775,-71.132376
+River Works,CR-Weekday,0,1,12,River Works,42.453804,-70.975698
+River Works,CR-Weekday,1,1,15,River Works,42.453804,-70.975698
+Rockport,CR-Saturday,0,1,7,Rockport,42.656173,-70.625616
+Rockport,CR-Saturday,1,1,7,Rockport,42.656173,-70.625616
+Rockport,CR-Sunday,0,1,7,Rockport,42.656173,-70.625616
+Rockport,CR-Sunday,1,1,7,Rockport,42.656173,-70.625616
+Rockport,CR-Weekday,0,1,13,Rockport,42.656173,-70.625616
+Rockport,CR-Weekday,1,1,13,Rockport,42.656173,-70.625616
+Roslindale Village,CR-SatSuspended,0,1,9,Roslindale Village,42.287206,-71.12961
+Roslindale Village,CR-SatSuspended,1,1,8,Roslindale Village,42.287206,-71.12961
+Roslindale Village,CR-Weekday,0,1,15,Roslindale Village,42.287206,-71.12961
+Roslindale Village,CR-Weekday,1,1,14,Roslindale Village,42.287206,-71.12961
+Route 128,CR-Saturday,0,1,9,Route 128,42.209884,-71.1471
+Route 128,CR-Saturday,1,1,9,Route 128,42.209884,-71.1471
+Route 128,CR-Sunday,0,1,7,Route 128,42.209884,-71.1471
+Route 128,CR-Sunday,1,1,7,Route 128,42.209884,-71.1471
+Route 128,CR-Weekday,0,1,26,Route 128,42.209884,-71.1471
+Route 128,CR-Weekday,1,1,29,Route 128,42.209884,-71.1471
+Rowley,CR-Saturday,0,1,6,Rowley,42.725351,-70.859436
+Rowley,CR-Saturday,1,1,6,Rowley,42.725351,-70.859436
+Rowley,CR-Sunday,0,1,6,Rowley,42.725351,-70.859436
+Rowley,CR-Sunday,1,1,6,Rowley,42.725351,-70.859436
+Rowley,CR-Weekday,0,1,13,Rowley,42.725351,-70.859436
+Rowley,CR-Weekday,1,1,13,Rowley,42.725351,-70.859436
+Ruggles,CR-SatSuspended,0,1,9,Ruggles,42.336377,-71.088961
+Ruggles,CR-SatSuspended,1,1,8,Ruggles,42.336377,-71.088961
+Ruggles,CR-Saturday,0,2,18,Ruggles,42.336377,-71.088961
+Ruggles,CR-Saturday,1,2,18,Ruggles,42.336377,-71.088961
+Ruggles,CR-Sunday,0,2,14,Ruggles,42.336377,-71.088961
+Ruggles,CR-Sunday,1,2,14,Ruggles,42.336377,-71.088961
+Ruggles,CR-Weekday,0,3,49,Ruggles,42.336377,-71.088961
+Ruggles,CR-Weekday,1,3,29,Ruggles,42.336377,-71.088961
+Salem,CR-Saturday,0,1,13,Salem,42.523927,-70.898903
+Salem,CR-Saturday,1,1,13,Salem,42.523927,-70.898903
+Salem,CR-Sunday,0,1,13,Salem,42.523927,-70.898903
+Salem,CR-Sunday,1,1,13,Salem,42.523927,-70.898903
+Salem,CR-Weekday,0,1,30,Salem,42.523927,-70.898903
+Salem,CR-Weekday,1,1,29,Salem,42.523927,-70.898903
+Sharon,CR-Saturday,0,1,9,Sharon,42.124804,-71.183213
+Sharon,CR-Saturday,1,1,9,Sharon,42.124804,-71.183213
+Sharon,CR-Sunday,0,1,7,Sharon,42.124804,-71.183213
+Sharon,CR-Sunday,1,1,7,Sharon,42.124804,-71.183213
+Sharon,CR-Weekday,0,1,16,Sharon,42.124804,-71.183213
+Sharon,CR-Weekday,1,1,17,Sharon,42.124804,-71.183213
+Shirley,CR-Saturday,0,1,6,Shirley,42.544726,-71.648363
+Shirley,CR-Saturday,1,1,6,Shirley,42.544726,-71.648363
+Shirley,CR-Sunday,0,1,6,Shirley,42.544726,-71.648363
+Shirley,CR-Sunday,1,1,6,Shirley,42.544726,-71.648363
+Shirley,CR-Weekday,0,1,13,Shirley,42.544726,-71.648363
+Shirley,CR-Weekday,1,1,13,Shirley,42.544726,-71.648363
+Silver Hill,CR-Weekday,0,1,3,Silver Hill,42.395625,-71.302357
+Silver Hill,CR-Weekday,1,1,2,Silver Hill,42.395625,-71.302357
+South Acton,CR-Saturday,0,1,8,South Acton,42.461575,-71.455322
+South Acton,CR-Saturday,1,1,8,South Acton,42.461575,-71.455322
+South Acton,CR-Sunday,0,1,8,South Acton,42.461575,-71.455322
+South Acton,CR-Sunday,1,1,8,South Acton,42.461575,-71.455322
+South Acton,CR-Weekday,0,1,17,South Acton,42.461575,-71.455322
+South Acton,CR-Weekday,1,1,17,South Acton,42.461575,-71.455322
+South Attleboro,CR-Saturday,0,1,9,South Attleboro,41.897943,-71.354621
+South Attleboro,CR-Saturday,1,1,9,South Attleboro,41.897943,-71.354621
+South Attleboro,CR-Sunday,0,1,7,South Attleboro,41.897943,-71.354621
+South Attleboro,CR-Sunday,1,1,7,South Attleboro,41.897943,-71.354621
+South Attleboro,CR-Weekday,0,1,16,South Attleboro,41.897943,-71.354621
+South Attleboro,CR-Weekday,1,1,16,South Attleboro,41.897943,-71.354621
+Southborough,CR-Saturday,0,1,5,Southborough,42.267518,-71.523621
+Southborough,CR-Saturday,1,1,5,Southborough,42.267518,-71.523621
+Southborough,CR-Sunday,0,1,5,Southborough,42.267518,-71.523621
+Southborough,CR-Sunday,1,1,5,Southborough,42.267518,-71.523621
+Southborough,CR-Weekday,0,1,11,Southborough,42.267518,-71.523621
+Southborough,CR-Weekday,1,1,13,Southborough,42.267518,-71.523621
+South Station,CR-SatSuspended,0,3,25,South Station,42.352614,-71.055364
+South Station,CR-SatSuspended,1,3,25,South Station,42.352614,-71.055364
+South Station,CR-Saturday,0,4,35,South Station,42.352614,-71.055364
+South Station,CR-Saturday,1,4,35,South Station,42.352614,-71.055364
+South Station,CR-Sunday,0,4,30,South Station,42.352614,-71.055364
+South Station,CR-Sunday,1,4,30,South Station,42.352614,-71.055364
+South Station,CR-SunSuspended,0,2,16,South Station,42.352614,-71.055364
+South Station,CR-SunSuspended,1,2,16,South Station,42.352614,-71.055364
+South Station,CR-Weekday,0,8,138,South Station,42.352614,-71.055364
+South Station,CR-Weekday,1,8,140,South Station,42.352614,-71.055364
+South Weymouth,CR-SatSuspended,0,1,8,South Weymouth,42.153747,-70.95249
+South Weymouth,CR-SatSuspended,1,1,8,South Weymouth,42.153747,-70.95249
+South Weymouth,CR-SunSuspended,0,1,8,South Weymouth,42.153747,-70.95249
+South Weymouth,CR-SunSuspended,1,1,8,South Weymouth,42.153747,-70.95249
+South Weymouth,CR-Weekday,0,1,12,South Weymouth,42.153747,-70.95249
+South Weymouth,CR-Weekday,1,1,12,South Weymouth,42.153747,-70.95249
+Stoughton,CR-Weekday,0,1,16,Stoughton,42.123818,-71.10309
+Stoughton,CR-Weekday,1,1,16,Stoughton,42.123818,-71.10309
+Swampscott,CR-Saturday,0,1,13,Swampscott,42.473739,-70.922036
+Swampscott,CR-Saturday,1,1,13,Swampscott,42.473739,-70.922036
+Swampscott,CR-Sunday,0,1,13,Swampscott,42.473739,-70.922036
+Swampscott,CR-Sunday,1,1,13,Swampscott,42.473739,-70.922036
+Swampscott,CR-Weekday,0,1,24,Swampscott,42.473739,-70.922036
+Swampscott,CR-Weekday,1,1,25,Swampscott,42.473739,-70.922036
+TF Green Airport,CR-Weekday,0,1,10,TF Green Airport,41.726599,-71.442453
+TF Green Airport,CR-Weekday,1,1,10,TF Green Airport,41.726599,-71.442453
+Uphams Corner,CR-Weekday,0,1,13,Uphams Corner,42.31867,-71.069072
+Uphams Corner,CR-Weekday,1,2,14,Uphams Corner,42.31867,-71.069072
+Wakefield,CR-Saturday,0,1,6,Wakefield,42.501811,-71.075
+Wakefield,CR-Saturday,1,1,6,Wakefield,42.501811,-71.075
+Wakefield,CR-Sunday,0,1,6,Wakefield,42.501811,-71.075
+Wakefield,CR-Sunday,1,1,6,Wakefield,42.501811,-71.075
+Wakefield,CR-Weekday,0,1,22,Wakefield,42.501811,-71.075
+Wakefield,CR-Weekday,1,1,19,Wakefield,42.501811,-71.075
+Walpole,CR-Saturday,0,1,9,Walpole,42.145477,-71.25779
+Walpole,CR-Saturday,1,1,9,Walpole,42.145477,-71.25779
+Walpole,CR-Sunday,0,1,7,Walpole,42.145477,-71.25779
+Walpole,CR-Sunday,1,1,7,Walpole,42.145477,-71.25779
+Walpole,CR-Weekday,0,1,16,Walpole,42.145477,-71.25779
+Walpole,CR-Weekday,1,1,17,Walpole,42.145477,-71.25779
+Waltham,CR-Saturday,0,1,8,Waltham,42.374424,-71.236595
+Waltham,CR-Saturday,1,1,8,Waltham,42.374424,-71.236595
+Waltham,CR-Sunday,0,1,8,Waltham,42.374424,-71.236595
+Waltham,CR-Sunday,1,1,8,Waltham,42.374424,-71.236595
+Waltham,CR-Weekday,0,1,16,Waltham,42.374424,-71.236595
+Waltham,CR-Weekday,1,1,16,Waltham,42.374424,-71.236595
+Waverley,CR-Saturday,0,1,8,Waverley,42.387489,-71.189864
+Waverley,CR-Saturday,1,1,8,Waverley,42.387489,-71.189864
+Waverley,CR-Sunday,0,1,8,Waverley,42.387489,-71.189864
+Waverley,CR-Sunday,1,1,8,Waverley,42.387489,-71.189864
+Waverley,CR-Weekday,0,1,12,Waverley,42.387489,-71.189864
+Waverley,CR-Weekday,1,1,9,Waverley,42.387489,-71.189864
+Wedgemere,CR-Saturday,0,1,8,Wedgemere,42.445284,-71.140909
+Wedgemere,CR-Saturday,1,1,8,Wedgemere,42.445284,-71.140909
+Wedgemere,CR-Sunday,0,1,8,Wedgemere,42.445284,-71.140909
+Wedgemere,CR-Sunday,1,1,8,Wedgemere,42.445284,-71.140909
+Wedgemere,CR-Weekday,0,2,22,Wedgemere,42.445284,-71.140909
+Wedgemere,CR-Weekday,1,2,26,Wedgemere,42.445284,-71.140909
+Wellesley Farms,CR-Saturday,0,1,9,Wellesley Farms,42.323608,-71.272288
+Wellesley Farms,CR-Saturday,1,1,9,Wellesley Farms,42.323608,-71.272288
+Wellesley Farms,CR-Sunday,0,1,8,Wellesley Farms,42.323608,-71.272288
+Wellesley Farms,CR-Sunday,1,1,8,Wellesley Farms,42.323608,-71.272288
+Wellesley Farms,CR-Weekday,0,1,13,Wellesley Farms,42.323608,-71.272288
+Wellesley Farms,CR-Weekday,1,1,17,Wellesley Farms,42.323608,-71.272288
+Wellesley Hills,CR-Saturday,0,1,9,Wellesley Hills,42.310027,-71.276769
+Wellesley Hills,CR-Saturday,1,1,9,Wellesley Hills,42.310027,-71.276769
+Wellesley Hills,CR-Sunday,0,1,8,Wellesley Hills,42.310027,-71.276769
+Wellesley Hills,CR-Sunday,1,1,8,Wellesley Hills,42.310027,-71.276769
+Wellesley Hills,CR-Weekday,0,1,15,Wellesley Hills,42.310027,-71.276769
+Wellesley Hills,CR-Weekday,1,1,17,Wellesley Hills,42.310027,-71.276769
+Wellesley Square,CR-Saturday,0,1,9,Wellesley Square,42.296427,-71.294311
+Wellesley Square,CR-Saturday,1,1,9,Wellesley Square,42.296427,-71.294311
+Wellesley Square,CR-Sunday,0,1,8,Wellesley Square,42.296427,-71.294311
+Wellesley Square,CR-Sunday,1,1,8,Wellesley Square,42.296427,-71.294311
+Wellesley Square,CR-Weekday,0,1,15,Wellesley Square,42.296427,-71.294311
+Wellesley Square,CR-Weekday,1,1,17,Wellesley Square,42.296427,-71.294311
+Westborough,CR-Saturday,0,1,5,Westborough,42.269184,-71.652005
+Westborough,CR-Saturday,1,1,5,Westborough,42.269184,-71.652005
+Westborough,CR-Sunday,0,1,5,Westborough,42.269184,-71.652005
+Westborough,CR-Sunday,1,1,5,Westborough,42.269184,-71.652005
+Westborough,CR-Weekday,0,1,11,Westborough,42.269184,-71.652005
+Westborough,CR-Weekday,1,1,13,Westborough,42.269184,-71.652005
+West Concord,CR-Saturday,0,1,8,West Concord,42.456372,-71.392371
+West Concord,CR-Saturday,1,1,8,West Concord,42.456372,-71.392371
+West Concord,CR-Sunday,0,1,8,West Concord,42.456372,-71.392371
+West Concord,CR-Sunday,1,1,8,West Concord,42.456372,-71.392371
+West Concord,CR-Weekday,0,1,15,West Concord,42.456372,-71.392371
+West Concord,CR-Weekday,1,1,16,West Concord,42.456372,-71.392371
+West Gloucester,CR-Saturday,0,1,7,West Gloucester,42.610928,-70.706456
+West Gloucester,CR-Saturday,1,1,7,West Gloucester,42.610928,-70.706456
+West Gloucester,CR-Sunday,0,1,7,West Gloucester,42.610928,-70.706456
+West Gloucester,CR-Sunday,1,1,7,West Gloucester,42.610928,-70.706456
+West Gloucester,CR-Weekday,0,1,13,West Gloucester,42.610928,-70.706456
+West Gloucester,CR-Weekday,1,1,12,West Gloucester,42.610928,-70.706456
+West Hingham,CR-SatSuspended,0,1,8,West Hingham,42.2367,-70.9031
+West Hingham,CR-SatSuspended,1,1,8,West Hingham,42.2367,-70.9031
+West Hingham,CR-SunSuspended,0,1,8,West Hingham,42.2367,-70.9031
+West Hingham,CR-SunSuspended,1,1,8,West Hingham,42.2367,-70.9031
+West Hingham,CR-Weekday,0,1,12,West Hingham,42.2367,-70.9031
+West Hingham,CR-Weekday,1,1,12,West Hingham,42.2367,-70.9031
+West Medford,CR-Saturday,0,1,8,West Medford,42.421184,-71.132468
+West Medford,CR-Saturday,1,1,8,West Medford,42.421184,-71.132468
+West Medford,CR-Sunday,0,1,8,West Medford,42.421184,-71.132468
+West Medford,CR-Sunday,1,1,8,West Medford,42.421184,-71.132468
+West Medford,CR-Weekday,0,2,23,West Medford,42.421184,-71.132468
+West Medford,CR-Weekday,1,2,26,West Medford,42.421184,-71.132468
+West Natick,CR-Saturday,0,1,9,West Natick,42.281855,-71.390548
+West Natick,CR-Saturday,1,1,9,West Natick,42.281855,-71.390548
+West Natick,CR-Sunday,0,1,8,West Natick,42.281855,-71.390548
+West Natick,CR-Sunday,1,1,8,West Natick,42.281855,-71.390548
+West Natick,CR-Weekday,0,1,18,West Natick,42.281855,-71.390548
+West Natick,CR-Weekday,1,1,19,West Natick,42.281855,-71.390548
+West Newton,CR-Saturday,0,1,9,West Newton,42.348599,-71.22901
+West Newton,CR-Saturday,1,1,9,West Newton,42.348599,-71.22901
+West Newton,CR-Sunday,0,1,8,West Newton,42.348599,-71.22901
+West Newton,CR-Sunday,1,1,8,West Newton,42.348599,-71.22901
+West Newton,CR-Weekday,0,1,11,West Newton,42.348599,-71.22901
+West Newton,CR-Weekday,1,1,9,West Newton,42.348599,-71.22901
+West Roxbury,CR-SatSuspended,0,1,9,West Roxbury,42.2816,-71.159932
+West Roxbury,CR-SatSuspended,1,1,8,West Roxbury,42.2816,-71.159932
+West Roxbury,CR-Weekday,0,1,16,West Roxbury,42.2816,-71.159932
+West Roxbury,CR-Weekday,1,1,16,West Roxbury,42.2816,-71.159932
+Weymouth Landing/ East Braintree,CR-SatSuspended,0,1,8,Weymouth Landing/ East Braintree,42.2208,-70.9682
+Weymouth Landing/ East Braintree,CR-SatSuspended,1,1,8,Weymouth Landing/ East Braintree,42.2208,-70.9682
+Weymouth Landing/ East Braintree,CR-SunSuspended,0,1,8,Weymouth Landing/ East Braintree,42.2208,-70.9682
+Weymouth Landing/ East Braintree,CR-SunSuspended,1,1,8,Weymouth Landing/ East Braintree,42.2208,-70.9682
+Weymouth Landing/ East Braintree,CR-Weekday,0,1,12,Weymouth Landing/ East Braintree,42.2208,-70.9682
+Weymouth Landing/ East Braintree,CR-Weekday,1,1,12,Weymouth Landing/ East Braintree,42.2208,-70.9682
+Whitman,CR-SatSuspended,0,1,8,Whitman,42.083563,-70.923204
+Whitman,CR-SatSuspended,1,1,8,Whitman,42.083563,-70.923204
+Whitman,CR-SunSuspended,0,1,8,Whitman,42.083563,-70.923204
+Whitman,CR-SunSuspended,1,1,8,Whitman,42.083563,-70.923204
+Whitman,CR-Weekday,0,1,12,Whitman,42.083563,-70.923204
+Whitman,CR-Weekday,1,1,12,Whitman,42.083563,-70.923204
+Wickford Junction,CR-Weekday,0,1,10,Wickford Junction,41.5808,-71.4914
+Wickford Junction,CR-Weekday,1,1,10,Wickford Junction,41.5808,-71.4914
+Wilmington,CR-Saturday,0,1,8,Wilmington,42.546368,-71.173569
+Wilmington,CR-Saturday,1,1,8,Wilmington,42.546368,-71.173569
+Wilmington,CR-Sunday,0,1,8,Wilmington,42.546368,-71.173569
+Wilmington,CR-Sunday,1,1,8,Wilmington,42.546368,-71.173569
+Wilmington,CR-Weekday,0,2,23,Wilmington,42.546368,-71.173569
+Wilmington,CR-Weekday,1,2,24,Wilmington,42.546368,-71.173569
+Winchester Center,CR-Saturday,0,1,8,Winchester Center,42.45265,-71.137041
+Winchester Center,CR-Saturday,1,1,8,Winchester Center,42.45265,-71.137041
+Winchester Center,CR-Sunday,0,1,8,Winchester Center,42.45265,-71.137041
+Winchester Center,CR-Sunday,1,1,8,Winchester Center,42.45265,-71.137041
+Winchester Center,CR-Weekday,0,2,23,Winchester Center,42.45265,-71.137041
+Winchester Center,CR-Weekday,1,2,26,Winchester Center,42.45265,-71.137041
+Windsor Gardens,CR-Saturday,0,1,9,Windsor Gardens,42.172192,-71.220704
+Windsor Gardens,CR-Saturday,1,1,9,Windsor Gardens,42.172192,-71.220704
+Windsor Gardens,CR-Sunday,0,1,7,Windsor Gardens,42.172192,-71.220704
+Windsor Gardens,CR-Sunday,1,1,7,Windsor Gardens,42.172192,-71.220704
+Windsor Gardens,CR-Weekday,0,1,14,Windsor Gardens,42.172192,-71.220704
+Windsor Gardens,CR-Weekday,1,1,13,Windsor Gardens,42.172192,-71.220704
+Worcester / Union Station,CR-Saturday,0,1,5,Worcester / Union Station,42.261796,-71.793881
+Worcester / Union Station,CR-Saturday,1,1,5,Worcester / Union Station,42.261796,-71.793881
+Worcester / Union Station,CR-Sunday,0,1,5,Worcester / Union Station,42.261796,-71.793881
+Worcester / Union Station,CR-Sunday,1,1,5,Worcester / Union Station,42.261796,-71.793881
+Worcester / Union Station,CR-Weekday,0,1,12,Worcester / Union Station,42.261796,-71.793881
+Worcester / Union Station,CR-Weekday,1,1,13,Worcester / Union Station,42.261796,-71.793881
+Wyoming Hill,CR-Saturday,0,1,6,Wyoming Hill,42.452097,-71.069518
+Wyoming Hill,CR-Saturday,1,1,6,Wyoming Hill,42.452097,-71.069518
+Wyoming Hill,CR-Sunday,0,1,6,Wyoming Hill,42.452097,-71.069518
+Wyoming Hill,CR-Sunday,1,1,6,Wyoming Hill,42.452097,-71.069518
+Wyoming Hill,CR-Weekday,0,1,19,Wyoming Hill,42.452097,-71.069518
+Wyoming Hill,CR-Weekday,1,1,18,Wyoming Hill,42.452097,-71.069518
+Yawkey,CR-Saturday,0,1,4,Yawkey,42.346796,-71.098937
+Yawkey,CR-Saturday,1,1,4,Yawkey,42.346796,-71.098937
+Yawkey,CR-Sunday,0,1,4,Yawkey,42.346796,-71.098937
+Yawkey,CR-Sunday,1,1,4,Yawkey,42.346796,-71.098937
+Yawkey,CR-Weekday,0,1,9,Yawkey,42.346796,-71.098937
+Yawkey,CR-Weekday,1,1,9,Yawkey,42.346796,-71.098937

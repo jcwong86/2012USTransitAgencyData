@@ -1,0 +1,1256 @@
+route_id,stop_id,service_id,direction_id,avghdwy,stdev_hdwy,stop_name,stop_lat,stop_lon,route_short_name,route_long_name
+946_,70038,RTL212-hmb22011-Weekday-01,0,5.8,1.9,Bowdoin Station Blue Line,42.361365,-71.062037,"",Blue Line
+946_,70038,RTL212-hmb22011-Weekday-01,1,5.6,1.7,Bowdoin Station Blue Line,42.361365,-71.062037,"",Blue Line
+948_,70038,RTL212-hmb22011-Weekday-01,0,16.0,6.2,Bowdoin Station Blue Line,42.361365,-71.062037,"",Blue Line
+946_,70039,RTL212-hmb22011-Weekday-01,0,5.8,1.9,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+9462,70039,RTL212-hmb22011-Weekday-01,0,9.7,1.9,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+948_,70039,RTL212-hmb22011-Weekday-01,0,16.0,6.2,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+946_,70040,RTL212-hmb22011-Weekday-01,1,5.6,1.7,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+9462,70040,RTL212-hmb22011-Weekday-01,1,9.8,1.8,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+946_,70041,RTL212-hmb22011-Weekday-01,0,5.8,1.9,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+9462,70041,RTL212-hmb22011-Weekday-01,0,9.7,1.9,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+948_,70041,RTL212-hmb22011-Weekday-01,0,16.0,6.2,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+946_,70042,RTL212-hmb22011-Weekday-01,1,5.6,1.7,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+9462,70042,RTL212-hmb22011-Weekday-01,1,9.8,1.8,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+946_,70043,RTL212-hmb22011-Weekday-01,0,5.8,2.0,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+9462,70043,RTL212-hmb22011-Weekday-01,0,9.7,1.9,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+948_,70043,RTL212-hmb22011-Weekday-01,0,16.0,6.2,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+946_,70044,RTL212-hmb22011-Weekday-01,1,5.6,1.7,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+9462,70044,RTL212-hmb22011-Weekday-01,1,9.8,1.8,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+946_,70045,RTL212-hmb22011-Weekday-01,0,5.8,2.0,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+9462,70045,RTL212-hmb22011-Weekday-01,0,9.7,1.9,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+948_,70045,RTL212-hmb22011-Weekday-01,0,16.0,6.2,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+946_,70046,RTL212-hmb22011-Weekday-01,1,5.6,1.7,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+9462,70046,RTL212-hmb22011-Weekday-01,1,9.8,1.8,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+946_,70047,RTL212-hmb22011-Weekday-01,0,5.8,2.0,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+9462,70047,RTL212-hmb22011-Weekday-01,0,9.7,1.9,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+948_,70047,RTL212-hmb22011-Weekday-01,0,16.0,6.2,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+946_,70048,RTL212-hmb22011-Weekday-01,1,5.6,1.7,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+9462,70048,RTL212-hmb22011-Weekday-01,1,9.8,1.8,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+946_,70049,RTL212-hmb22011-Weekday-01,0,5.8,2.0,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+9462,70049,RTL212-hmb22011-Weekday-01,0,9.7,1.9,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+948_,70049,RTL212-hmb22011-Weekday-01,0,16.0,6.2,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+946_,70050,RTL212-hmb22011-Weekday-01,1,5.6,1.7,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+9462,70050,RTL212-hmb22011-Weekday-01,1,9.8,1.8,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+946_,70051,RTL212-hmb22011-Weekday-01,0,5.8,2.0,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+9462,70051,RTL212-hmb22011-Weekday-01,0,9.7,1.9,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+948_,70051,RTL212-hmb22011-Weekday-01,0,16.0,6.2,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+946_,70052,RTL212-hmb22011-Weekday-01,1,5.6,1.7,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+9462,70052,RTL212-hmb22011-Weekday-01,1,9.8,1.8,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+946_,70053,RTL212-hmb22011-Weekday-01,0,5.8,2.0,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+9462,70053,RTL212-hmb22011-Weekday-01,0,9.7,1.9,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+946_,70054,RTL212-hmb22011-Weekday-01,1,5.6,1.7,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+9462,70054,RTL212-hmb22011-Weekday-01,1,9.8,1.8,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+946_,70055,RTL212-hmb22011-Weekday-01,0,5.8,2.0,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+9462,70055,RTL212-hmb22011-Weekday-01,0,9.7,1.9,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+946_,70056,RTL212-hmb22011-Weekday-01,1,5.6,1.7,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+9462,70056,RTL212-hmb22011-Weekday-01,1,9.8,1.8,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+946_,70057,RTL212-hmb22011-Weekday-01,0,5.8,2.0,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+9462,70057,RTL212-hmb22011-Weekday-01,0,9.7,1.9,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+946_,70058,RTL212-hmb22011-Weekday-01,1,5.6,1.7,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+9462,70058,RTL212-hmb22011-Weekday-01,1,9.8,1.8,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+946_,70060,RTL212-hmb22011-Weekday-01,0,5.8,2.0,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+946_,70060,RTL212-hmb22011-Weekday-01,1,5.6,1.7,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL212-hmb22011-Weekday-01,0,9.7,1.9,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL212-hmb22011-Weekday-01,1,9.8,1.8,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70039,RTL212-hmb22016-Saturday-01,0,9.2,1.3,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+9482,70039,RTL212-hmb22016-Saturday-01,0,,,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+9462,70040,RTL212-hmb22016-Saturday-01,1,9.2,1.6,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+9462,70041,RTL212-hmb22016-Saturday-01,0,9.2,1.3,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+9482,70041,RTL212-hmb22016-Saturday-01,0,,,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+9462,70042,RTL212-hmb22016-Saturday-01,1,9.2,1.6,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+9462,70043,RTL212-hmb22016-Saturday-01,0,9.2,1.3,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+9482,70043,RTL212-hmb22016-Saturday-01,0,,,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+9462,70044,RTL212-hmb22016-Saturday-01,1,9.2,1.6,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+9462,70045,RTL212-hmb22016-Saturday-01,0,9.2,1.3,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+9482,70045,RTL212-hmb22016-Saturday-01,0,,,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+9462,70046,RTL212-hmb22016-Saturday-01,1,9.2,1.6,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+9462,70047,RTL212-hmb22016-Saturday-01,0,9.2,1.3,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+9482,70047,RTL212-hmb22016-Saturday-01,0,,,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+9462,70048,RTL212-hmb22016-Saturday-01,1,9.2,1.6,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+9462,70049,RTL212-hmb22016-Saturday-01,0,9.2,1.3,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+9482,70049,RTL212-hmb22016-Saturday-01,0,,,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+9462,70050,RTL212-hmb22016-Saturday-01,1,9.2,1.6,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+9462,70051,RTL212-hmb22016-Saturday-01,0,9.2,1.3,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+9482,70051,RTL212-hmb22016-Saturday-01,0,,,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+9462,70052,RTL212-hmb22016-Saturday-01,1,9.2,1.6,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+9462,70053,RTL212-hmb22016-Saturday-01,0,9.2,1.3,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+9462,70054,RTL212-hmb22016-Saturday-01,1,9.2,1.6,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+9462,70055,RTL212-hmb22016-Saturday-01,0,9.2,1.3,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+9462,70056,RTL212-hmb22016-Saturday-01,1,9.2,1.6,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+9462,70057,RTL212-hmb22016-Saturday-01,0,9.2,1.3,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+9462,70058,RTL212-hmb22016-Saturday-01,1,9.2,1.6,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+9462,70060,RTL212-hmb22016-Saturday-01,0,9.2,1.3,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL212-hmb22016-Saturday-01,1,9.2,1.6,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70039,RTL212-hmb22017-Sunday-01,0,9.8,2.0,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+9462,70040,RTL212-hmb22017-Sunday-01,1,9.8,2.0,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+9462,70041,RTL212-hmb22017-Sunday-01,0,9.8,2.0,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+9462,70042,RTL212-hmb22017-Sunday-01,1,9.8,2.0,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+9462,70043,RTL212-hmb22017-Sunday-01,0,9.8,2.0,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+9462,70044,RTL212-hmb22017-Sunday-01,1,9.8,2.0,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+9462,70045,RTL212-hmb22017-Sunday-01,0,9.8,2.0,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+9462,70046,RTL212-hmb22017-Sunday-01,1,9.8,2.0,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+9462,70047,RTL212-hmb22017-Sunday-01,0,9.8,2.0,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+9462,70048,RTL212-hmb22017-Sunday-01,1,9.8,2.0,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+9462,70049,RTL212-hmb22017-Sunday-01,0,9.8,2.0,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+9462,70050,RTL212-hmb22017-Sunday-01,1,9.8,2.0,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+9462,70051,RTL212-hmb22017-Sunday-01,0,9.8,2.0,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+9462,70052,RTL212-hmb22017-Sunday-01,1,9.8,2.0,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+9462,70053,RTL212-hmb22017-Sunday-01,0,9.8,2.0,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+9462,70054,RTL212-hmb22017-Sunday-01,1,9.8,2.0,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+9462,70055,RTL212-hmb22017-Sunday-01,0,9.8,2.0,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+9462,70056,RTL212-hmb22017-Sunday-01,1,9.8,2.0,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+9462,70057,RTL212-hmb22017-Sunday-01,0,9.8,2.0,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+9462,70058,RTL212-hmb22017-Sunday-01,1,9.8,2.0,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+9462,70060,RTL212-hmb22017-Sunday-01,0,9.8,2.0,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL212-hmb22017-Sunday-01,1,9.8,2.0,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+946_,70038,RTL212-hmb22bk1-Weekday-01,0,5.8,1.9,Bowdoin Station Blue Line,42.361365,-71.062037,"",Blue Line
+946_,70038,RTL212-hmb22bk1-Weekday-01,1,5.6,1.7,Bowdoin Station Blue Line,42.361365,-71.062037,"",Blue Line
+948_,70038,RTL212-hmb22bk1-Weekday-01,0,16.0,6.2,Bowdoin Station Blue Line,42.361365,-71.062037,"",Blue Line
+946_,70039,RTL212-hmb22bk1-Weekday-01,0,5.8,1.9,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+9462,70039,RTL212-hmb22bk1-Weekday-01,0,9.7,1.9,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+948_,70039,RTL212-hmb22bk1-Weekday-01,0,16.0,6.2,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+946_,70040,RTL212-hmb22bk1-Weekday-01,1,5.6,1.7,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+9462,70040,RTL212-hmb22bk1-Weekday-01,1,9.8,1.8,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+946_,70041,RTL212-hmb22bk1-Weekday-01,0,5.8,1.9,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+9462,70041,RTL212-hmb22bk1-Weekday-01,0,9.7,1.9,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+948_,70041,RTL212-hmb22bk1-Weekday-01,0,16.0,6.2,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+946_,70042,RTL212-hmb22bk1-Weekday-01,1,5.6,1.7,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+9462,70042,RTL212-hmb22bk1-Weekday-01,1,9.8,1.8,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+946_,70043,RTL212-hmb22bk1-Weekday-01,0,5.8,2.0,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+9462,70043,RTL212-hmb22bk1-Weekday-01,0,9.7,1.9,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+948_,70043,RTL212-hmb22bk1-Weekday-01,0,16.0,6.2,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+946_,70044,RTL212-hmb22bk1-Weekday-01,1,5.6,1.7,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+9462,70044,RTL212-hmb22bk1-Weekday-01,1,9.8,1.8,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+946_,70045,RTL212-hmb22bk1-Weekday-01,0,5.8,2.0,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+9462,70045,RTL212-hmb22bk1-Weekday-01,0,9.7,1.9,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+948_,70045,RTL212-hmb22bk1-Weekday-01,0,16.0,6.2,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+946_,70046,RTL212-hmb22bk1-Weekday-01,1,5.6,1.7,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+9462,70046,RTL212-hmb22bk1-Weekday-01,1,9.8,1.8,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+946_,70047,RTL212-hmb22bk1-Weekday-01,0,5.8,2.0,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+9462,70047,RTL212-hmb22bk1-Weekday-01,0,9.7,1.9,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+948_,70047,RTL212-hmb22bk1-Weekday-01,0,16.0,6.2,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+946_,70048,RTL212-hmb22bk1-Weekday-01,1,5.6,1.7,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+9462,70048,RTL212-hmb22bk1-Weekday-01,1,9.8,1.8,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+946_,70049,RTL212-hmb22bk1-Weekday-01,0,5.8,2.0,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+9462,70049,RTL212-hmb22bk1-Weekday-01,0,9.7,1.9,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+948_,70049,RTL212-hmb22bk1-Weekday-01,0,16.0,6.2,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+946_,70050,RTL212-hmb22bk1-Weekday-01,1,5.6,1.7,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+9462,70050,RTL212-hmb22bk1-Weekday-01,1,9.8,1.8,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+946_,70051,RTL212-hmb22bk1-Weekday-01,0,5.8,2.0,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+9462,70051,RTL212-hmb22bk1-Weekday-01,0,9.7,1.9,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+948_,70051,RTL212-hmb22bk1-Weekday-01,0,16.0,6.2,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+946_,70052,RTL212-hmb22bk1-Weekday-01,1,5.6,1.7,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+9462,70052,RTL212-hmb22bk1-Weekday-01,1,9.8,1.8,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+946_,70053,RTL212-hmb22bk1-Weekday-01,0,5.8,2.0,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+9462,70053,RTL212-hmb22bk1-Weekday-01,0,9.7,1.9,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+946_,70054,RTL212-hmb22bk1-Weekday-01,1,5.6,1.7,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+9462,70054,RTL212-hmb22bk1-Weekday-01,1,9.8,1.8,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+946_,70055,RTL212-hmb22bk1-Weekday-01,0,5.8,2.0,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+9462,70055,RTL212-hmb22bk1-Weekday-01,0,9.7,1.9,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+946_,70056,RTL212-hmb22bk1-Weekday-01,1,5.6,1.7,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+9462,70056,RTL212-hmb22bk1-Weekday-01,1,9.8,1.8,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+946_,70057,RTL212-hmb22bk1-Weekday-01,0,5.8,2.0,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+9462,70057,RTL212-hmb22bk1-Weekday-01,0,9.7,1.9,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+946_,70058,RTL212-hmb22bk1-Weekday-01,1,5.6,1.7,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+9462,70058,RTL212-hmb22bk1-Weekday-01,1,9.8,1.8,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+946_,70060,RTL212-hmb22bk1-Weekday-01,0,5.8,2.0,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+946_,70060,RTL212-hmb22bk1-Weekday-01,1,5.6,1.7,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL212-hmb22bk1-Weekday-01,0,9.7,1.9,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL212-hmb22bk1-Weekday-01,1,9.8,1.8,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+946_,70038,RTL212-hmb22no1-Weekday-01,0,5.8,1.9,Bowdoin Station Blue Line,42.361365,-71.062037,"",Blue Line
+946_,70038,RTL212-hmb22no1-Weekday-01,1,5.6,1.7,Bowdoin Station Blue Line,42.361365,-71.062037,"",Blue Line
+948_,70038,RTL212-hmb22no1-Weekday-01,0,16.0,6.2,Bowdoin Station Blue Line,42.361365,-71.062037,"",Blue Line
+946_,70039,RTL212-hmb22no1-Weekday-01,0,5.8,1.9,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+9462,70039,RTL212-hmb22no1-Weekday-01,0,9.7,1.9,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+948_,70039,RTL212-hmb22no1-Weekday-01,0,16.0,6.2,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+946_,70040,RTL212-hmb22no1-Weekday-01,1,5.6,1.7,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+9462,70040,RTL212-hmb22no1-Weekday-01,1,9.8,1.8,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+946_,70041,RTL212-hmb22no1-Weekday-01,0,5.8,1.9,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+9462,70041,RTL212-hmb22no1-Weekday-01,0,9.7,1.9,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+948_,70041,RTL212-hmb22no1-Weekday-01,0,16.0,6.2,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+946_,70042,RTL212-hmb22no1-Weekday-01,1,5.6,1.7,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+9462,70042,RTL212-hmb22no1-Weekday-01,1,9.8,1.8,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+946_,70043,RTL212-hmb22no1-Weekday-01,0,5.8,2.0,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+9462,70043,RTL212-hmb22no1-Weekday-01,0,9.7,1.9,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+948_,70043,RTL212-hmb22no1-Weekday-01,0,16.0,6.2,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+946_,70044,RTL212-hmb22no1-Weekday-01,1,5.6,1.7,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+9462,70044,RTL212-hmb22no1-Weekday-01,1,9.8,1.8,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+946_,70045,RTL212-hmb22no1-Weekday-01,0,5.8,2.0,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+9462,70045,RTL212-hmb22no1-Weekday-01,0,9.7,1.9,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+948_,70045,RTL212-hmb22no1-Weekday-01,0,16.0,6.2,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+946_,70046,RTL212-hmb22no1-Weekday-01,1,5.6,1.7,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+9462,70046,RTL212-hmb22no1-Weekday-01,1,9.8,1.8,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+946_,70047,RTL212-hmb22no1-Weekday-01,0,5.8,2.0,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+9462,70047,RTL212-hmb22no1-Weekday-01,0,9.7,1.9,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+948_,70047,RTL212-hmb22no1-Weekday-01,0,16.0,6.2,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+946_,70048,RTL212-hmb22no1-Weekday-01,1,5.6,1.7,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+9462,70048,RTL212-hmb22no1-Weekday-01,1,9.8,1.8,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+946_,70049,RTL212-hmb22no1-Weekday-01,0,5.8,2.0,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+9462,70049,RTL212-hmb22no1-Weekday-01,0,9.7,1.9,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+948_,70049,RTL212-hmb22no1-Weekday-01,0,16.0,6.2,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+946_,70050,RTL212-hmb22no1-Weekday-01,1,5.6,1.7,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+9462,70050,RTL212-hmb22no1-Weekday-01,1,9.8,1.8,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+946_,70051,RTL212-hmb22no1-Weekday-01,0,5.8,2.0,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+9462,70051,RTL212-hmb22no1-Weekday-01,0,9.7,1.9,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+948_,70051,RTL212-hmb22no1-Weekday-01,0,16.0,6.2,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+946_,70052,RTL212-hmb22no1-Weekday-01,1,5.6,1.7,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+9462,70052,RTL212-hmb22no1-Weekday-01,1,9.8,1.8,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+946_,70053,RTL212-hmb22no1-Weekday-01,0,5.8,2.0,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+9462,70053,RTL212-hmb22no1-Weekday-01,0,9.7,1.9,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+946_,70054,RTL212-hmb22no1-Weekday-01,1,5.6,1.7,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+9462,70054,RTL212-hmb22no1-Weekday-01,1,9.8,1.8,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+946_,70055,RTL212-hmb22no1-Weekday-01,0,5.8,2.0,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+9462,70055,RTL212-hmb22no1-Weekday-01,0,9.7,1.9,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+946_,70056,RTL212-hmb22no1-Weekday-01,1,5.6,1.7,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+9462,70056,RTL212-hmb22no1-Weekday-01,1,9.8,1.8,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+946_,70057,RTL212-hmb22no1-Weekday-01,0,5.8,2.0,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+9462,70057,RTL212-hmb22no1-Weekday-01,0,9.7,1.9,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+946_,70058,RTL212-hmb22no1-Weekday-01,1,5.6,1.7,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+9462,70058,RTL212-hmb22no1-Weekday-01,1,9.8,1.8,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+946_,70060,RTL212-hmb22no1-Weekday-01,0,5.8,2.0,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+946_,70060,RTL212-hmb22no1-Weekday-01,1,5.6,1.7,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL212-hmb22no1-Weekday-01,0,9.7,1.9,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL212-hmb22no1-Weekday-01,1,9.8,1.8,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+903_,70001,RTL212-hmo22011-Weekday-01,0,7.3,2.4,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70001,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+913_,70001,RTL212-hmo22011-Weekday-01,0,10.0,,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70002,RTL212-hmo22011-Weekday-01,0,7.3,2.4,Green Street Station - Outbound,42.310525,-71.107414,"",Orange Line
+913_,70002,RTL212-hmo22011-Weekday-01,0,10.0,,Green Street Station - Outbound,42.310525,-71.107414,"",Orange Line
+903_,70003,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Green St - Inbound,42.310525,-71.107414,"",Orange Line
+903_,70004,RTL212-hmo22011-Weekday-01,0,7.3,2.4,Stoneybrook -  Outbound,42.317062,-71.104248,"",Orange Line
+913_,70004,RTL212-hmo22011-Weekday-01,0,10.0,,Stoneybrook -  Outbound,42.317062,-71.104248,"",Orange Line
+903_,70005,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Stoneybrook -  Inbound,42.317062,-71.104248,"",Orange Line
+903_,70006,RTL212-hmo22011-Weekday-01,0,7.3,2.4,Jackson Sq -  Outbound,42.323132,-71.099592,"",Orange Line
+913_,70006,RTL212-hmo22011-Weekday-01,0,10.0,,Jackson Sq -  Outbound,42.323132,-71.099592,"",Orange Line
+903_,70007,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Jackson Sq Orange Line Inbound,42.323132,-71.099592,"",Orange Line
+903_,70008,RTL212-hmo22011-Weekday-01,0,7.3,2.4,Roxbury Xng - Outbound,42.331397,-71.095451,"",Orange Line
+913_,70008,RTL212-hmo22011-Weekday-01,0,10.0,,Roxbury Xng - Outbound,42.331397,-71.095451,"",Orange Line
+903_,70009,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Roxbury Xng - Inbound,42.331397,-71.095451,"",Orange Line
+903_,70010,RTL212-hmo22011-Weekday-01,0,7.3,2.4,Ruggles Sta -  Outbound,42.336377,-71.088961,"",Orange Line
+913_,70010,RTL212-hmo22011-Weekday-01,0,10.0,,Ruggles Sta -  Outbound,42.336377,-71.088961,"",Orange Line
+903_,70011,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Ruggles Sta - Inbound,42.336377,-71.088961,"",Orange Line
+903_,70012,RTL212-hmo22011-Weekday-01,0,7.3,2.4,Massachusetts Ave Sta - Outbound,42.341512,-71.083423,"",Orange Line
+913_,70012,RTL212-hmo22011-Weekday-01,0,10.0,,Massachusetts Ave Sta - Outbound,42.341512,-71.083423,"",Orange Line
+903_,70013,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Massachusetts Ave Sta - Inbound,42.341512,-71.083423,"",Orange Line
+903_,70014,RTL212-hmo22011-Weekday-01,0,7.3,2.4,Back Bay Station - Outbound,42.34735,-71.075727,"",Orange Line
+913_,70014,RTL212-hmo22011-Weekday-01,0,10.0,,Back Bay Station - Outbound,42.34735,-71.075727,"",Orange Line
+903_,70015,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Back Bay Sta - Inbound,42.34735,-71.075727,"",Orange Line
+903_,70016,RTL212-hmo22011-Weekday-01,0,7.3,2.4,Tufts Medical Ctr - Outbound,42.349662,-71.063917,"",Orange Line
+913_,70016,RTL212-hmo22011-Weekday-01,0,10.0,,Tufts Medical Ctr - Outbound,42.349662,-71.063917,"",Orange Line
+903_,70017,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Tufts  Medical Ctr - Inbound,42.349662,-71.063917,"",Orange Line
+903_,70018,RTL212-hmo22011-Weekday-01,0,7.3,2.3,Chinatown Station - Outbound,42.352547,-71.062752,"",Orange Line
+913_,70018,RTL212-hmo22011-Weekday-01,0,10.0,,Chinatown Station - Outbound,42.352547,-71.062752,"",Orange Line
+903_,70019,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Chinatown Station - Inbound,42.352547,-71.062752,"",Orange Line
+903_,70020,RTL212-hmo22011-Weekday-01,0,7.3,2.3,Downtown Crossing - to Forest Hills,42.355518,-71.060225,"",Orange Line
+913_,70020,RTL212-hmo22011-Weekday-01,0,10.0,,Downtown Crossing - to Forest Hills,42.355518,-71.060225,"",Orange Line
+903_,70021,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Downtown Crossing - to Oak Grove,42.355518,-71.060225,"",Orange Line
+903_,70022,RTL212-hmo22011-Weekday-01,0,7.3,2.3,State St Orange Line to Forest Hills,42.358978,-71.057598,"",Orange Line
+913_,70022,RTL212-hmo22011-Weekday-01,0,10.0,,State St Orange Line to Forest Hills,42.358978,-71.057598,"",Orange Line
+903_,70023,RTL212-hmo22011-Weekday-01,1,7.1,2.4,State St - to Oak Grove,42.358978,-71.057598,"",Orange Line
+903_,70024,RTL212-hmo22011-Weekday-01,0,7.3,2.3,Haymarket Station - Inbound,42.363021,-71.05829,"",Orange Line
+913_,70024,RTL212-hmo22011-Weekday-01,0,10.0,,Haymarket Station - Inbound,42.363021,-71.05829,"",Orange Line
+903_,70025,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Haymarket Station - Outbound,42.363021,-71.05829,"",Orange Line
+903_,70026,RTL212-hmo22011-Weekday-01,0,7.3,2.3,North Station - Inbound,42.365577,-71.06129,"",Orange Line
+913_,70026,RTL212-hmo22011-Weekday-01,0,10.0,,North Station - Inbound,42.365577,-71.06129,"",Orange Line
+903_,70027,RTL212-hmo22011-Weekday-01,1,7.1,2.4,North Station - Outbound,42.365577,-71.06129,"",Orange Line
+903_,70028,RTL212-hmo22011-Weekday-01,0,7.3,2.3,Community College - Inbound,42.373622,-71.069533,"",Orange Line
+913_,70028,RTL212-hmo22011-Weekday-01,0,10.0,,Community College - Inbound,42.373622,-71.069533,"",Orange Line
+903_,70029,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Community College - Outbound,42.373622,-71.069533,"",Orange Line
+903_,70030,RTL212-hmo22011-Weekday-01,0,7.3,2.3,Sullivan Station - Inbound,42.383975,-71.076994,"",Orange Line
+913_,70030,RTL212-hmo22011-Weekday-01,0,10.0,,Sullivan Station - Inbound,42.383975,-71.076994,"",Orange Line
+903_,70031,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Sullivan Station - Outbound,42.383975,-71.076994,"",Orange Line
+903_,70032,RTL212-hmo22011-Weekday-01,0,7.3,2.3,Wellington Station - Inbound,42.40237,-71.077082,"",Orange Line
+913_,70032,RTL212-hmo22011-Weekday-01,0,10.0,,Wellington Station - Inbound,42.40237,-71.077082,"",Orange Line
+903_,70033,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Wellington Station - Outbound,42.40237,-71.077082,"",Orange Line
+903_,70034,RTL212-hmo22011-Weekday-01,0,7.3,2.3,Malden Station - Inbound,42.426632,-71.07411,"",Orange Line
+903_,70035,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Malden Station - Outbound,42.426632,-71.07411,"",Orange Line
+903_,70036,RTL212-hmo22011-Weekday-01,0,7.3,2.3,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70036,RTL212-hmo22011-Weekday-01,1,7.1,2.4,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70001,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70001,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70002,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Green Street Station - Outbound,42.310525,-71.107414,"",Orange Line
+903_,70003,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Green St - Inbound,42.310525,-71.107414,"",Orange Line
+903_,70004,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Stoneybrook -  Outbound,42.317062,-71.104248,"",Orange Line
+903_,70005,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Stoneybrook -  Inbound,42.317062,-71.104248,"",Orange Line
+903_,70006,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Jackson Sq -  Outbound,42.323132,-71.099592,"",Orange Line
+903_,70007,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Jackson Sq Orange Line Inbound,42.323132,-71.099592,"",Orange Line
+903_,70008,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Roxbury Xng - Outbound,42.331397,-71.095451,"",Orange Line
+903_,70009,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Roxbury Xng - Inbound,42.331397,-71.095451,"",Orange Line
+903_,70010,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Ruggles Sta -  Outbound,42.336377,-71.088961,"",Orange Line
+903_,70011,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Ruggles Sta - Inbound,42.336377,-71.088961,"",Orange Line
+903_,70012,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Massachusetts Ave Sta - Outbound,42.341512,-71.083423,"",Orange Line
+903_,70013,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Massachusetts Ave Sta - Inbound,42.341512,-71.083423,"",Orange Line
+903_,70014,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Back Bay Station - Outbound,42.34735,-71.075727,"",Orange Line
+903_,70015,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Back Bay Sta - Inbound,42.34735,-71.075727,"",Orange Line
+903_,70016,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Tufts Medical Ctr - Outbound,42.349662,-71.063917,"",Orange Line
+903_,70017,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Tufts  Medical Ctr - Inbound,42.349662,-71.063917,"",Orange Line
+903_,70018,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Chinatown Station - Outbound,42.352547,-71.062752,"",Orange Line
+903_,70019,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Chinatown Station - Inbound,42.352547,-71.062752,"",Orange Line
+903_,70020,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Downtown Crossing - to Forest Hills,42.355518,-71.060225,"",Orange Line
+903_,70021,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Downtown Crossing - to Oak Grove,42.355518,-71.060225,"",Orange Line
+903_,70022,RTL212-hmo22016-Saturday-01,0,9.4,1.4,State St Orange Line to Forest Hills,42.358978,-71.057598,"",Orange Line
+903_,70023,RTL212-hmo22016-Saturday-01,1,9.5,1.6,State St - to Oak Grove,42.358978,-71.057598,"",Orange Line
+903_,70024,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Haymarket Station - Inbound,42.363021,-71.05829,"",Orange Line
+903_,70025,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Haymarket Station - Outbound,42.363021,-71.05829,"",Orange Line
+903_,70026,RTL212-hmo22016-Saturday-01,0,9.4,1.4,North Station - Inbound,42.365577,-71.06129,"",Orange Line
+903_,70027,RTL212-hmo22016-Saturday-01,1,9.5,1.6,North Station - Outbound,42.365577,-71.06129,"",Orange Line
+903_,70028,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Community College - Inbound,42.373622,-71.069533,"",Orange Line
+903_,70029,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Community College - Outbound,42.373622,-71.069533,"",Orange Line
+903_,70030,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Sullivan Station - Inbound,42.383975,-71.076994,"",Orange Line
+903_,70031,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Sullivan Station - Outbound,42.383975,-71.076994,"",Orange Line
+903_,70032,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Wellington Station - Inbound,42.40237,-71.077082,"",Orange Line
+903_,70033,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Wellington Station - Outbound,42.40237,-71.077082,"",Orange Line
+903_,70034,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Malden Station - Inbound,42.426632,-71.07411,"",Orange Line
+903_,70035,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Malden Station - Outbound,42.426632,-71.07411,"",Orange Line
+903_,70036,RTL212-hmo22016-Saturday-01,0,9.4,1.4,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70036,RTL212-hmo22016-Saturday-01,1,9.5,1.6,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70001,RTL212-hmo22017-Sunday-01,0,10.5,1.2,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70001,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70002,RTL212-hmo22017-Sunday-01,0,10.5,1.2,Green Street Station - Outbound,42.310525,-71.107414,"",Orange Line
+903_,70003,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Green St - Inbound,42.310525,-71.107414,"",Orange Line
+903_,70004,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Stoneybrook -  Outbound,42.317062,-71.104248,"",Orange Line
+903_,70005,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Stoneybrook -  Inbound,42.317062,-71.104248,"",Orange Line
+903_,70006,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Jackson Sq -  Outbound,42.323132,-71.099592,"",Orange Line
+903_,70007,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Jackson Sq Orange Line Inbound,42.323132,-71.099592,"",Orange Line
+903_,70008,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Roxbury Xng - Outbound,42.331397,-71.095451,"",Orange Line
+903_,70009,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Roxbury Xng - Inbound,42.331397,-71.095451,"",Orange Line
+903_,70010,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Ruggles Sta -  Outbound,42.336377,-71.088961,"",Orange Line
+903_,70011,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Ruggles Sta - Inbound,42.336377,-71.088961,"",Orange Line
+903_,70012,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Massachusetts Ave Sta - Outbound,42.341512,-71.083423,"",Orange Line
+903_,70013,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Massachusetts Ave Sta - Inbound,42.341512,-71.083423,"",Orange Line
+903_,70014,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Back Bay Station - Outbound,42.34735,-71.075727,"",Orange Line
+903_,70015,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Back Bay Sta - Inbound,42.34735,-71.075727,"",Orange Line
+903_,70016,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Tufts Medical Ctr - Outbound,42.349662,-71.063917,"",Orange Line
+903_,70017,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Tufts  Medical Ctr - Inbound,42.349662,-71.063917,"",Orange Line
+903_,70018,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Chinatown Station - Outbound,42.352547,-71.062752,"",Orange Line
+903_,70019,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Chinatown Station - Inbound,42.352547,-71.062752,"",Orange Line
+903_,70020,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Downtown Crossing - to Forest Hills,42.355518,-71.060225,"",Orange Line
+903_,70021,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Downtown Crossing - to Oak Grove,42.355518,-71.060225,"",Orange Line
+903_,70022,RTL212-hmo22017-Sunday-01,0,10.5,1.1,State St Orange Line to Forest Hills,42.358978,-71.057598,"",Orange Line
+903_,70023,RTL212-hmo22017-Sunday-01,1,10.6,1.4,State St - to Oak Grove,42.358978,-71.057598,"",Orange Line
+903_,70024,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Haymarket Station - Inbound,42.363021,-71.05829,"",Orange Line
+903_,70025,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Haymarket Station - Outbound,42.363021,-71.05829,"",Orange Line
+903_,70026,RTL212-hmo22017-Sunday-01,0,10.5,1.1,North Station - Inbound,42.365577,-71.06129,"",Orange Line
+903_,70027,RTL212-hmo22017-Sunday-01,1,10.6,1.4,North Station - Outbound,42.365577,-71.06129,"",Orange Line
+903_,70028,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Community College - Inbound,42.373622,-71.069533,"",Orange Line
+903_,70029,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Community College - Outbound,42.373622,-71.069533,"",Orange Line
+903_,70030,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Sullivan Station - Inbound,42.383975,-71.076994,"",Orange Line
+903_,70031,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Sullivan Station - Outbound,42.383975,-71.076994,"",Orange Line
+903_,70032,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Wellington Station - Inbound,42.40237,-71.077082,"",Orange Line
+903_,70033,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Wellington Station - Outbound,42.40237,-71.077082,"",Orange Line
+903_,70034,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Malden Station - Inbound,42.426632,-71.07411,"",Orange Line
+903_,70035,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Malden Station - Outbound,42.426632,-71.07411,"",Orange Line
+903_,70036,RTL212-hmo22017-Sunday-01,0,10.5,1.1,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70036,RTL212-hmo22017-Sunday-01,1,10.6,1.4,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70001,RTL212-hmo22bk1-Weekday-01,0,7.3,2.4,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70001,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+913_,70001,RTL212-hmo22bk1-Weekday-01,0,10.0,,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70002,RTL212-hmo22bk1-Weekday-01,0,7.3,2.4,Green Street Station - Outbound,42.310525,-71.107414,"",Orange Line
+913_,70002,RTL212-hmo22bk1-Weekday-01,0,10.0,,Green Street Station - Outbound,42.310525,-71.107414,"",Orange Line
+903_,70003,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Green St - Inbound,42.310525,-71.107414,"",Orange Line
+903_,70004,RTL212-hmo22bk1-Weekday-01,0,7.3,2.4,Stoneybrook -  Outbound,42.317062,-71.104248,"",Orange Line
+913_,70004,RTL212-hmo22bk1-Weekday-01,0,10.0,,Stoneybrook -  Outbound,42.317062,-71.104248,"",Orange Line
+903_,70005,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Stoneybrook -  Inbound,42.317062,-71.104248,"",Orange Line
+903_,70006,RTL212-hmo22bk1-Weekday-01,0,7.3,2.4,Jackson Sq -  Outbound,42.323132,-71.099592,"",Orange Line
+913_,70006,RTL212-hmo22bk1-Weekday-01,0,10.0,,Jackson Sq -  Outbound,42.323132,-71.099592,"",Orange Line
+903_,70007,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Jackson Sq Orange Line Inbound,42.323132,-71.099592,"",Orange Line
+903_,70008,RTL212-hmo22bk1-Weekday-01,0,7.3,2.4,Roxbury Xng - Outbound,42.331397,-71.095451,"",Orange Line
+913_,70008,RTL212-hmo22bk1-Weekday-01,0,10.0,,Roxbury Xng - Outbound,42.331397,-71.095451,"",Orange Line
+903_,70009,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Roxbury Xng - Inbound,42.331397,-71.095451,"",Orange Line
+903_,70010,RTL212-hmo22bk1-Weekday-01,0,7.3,2.4,Ruggles Sta -  Outbound,42.336377,-71.088961,"",Orange Line
+913_,70010,RTL212-hmo22bk1-Weekday-01,0,10.0,,Ruggles Sta -  Outbound,42.336377,-71.088961,"",Orange Line
+903_,70011,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Ruggles Sta - Inbound,42.336377,-71.088961,"",Orange Line
+903_,70012,RTL212-hmo22bk1-Weekday-01,0,7.3,2.4,Massachusetts Ave Sta - Outbound,42.341512,-71.083423,"",Orange Line
+913_,70012,RTL212-hmo22bk1-Weekday-01,0,10.0,,Massachusetts Ave Sta - Outbound,42.341512,-71.083423,"",Orange Line
+903_,70013,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Massachusetts Ave Sta - Inbound,42.341512,-71.083423,"",Orange Line
+903_,70014,RTL212-hmo22bk1-Weekday-01,0,7.3,2.4,Back Bay Station - Outbound,42.34735,-71.075727,"",Orange Line
+913_,70014,RTL212-hmo22bk1-Weekday-01,0,10.0,,Back Bay Station - Outbound,42.34735,-71.075727,"",Orange Line
+903_,70015,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Back Bay Sta - Inbound,42.34735,-71.075727,"",Orange Line
+903_,70016,RTL212-hmo22bk1-Weekday-01,0,7.3,2.4,Tufts Medical Ctr - Outbound,42.349662,-71.063917,"",Orange Line
+913_,70016,RTL212-hmo22bk1-Weekday-01,0,10.0,,Tufts Medical Ctr - Outbound,42.349662,-71.063917,"",Orange Line
+903_,70017,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Tufts  Medical Ctr - Inbound,42.349662,-71.063917,"",Orange Line
+903_,70018,RTL212-hmo22bk1-Weekday-01,0,7.3,2.3,Chinatown Station - Outbound,42.352547,-71.062752,"",Orange Line
+913_,70018,RTL212-hmo22bk1-Weekday-01,0,10.0,,Chinatown Station - Outbound,42.352547,-71.062752,"",Orange Line
+903_,70019,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Chinatown Station - Inbound,42.352547,-71.062752,"",Orange Line
+903_,70020,RTL212-hmo22bk1-Weekday-01,0,7.3,2.3,Downtown Crossing - to Forest Hills,42.355518,-71.060225,"",Orange Line
+913_,70020,RTL212-hmo22bk1-Weekday-01,0,10.0,,Downtown Crossing - to Forest Hills,42.355518,-71.060225,"",Orange Line
+903_,70021,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Downtown Crossing - to Oak Grove,42.355518,-71.060225,"",Orange Line
+903_,70022,RTL212-hmo22bk1-Weekday-01,0,7.3,2.3,State St Orange Line to Forest Hills,42.358978,-71.057598,"",Orange Line
+913_,70022,RTL212-hmo22bk1-Weekday-01,0,10.0,,State St Orange Line to Forest Hills,42.358978,-71.057598,"",Orange Line
+903_,70023,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,State St - to Oak Grove,42.358978,-71.057598,"",Orange Line
+903_,70024,RTL212-hmo22bk1-Weekday-01,0,7.3,2.3,Haymarket Station - Inbound,42.363021,-71.05829,"",Orange Line
+913_,70024,RTL212-hmo22bk1-Weekday-01,0,10.0,,Haymarket Station - Inbound,42.363021,-71.05829,"",Orange Line
+903_,70025,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Haymarket Station - Outbound,42.363021,-71.05829,"",Orange Line
+903_,70026,RTL212-hmo22bk1-Weekday-01,0,7.3,2.3,North Station - Inbound,42.365577,-71.06129,"",Orange Line
+913_,70026,RTL212-hmo22bk1-Weekday-01,0,10.0,,North Station - Inbound,42.365577,-71.06129,"",Orange Line
+903_,70027,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,North Station - Outbound,42.365577,-71.06129,"",Orange Line
+903_,70028,RTL212-hmo22bk1-Weekday-01,0,7.3,2.3,Community College - Inbound,42.373622,-71.069533,"",Orange Line
+913_,70028,RTL212-hmo22bk1-Weekday-01,0,10.0,,Community College - Inbound,42.373622,-71.069533,"",Orange Line
+903_,70029,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Community College - Outbound,42.373622,-71.069533,"",Orange Line
+903_,70030,RTL212-hmo22bk1-Weekday-01,0,7.3,2.3,Sullivan Station - Inbound,42.383975,-71.076994,"",Orange Line
+913_,70030,RTL212-hmo22bk1-Weekday-01,0,10.0,,Sullivan Station - Inbound,42.383975,-71.076994,"",Orange Line
+903_,70031,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Sullivan Station - Outbound,42.383975,-71.076994,"",Orange Line
+903_,70032,RTL212-hmo22bk1-Weekday-01,0,7.3,2.3,Wellington Station - Inbound,42.40237,-71.077082,"",Orange Line
+913_,70032,RTL212-hmo22bk1-Weekday-01,0,10.0,,Wellington Station - Inbound,42.40237,-71.077082,"",Orange Line
+903_,70033,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Wellington Station - Outbound,42.40237,-71.077082,"",Orange Line
+903_,70034,RTL212-hmo22bk1-Weekday-01,0,7.3,2.3,Malden Station - Inbound,42.426632,-71.07411,"",Orange Line
+903_,70035,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Malden Station - Outbound,42.426632,-71.07411,"",Orange Line
+903_,70036,RTL212-hmo22bk1-Weekday-01,0,7.3,2.3,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70036,RTL212-hmo22bk1-Weekday-01,1,7.1,2.4,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+931_,70061,RTL212-hms22011-Weekday-01,0,10.1,1.8,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70061,RTL212-hms22011-Weekday-01,1,10.2,2.2,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL212-hms22011-Weekday-01,0,9.9,2.0,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL212-hms22011-Weekday-01,1,9.9,2.5,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70063,RTL212-hms22011-Weekday-01,0,10.1,1.8,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+933_,70063,RTL212-hms22011-Weekday-01,0,9.9,2.0,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+931_,70064,RTL212-hms22011-Weekday-01,1,10.2,2.2,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+933_,70064,RTL212-hms22011-Weekday-01,1,9.9,2.5,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+931_,70065,RTL212-hms22011-Weekday-01,0,10.1,1.8,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+933_,70065,RTL212-hms22011-Weekday-01,0,9.9,2.0,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+931_,70066,RTL212-hms22011-Weekday-01,1,10.2,2.2,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+933_,70066,RTL212-hms22011-Weekday-01,1,9.9,2.5,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+931_,70067,RTL212-hms22011-Weekday-01,0,10.1,1.8,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+933_,70067,RTL212-hms22011-Weekday-01,0,9.9,2.0,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+931_,70068,RTL212-hms22011-Weekday-01,1,10.2,2.2,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+933_,70068,RTL212-hms22011-Weekday-01,1,9.9,2.5,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+931_,70069,RTL212-hms22011-Weekday-01,0,10.1,1.8,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+933_,70069,RTL212-hms22011-Weekday-01,0,9.9,2.1,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+931_,70070,RTL212-hms22011-Weekday-01,1,10.2,2.2,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+933_,70070,RTL212-hms22011-Weekday-01,1,9.9,2.5,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+931_,70071,RTL212-hms22011-Weekday-01,0,10.1,1.8,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+933_,70071,RTL212-hms22011-Weekday-01,0,9.9,2.1,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+931_,70072,RTL212-hms22011-Weekday-01,1,10.2,2.2,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+933_,70072,RTL212-hms22011-Weekday-01,1,9.9,2.5,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+931_,70073,RTL212-hms22011-Weekday-01,0,10.1,1.8,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+933_,70073,RTL212-hms22011-Weekday-01,0,9.9,2.1,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+931_,70074,RTL212-hms22011-Weekday-01,1,10.2,2.2,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+933_,70074,RTL212-hms22011-Weekday-01,1,9.9,2.4,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+931_,70075,RTL212-hms22011-Weekday-01,0,10.1,1.8,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+933_,70075,RTL212-hms22011-Weekday-01,0,10.0,2.0,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+931_,70076,RTL212-hms22011-Weekday-01,1,10.2,2.2,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+933_,70076,RTL212-hms22011-Weekday-01,1,9.9,2.4,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+931_,70077,RTL212-hms22011-Weekday-01,0,10.1,1.8,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+933_,70077,RTL212-hms22011-Weekday-01,0,10.0,2.0,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+931_,70078,RTL212-hms22011-Weekday-01,1,10.2,2.1,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+933_,70078,RTL212-hms22011-Weekday-01,1,9.9,2.4,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+931_,70079,RTL212-hms22011-Weekday-01,0,10.1,1.9,South Station - Outbound,42.352271,-71.055242,"",Red Line
+933_,70079,RTL212-hms22011-Weekday-01,0,10.0,2.0,South Station - Outbound,42.352271,-71.055242,"",Red Line
+931_,70080,RTL212-hms22011-Weekday-01,1,10.2,2.1,South Station - Inbound,42.352271,-71.055242,"",Red Line
+933_,70080,RTL212-hms22011-Weekday-01,1,9.9,2.4,South Station - Inbound,42.352271,-71.055242,"",Red Line
+931_,70081,RTL212-hms22011-Weekday-01,0,10.1,1.9,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+933_,70081,RTL212-hms22011-Weekday-01,0,10.0,2.0,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+931_,70082,RTL212-hms22011-Weekday-01,1,10.2,2.1,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+933_,70082,RTL212-hms22011-Weekday-01,1,9.9,2.5,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+931_,70083,RTL212-hms22011-Weekday-01,0,10.1,1.9,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+933_,70083,RTL212-hms22011-Weekday-01,0,10.0,2.0,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+931_,70084,RTL212-hms22011-Weekday-01,1,10.2,2.1,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+933_,70084,RTL212-hms22011-Weekday-01,1,9.9,2.4,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+931_,70085,RTL212-hms22011-Weekday-01,0,10.1,1.9,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391,"",Red Line
+931_,70086,RTL212-hms22011-Weekday-01,1,10.2,2.1,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391,"",Red Line
+931_,70087,RTL212-hms22011-Weekday-01,0,10.1,1.9,Savin Hill Station - Outbound,42.31129,-71.053331,"",Red Line
+931_,70088,RTL212-hms22011-Weekday-01,1,10.2,2.1,Savin Hill Station - Inbound,42.31129,-71.053331,"",Red Line
+931_,70089,RTL212-hms22011-Weekday-01,0,10.1,1.9,Fields Corner Station - Outbound,42.300093,-71.061667,"",Red Line
+931_,70090,RTL212-hms22011-Weekday-01,1,10.2,2.1,Fields Corner Station - Inbound,42.300093,-71.061667,"",Red Line
+931_,70091,RTL212-hms22011-Weekday-01,0,10.1,1.9,Shawmut Station - Outbound,42.293126,-71.065738,"",Red Line
+931_,70092,RTL212-hms22011-Weekday-01,1,10.2,2.1,Shawmut Station - Inbound,42.293126,-71.065738,"",Red Line
+931_,70093,RTL212-hms22011-Weekday-01,0,10.1,1.9,Ashmont Station - Red Line,42.284652,-71.064489,"",Red Line
+931_,70094,RTL212-hms22011-Weekday-01,1,10.2,2.1,Ashmont Station Red Line Inbound,42.284652,-71.064489,"",Red Line
+933_,70095,RTL212-hms22011-Weekday-01,0,10.0,2.0,JFK/UMASS Braintree - Outbound,42.320685,-71.052391,"",Red Line
+933_,70096,RTL212-hms22011-Weekday-01,1,9.9,2.4,JFK/UMASS Braintree - Inbound,42.320685,-71.052391,"",Red Line
+933_,70097,RTL212-hms22011-Weekday-01,0,10.0,2.0,North Quincy Station - Outbound,42.275275,-71.029583,"",Red Line
+933_,70098,RTL212-hms22011-Weekday-01,1,9.9,2.4,North Quincy Station - Inbound,42.275275,-71.029583,"",Red Line
+933_,70099,RTL212-hms22011-Weekday-01,0,10.0,2.0,Wollaston Station - Outbound,42.266514,-71.020337,"",Red Line
+933_,70100,RTL212-hms22011-Weekday-01,1,9.9,2.4,Wollaston Station - Inbound,42.266514,-71.020337,"",Red Line
+933_,70101,RTL212-hms22011-Weekday-01,0,10.0,2.0,Quincy Center Station - Outbound,42.251809,-71.005409,"",Red Line
+933_,70102,RTL212-hms22011-Weekday-01,1,9.9,2.4,Quincy Center Station - Inbound,42.251809,-71.005409,"",Red Line
+933_,70103,RTL212-hms22011-Weekday-01,0,10.0,2.0,Quincy Adams Station - Outbound,42.233391,-71.007153,"",Red Line
+933_,70104,RTL212-hms22011-Weekday-01,1,9.9,2.4,Quincy Adams Station - Inbound,42.233391,-71.007153,"",Red Line
+933_,70105,RTL212-hms22011-Weekday-01,0,10.0,2.1,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+933_,70105,RTL212-hms22011-Weekday-01,1,9.9,2.5,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+931_,70061,RTL212-hms22016-Saturday-01,0,11.6,0.7,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70061,RTL212-hms22016-Saturday-01,1,11.7,1.0,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL212-hms22016-Saturday-01,0,11.6,0.7,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL212-hms22016-Saturday-01,1,11.7,1.3,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70063,RTL212-hms22016-Saturday-01,0,11.6,0.7,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+933_,70063,RTL212-hms22016-Saturday-01,0,11.6,0.7,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+931_,70064,RTL212-hms22016-Saturday-01,1,11.7,1.0,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+933_,70064,RTL212-hms22016-Saturday-01,1,11.7,1.3,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+931_,70065,RTL212-hms22016-Saturday-01,0,11.6,0.7,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+933_,70065,RTL212-hms22016-Saturday-01,0,11.6,0.7,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+931_,70066,RTL212-hms22016-Saturday-01,1,11.7,1.0,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+933_,70066,RTL212-hms22016-Saturday-01,1,11.7,1.3,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+931_,70067,RTL212-hms22016-Saturday-01,0,11.7,0.7,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+933_,70067,RTL212-hms22016-Saturday-01,0,11.6,0.7,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+931_,70068,RTL212-hms22016-Saturday-01,1,11.7,1.0,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+933_,70068,RTL212-hms22016-Saturday-01,1,11.7,1.3,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+931_,70069,RTL212-hms22016-Saturday-01,0,11.7,0.7,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+933_,70069,RTL212-hms22016-Saturday-01,0,11.6,0.7,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+931_,70070,RTL212-hms22016-Saturday-01,1,11.7,1.0,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+933_,70070,RTL212-hms22016-Saturday-01,1,11.7,1.3,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+931_,70071,RTL212-hms22016-Saturday-01,0,11.7,0.7,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+933_,70071,RTL212-hms22016-Saturday-01,0,11.6,0.7,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+931_,70072,RTL212-hms22016-Saturday-01,1,11.7,1.0,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+933_,70072,RTL212-hms22016-Saturday-01,1,11.7,1.3,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+931_,70073,RTL212-hms22016-Saturday-01,0,11.7,0.7,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+933_,70073,RTL212-hms22016-Saturday-01,0,11.6,0.7,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+931_,70074,RTL212-hms22016-Saturday-01,1,11.7,1.0,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+933_,70074,RTL212-hms22016-Saturday-01,1,11.7,1.3,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+931_,70075,RTL212-hms22016-Saturday-01,0,11.7,0.7,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+933_,70075,RTL212-hms22016-Saturday-01,0,11.6,0.7,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+931_,70076,RTL212-hms22016-Saturday-01,1,11.7,1.0,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+933_,70076,RTL212-hms22016-Saturday-01,1,11.7,1.3,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+931_,70077,RTL212-hms22016-Saturday-01,0,11.7,0.7,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+933_,70077,RTL212-hms22016-Saturday-01,0,11.6,0.7,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+931_,70078,RTL212-hms22016-Saturday-01,1,11.7,1.0,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+933_,70078,RTL212-hms22016-Saturday-01,1,11.7,1.3,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+931_,70079,RTL212-hms22016-Saturday-01,0,11.7,0.7,South Station - Outbound,42.352271,-71.055242,"",Red Line
+933_,70079,RTL212-hms22016-Saturday-01,0,11.6,0.7,South Station - Outbound,42.352271,-71.055242,"",Red Line
+931_,70080,RTL212-hms22016-Saturday-01,1,11.7,1.0,South Station - Inbound,42.352271,-71.055242,"",Red Line
+933_,70080,RTL212-hms22016-Saturday-01,1,11.7,1.3,South Station - Inbound,42.352271,-71.055242,"",Red Line
+931_,70081,RTL212-hms22016-Saturday-01,0,11.7,0.7,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+933_,70081,RTL212-hms22016-Saturday-01,0,11.6,0.7,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+931_,70082,RTL212-hms22016-Saturday-01,1,11.7,1.0,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+933_,70082,RTL212-hms22016-Saturday-01,1,11.7,1.3,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+931_,70083,RTL212-hms22016-Saturday-01,0,11.7,0.7,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+933_,70083,RTL212-hms22016-Saturday-01,0,11.6,0.7,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+931_,70084,RTL212-hms22016-Saturday-01,1,11.7,1.0,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+933_,70084,RTL212-hms22016-Saturday-01,1,11.7,1.3,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+931_,70085,RTL212-hms22016-Saturday-01,0,11.7,0.7,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391,"",Red Line
+931_,70086,RTL212-hms22016-Saturday-01,1,11.7,1.0,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391,"",Red Line
+931_,70087,RTL212-hms22016-Saturday-01,0,11.7,0.7,Savin Hill Station - Outbound,42.31129,-71.053331,"",Red Line
+931_,70088,RTL212-hms22016-Saturday-01,1,11.7,1.0,Savin Hill Station - Inbound,42.31129,-71.053331,"",Red Line
+931_,70089,RTL212-hms22016-Saturday-01,0,11.7,0.7,Fields Corner Station - Outbound,42.300093,-71.061667,"",Red Line
+931_,70090,RTL212-hms22016-Saturday-01,1,11.7,1.0,Fields Corner Station - Inbound,42.300093,-71.061667,"",Red Line
+931_,70091,RTL212-hms22016-Saturday-01,0,11.7,0.7,Shawmut Station - Outbound,42.293126,-71.065738,"",Red Line
+931_,70092,RTL212-hms22016-Saturday-01,1,11.7,1.0,Shawmut Station - Inbound,42.293126,-71.065738,"",Red Line
+931_,70093,RTL212-hms22016-Saturday-01,0,11.7,0.7,Ashmont Station - Red Line,42.284652,-71.064489,"",Red Line
+931_,70094,RTL212-hms22016-Saturday-01,1,11.7,1.0,Ashmont Station Red Line Inbound,42.284652,-71.064489,"",Red Line
+933_,70095,RTL212-hms22016-Saturday-01,0,11.6,0.7,JFK/UMASS Braintree - Outbound,42.320685,-71.052391,"",Red Line
+933_,70096,RTL212-hms22016-Saturday-01,1,11.7,1.3,JFK/UMASS Braintree - Inbound,42.320685,-71.052391,"",Red Line
+933_,70097,RTL212-hms22016-Saturday-01,0,11.6,0.7,North Quincy Station - Outbound,42.275275,-71.029583,"",Red Line
+933_,70098,RTL212-hms22016-Saturday-01,1,11.7,1.3,North Quincy Station - Inbound,42.275275,-71.029583,"",Red Line
+933_,70099,RTL212-hms22016-Saturday-01,0,11.6,0.7,Wollaston Station - Outbound,42.266514,-71.020337,"",Red Line
+933_,70100,RTL212-hms22016-Saturday-01,1,11.7,1.3,Wollaston Station - Inbound,42.266514,-71.020337,"",Red Line
+933_,70101,RTL212-hms22016-Saturday-01,0,11.6,0.7,Quincy Center Station - Outbound,42.251809,-71.005409,"",Red Line
+933_,70102,RTL212-hms22016-Saturday-01,1,11.7,1.3,Quincy Center Station - Inbound,42.251809,-71.005409,"",Red Line
+933_,70103,RTL212-hms22016-Saturday-01,0,11.6,0.7,Quincy Adams Station - Outbound,42.233391,-71.007153,"",Red Line
+933_,70104,RTL212-hms22016-Saturday-01,1,11.7,1.3,Quincy Adams Station - Inbound,42.233391,-71.007153,"",Red Line
+933_,70105,RTL212-hms22016-Saturday-01,0,11.6,0.7,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+933_,70105,RTL212-hms22016-Saturday-01,1,11.7,1.3,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+931_,70061,RTL212-hms22017-Sunday-01,0,13.1,0.5,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70061,RTL212-hms22017-Sunday-01,1,13.2,0.9,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL212-hms22017-Sunday-01,0,13.0,0.4,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL212-hms22017-Sunday-01,1,13.2,1.4,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70063,RTL212-hms22017-Sunday-01,0,13.1,0.5,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+933_,70063,RTL212-hms22017-Sunday-01,0,13.0,0.4,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+931_,70064,RTL212-hms22017-Sunday-01,1,13.2,0.9,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+933_,70064,RTL212-hms22017-Sunday-01,1,13.2,1.4,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+931_,70065,RTL212-hms22017-Sunday-01,0,13.1,0.5,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+933_,70065,RTL212-hms22017-Sunday-01,0,13.0,0.4,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+931_,70066,RTL212-hms22017-Sunday-01,1,13.2,0.9,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+933_,70066,RTL212-hms22017-Sunday-01,1,13.2,1.4,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+931_,70067,RTL212-hms22017-Sunday-01,0,13.1,0.5,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+933_,70067,RTL212-hms22017-Sunday-01,0,13.0,0.4,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+931_,70068,RTL212-hms22017-Sunday-01,1,13.2,0.9,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+933_,70068,RTL212-hms22017-Sunday-01,1,13.2,1.4,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+931_,70069,RTL212-hms22017-Sunday-01,0,13.1,0.5,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+933_,70069,RTL212-hms22017-Sunday-01,0,13.0,0.4,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+931_,70070,RTL212-hms22017-Sunday-01,1,13.2,0.8,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+933_,70070,RTL212-hms22017-Sunday-01,1,13.2,1.4,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+931_,70071,RTL212-hms22017-Sunday-01,0,13.1,0.6,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+933_,70071,RTL212-hms22017-Sunday-01,0,13.1,0.4,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+931_,70072,RTL212-hms22017-Sunday-01,1,13.2,0.8,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+933_,70072,RTL212-hms22017-Sunday-01,1,13.2,1.4,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+931_,70073,RTL212-hms22017-Sunday-01,0,13.1,0.6,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+933_,70073,RTL212-hms22017-Sunday-01,0,13.1,0.4,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+931_,70074,RTL212-hms22017-Sunday-01,1,13.2,0.8,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+933_,70074,RTL212-hms22017-Sunday-01,1,13.2,1.4,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+931_,70075,RTL212-hms22017-Sunday-01,0,13.1,0.6,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+933_,70075,RTL212-hms22017-Sunday-01,0,13.1,0.5,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+931_,70076,RTL212-hms22017-Sunday-01,1,13.2,0.8,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+933_,70076,RTL212-hms22017-Sunday-01,1,13.2,1.4,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+931_,70077,RTL212-hms22017-Sunday-01,0,13.1,0.6,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+933_,70077,RTL212-hms22017-Sunday-01,0,13.1,0.5,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+931_,70078,RTL212-hms22017-Sunday-01,1,13.2,0.8,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+933_,70078,RTL212-hms22017-Sunday-01,1,13.2,1.4,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+931_,70079,RTL212-hms22017-Sunday-01,0,13.1,0.6,South Station - Outbound,42.352271,-71.055242,"",Red Line
+933_,70079,RTL212-hms22017-Sunday-01,0,13.1,0.5,South Station - Outbound,42.352271,-71.055242,"",Red Line
+931_,70080,RTL212-hms22017-Sunday-01,1,13.2,0.8,South Station - Inbound,42.352271,-71.055242,"",Red Line
+933_,70080,RTL212-hms22017-Sunday-01,1,13.2,1.4,South Station - Inbound,42.352271,-71.055242,"",Red Line
+931_,70081,RTL212-hms22017-Sunday-01,0,13.1,0.6,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+933_,70081,RTL212-hms22017-Sunday-01,0,13.1,0.5,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+931_,70082,RTL212-hms22017-Sunday-01,1,13.2,0.8,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+933_,70082,RTL212-hms22017-Sunday-01,1,13.2,1.4,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+931_,70083,RTL212-hms22017-Sunday-01,0,13.1,0.6,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+933_,70083,RTL212-hms22017-Sunday-01,0,13.1,0.5,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+931_,70084,RTL212-hms22017-Sunday-01,1,13.2,0.8,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+933_,70084,RTL212-hms22017-Sunday-01,1,13.2,1.4,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+931_,70085,RTL212-hms22017-Sunday-01,0,13.1,0.6,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391,"",Red Line
+931_,70086,RTL212-hms22017-Sunday-01,1,13.2,0.8,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391,"",Red Line
+931_,70087,RTL212-hms22017-Sunday-01,0,13.1,0.6,Savin Hill Station - Outbound,42.31129,-71.053331,"",Red Line
+931_,70088,RTL212-hms22017-Sunday-01,1,13.2,0.8,Savin Hill Station - Inbound,42.31129,-71.053331,"",Red Line
+931_,70089,RTL212-hms22017-Sunday-01,0,13.1,0.6,Fields Corner Station - Outbound,42.300093,-71.061667,"",Red Line
+931_,70090,RTL212-hms22017-Sunday-01,1,13.2,0.8,Fields Corner Station - Inbound,42.300093,-71.061667,"",Red Line
+931_,70091,RTL212-hms22017-Sunday-01,0,13.1,0.6,Shawmut Station - Outbound,42.293126,-71.065738,"",Red Line
+931_,70092,RTL212-hms22017-Sunday-01,1,13.2,0.8,Shawmut Station - Inbound,42.293126,-71.065738,"",Red Line
+931_,70093,RTL212-hms22017-Sunday-01,0,13.1,0.6,Ashmont Station - Red Line,42.284652,-71.064489,"",Red Line
+931_,70094,RTL212-hms22017-Sunday-01,1,13.2,0.8,Ashmont Station Red Line Inbound,42.284652,-71.064489,"",Red Line
+933_,70095,RTL212-hms22017-Sunday-01,0,13.1,0.5,JFK/UMASS Braintree - Outbound,42.320685,-71.052391,"",Red Line
+933_,70096,RTL212-hms22017-Sunday-01,1,13.2,1.4,JFK/UMASS Braintree - Inbound,42.320685,-71.052391,"",Red Line
+933_,70097,RTL212-hms22017-Sunday-01,0,13.1,0.5,North Quincy Station - Outbound,42.275275,-71.029583,"",Red Line
+933_,70098,RTL212-hms22017-Sunday-01,1,13.2,1.4,North Quincy Station - Inbound,42.275275,-71.029583,"",Red Line
+933_,70099,RTL212-hms22017-Sunday-01,0,13.1,0.5,Wollaston Station - Outbound,42.266514,-71.020337,"",Red Line
+933_,70100,RTL212-hms22017-Sunday-01,1,13.2,1.4,Wollaston Station - Inbound,42.266514,-71.020337,"",Red Line
+933_,70101,RTL212-hms22017-Sunday-01,0,13.1,0.5,Quincy Center Station - Outbound,42.251809,-71.005409,"",Red Line
+933_,70102,RTL212-hms22017-Sunday-01,1,13.2,1.4,Quincy Center Station - Inbound,42.251809,-71.005409,"",Red Line
+933_,70103,RTL212-hms22017-Sunday-01,0,13.1,0.5,Quincy Adams Station - Outbound,42.233391,-71.007153,"",Red Line
+933_,70104,RTL212-hms22017-Sunday-01,1,13.2,1.4,Quincy Adams Station - Inbound,42.233391,-71.007153,"",Red Line
+933_,70105,RTL212-hms22017-Sunday-01,0,13.1,0.5,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+933_,70105,RTL212-hms22017-Sunday-01,1,13.2,1.4,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+931_,70061,RTL212-hms22bk1-Weekday-01,0,10.1,1.8,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70061,RTL212-hms22bk1-Weekday-01,1,10.2,2.2,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL212-hms22bk1-Weekday-01,0,9.9,2.0,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL212-hms22bk1-Weekday-01,1,9.9,2.5,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70063,RTL212-hms22bk1-Weekday-01,0,10.1,1.8,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+933_,70063,RTL212-hms22bk1-Weekday-01,0,9.9,2.0,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+931_,70064,RTL212-hms22bk1-Weekday-01,1,10.2,2.2,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+933_,70064,RTL212-hms22bk1-Weekday-01,1,9.9,2.5,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+931_,70065,RTL212-hms22bk1-Weekday-01,0,10.1,1.8,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+933_,70065,RTL212-hms22bk1-Weekday-01,0,9.9,2.0,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+931_,70066,RTL212-hms22bk1-Weekday-01,1,10.2,2.2,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+933_,70066,RTL212-hms22bk1-Weekday-01,1,9.9,2.5,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+931_,70067,RTL212-hms22bk1-Weekday-01,0,10.1,1.8,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+933_,70067,RTL212-hms22bk1-Weekday-01,0,9.9,2.0,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+931_,70068,RTL212-hms22bk1-Weekday-01,1,10.2,2.2,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+933_,70068,RTL212-hms22bk1-Weekday-01,1,9.9,2.5,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+931_,70069,RTL212-hms22bk1-Weekday-01,0,10.1,1.8,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+933_,70069,RTL212-hms22bk1-Weekday-01,0,9.9,2.1,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+931_,70070,RTL212-hms22bk1-Weekday-01,1,10.2,2.2,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+933_,70070,RTL212-hms22bk1-Weekday-01,1,9.9,2.5,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+931_,70071,RTL212-hms22bk1-Weekday-01,0,10.1,1.8,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+933_,70071,RTL212-hms22bk1-Weekday-01,0,9.9,2.1,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+931_,70072,RTL212-hms22bk1-Weekday-01,1,10.2,2.2,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+933_,70072,RTL212-hms22bk1-Weekday-01,1,9.9,2.5,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+931_,70073,RTL212-hms22bk1-Weekday-01,0,10.1,1.8,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+933_,70073,RTL212-hms22bk1-Weekday-01,0,9.9,2.1,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+931_,70074,RTL212-hms22bk1-Weekday-01,1,10.2,2.2,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+933_,70074,RTL212-hms22bk1-Weekday-01,1,9.9,2.4,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+931_,70075,RTL212-hms22bk1-Weekday-01,0,10.1,1.8,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+933_,70075,RTL212-hms22bk1-Weekday-01,0,10.0,2.0,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+931_,70076,RTL212-hms22bk1-Weekday-01,1,10.2,2.2,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+933_,70076,RTL212-hms22bk1-Weekday-01,1,9.9,2.4,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+931_,70077,RTL212-hms22bk1-Weekday-01,0,10.1,1.8,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+933_,70077,RTL212-hms22bk1-Weekday-01,0,10.0,2.0,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+931_,70078,RTL212-hms22bk1-Weekday-01,1,10.2,2.1,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+933_,70078,RTL212-hms22bk1-Weekday-01,1,9.9,2.4,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+931_,70079,RTL212-hms22bk1-Weekday-01,0,10.1,1.9,South Station - Outbound,42.352271,-71.055242,"",Red Line
+933_,70079,RTL212-hms22bk1-Weekday-01,0,10.0,2.0,South Station - Outbound,42.352271,-71.055242,"",Red Line
+931_,70080,RTL212-hms22bk1-Weekday-01,1,10.2,2.1,South Station - Inbound,42.352271,-71.055242,"",Red Line
+933_,70080,RTL212-hms22bk1-Weekday-01,1,9.9,2.4,South Station - Inbound,42.352271,-71.055242,"",Red Line
+931_,70081,RTL212-hms22bk1-Weekday-01,0,10.1,1.9,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+933_,70081,RTL212-hms22bk1-Weekday-01,0,10.0,2.0,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+931_,70082,RTL212-hms22bk1-Weekday-01,1,10.2,2.1,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+933_,70082,RTL212-hms22bk1-Weekday-01,1,9.9,2.5,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+931_,70083,RTL212-hms22bk1-Weekday-01,0,10.1,1.9,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+933_,70083,RTL212-hms22bk1-Weekday-01,0,10.0,2.0,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+931_,70084,RTL212-hms22bk1-Weekday-01,1,10.2,2.1,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+933_,70084,RTL212-hms22bk1-Weekday-01,1,9.9,2.4,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+931_,70085,RTL212-hms22bk1-Weekday-01,0,10.1,1.9,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391,"",Red Line
+931_,70086,RTL212-hms22bk1-Weekday-01,1,10.2,2.1,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391,"",Red Line
+931_,70087,RTL212-hms22bk1-Weekday-01,0,10.1,1.9,Savin Hill Station - Outbound,42.31129,-71.053331,"",Red Line
+931_,70088,RTL212-hms22bk1-Weekday-01,1,10.2,2.1,Savin Hill Station - Inbound,42.31129,-71.053331,"",Red Line
+931_,70089,RTL212-hms22bk1-Weekday-01,0,10.1,1.9,Fields Corner Station - Outbound,42.300093,-71.061667,"",Red Line
+931_,70090,RTL212-hms22bk1-Weekday-01,1,10.2,2.1,Fields Corner Station - Inbound,42.300093,-71.061667,"",Red Line
+931_,70091,RTL212-hms22bk1-Weekday-01,0,10.1,1.9,Shawmut Station - Outbound,42.293126,-71.065738,"",Red Line
+931_,70092,RTL212-hms22bk1-Weekday-01,1,10.2,2.1,Shawmut Station - Inbound,42.293126,-71.065738,"",Red Line
+931_,70093,RTL212-hms22bk1-Weekday-01,0,10.1,1.9,Ashmont Station - Red Line,42.284652,-71.064489,"",Red Line
+931_,70094,RTL212-hms22bk1-Weekday-01,1,10.2,2.1,Ashmont Station Red Line Inbound,42.284652,-71.064489,"",Red Line
+933_,70095,RTL212-hms22bk1-Weekday-01,0,10.0,2.0,JFK/UMASS Braintree - Outbound,42.320685,-71.052391,"",Red Line
+933_,70096,RTL212-hms22bk1-Weekday-01,1,9.9,2.4,JFK/UMASS Braintree - Inbound,42.320685,-71.052391,"",Red Line
+933_,70097,RTL212-hms22bk1-Weekday-01,0,10.0,2.0,North Quincy Station - Outbound,42.275275,-71.029583,"",Red Line
+933_,70098,RTL212-hms22bk1-Weekday-01,1,9.9,2.4,North Quincy Station - Inbound,42.275275,-71.029583,"",Red Line
+933_,70099,RTL212-hms22bk1-Weekday-01,0,10.0,2.0,Wollaston Station - Outbound,42.266514,-71.020337,"",Red Line
+933_,70100,RTL212-hms22bk1-Weekday-01,1,9.9,2.4,Wollaston Station - Inbound,42.266514,-71.020337,"",Red Line
+933_,70101,RTL212-hms22bk1-Weekday-01,0,10.0,2.0,Quincy Center Station - Outbound,42.251809,-71.005409,"",Red Line
+933_,70102,RTL212-hms22bk1-Weekday-01,1,9.9,2.4,Quincy Center Station - Inbound,42.251809,-71.005409,"",Red Line
+933_,70103,RTL212-hms22bk1-Weekday-01,0,10.0,2.0,Quincy Adams Station - Outbound,42.233391,-71.007153,"",Red Line
+933_,70104,RTL212-hms22bk1-Weekday-01,1,9.9,2.4,Quincy Adams Station - Inbound,42.233391,-71.007153,"",Red Line
+933_,70105,RTL212-hms22bk1-Weekday-01,0,10.0,2.1,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+933_,70105,RTL212-hms22bk1-Weekday-01,1,9.9,2.5,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+946_,70038,RTL312-hmb32011-Weekday-01,0,5.8,1.9,Bowdoin Station Blue Line,42.361365,-71.062037,"",Blue Line
+946_,70038,RTL312-hmb32011-Weekday-01,1,5.6,1.7,Bowdoin Station Blue Line,42.361365,-71.062037,"",Blue Line
+948_,70038,RTL312-hmb32011-Weekday-01,0,16.0,6.2,Bowdoin Station Blue Line,42.361365,-71.062037,"",Blue Line
+946_,70039,RTL312-hmb32011-Weekday-01,0,5.8,1.9,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+9462,70039,RTL312-hmb32011-Weekday-01,0,9.7,1.9,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+948_,70039,RTL312-hmb32011-Weekday-01,0,16.0,6.2,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+946_,70040,RTL312-hmb32011-Weekday-01,1,5.6,1.7,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+9462,70040,RTL312-hmb32011-Weekday-01,1,9.8,1.8,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+946_,70041,RTL312-hmb32011-Weekday-01,0,5.8,1.9,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+9462,70041,RTL312-hmb32011-Weekday-01,0,9.7,1.9,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+948_,70041,RTL312-hmb32011-Weekday-01,0,16.0,6.2,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+946_,70042,RTL312-hmb32011-Weekday-01,1,5.6,1.7,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+9462,70042,RTL312-hmb32011-Weekday-01,1,9.8,1.8,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+946_,70043,RTL312-hmb32011-Weekday-01,0,5.8,2.0,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+9462,70043,RTL312-hmb32011-Weekday-01,0,9.7,1.9,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+948_,70043,RTL312-hmb32011-Weekday-01,0,16.0,6.2,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+946_,70044,RTL312-hmb32011-Weekday-01,1,5.6,1.7,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+9462,70044,RTL312-hmb32011-Weekday-01,1,9.8,1.8,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+946_,70045,RTL312-hmb32011-Weekday-01,0,5.8,2.0,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+9462,70045,RTL312-hmb32011-Weekday-01,0,9.7,1.9,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+948_,70045,RTL312-hmb32011-Weekday-01,0,16.0,6.2,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+946_,70046,RTL312-hmb32011-Weekday-01,1,5.6,1.7,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+9462,70046,RTL312-hmb32011-Weekday-01,1,9.8,1.8,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+946_,70047,RTL312-hmb32011-Weekday-01,0,5.8,2.0,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+9462,70047,RTL312-hmb32011-Weekday-01,0,9.7,1.9,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+948_,70047,RTL312-hmb32011-Weekday-01,0,16.0,6.2,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+946_,70048,RTL312-hmb32011-Weekday-01,1,5.6,1.7,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+9462,70048,RTL312-hmb32011-Weekday-01,1,9.8,1.8,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+946_,70049,RTL312-hmb32011-Weekday-01,0,5.8,2.0,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+9462,70049,RTL312-hmb32011-Weekday-01,0,9.7,1.9,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+948_,70049,RTL312-hmb32011-Weekday-01,0,16.0,6.2,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+946_,70050,RTL312-hmb32011-Weekday-01,1,5.6,1.7,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+9462,70050,RTL312-hmb32011-Weekday-01,1,9.8,1.8,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+946_,70051,RTL312-hmb32011-Weekday-01,0,5.8,2.0,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+9462,70051,RTL312-hmb32011-Weekday-01,0,9.7,1.9,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+948_,70051,RTL312-hmb32011-Weekday-01,0,16.0,6.2,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+946_,70052,RTL312-hmb32011-Weekday-01,1,5.6,1.7,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+9462,70052,RTL312-hmb32011-Weekday-01,1,9.8,1.8,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+946_,70053,RTL312-hmb32011-Weekday-01,0,5.8,2.0,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+9462,70053,RTL312-hmb32011-Weekday-01,0,9.7,1.9,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+946_,70054,RTL312-hmb32011-Weekday-01,1,5.6,1.7,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+9462,70054,RTL312-hmb32011-Weekday-01,1,9.8,1.8,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+946_,70055,RTL312-hmb32011-Weekday-01,0,5.8,2.0,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+9462,70055,RTL312-hmb32011-Weekday-01,0,9.7,1.9,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+946_,70056,RTL312-hmb32011-Weekday-01,1,5.6,1.7,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+9462,70056,RTL312-hmb32011-Weekday-01,1,9.8,1.8,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+946_,70057,RTL312-hmb32011-Weekday-01,0,5.8,2.0,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+9462,70057,RTL312-hmb32011-Weekday-01,0,9.7,1.9,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+946_,70058,RTL312-hmb32011-Weekday-01,1,5.6,1.7,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+9462,70058,RTL312-hmb32011-Weekday-01,1,9.8,1.8,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+946_,70060,RTL312-hmb32011-Weekday-01,0,5.8,2.0,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+946_,70060,RTL312-hmb32011-Weekday-01,1,5.6,1.7,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL312-hmb32011-Weekday-01,0,9.7,1.9,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL312-hmb32011-Weekday-01,1,9.8,1.8,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70039,RTL312-hmb32016-Saturday-01,0,9.2,1.3,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+9482,70039,RTL312-hmb32016-Saturday-01,0,,,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+9462,70040,RTL312-hmb32016-Saturday-01,1,9.2,1.6,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+9462,70041,RTL312-hmb32016-Saturday-01,0,9.2,1.3,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+9482,70041,RTL312-hmb32016-Saturday-01,0,,,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+9462,70042,RTL312-hmb32016-Saturday-01,1,9.2,1.6,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+9462,70043,RTL312-hmb32016-Saturday-01,0,9.2,1.3,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+9482,70043,RTL312-hmb32016-Saturday-01,0,,,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+9462,70044,RTL312-hmb32016-Saturday-01,1,9.2,1.6,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+9462,70045,RTL312-hmb32016-Saturday-01,0,9.2,1.3,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+9482,70045,RTL312-hmb32016-Saturday-01,0,,,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+9462,70046,RTL312-hmb32016-Saturday-01,1,9.2,1.6,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+9462,70047,RTL312-hmb32016-Saturday-01,0,9.2,1.3,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+9482,70047,RTL312-hmb32016-Saturday-01,0,,,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+9462,70048,RTL312-hmb32016-Saturday-01,1,9.2,1.6,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+9462,70049,RTL312-hmb32016-Saturday-01,0,9.2,1.3,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+9482,70049,RTL312-hmb32016-Saturday-01,0,,,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+9462,70050,RTL312-hmb32016-Saturday-01,1,9.2,1.6,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+9462,70051,RTL312-hmb32016-Saturday-01,0,9.2,1.3,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+9482,70051,RTL312-hmb32016-Saturday-01,0,,,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+9462,70052,RTL312-hmb32016-Saturday-01,1,9.2,1.6,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+9462,70053,RTL312-hmb32016-Saturday-01,0,9.2,1.3,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+9462,70054,RTL312-hmb32016-Saturday-01,1,9.2,1.6,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+9462,70055,RTL312-hmb32016-Saturday-01,0,9.2,1.3,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+9462,70056,RTL312-hmb32016-Saturday-01,1,9.2,1.6,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+9462,70057,RTL312-hmb32016-Saturday-01,0,9.2,1.3,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+9462,70058,RTL312-hmb32016-Saturday-01,1,9.2,1.6,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+9462,70060,RTL312-hmb32016-Saturday-01,0,9.2,1.3,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL312-hmb32016-Saturday-01,1,9.2,1.6,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70039,RTL312-hmb32017-Sunday-01,0,9.8,2.0,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+9462,70040,RTL312-hmb32017-Sunday-01,1,9.8,2.0,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+9462,70041,RTL312-hmb32017-Sunday-01,0,9.8,2.0,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+9462,70042,RTL312-hmb32017-Sunday-01,1,9.8,2.0,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+9462,70043,RTL312-hmb32017-Sunday-01,0,9.8,2.0,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+9462,70044,RTL312-hmb32017-Sunday-01,1,9.8,2.0,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+9462,70045,RTL312-hmb32017-Sunday-01,0,9.8,2.0,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+9462,70046,RTL312-hmb32017-Sunday-01,1,9.8,2.0,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+9462,70047,RTL312-hmb32017-Sunday-01,0,9.8,2.0,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+9462,70048,RTL312-hmb32017-Sunday-01,1,9.8,2.0,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+9462,70049,RTL312-hmb32017-Sunday-01,0,9.8,2.0,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+9462,70050,RTL312-hmb32017-Sunday-01,1,9.8,2.0,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+9462,70051,RTL312-hmb32017-Sunday-01,0,9.8,2.0,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+9462,70052,RTL312-hmb32017-Sunday-01,1,9.8,2.0,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+9462,70053,RTL312-hmb32017-Sunday-01,0,9.8,2.0,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+9462,70054,RTL312-hmb32017-Sunday-01,1,9.8,2.0,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+9462,70055,RTL312-hmb32017-Sunday-01,0,9.8,2.0,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+9462,70056,RTL312-hmb32017-Sunday-01,1,9.8,2.0,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+9462,70057,RTL312-hmb32017-Sunday-01,0,9.8,2.0,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+9462,70058,RTL312-hmb32017-Sunday-01,1,9.8,2.0,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+9462,70060,RTL312-hmb32017-Sunday-01,0,9.8,2.0,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL312-hmb32017-Sunday-01,1,9.8,2.0,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70039,RTL312-hmb32j47-Sunday-01,0,6.9,2.9,Government Center Station - to Bowdoin Staion,42.359705,-71.059215,"",Blue Line
+9462,70040,RTL312-hmb32j47-Sunday-01,1,6.9,2.9,Government Ctr Station - to Wonderland,42.359705,-71.059215,"",Blue Line
+9462,70041,RTL312-hmb32j47-Sunday-01,0,6.9,2.9,State St Station - to Bowdoin,42.358978,-71.057598,"",Blue Line
+9462,70042,RTL312-hmb32j47-Sunday-01,1,6.9,2.9,State St Station - Blue Line Eastbound,42.358978,-71.057598,"",Blue Line
+9462,70043,RTL312-hmb32j47-Sunday-01,0,6.9,2.9,Aquarium Station - Inbound,42.359784,-71.051652,"",Blue Line
+9462,70044,RTL312-hmb32j47-Sunday-01,1,6.9,2.9,Aquarium Station - Outbound,42.359784,-71.051652,"",Blue Line
+9462,70045,RTL312-hmb32j47-Sunday-01,0,6.9,2.9,Maverick Station - Inbound,42.369119,-71.03953,"",Blue Line
+9462,70046,RTL312-hmb32j47-Sunday-01,1,6.9,2.9,Maverick Station - Outbound,42.369119,-71.03953,"",Blue Line
+9462,70047,RTL312-hmb32j47-Sunday-01,0,6.9,2.9,Airport Station - Blue Line Inbound,42.374262,-71.030395,"",Blue Line
+9462,70048,RTL312-hmb32j47-Sunday-01,1,6.9,2.9,Airport Station - Outbound,42.374262,-71.030395,"",Blue Line
+9462,70049,RTL312-hmb32j47-Sunday-01,0,6.9,2.9,Wood Island Station - Inbound,42.37964,-71.022865,"",Blue Line
+9462,70050,RTL312-hmb32j47-Sunday-01,1,6.9,2.9,Wood Island Station - Outbound,42.37964,-71.022865,"",Blue Line
+9462,70051,RTL312-hmb32j47-Sunday-01,0,6.9,2.9,Orient Heights Station - Inbound,42.386867,-71.004736,"",Blue Line
+9462,70052,RTL312-hmb32j47-Sunday-01,1,6.9,2.9,Orient Heigts Station - Outbound,42.386867,-71.004736,"",Blue Line
+9462,70053,RTL312-hmb32j47-Sunday-01,0,6.9,2.9,Suffolk Downs Station - Inbound,42.390501,-70.997123,"",Blue Line
+9462,70054,RTL312-hmb32j47-Sunday-01,1,6.9,2.9,Suffolk Downs Station - Outbound,42.390501,-70.997123,"",Blue Line
+9462,70055,RTL312-hmb32j47-Sunday-01,0,6.9,2.9,Beachmont Station - Inbound,42.397542,-70.992319,"",Blue Line
+9462,70056,RTL312-hmb32j47-Sunday-01,1,6.9,2.9,Beachmont Station - Outbound,42.397542,-70.992319,"",Blue Line
+9462,70057,RTL312-hmb32j47-Sunday-01,0,6.9,2.9,Revere Beach Station - Inbound,42.407843,-70.992533,"",Blue Line
+9462,70058,RTL312-hmb32j47-Sunday-01,1,6.9,2.9,Revere Beach Station - Outbound,42.407843,-70.992533,"",Blue Line
+9462,70060,RTL312-hmb32j47-Sunday-01,0,6.9,2.9,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+9462,70060,RTL312-hmb32j47-Sunday-01,1,6.9,2.9,Wonderland Station -  Blue Line,42.41342,-70.991648,"",Blue Line
+903_,70001,RTL312-hmo32011-Weekday-01,0,7.3,2.4,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70001,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+913_,70001,RTL312-hmo32011-Weekday-01,0,10.0,,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70002,RTL312-hmo32011-Weekday-01,0,7.3,2.4,Green Street Station - Outbound,42.310525,-71.107414,"",Orange Line
+913_,70002,RTL312-hmo32011-Weekday-01,0,10.0,,Green Street Station - Outbound,42.310525,-71.107414,"",Orange Line
+903_,70003,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Green St - Inbound,42.310525,-71.107414,"",Orange Line
+903_,70004,RTL312-hmo32011-Weekday-01,0,7.3,2.4,Stoneybrook -  Outbound,42.317062,-71.104248,"",Orange Line
+913_,70004,RTL312-hmo32011-Weekday-01,0,10.0,,Stoneybrook -  Outbound,42.317062,-71.104248,"",Orange Line
+903_,70005,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Stoneybrook -  Inbound,42.317062,-71.104248,"",Orange Line
+903_,70006,RTL312-hmo32011-Weekday-01,0,7.3,2.4,Jackson Sq -  Outbound,42.323132,-71.099592,"",Orange Line
+913_,70006,RTL312-hmo32011-Weekday-01,0,10.0,,Jackson Sq -  Outbound,42.323132,-71.099592,"",Orange Line
+903_,70007,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Jackson Sq Orange Line Inbound,42.323132,-71.099592,"",Orange Line
+903_,70008,RTL312-hmo32011-Weekday-01,0,7.3,2.4,Roxbury Xng - Outbound,42.331397,-71.095451,"",Orange Line
+913_,70008,RTL312-hmo32011-Weekday-01,0,10.0,,Roxbury Xng - Outbound,42.331397,-71.095451,"",Orange Line
+903_,70009,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Roxbury Xng - Inbound,42.331397,-71.095451,"",Orange Line
+903_,70010,RTL312-hmo32011-Weekday-01,0,7.3,2.4,Ruggles Sta -  Outbound,42.336377,-71.088961,"",Orange Line
+913_,70010,RTL312-hmo32011-Weekday-01,0,10.0,,Ruggles Sta -  Outbound,42.336377,-71.088961,"",Orange Line
+903_,70011,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Ruggles Sta - Inbound,42.336377,-71.088961,"",Orange Line
+903_,70012,RTL312-hmo32011-Weekday-01,0,7.3,2.4,Massachusetts Ave Sta - Outbound,42.341512,-71.083423,"",Orange Line
+913_,70012,RTL312-hmo32011-Weekday-01,0,10.0,,Massachusetts Ave Sta - Outbound,42.341512,-71.083423,"",Orange Line
+903_,70013,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Massachusetts Ave Sta - Inbound,42.341512,-71.083423,"",Orange Line
+903_,70014,RTL312-hmo32011-Weekday-01,0,7.3,2.4,Back Bay Station - Outbound,42.34735,-71.075727,"",Orange Line
+913_,70014,RTL312-hmo32011-Weekday-01,0,10.0,,Back Bay Station - Outbound,42.34735,-71.075727,"",Orange Line
+903_,70015,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Back Bay Sta - Inbound,42.34735,-71.075727,"",Orange Line
+903_,70016,RTL312-hmo32011-Weekday-01,0,7.3,2.4,Tufts Medical Ctr - Outbound,42.349662,-71.063917,"",Orange Line
+913_,70016,RTL312-hmo32011-Weekday-01,0,10.0,,Tufts Medical Ctr - Outbound,42.349662,-71.063917,"",Orange Line
+903_,70017,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Tufts  Medical Ctr - Inbound,42.349662,-71.063917,"",Orange Line
+903_,70018,RTL312-hmo32011-Weekday-01,0,7.3,2.3,Chinatown Station - Outbound,42.352547,-71.062752,"",Orange Line
+913_,70018,RTL312-hmo32011-Weekday-01,0,10.0,,Chinatown Station - Outbound,42.352547,-71.062752,"",Orange Line
+903_,70019,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Chinatown Station - Inbound,42.352547,-71.062752,"",Orange Line
+903_,70020,RTL312-hmo32011-Weekday-01,0,7.3,2.3,Downtown Crossing - to Forest Hills,42.355518,-71.060225,"",Orange Line
+913_,70020,RTL312-hmo32011-Weekday-01,0,10.0,,Downtown Crossing - to Forest Hills,42.355518,-71.060225,"",Orange Line
+903_,70021,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Downtown Crossing - to Oak Grove,42.355518,-71.060225,"",Orange Line
+903_,70022,RTL312-hmo32011-Weekday-01,0,7.3,2.3,State St Orange Line to Forest Hills,42.358978,-71.057598,"",Orange Line
+913_,70022,RTL312-hmo32011-Weekday-01,0,10.0,,State St Orange Line to Forest Hills,42.358978,-71.057598,"",Orange Line
+903_,70023,RTL312-hmo32011-Weekday-01,1,7.1,2.4,State St - to Oak Grove,42.358978,-71.057598,"",Orange Line
+903_,70024,RTL312-hmo32011-Weekday-01,0,7.3,2.3,Haymarket Station - Inbound,42.363021,-71.05829,"",Orange Line
+913_,70024,RTL312-hmo32011-Weekday-01,0,10.0,,Haymarket Station - Inbound,42.363021,-71.05829,"",Orange Line
+903_,70025,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Haymarket Station - Outbound,42.363021,-71.05829,"",Orange Line
+903_,70026,RTL312-hmo32011-Weekday-01,0,7.3,2.3,North Station - Inbound,42.365577,-71.06129,"",Orange Line
+913_,70026,RTL312-hmo32011-Weekday-01,0,10.0,,North Station - Inbound,42.365577,-71.06129,"",Orange Line
+903_,70027,RTL312-hmo32011-Weekday-01,1,7.1,2.4,North Station - Outbound,42.365577,-71.06129,"",Orange Line
+903_,70028,RTL312-hmo32011-Weekday-01,0,7.3,2.3,Community College - Inbound,42.373622,-71.069533,"",Orange Line
+913_,70028,RTL312-hmo32011-Weekday-01,0,10.0,,Community College - Inbound,42.373622,-71.069533,"",Orange Line
+903_,70029,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Community College - Outbound,42.373622,-71.069533,"",Orange Line
+903_,70030,RTL312-hmo32011-Weekday-01,0,7.3,2.3,Sullivan Station - Inbound,42.383975,-71.076994,"",Orange Line
+913_,70030,RTL312-hmo32011-Weekday-01,0,10.0,,Sullivan Station - Inbound,42.383975,-71.076994,"",Orange Line
+903_,70031,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Sullivan Station - Outbound,42.383975,-71.076994,"",Orange Line
+903_,70032,RTL312-hmo32011-Weekday-01,0,7.3,2.3,Wellington Station - Inbound,42.40237,-71.077082,"",Orange Line
+913_,70032,RTL312-hmo32011-Weekday-01,0,10.0,,Wellington Station - Inbound,42.40237,-71.077082,"",Orange Line
+903_,70033,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Wellington Station - Outbound,42.40237,-71.077082,"",Orange Line
+903_,70034,RTL312-hmo32011-Weekday-01,0,7.3,2.3,Malden Station - Inbound,42.426632,-71.07411,"",Orange Line
+903_,70035,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Malden Station - Outbound,42.426632,-71.07411,"",Orange Line
+903_,70036,RTL312-hmo32011-Weekday-01,0,7.3,2.3,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70036,RTL312-hmo32011-Weekday-01,1,7.1,2.4,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70001,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70001,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70002,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Green Street Station - Outbound,42.310525,-71.107414,"",Orange Line
+903_,70003,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Green St - Inbound,42.310525,-71.107414,"",Orange Line
+903_,70004,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Stoneybrook -  Outbound,42.317062,-71.104248,"",Orange Line
+903_,70005,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Stoneybrook -  Inbound,42.317062,-71.104248,"",Orange Line
+903_,70006,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Jackson Sq -  Outbound,42.323132,-71.099592,"",Orange Line
+903_,70007,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Jackson Sq Orange Line Inbound,42.323132,-71.099592,"",Orange Line
+903_,70008,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Roxbury Xng - Outbound,42.331397,-71.095451,"",Orange Line
+903_,70009,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Roxbury Xng - Inbound,42.331397,-71.095451,"",Orange Line
+903_,70010,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Ruggles Sta -  Outbound,42.336377,-71.088961,"",Orange Line
+903_,70011,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Ruggles Sta - Inbound,42.336377,-71.088961,"",Orange Line
+903_,70012,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Massachusetts Ave Sta - Outbound,42.341512,-71.083423,"",Orange Line
+903_,70013,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Massachusetts Ave Sta - Inbound,42.341512,-71.083423,"",Orange Line
+903_,70014,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Back Bay Station - Outbound,42.34735,-71.075727,"",Orange Line
+903_,70015,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Back Bay Sta - Inbound,42.34735,-71.075727,"",Orange Line
+903_,70016,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Tufts Medical Ctr - Outbound,42.349662,-71.063917,"",Orange Line
+903_,70017,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Tufts  Medical Ctr - Inbound,42.349662,-71.063917,"",Orange Line
+903_,70018,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Chinatown Station - Outbound,42.352547,-71.062752,"",Orange Line
+903_,70019,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Chinatown Station - Inbound,42.352547,-71.062752,"",Orange Line
+903_,70020,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Downtown Crossing - to Forest Hills,42.355518,-71.060225,"",Orange Line
+903_,70021,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Downtown Crossing - to Oak Grove,42.355518,-71.060225,"",Orange Line
+903_,70022,RTL312-hmo32016-Saturday-01,0,9.4,1.4,State St Orange Line to Forest Hills,42.358978,-71.057598,"",Orange Line
+903_,70023,RTL312-hmo32016-Saturday-01,1,9.5,1.6,State St - to Oak Grove,42.358978,-71.057598,"",Orange Line
+903_,70024,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Haymarket Station - Inbound,42.363021,-71.05829,"",Orange Line
+903_,70025,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Haymarket Station - Outbound,42.363021,-71.05829,"",Orange Line
+903_,70026,RTL312-hmo32016-Saturday-01,0,9.4,1.4,North Station - Inbound,42.365577,-71.06129,"",Orange Line
+903_,70027,RTL312-hmo32016-Saturday-01,1,9.5,1.6,North Station - Outbound,42.365577,-71.06129,"",Orange Line
+903_,70028,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Community College - Inbound,42.373622,-71.069533,"",Orange Line
+903_,70029,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Community College - Outbound,42.373622,-71.069533,"",Orange Line
+903_,70030,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Sullivan Station - Inbound,42.383975,-71.076994,"",Orange Line
+903_,70031,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Sullivan Station - Outbound,42.383975,-71.076994,"",Orange Line
+903_,70032,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Wellington Station - Inbound,42.40237,-71.077082,"",Orange Line
+903_,70033,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Wellington Station - Outbound,42.40237,-71.077082,"",Orange Line
+903_,70034,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Malden Station - Inbound,42.426632,-71.07411,"",Orange Line
+903_,70035,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Malden Station - Outbound,42.426632,-71.07411,"",Orange Line
+903_,70036,RTL312-hmo32016-Saturday-01,0,9.4,1.4,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70036,RTL312-hmo32016-Saturday-01,1,9.5,1.6,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70001,RTL312-hmo32017-Sunday-01,0,10.5,1.2,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70001,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70002,RTL312-hmo32017-Sunday-01,0,10.5,1.2,Green Street Station - Outbound,42.310525,-71.107414,"",Orange Line
+903_,70003,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Green St - Inbound,42.310525,-71.107414,"",Orange Line
+903_,70004,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Stoneybrook -  Outbound,42.317062,-71.104248,"",Orange Line
+903_,70005,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Stoneybrook -  Inbound,42.317062,-71.104248,"",Orange Line
+903_,70006,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Jackson Sq -  Outbound,42.323132,-71.099592,"",Orange Line
+903_,70007,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Jackson Sq Orange Line Inbound,42.323132,-71.099592,"",Orange Line
+903_,70008,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Roxbury Xng - Outbound,42.331397,-71.095451,"",Orange Line
+903_,70009,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Roxbury Xng - Inbound,42.331397,-71.095451,"",Orange Line
+903_,70010,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Ruggles Sta -  Outbound,42.336377,-71.088961,"",Orange Line
+903_,70011,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Ruggles Sta - Inbound,42.336377,-71.088961,"",Orange Line
+903_,70012,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Massachusetts Ave Sta - Outbound,42.341512,-71.083423,"",Orange Line
+903_,70013,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Massachusetts Ave Sta - Inbound,42.341512,-71.083423,"",Orange Line
+903_,70014,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Back Bay Station - Outbound,42.34735,-71.075727,"",Orange Line
+903_,70015,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Back Bay Sta - Inbound,42.34735,-71.075727,"",Orange Line
+903_,70016,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Tufts Medical Ctr - Outbound,42.349662,-71.063917,"",Orange Line
+903_,70017,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Tufts  Medical Ctr - Inbound,42.349662,-71.063917,"",Orange Line
+903_,70018,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Chinatown Station - Outbound,42.352547,-71.062752,"",Orange Line
+903_,70019,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Chinatown Station - Inbound,42.352547,-71.062752,"",Orange Line
+903_,70020,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Downtown Crossing - to Forest Hills,42.355518,-71.060225,"",Orange Line
+903_,70021,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Downtown Crossing - to Oak Grove,42.355518,-71.060225,"",Orange Line
+903_,70022,RTL312-hmo32017-Sunday-01,0,10.5,1.1,State St Orange Line to Forest Hills,42.358978,-71.057598,"",Orange Line
+903_,70023,RTL312-hmo32017-Sunday-01,1,10.6,1.4,State St - to Oak Grove,42.358978,-71.057598,"",Orange Line
+903_,70024,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Haymarket Station - Inbound,42.363021,-71.05829,"",Orange Line
+903_,70025,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Haymarket Station - Outbound,42.363021,-71.05829,"",Orange Line
+903_,70026,RTL312-hmo32017-Sunday-01,0,10.5,1.1,North Station - Inbound,42.365577,-71.06129,"",Orange Line
+903_,70027,RTL312-hmo32017-Sunday-01,1,10.6,1.4,North Station - Outbound,42.365577,-71.06129,"",Orange Line
+903_,70028,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Community College - Inbound,42.373622,-71.069533,"",Orange Line
+903_,70029,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Community College - Outbound,42.373622,-71.069533,"",Orange Line
+903_,70030,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Sullivan Station - Inbound,42.383975,-71.076994,"",Orange Line
+903_,70031,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Sullivan Station - Outbound,42.383975,-71.076994,"",Orange Line
+903_,70032,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Wellington Station - Inbound,42.40237,-71.077082,"",Orange Line
+903_,70033,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Wellington Station - Outbound,42.40237,-71.077082,"",Orange Line
+903_,70034,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Malden Station - Inbound,42.426632,-71.07411,"",Orange Line
+903_,70035,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Malden Station - Outbound,42.426632,-71.07411,"",Orange Line
+903_,70036,RTL312-hmo32017-Sunday-01,0,10.5,1.1,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70036,RTL312-hmo32017-Sunday-01,1,10.6,1.4,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70001,RTL312-hmo32j47-Sunday-01,0,9.7,3.1,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70001,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Forest Hills Orange Line,42.300523,-71.113686,"",Orange Line
+903_,70002,RTL312-hmo32j47-Sunday-01,0,9.7,3.1,Green Street Station - Outbound,42.310525,-71.107414,"",Orange Line
+903_,70003,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Green St - Inbound,42.310525,-71.107414,"",Orange Line
+903_,70004,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Stoneybrook -  Outbound,42.317062,-71.104248,"",Orange Line
+903_,70005,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Stoneybrook -  Inbound,42.317062,-71.104248,"",Orange Line
+903_,70006,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Jackson Sq -  Outbound,42.323132,-71.099592,"",Orange Line
+903_,70007,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Jackson Sq Orange Line Inbound,42.323132,-71.099592,"",Orange Line
+903_,70008,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Roxbury Xng - Outbound,42.331397,-71.095451,"",Orange Line
+903_,70009,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Roxbury Xng - Inbound,42.331397,-71.095451,"",Orange Line
+903_,70010,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Ruggles Sta -  Outbound,42.336377,-71.088961,"",Orange Line
+903_,70011,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Ruggles Sta - Inbound,42.336377,-71.088961,"",Orange Line
+903_,70012,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Massachusetts Ave Sta - Outbound,42.341512,-71.083423,"",Orange Line
+903_,70013,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Massachusetts Ave Sta - Inbound,42.341512,-71.083423,"",Orange Line
+903_,70014,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Back Bay Station - Outbound,42.34735,-71.075727,"",Orange Line
+903_,70015,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Back Bay Sta - Inbound,42.34735,-71.075727,"",Orange Line
+903_,70016,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Tufts Medical Ctr - Outbound,42.349662,-71.063917,"",Orange Line
+903_,70017,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Tufts  Medical Ctr - Inbound,42.349662,-71.063917,"",Orange Line
+903_,70018,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Chinatown Station - Outbound,42.352547,-71.062752,"",Orange Line
+903_,70019,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Chinatown Station - Inbound,42.352547,-71.062752,"",Orange Line
+903_,70020,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Downtown Crossing - to Forest Hills,42.355518,-71.060225,"",Orange Line
+903_,70021,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Downtown Crossing - to Oak Grove,42.355518,-71.060225,"",Orange Line
+903_,70022,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,State St Orange Line to Forest Hills,42.358978,-71.057598,"",Orange Line
+903_,70023,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,State St - to Oak Grove,42.358978,-71.057598,"",Orange Line
+903_,70024,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Haymarket Station - Inbound,42.363021,-71.05829,"",Orange Line
+903_,70025,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Haymarket Station - Outbound,42.363021,-71.05829,"",Orange Line
+903_,70026,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,North Station - Inbound,42.365577,-71.06129,"",Orange Line
+903_,70027,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,North Station - Outbound,42.365577,-71.06129,"",Orange Line
+903_,70028,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Community College - Inbound,42.373622,-71.069533,"",Orange Line
+903_,70029,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Community College - Outbound,42.373622,-71.069533,"",Orange Line
+903_,70030,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Sullivan Station - Inbound,42.383975,-71.076994,"",Orange Line
+903_,70031,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Sullivan Station - Outbound,42.383975,-71.076994,"",Orange Line
+903_,70032,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Wellington Station - Inbound,42.40237,-71.077082,"",Orange Line
+903_,70033,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Wellington Station - Outbound,42.40237,-71.077082,"",Orange Line
+903_,70034,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Malden Station - Inbound,42.426632,-71.07411,"",Orange Line
+903_,70035,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Malden Station - Outbound,42.426632,-71.07411,"",Orange Line
+903_,70036,RTL312-hmo32j47-Sunday-01,0,9.7,3.0,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+903_,70036,RTL312-hmo32j47-Sunday-01,1,9.7,2.9,Oak Grove Station - Orange Line,42.43668,-71.071097,"",Orange Line
+931_,70061,RTL312-hms32011-Weekday-01,0,10.5,2.1,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70061,RTL312-hms32011-Weekday-01,1,10.5,2.3,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL312-hms32011-Weekday-01,0,10.2,2.3,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL312-hms32011-Weekday-01,1,10.3,2.5,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70063,RTL312-hms32011-Weekday-01,0,10.5,2.1,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+933_,70063,RTL312-hms32011-Weekday-01,0,10.2,2.3,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+931_,70064,RTL312-hms32011-Weekday-01,1,10.5,2.3,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+933_,70064,RTL312-hms32011-Weekday-01,1,10.3,2.5,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+931_,70065,RTL312-hms32011-Weekday-01,0,10.5,2.1,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+933_,70065,RTL312-hms32011-Weekday-01,0,10.2,2.3,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+931_,70066,RTL312-hms32011-Weekday-01,1,10.5,2.3,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+933_,70066,RTL312-hms32011-Weekday-01,1,10.3,2.5,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+931_,70067,RTL312-hms32011-Weekday-01,0,10.5,2.1,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+933_,70067,RTL312-hms32011-Weekday-01,0,10.2,2.3,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+931_,70068,RTL312-hms32011-Weekday-01,1,10.5,2.3,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+933_,70068,RTL312-hms32011-Weekday-01,1,10.3,2.5,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+931_,70069,RTL312-hms32011-Weekday-01,0,10.5,2.1,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+933_,70069,RTL312-hms32011-Weekday-01,0,10.2,2.3,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+931_,70070,RTL312-hms32011-Weekday-01,1,10.5,2.3,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+933_,70070,RTL312-hms32011-Weekday-01,1,10.3,2.5,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+931_,70071,RTL312-hms32011-Weekday-01,0,10.5,2.2,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+933_,70071,RTL312-hms32011-Weekday-01,0,10.2,2.4,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+931_,70072,RTL312-hms32011-Weekday-01,1,10.5,2.3,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+933_,70072,RTL312-hms32011-Weekday-01,1,10.3,2.5,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+931_,70073,RTL312-hms32011-Weekday-01,0,10.5,2.2,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+933_,70073,RTL312-hms32011-Weekday-01,0,10.2,2.4,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+931_,70074,RTL312-hms32011-Weekday-01,1,10.5,2.3,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+933_,70074,RTL312-hms32011-Weekday-01,1,10.3,2.5,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+931_,70075,RTL312-hms32011-Weekday-01,0,10.5,2.2,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+933_,70075,RTL312-hms32011-Weekday-01,0,10.2,2.4,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+931_,70076,RTL312-hms32011-Weekday-01,1,10.5,2.3,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+933_,70076,RTL312-hms32011-Weekday-01,1,10.3,2.5,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+931_,70077,RTL312-hms32011-Weekday-01,0,10.5,2.2,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+933_,70077,RTL312-hms32011-Weekday-01,0,10.2,2.4,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+931_,70078,RTL312-hms32011-Weekday-01,1,10.5,2.3,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+933_,70078,RTL312-hms32011-Weekday-01,1,10.4,2.5,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+931_,70079,RTL312-hms32011-Weekday-01,0,10.5,2.2,South Station - Outbound,42.352271,-71.055242,"",Red Line
+933_,70079,RTL312-hms32011-Weekday-01,0,10.2,2.4,South Station - Outbound,42.352271,-71.055242,"",Red Line
+931_,70080,RTL312-hms32011-Weekday-01,1,10.5,2.3,South Station - Inbound,42.352271,-71.055242,"",Red Line
+933_,70080,RTL312-hms32011-Weekday-01,1,10.4,2.5,South Station - Inbound,42.352271,-71.055242,"",Red Line
+931_,70081,RTL312-hms32011-Weekday-01,0,10.5,2.2,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+933_,70081,RTL312-hms32011-Weekday-01,0,10.2,2.4,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+931_,70082,RTL312-hms32011-Weekday-01,1,10.5,2.3,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+933_,70082,RTL312-hms32011-Weekday-01,1,10.4,2.5,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+931_,70083,RTL312-hms32011-Weekday-01,0,10.5,2.2,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+933_,70083,RTL312-hms32011-Weekday-01,0,10.2,2.4,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+931_,70084,RTL312-hms32011-Weekday-01,1,10.5,2.3,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+933_,70084,RTL312-hms32011-Weekday-01,1,10.4,2.5,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+931_,70085,RTL312-hms32011-Weekday-01,0,10.5,2.2,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391,"",Red Line
+931_,70086,RTL312-hms32011-Weekday-01,1,10.5,2.3,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391,"",Red Line
+931_,70087,RTL312-hms32011-Weekday-01,0,10.5,2.2,Savin Hill Station - Outbound,42.31129,-71.053331,"",Red Line
+931_,70088,RTL312-hms32011-Weekday-01,1,10.5,2.3,Savin Hill Station - Inbound,42.31129,-71.053331,"",Red Line
+931_,70089,RTL312-hms32011-Weekday-01,0,10.5,2.2,Fields Corner Station - Outbound,42.300093,-71.061667,"",Red Line
+931_,70090,RTL312-hms32011-Weekday-01,1,10.5,2.3,Fields Corner Station - Inbound,42.300093,-71.061667,"",Red Line
+931_,70091,RTL312-hms32011-Weekday-01,0,10.5,2.2,Shawmut Station - Outbound,42.293126,-71.065738,"",Red Line
+931_,70092,RTL312-hms32011-Weekday-01,1,10.5,2.3,Shawmut Station - Inbound,42.293126,-71.065738,"",Red Line
+931_,70093,RTL312-hms32011-Weekday-01,0,10.5,2.2,Ashmont Station - Red Line,42.284652,-71.064489,"",Red Line
+931_,70094,RTL312-hms32011-Weekday-01,1,10.5,2.3,Ashmont Station Red Line Inbound,42.284652,-71.064489,"",Red Line
+933_,70095,RTL312-hms32011-Weekday-01,0,10.2,2.4,JFK/UMASS Braintree - Outbound,42.320685,-71.052391,"",Red Line
+933_,70096,RTL312-hms32011-Weekday-01,1,10.4,2.5,JFK/UMASS Braintree - Inbound,42.320685,-71.052391,"",Red Line
+933_,70097,RTL312-hms32011-Weekday-01,0,10.2,2.4,North Quincy Station - Outbound,42.275275,-71.029583,"",Red Line
+933_,70098,RTL312-hms32011-Weekday-01,1,10.3,2.4,North Quincy Station - Inbound,42.275275,-71.029583,"",Red Line
+933_,70099,RTL312-hms32011-Weekday-01,0,10.2,2.4,Wollaston Station - Outbound,42.266514,-71.020337,"",Red Line
+933_,70100,RTL312-hms32011-Weekday-01,1,10.3,2.4,Wollaston Station - Inbound,42.266514,-71.020337,"",Red Line
+933_,70101,RTL312-hms32011-Weekday-01,0,10.2,2.4,Quincy Center Station - Outbound,42.251809,-71.005409,"",Red Line
+933_,70102,RTL312-hms32011-Weekday-01,1,10.3,2.4,Quincy Center Station - Inbound,42.251809,-71.005409,"",Red Line
+933_,70103,RTL312-hms32011-Weekday-01,0,10.2,2.4,Quincy Adams Station - Outbound,42.233391,-71.007153,"",Red Line
+933_,70104,RTL312-hms32011-Weekday-01,1,10.3,2.4,Quincy Adams Station - Inbound,42.233391,-71.007153,"",Red Line
+933_,70105,RTL312-hms32011-Weekday-01,0,10.2,2.4,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+933_,70105,RTL312-hms32011-Weekday-01,1,10.3,2.4,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+931_,70061,RTL312-hms32016-Saturday-01,0,13.9,0.2,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70061,RTL312-hms32016-Saturday-01,1,14.0,0.5,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL312-hms32016-Saturday-01,0,13.9,0.2,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL312-hms32016-Saturday-01,1,14.0,1.0,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70063,RTL312-hms32016-Saturday-01,0,13.9,0.2,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+933_,70063,RTL312-hms32016-Saturday-01,0,13.9,0.2,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+931_,70064,RTL312-hms32016-Saturday-01,1,14.0,0.5,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+933_,70064,RTL312-hms32016-Saturday-01,1,14.0,1.0,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+931_,70065,RTL312-hms32016-Saturday-01,0,13.9,0.2,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+933_,70065,RTL312-hms32016-Saturday-01,0,13.9,0.2,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+931_,70066,RTL312-hms32016-Saturday-01,1,14.0,0.5,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+933_,70066,RTL312-hms32016-Saturday-01,1,14.0,1.0,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+931_,70067,RTL312-hms32016-Saturday-01,0,13.9,0.2,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+933_,70067,RTL312-hms32016-Saturday-01,0,13.9,0.2,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+931_,70068,RTL312-hms32016-Saturday-01,1,14.0,0.5,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+933_,70068,RTL312-hms32016-Saturday-01,1,14.0,1.0,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+931_,70069,RTL312-hms32016-Saturday-01,0,13.9,0.2,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+933_,70069,RTL312-hms32016-Saturday-01,0,13.9,0.2,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+931_,70070,RTL312-hms32016-Saturday-01,1,14.0,0.5,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+933_,70070,RTL312-hms32016-Saturday-01,1,14.0,1.0,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+931_,70071,RTL312-hms32016-Saturday-01,0,14.0,0.3,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+933_,70071,RTL312-hms32016-Saturday-01,0,13.9,0.2,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+931_,70072,RTL312-hms32016-Saturday-01,1,14.0,0.5,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+933_,70072,RTL312-hms32016-Saturday-01,1,14.0,1.0,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+931_,70073,RTL312-hms32016-Saturday-01,0,14.0,0.3,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+933_,70073,RTL312-hms32016-Saturday-01,0,13.9,0.2,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+931_,70074,RTL312-hms32016-Saturday-01,1,14.0,0.5,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+933_,70074,RTL312-hms32016-Saturday-01,1,14.0,1.0,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+931_,70075,RTL312-hms32016-Saturday-01,0,14.0,0.3,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+933_,70075,RTL312-hms32016-Saturday-01,0,13.9,0.2,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+931_,70076,RTL312-hms32016-Saturday-01,1,14.0,0.5,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+933_,70076,RTL312-hms32016-Saturday-01,1,14.0,1.0,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+931_,70077,RTL312-hms32016-Saturday-01,0,14.0,0.3,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+933_,70077,RTL312-hms32016-Saturday-01,0,13.9,0.2,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+931_,70078,RTL312-hms32016-Saturday-01,1,14.0,0.4,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+933_,70078,RTL312-hms32016-Saturday-01,1,14.0,1.0,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+931_,70079,RTL312-hms32016-Saturday-01,0,14.0,0.3,South Station - Outbound,42.352271,-71.055242,"",Red Line
+933_,70079,RTL312-hms32016-Saturday-01,0,13.9,0.2,South Station - Outbound,42.352271,-71.055242,"",Red Line
+931_,70080,RTL312-hms32016-Saturday-01,1,14.0,0.4,South Station - Inbound,42.352271,-71.055242,"",Red Line
+933_,70080,RTL312-hms32016-Saturday-01,1,14.0,1.0,South Station - Inbound,42.352271,-71.055242,"",Red Line
+931_,70081,RTL312-hms32016-Saturday-01,0,14.0,0.3,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+933_,70081,RTL312-hms32016-Saturday-01,0,13.9,0.2,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+931_,70082,RTL312-hms32016-Saturday-01,1,14.0,0.4,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+933_,70082,RTL312-hms32016-Saturday-01,1,14.0,1.0,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+931_,70083,RTL312-hms32016-Saturday-01,0,14.0,0.3,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+933_,70083,RTL312-hms32016-Saturday-01,0,13.9,0.2,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+931_,70084,RTL312-hms32016-Saturday-01,1,14.0,0.4,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+933_,70084,RTL312-hms32016-Saturday-01,1,14.0,1.0,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+931_,70085,RTL312-hms32016-Saturday-01,0,14.0,0.3,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391,"",Red Line
+931_,70086,RTL312-hms32016-Saturday-01,1,14.0,0.4,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391,"",Red Line
+931_,70087,RTL312-hms32016-Saturday-01,0,14.0,0.3,Savin Hill Station - Outbound,42.31129,-71.053331,"",Red Line
+931_,70088,RTL312-hms32016-Saturday-01,1,14.0,0.4,Savin Hill Station - Inbound,42.31129,-71.053331,"",Red Line
+931_,70089,RTL312-hms32016-Saturday-01,0,14.0,0.3,Fields Corner Station - Outbound,42.300093,-71.061667,"",Red Line
+931_,70090,RTL312-hms32016-Saturday-01,1,14.0,0.4,Fields Corner Station - Inbound,42.300093,-71.061667,"",Red Line
+931_,70091,RTL312-hms32016-Saturday-01,0,14.0,0.3,Shawmut Station - Outbound,42.293126,-71.065738,"",Red Line
+931_,70092,RTL312-hms32016-Saturday-01,1,14.0,0.4,Shawmut Station - Inbound,42.293126,-71.065738,"",Red Line
+931_,70093,RTL312-hms32016-Saturday-01,0,14.0,0.3,Ashmont Station - Red Line,42.284652,-71.064489,"",Red Line
+931_,70094,RTL312-hms32016-Saturday-01,1,14.0,0.4,Ashmont Station Red Line Inbound,42.284652,-71.064489,"",Red Line
+933_,70095,RTL312-hms32016-Saturday-01,0,13.9,0.2,JFK/UMASS Braintree - Outbound,42.320685,-71.052391,"",Red Line
+933_,70096,RTL312-hms32016-Saturday-01,1,14.0,0.9,JFK/UMASS Braintree - Inbound,42.320685,-71.052391,"",Red Line
+933_,70097,RTL312-hms32016-Saturday-01,0,13.9,0.2,North Quincy Station - Outbound,42.275275,-71.029583,"",Red Line
+933_,70098,RTL312-hms32016-Saturday-01,1,14.0,0.9,North Quincy Station - Inbound,42.275275,-71.029583,"",Red Line
+933_,70099,RTL312-hms32016-Saturday-01,0,13.9,0.2,Wollaston Station - Outbound,42.266514,-71.020337,"",Red Line
+933_,70100,RTL312-hms32016-Saturday-01,1,14.0,0.9,Wollaston Station - Inbound,42.266514,-71.020337,"",Red Line
+933_,70101,RTL312-hms32016-Saturday-01,0,13.9,0.2,Quincy Center Station - Outbound,42.251809,-71.005409,"",Red Line
+933_,70102,RTL312-hms32016-Saturday-01,1,14.0,0.9,Quincy Center Station - Inbound,42.251809,-71.005409,"",Red Line
+933_,70103,RTL312-hms32016-Saturday-01,0,13.9,0.2,Quincy Adams Station - Outbound,42.233391,-71.007153,"",Red Line
+933_,70104,RTL312-hms32016-Saturday-01,1,14.0,0.9,Quincy Adams Station - Inbound,42.233391,-71.007153,"",Red Line
+933_,70105,RTL312-hms32016-Saturday-01,0,13.9,0.2,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+933_,70105,RTL312-hms32016-Saturday-01,1,14.0,0.9,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+931_,70061,RTL312-hms32017-Sunday-01,0,15.5,0.7,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70061,RTL312-hms32017-Sunday-01,1,15.6,0.6,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL312-hms32017-Sunday-01,0,15.5,0.5,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL312-hms32017-Sunday-01,1,15.7,1.1,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70063,RTL312-hms32017-Sunday-01,0,15.5,0.7,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+933_,70063,RTL312-hms32017-Sunday-01,0,15.5,0.5,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+931_,70064,RTL312-hms32017-Sunday-01,1,15.6,0.6,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+933_,70064,RTL312-hms32017-Sunday-01,1,15.7,1.1,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+931_,70065,RTL312-hms32017-Sunday-01,0,15.5,0.7,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+933_,70065,RTL312-hms32017-Sunday-01,0,15.5,0.5,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+931_,70066,RTL312-hms32017-Sunday-01,1,15.6,0.6,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+933_,70066,RTL312-hms32017-Sunday-01,1,15.7,1.1,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+931_,70067,RTL312-hms32017-Sunday-01,0,15.5,0.7,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+933_,70067,RTL312-hms32017-Sunday-01,0,15.5,0.5,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+931_,70068,RTL312-hms32017-Sunday-01,1,15.6,0.6,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+933_,70068,RTL312-hms32017-Sunday-01,1,15.7,1.1,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+931_,70069,RTL312-hms32017-Sunday-01,0,15.5,0.7,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+933_,70069,RTL312-hms32017-Sunday-01,0,15.5,0.5,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+931_,70070,RTL312-hms32017-Sunday-01,1,15.6,0.6,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+933_,70070,RTL312-hms32017-Sunday-01,1,15.7,1.1,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+931_,70071,RTL312-hms32017-Sunday-01,0,15.5,0.7,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+933_,70071,RTL312-hms32017-Sunday-01,0,15.5,0.5,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+931_,70072,RTL312-hms32017-Sunday-01,1,15.6,0.6,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+933_,70072,RTL312-hms32017-Sunday-01,1,15.7,1.1,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+931_,70073,RTL312-hms32017-Sunday-01,0,15.5,0.7,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+933_,70073,RTL312-hms32017-Sunday-01,0,15.5,0.5,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+931_,70074,RTL312-hms32017-Sunday-01,1,15.6,0.6,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+933_,70074,RTL312-hms32017-Sunday-01,1,15.7,1.1,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+931_,70075,RTL312-hms32017-Sunday-01,0,15.5,0.7,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+933_,70075,RTL312-hms32017-Sunday-01,0,15.5,0.5,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+931_,70076,RTL312-hms32017-Sunday-01,1,15.6,0.6,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+933_,70076,RTL312-hms32017-Sunday-01,1,15.7,1.1,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+931_,70077,RTL312-hms32017-Sunday-01,0,15.5,0.7,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+933_,70077,RTL312-hms32017-Sunday-01,0,15.5,0.5,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+931_,70078,RTL312-hms32017-Sunday-01,1,15.6,0.6,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+933_,70078,RTL312-hms32017-Sunday-01,1,15.7,1.1,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+931_,70079,RTL312-hms32017-Sunday-01,0,15.5,0.7,South Station - Outbound,42.352271,-71.055242,"",Red Line
+933_,70079,RTL312-hms32017-Sunday-01,0,15.5,0.5,South Station - Outbound,42.352271,-71.055242,"",Red Line
+931_,70080,RTL312-hms32017-Sunday-01,1,15.6,0.6,South Station - Inbound,42.352271,-71.055242,"",Red Line
+933_,70080,RTL312-hms32017-Sunday-01,1,15.7,1.1,South Station - Inbound,42.352271,-71.055242,"",Red Line
+931_,70081,RTL312-hms32017-Sunday-01,0,15.5,0.7,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+933_,70081,RTL312-hms32017-Sunday-01,0,15.5,0.5,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+931_,70082,RTL312-hms32017-Sunday-01,1,15.6,0.6,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+933_,70082,RTL312-hms32017-Sunday-01,1,15.7,1.1,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+931_,70083,RTL312-hms32017-Sunday-01,0,15.5,0.7,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+933_,70083,RTL312-hms32017-Sunday-01,0,15.5,0.5,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+931_,70084,RTL312-hms32017-Sunday-01,1,15.6,0.6,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+933_,70084,RTL312-hms32017-Sunday-01,1,15.7,1.1,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+931_,70085,RTL312-hms32017-Sunday-01,0,15.5,0.7,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391,"",Red Line
+931_,70086,RTL312-hms32017-Sunday-01,1,15.6,0.6,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391,"",Red Line
+931_,70087,RTL312-hms32017-Sunday-01,0,15.5,0.7,Savin Hill Station - Outbound,42.31129,-71.053331,"",Red Line
+931_,70088,RTL312-hms32017-Sunday-01,1,15.6,0.6,Savin Hill Station - Inbound,42.31129,-71.053331,"",Red Line
+931_,70089,RTL312-hms32017-Sunday-01,0,15.5,0.7,Fields Corner Station - Outbound,42.300093,-71.061667,"",Red Line
+931_,70090,RTL312-hms32017-Sunday-01,1,15.6,0.6,Fields Corner Station - Inbound,42.300093,-71.061667,"",Red Line
+931_,70091,RTL312-hms32017-Sunday-01,0,15.5,0.7,Shawmut Station - Outbound,42.293126,-71.065738,"",Red Line
+931_,70092,RTL312-hms32017-Sunday-01,1,15.6,0.6,Shawmut Station - Inbound,42.293126,-71.065738,"",Red Line
+931_,70093,RTL312-hms32017-Sunday-01,0,15.5,0.7,Ashmont Station - Red Line,42.284652,-71.064489,"",Red Line
+931_,70094,RTL312-hms32017-Sunday-01,1,15.6,0.6,Ashmont Station Red Line Inbound,42.284652,-71.064489,"",Red Line
+933_,70095,RTL312-hms32017-Sunday-01,0,15.5,0.5,JFK/UMASS Braintree - Outbound,42.320685,-71.052391,"",Red Line
+933_,70096,RTL312-hms32017-Sunday-01,1,15.6,1.1,JFK/UMASS Braintree - Inbound,42.320685,-71.052391,"",Red Line
+933_,70097,RTL312-hms32017-Sunday-01,0,15.5,0.5,North Quincy Station - Outbound,42.275275,-71.029583,"",Red Line
+933_,70098,RTL312-hms32017-Sunday-01,1,15.6,1.1,North Quincy Station - Inbound,42.275275,-71.029583,"",Red Line
+933_,70099,RTL312-hms32017-Sunday-01,0,15.5,0.5,Wollaston Station - Outbound,42.266514,-71.020337,"",Red Line
+933_,70100,RTL312-hms32017-Sunday-01,1,15.6,1.1,Wollaston Station - Inbound,42.266514,-71.020337,"",Red Line
+933_,70101,RTL312-hms32017-Sunday-01,0,15.5,0.5,Quincy Center Station - Outbound,42.251809,-71.005409,"",Red Line
+933_,70102,RTL312-hms32017-Sunday-01,1,15.6,1.1,Quincy Center Station - Inbound,42.251809,-71.005409,"",Red Line
+933_,70103,RTL312-hms32017-Sunday-01,0,15.5,0.5,Quincy Adams Station - Outbound,42.233391,-71.007153,"",Red Line
+933_,70104,RTL312-hms32017-Sunday-01,1,15.6,1.1,Quincy Adams Station - Inbound,42.233391,-71.007153,"",Red Line
+933_,70105,RTL312-hms32017-Sunday-01,0,15.5,0.5,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+933_,70105,RTL312-hms32017-Sunday-01,1,15.6,1.1,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+931_,70061,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70061,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+933_,70061,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Alewife Station Red Line,42.395428,-71.142483,"",Red Line
+931_,70063,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+933_,70063,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Davis Sq - Inbound,42.39674,-71.121815,"",Red Line
+931_,70064,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+933_,70064,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Davis Square - Outbound,42.39674,-71.121815,"",Red Line
+931_,70065,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+933_,70065,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Porter Sq - Inbound,42.3884,-71.119149,"",Red Line
+931_,70066,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+933_,70066,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Porter Sq - Outbound,42.3884,-71.119149,"",Red Line
+931_,70067,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+933_,70067,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Harvard Station - Inbound,42.373362,-71.118956,"",Red Line
+931_,70068,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+933_,70068,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Harvard Station - Outbound,42.373362,-71.118956,"",Red Line
+931_,70069,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+933_,70069,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Central Sq - Inbound,42.365486,-71.103802,"",Red Line
+931_,70070,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+933_,70070,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Central Sq - Outbound,42.365486,-71.103802,"",Red Line
+931_,70071,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+933_,70071,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Kendall/MIT Station - Inbound,42.362491,-71.086177,"",Red Line
+931_,70072,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+933_,70072,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Kendall/MIT Station - Outbound,42.362491,-71.086177,"",Red Line
+931_,70073,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+933_,70073,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Charles/MGH Station -  Inbound,42.361166,-71.070628,"",Red Line
+931_,70074,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+933_,70074,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Charles/MGH Station - Outbound,42.361166,-71.070628,"",Red Line
+931_,70075,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+933_,70075,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Park St Station - to Ashmont/Braintree,42.356395,-71.062424,"",Red Line
+931_,70076,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+933_,70076,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Park St Station - to Alewife,42.356395,-71.062424,"",Red Line
+931_,70077,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+933_,70077,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225,"",Red Line
+931_,70078,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+933_,70078,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Downtown Crossing - to Alewife,42.355518,-71.060225,"",Red Line
+931_,70079,RTL312-hms32j47-Sunday-01,0,11.0,3.4,South Station - Outbound,42.352271,-71.055242,"",Red Line
+933_,70079,RTL312-hms32j47-Sunday-01,0,11.0,3.4,South Station - Outbound,42.352271,-71.055242,"",Red Line
+931_,70080,RTL312-hms32j47-Sunday-01,1,11.1,3.4,South Station - Inbound,42.352271,-71.055242,"",Red Line
+933_,70080,RTL312-hms32j47-Sunday-01,1,11.0,3.4,South Station - Inbound,42.352271,-71.055242,"",Red Line
+931_,70081,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+933_,70081,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Broadway Station - Outbound,42.342622,-71.056967,"",Red Line
+931_,70082,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+933_,70082,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Broadway Station - Inbound,42.342622,-71.056967,"",Red Line
+931_,70083,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+933_,70083,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Andrew Sq Station - Outbound,42.330154,-71.057655,"",Red Line
+931_,70084,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+933_,70084,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Andrew Sq Station - Inbound,42.330154,-71.057655,"",Red Line
+931_,70085,RTL312-hms32j47-Sunday-01,0,11.0,3.4,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391,"",Red Line
+931_,70086,RTL312-hms32j47-Sunday-01,1,11.1,3.4,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391,"",Red Line
+931_,70087,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Savin Hill Station - Outbound,42.31129,-71.053331,"",Red Line
+931_,70088,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Savin Hill Station - Inbound,42.31129,-71.053331,"",Red Line
+931_,70089,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Fields Corner Station - Outbound,42.300093,-71.061667,"",Red Line
+931_,70090,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Fields Corner Station - Inbound,42.300093,-71.061667,"",Red Line
+931_,70091,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Shawmut Station - Outbound,42.293126,-71.065738,"",Red Line
+931_,70092,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Shawmut Station - Inbound,42.293126,-71.065738,"",Red Line
+931_,70093,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Ashmont Station - Red Line,42.284652,-71.064489,"",Red Line
+931_,70094,RTL312-hms32j47-Sunday-01,1,11.1,3.4,Ashmont Station Red Line Inbound,42.284652,-71.064489,"",Red Line
+933_,70095,RTL312-hms32j47-Sunday-01,0,11.0,3.4,JFK/UMASS Braintree - Outbound,42.320685,-71.052391,"",Red Line
+933_,70096,RTL312-hms32j47-Sunday-01,1,11.0,3.4,JFK/UMASS Braintree - Inbound,42.320685,-71.052391,"",Red Line
+933_,70097,RTL312-hms32j47-Sunday-01,0,11.0,3.4,North Quincy Station - Outbound,42.275275,-71.029583,"",Red Line
+933_,70098,RTL312-hms32j47-Sunday-01,1,11.0,3.4,North Quincy Station - Inbound,42.275275,-71.029583,"",Red Line
+933_,70099,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Wollaston Station - Outbound,42.266514,-71.020337,"",Red Line
+933_,70100,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Wollaston Station - Inbound,42.266514,-71.020337,"",Red Line
+933_,70101,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Quincy Center Station - Outbound,42.251809,-71.005409,"",Red Line
+933_,70102,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Quincy Center Station - Inbound,42.251809,-71.005409,"",Red Line
+933_,70103,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Quincy Adams Station - Outbound,42.233391,-71.007153,"",Red Line
+933_,70104,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Quincy Adams Station - Inbound,42.233391,-71.007153,"",Red Line
+933_,70105,RTL312-hms32j47-Sunday-01,0,11.0,3.4,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line
+933_,70105,RTL312-hms32j47-Sunday-01,1,11.0,3.4,Braintree Station Red Line Platform,42.207854,-71.001138,"",Red Line

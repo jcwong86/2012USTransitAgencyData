@@ -1,0 +1,29 @@
+route_id,service_id,direction_id,numtripsperroute_both_dir,hours_of_service,first_departure_sec,last_departure_sec,span_of_service_hrs,route_avg_hdwy,route_stdev_hdwy,trips_per_day,average_speed,average_length_mi,w_avg_num_stops,avg_dist_bw_stops_ft,route_short_name,route_long_name
+Ventura County Line,1141,0,22,15,18240,74220,16,35.7,13.3,11,70.0,85.3,9.4,38193.033277173914470,"",Ventura County Line
+Ventura County Line,1141,1,22,15,18240,74220,16,36.8,18.5,11,69.9,85.3,9.5,37782.355500000000000,"",Ventura County Line
+Antelope Valley Line,1142,0,30,21,14280,84300,19,47.7,22.2,15,61.5,92.7,9.4,47388.805815873017175,"",Antelope Valley Line
+Antelope Valley Line,1142,1,30,21,14280,84300,19,38.8,15.8,15,61.3,92.7,9.3,47767.879515200000000,"",Antelope Valley Line
+Antelope Valley Line,1143,0,12,18,23400,82800,17,,,6,43.4,92.7,11.0,48864.228290000000000,"",Antelope Valley Line
+Antelope Valley Line,1143,1,12,18,23400,82800,17,90.0,,6,44.7,92.7,11.0,48864.195480000000000,"",Antelope Valley Line
+Antelope Valley Line,1144,0,6,14,23400,71100,13,,,3,42.8,92.7,11.0,48864.228290000000000,"",Antelope Valley Line
+Antelope Valley Line,1144,1,6,14,23400,71100,13,,,3,44.9,92.7,11.0,48864.195480000000000,"",Antelope Valley Line
+Burbank-Bob Hope Airport,1145,0,11,7,20280,63000,12,46.0,36.3,6,207.7,85.3,4.0,26993.3338333333333334427,"",Burbank-Bob Hope Airport
+Burbank-Bob Hope Airport,1145,1,11,7,20280,63000,12,44.0,8.4,5,208.3,85.3,4.0,26993.3338333333333334427,"",Burbank-Bob Hope Airport
+San Bernardino Line,1146,0,42,21,14760,88200,20,42.4,22.9,21,52.6,80.3,12.6,31668.9978197530864198422,"",San Bernardino Line
+San Bernardino Line,1146,1,42,21,14760,88200,20,47.8,25.2,21,51.9,80.3,12.6,31668.9978197530864198422,"",San Bernardino Line
+San Bernardino Line,1147,0,20,20,22500,90240,19,,,10,43.7,80.3,13.2,30973.9470213114754097769,"",San Bernardino Line
+San Bernardino Line,1147,1,20,20,22500,90240,19,78.7,12.9,10,44.8,80.3,13.2,30973.9470213114754097769,"",San Bernardino Line
+San Bernardino Line,1148,0,14,18,22800,83700,17,68.0,,7,41.9,80.3,13.3,31156.4523023255813954404,"",San Bernardino Line
+San Bernardino Line,1148,1,14,18,22800,83700,17,71.5,24.7,7,44.7,80.3,13.3,31156.4523023255813954404,"",San Bernardino Line
+Riverside Line,1149,0,12,14,16920,72120,15,34.7,4.0,6,49.1,71.3,7.0,62693.840150000000000,"",Riverside Line
+Riverside Line,1149,1,12,14,16920,72120,15,53.2,24.4,6,51.0,71.3,7.0,62693.840150000000000,"",Riverside Line
+91 Line,1150,1,9,12,19740,69900,14,60.0,,4,46.8,74.0,8.0,55742.362014285713817,"",91 Line
+91 Line,1150,0,9,12,19740,69900,14,52.5,17.6,5,46.8,74.0,8.0,55742.362014285713817,"",91 Line
+Orange County Line,1151,1,25,17,14700,84420,19,41.5,14.3,13,78.6,104.8,10.8,39923.774485156250000,"",Orange County Line
+Orange County Line,1151,0,25,17,14700,84420,19,40.1,20.0,12,76.7,104.8,11.0,40143.182645000000000,"",Orange County Line
+Orange County Line,1152,1,4,11,31320,67200,10,,,2,63.6,104.8,11.5,42637.063714285713817,"",Orange County Line
+Orange County Line,1152,0,4,11,31320,67200,10,,,2,66.0,104.8,11.5,42637.032466666665573,"",Orange County Line
+Inland Emp.-Orange Co. Line,1153,0,14,17,17280,72300,15,49.2,18.4,7,71.3,120.5,11.3,43759.672186111110382,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,1153,1,14,17,17280,72300,15,50.5,22.6,7,66.4,120.5,11.4,43868.817247945205030,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,1154,0,2,8,32100,68700,10,,,1,47.0,120.5,15.0,45280.331057142858549,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,1154,1,2,8,32100,68700,10,,,1,47.3,120.5,15.0,45280.331057142858549,"",Inland Emp.-Orange Co. Line

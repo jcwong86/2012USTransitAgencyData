@@ -1,0 +1,21 @@
+route_id,stop_id,service_id,direction_id,avghdwy,stdev_hdwy,stop_name,stop_lat,stop_lon,route_short_name,route_long_name
+203,13066,W.335,0,30.0,0.0,Beaverton TC WES Station,45.49064,-122.801157,"",WES Commuter Rail
+203,13066,W.335,1,30.0,0.0,Beaverton TC WES Station,45.49064,-122.801157,"",WES Commuter Rail
+203,13067,W.335,0,30.0,0.0,Hall/Nimbus WES Station,45.457587,-122.786997,"",WES Commuter Rail
+203,13067,W.335,1,30.0,0.0,Hall/Nimbus WES Station,45.457587,-122.786997,"",WES Commuter Rail
+203,13068,W.335,0,30.0,0.0,Tigard TC WES Station,45.429936,-122.769527,"",WES Commuter Rail
+203,13069,W.335,0,30.0,0.0,Tualatin WES Station,45.383621,-122.764504,"",WES Commuter Rail
+203,13069,W.335,1,30.0,0.0,Tualatin WES Station,45.383621,-122.764504,"",WES Commuter Rail
+203,13070,W.335,0,30.0,0.0,Wilsonville WES Station,45.311358,-122.775303,"",WES Commuter Rail
+203,13070,W.335,1,30.0,0.0,Wilsonville WES Station,45.311358,-122.775303,"",WES Commuter Rail
+203,13073,W.335,1,30.0,0.0,Tigard TC WES Station,45.430229,-122.769834,"",WES Commuter Rail
+203,13066,W.336,0,30.0,0.0,Beaverton TC WES Station,45.49064,-122.801157,"",WES Commuter Rail
+203,13066,W.336,1,30.0,0.0,Beaverton TC WES Station,45.49064,-122.801157,"",WES Commuter Rail
+203,13067,W.336,0,30.0,0.0,Hall/Nimbus WES Station,45.457587,-122.786997,"",WES Commuter Rail
+203,13067,W.336,1,30.0,0.0,Hall/Nimbus WES Station,45.457587,-122.786997,"",WES Commuter Rail
+203,13068,W.336,0,30.0,0.0,Tigard TC WES Station,45.429936,-122.769527,"",WES Commuter Rail
+203,13069,W.336,0,30.0,0.0,Tualatin WES Station,45.383621,-122.764504,"",WES Commuter Rail
+203,13069,W.336,1,30.0,0.0,Tualatin WES Station,45.383621,-122.764504,"",WES Commuter Rail
+203,13070,W.336,0,30.0,0.0,Wilsonville WES Station,45.311358,-122.775303,"",WES Commuter Rail
+203,13070,W.336,1,30.0,0.0,Wilsonville WES Station,45.311358,-122.775303,"",WES Commuter Rail
+203,13073,W.336,1,30.0,0.0,Tigard TC WES Station,45.430229,-122.769834,"",WES Commuter Rail

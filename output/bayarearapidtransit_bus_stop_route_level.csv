@@ -1,0 +1,5 @@
+route_id,stop_id,service_id,direction_id,avghdwy,stdev_hdwy,stop_name,stop_lat,stop_lon,route_short_name,route_long_name
+AirBART,COLS,M-FSAT,0,26.6,11.5,Coliseum/Oakland Airport,37.754006,-122.197273,"",SHUTTLE
+AirBART,OAK,M-FSAT,0,26.6,11.5,Oakland Airport Terminals AirBART,37.712811,-122.213165,"",SHUTTLE
+AirBART,COLS,SUNAB,0,20.0,,Coliseum/Oakland Airport,37.754006,-122.197273,"",SHUTTLE
+AirBART,OAK,SUNAB,0,20.0,,Oakland Airport Terminals AirBART,37.712811,-122.213165,"",SHUTTLE

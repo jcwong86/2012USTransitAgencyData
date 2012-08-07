@@ -1,0 +1,250 @@
+route_id,stop_id,service_id,direction_id,avghdwy,stdev_hdwy,stop_name,stop_lat,stop_lon,route_short_name,route_long_name
+ct_local_20120701,22nd Street Caltrain,ST_20120701,0,,,22nd Street Caltrain Station,37.757674,-122.392636,"",Local
+ct_local_20120701,22nd Street Caltrain,ST_20120701,1,,,22nd Street Caltrain Station,37.757674,-122.392636,"",Local
+ct_local_20120701,Atherton Caltrain,ST_20120701,0,,,Atherton Caltrain Station,37.464349,-122.198106,"",Local
+ct_local_20120701,Atherton Caltrain,ST_20120701,1,,,Atherton Caltrain Station,37.464349,-122.198106,"",Local
+ct_local_20120701,Bayshore Caltrain,ST_20120701,0,,,Bayshore Caltrain Station,37.709544,-122.401318,"",Local
+ct_local_20120701,Bayshore Caltrain,ST_20120701,1,,,Bayshore Caltrain Station,37.709544,-122.401318,"",Local
+ct_local_20120701,Belmont Caltrain,ST_20120701,0,,,Belmont Caltrain Station,37.520504,-122.276075,"",Local
+ct_local_20120701,Belmont Caltrain,ST_20120701,1,,,Belmont Caltrain Station,37.520504,-122.276075,"",Local
+ct_local_20120701,Broadway Caltrain,ST_20120701,0,,,Broadway Caltrain Station,37.587466,-122.363233,"",Local
+ct_local_20120701,Broadway Caltrain,ST_20120701,1,,,Broadway Caltrain Station,37.587466,-122.363233,"",Local
+ct_local_20120701,Burlingame Caltrain,ST_20120701,0,,,Burlingame Caltrain Station,37.579719,-122.345266,"",Local
+ct_local_20120701,Burlingame Caltrain,ST_20120701,1,,,Burlingame Caltrain Station,37.579719,-122.345266,"",Local
+ct_local_20120701,California Ave Caltrain,ST_20120701,0,,,California Ave Caltrain Station,37.428835,-122.142703,"",Local
+ct_local_20120701,California Ave Caltrain,ST_20120701,1,,,California Ave Caltrain Station,37.428835,-122.142703,"",Local
+ct_local_20120701,Hayward Park Caltrain,ST_20120701,0,,,Hayward Park Caltrain Station,37.552346,-122.308916,"",Local
+ct_local_20120701,Hayward Park Caltrain,ST_20120701,1,,,Hayward Park Caltrain Station,37.552346,-122.308916,"",Local
+ct_local_20120701,Hillsdale Caltrain,ST_20120701,0,,,Hillsdale Caltrain Station,37.537503,-122.298001,"",Local
+ct_local_20120701,Hillsdale Caltrain,ST_20120701,1,,,Hillsdale Caltrain Station,37.537503,-122.298001,"",Local
+ct_local_20120701,Lawrence Caltrain,ST_20120701,0,,,Lawrence Caltrain Station,37.371578,-121.996982,"",Local
+ct_local_20120701,Lawrence Caltrain,ST_20120701,1,,,Lawrence Caltrain Station,37.371578,-121.996982,"",Local
+ct_local_20120701,Menlo Park Caltrain,ST_20120701,0,,,Menlo Park Caltrain Station,37.454604,-122.182518,"",Local
+ct_local_20120701,Menlo Park Caltrain,ST_20120701,1,,,Menlo Park Caltrain Station,37.454604,-122.182518,"",Local
+ct_local_20120701,Millbrae Caltrain,ST_20120701,0,,,Millbrae Caltrain Station,37.600006,-122.386534,"",Local
+ct_local_20120701,Millbrae Caltrain,ST_20120701,1,,,Millbrae Caltrain Station,37.600006,-122.386534,"",Local
+ct_local_20120701,Mountain View Caltrain,ST_20120701,0,,,Mountain View Caltrain Station,37.393879,-122.076327,"",Local
+ct_local_20120701,Mountain View Caltrain,ST_20120701,1,,,Mountain View Caltrain Station,37.393879,-122.076327,"",Local
+ct_local_20120701,Palo Alto Caltrain,ST_20120701,0,,,Palo Alto Caltrain Station,37.44307,-122.1649,"",Local
+ct_local_20120701,Palo Alto Caltrain,ST_20120701,1,,,Palo Alto Caltrain Station,37.44307,-122.1649,"",Local
+ct_local_20120701,Redwood City Caltrain,ST_20120701,0,,,Redwood City Caltrain Station,37.485412,-122.231957,"",Local
+ct_local_20120701,Redwood City Caltrain,ST_20120701,1,,,Redwood City Caltrain Station,37.485412,-122.231957,"",Local
+ct_local_20120701,San Antonio Caltrain,ST_20120701,0,,,San Antonio Caltrain Station,37.406163,-122.105787,"",Local
+ct_local_20120701,San Antonio Caltrain,ST_20120701,1,,,San Antonio Caltrain Station,37.406163,-122.105787,"",Local
+ct_local_20120701,San Bruno Caltrain,ST_20120701,0,,,San Bruno Caltrain Station,37.621572,-122.406408,"",Local
+ct_local_20120701,San Bruno Caltrain,ST_20120701,1,,,San Bruno Caltrain Station,37.621572,-122.406408,"",Local
+ct_local_20120701,San Carlos Caltrain,ST_20120701,0,,,San Carlos Caltrain Station,37.507361,-122.260365,"",Local
+ct_local_20120701,San Carlos Caltrain,ST_20120701,1,,,San Carlos Caltrain Station,37.507361,-122.260365,"",Local
+ct_local_20120701,San Francisco Caltrain,ST_20120701,0,,,San Francisco Caltrain Station,37.776439,-122.394323,"",Local
+ct_local_20120701,San Francisco Caltrain,ST_20120701,1,,,San Francisco Caltrain Station,37.776439,-122.394323,"",Local
+ct_local_20120701,San Jose Caltrain,ST_20120701,0,,,San Jose Caltrain Station,37.330196,-121.901985,"",Local
+ct_local_20120701,San Jose Caltrain,ST_20120701,1,,,San Jose Caltrain Station,37.330196,-121.901985,"",Local
+ct_local_20120701,San Mateo Caltrain,ST_20120701,0,,,San Mateo Caltrain Station,37.568209,-122.323933,"",Local
+ct_local_20120701,San Mateo Caltrain,ST_20120701,1,,,San Mateo Caltrain Station,37.568209,-122.323933,"",Local
+ct_local_20120701,Santa Clara Caltrain,ST_20120701,0,,,Santa Clara Caltrain Station,37.352915,-121.936376,"",Local
+ct_local_20120701,Santa Clara Caltrain,ST_20120701,1,,,Santa Clara Caltrain Station,37.352915,-121.936376,"",Local
+ct_local_20120701,So. San Francisco Caltrain,ST_20120701,0,,,So. San Francisco Caltrain Station,37.657013,-122.405516,"",Local
+ct_local_20120701,So. San Francisco Caltrain,ST_20120701,1,,,So. San Francisco Caltrain Station,37.657013,-122.405516,"",Local
+ct_local_20120701,Sunnyvale Caltrain,ST_20120701,0,,,Sunnyvale Caltrain Station,37.377589,-122.030116,"",Local
+ct_local_20120701,Sunnyvale Caltrain,ST_20120701,1,,,Sunnyvale Caltrain Station,37.377589,-122.030116,"",Local
+ct_bullet_20120701,22nd Street Caltrain,WD_20120701,0,30.0,11.5,22nd Street Caltrain Station,37.757674,-122.392636,"",Bullet
+ct_bullet_20120701,22nd Street Caltrain,WD_20120701,1,30.0,17.3,22nd Street Caltrain Station,37.757674,-122.392636,"",Bullet
+ct_limited_20120701,22nd Street Caltrain,WD_20120701,0,36.8,13.8,22nd Street Caltrain Station,37.757674,-122.392636,"",Limited
+ct_limited_20120701,22nd Street Caltrain,WD_20120701,1,34.1,18.7,22nd Street Caltrain Station,37.757674,-122.392636,"",Limited
+ct_local_20120701,22nd Street Caltrain,WD_20120701,0,55.6,9.0,22nd Street Caltrain Station,37.757674,-122.392636,"",Local
+ct_local_20120701,22nd Street Caltrain,WD_20120701,1,60.0,12.0,22nd Street Caltrain Station,37.757674,-122.392636,"",Local
+ct_limited_20120701,Bayshore Caltrain,WD_20120701,0,59.5,1.0,Bayshore Caltrain Station,37.709544,-122.401318,"",Limited
+ct_limited_20120701,Bayshore Caltrain,WD_20120701,1,60.0,0.0,Bayshore Caltrain Station,37.709544,-122.401318,"",Limited
+ct_local_20120701,Bayshore Caltrain,WD_20120701,0,55.6,9.0,Bayshore Caltrain Station,37.709544,-122.401318,"",Local
+ct_local_20120701,Bayshore Caltrain,WD_20120701,1,60.0,12.0,Bayshore Caltrain Station,37.709544,-122.401318,"",Local
+ct_limited_20120701,Belmont Caltrain,WD_20120701,0,53.6,14.3,Belmont Caltrain Station,37.520504,-122.276075,"",Limited
+ct_limited_20120701,Belmont Caltrain,WD_20120701,1,61.0,2.2,Belmont Caltrain Station,37.520504,-122.276075,"",Limited
+ct_local_20120701,Belmont Caltrain,WD_20120701,0,55.6,9.0,Belmont Caltrain Station,37.520504,-122.276075,"",Local
+ct_local_20120701,Belmont Caltrain,WD_20120701,1,60.0,12.0,Belmont Caltrain Station,37.520504,-122.276075,"",Local
+ct_limited_20120701,Blossom Hill Caltrain,WD_20120701,0,29.0,8.4,Blossom Hill Caltrain Station,37.252801,-121.797369,"",Limited
+ct_limited_20120701,Blossom Hill Caltrain,WD_20120701,1,40.0,,Blossom Hill Caltrain Station,37.252801,-121.797369,"",Limited
+ct_local_20120701,Blossom Hill Caltrain,WD_20120701,1,,,Blossom Hill Caltrain Station,37.252801,-121.797369,"",Local
+ct_limited_20120701,Burlingame Caltrain,WD_20120701,0,30.9,11.8,Burlingame Caltrain Station,37.579719,-122.345266,"",Limited
+ct_limited_20120701,Burlingame Caltrain,WD_20120701,1,32.0,16.0,Burlingame Caltrain Station,37.579719,-122.345266,"",Limited
+ct_local_20120701,Burlingame Caltrain,WD_20120701,0,55.6,9.0,Burlingame Caltrain Station,37.579719,-122.345266,"",Local
+ct_local_20120701,Burlingame Caltrain,WD_20120701,1,60.0,12.0,Burlingame Caltrain Station,37.579719,-122.345266,"",Local
+ct_limited_20120701,California Ave Caltrain,WD_20120701,0,41.3,16.1,California Ave Caltrain Station,37.428835,-122.142703,"",Limited
+ct_limited_20120701,California Ave Caltrain,WD_20120701,1,42.7,14.9,California Ave Caltrain Station,37.428835,-122.142703,"",Limited
+ct_local_20120701,California Ave Caltrain,WD_20120701,0,55.6,9.0,California Ave Caltrain Station,37.428835,-122.142703,"",Local
+ct_local_20120701,California Ave Caltrain,WD_20120701,1,60.0,12.0,California Ave Caltrain Station,37.428835,-122.142703,"",Local
+ct_limited_20120701,Capitol Caltrain,WD_20120701,0,29.0,8.4,Capitol Caltrain Station,37.284359,-121.841589,"",Limited
+ct_limited_20120701,Capitol Caltrain,WD_20120701,1,40.0,,Capitol Caltrain Station,37.284359,-121.841589,"",Limited
+ct_local_20120701,Capitol Caltrain,WD_20120701,1,,,Capitol Caltrain Station,37.284359,-121.841589,"",Local
+ct_limited_20120701,College Park Caltrain,WD_20120701,0,,,College Park Caltrain Station,37.34217,-121.914998,"",Limited
+ct_limited_20120701,College Park Caltrain,WD_20120701,1,,,College Park Caltrain Station,37.34217,-121.914998,"",Limited
+ct_local_20120701,College Park Caltrain,WD_20120701,0,,,College Park Caltrain Station,37.34217,-121.914998,"",Local
+ct_local_20120701,College Park Caltrain,WD_20120701,1,,,College Park Caltrain Station,37.34217,-121.914998,"",Local
+ct_limited_20120701,Gilroy Caltrain,WD_20120701,0,29.0,8.4,Gilroy Caltrain Station,37.003084,-121.567091,"",Limited
+ct_limited_20120701,Gilroy Caltrain,WD_20120701,1,40.0,,Gilroy Caltrain Station,37.003084,-121.567091,"",Limited
+ct_local_20120701,Gilroy Caltrain,WD_20120701,1,,,Gilroy Caltrain Station,37.003084,-121.567091,"",Local
+ct_limited_20120701,Hayward Park Caltrain,WD_20120701,0,60.0,0.0,Hayward Park Caltrain Station,37.552346,-122.308916,"",Limited
+ct_limited_20120701,Hayward Park Caltrain,WD_20120701,1,60.0,0.0,Hayward Park Caltrain Station,37.552346,-122.308916,"",Limited
+ct_local_20120701,Hayward Park Caltrain,WD_20120701,0,55.6,9.0,Hayward Park Caltrain Station,37.552346,-122.308916,"",Local
+ct_local_20120701,Hayward Park Caltrain,WD_20120701,1,60.0,12.0,Hayward Park Caltrain Station,37.552346,-122.308916,"",Local
+ct_bullet_20120701,Hillsdale Caltrain,WD_20120701,0,60.0,0.0,Hillsdale Caltrain Station,37.537503,-122.298001,"",Bullet
+ct_bullet_20120701,Hillsdale Caltrain,WD_20120701,1,61.6,2.8,Hillsdale Caltrain Station,37.537503,-122.298001,"",Bullet
+ct_limited_20120701,Hillsdale Caltrain,WD_20120701,0,24.9,12.6,Hillsdale Caltrain Station,37.537503,-122.298001,"",Limited
+ct_limited_20120701,Hillsdale Caltrain,WD_20120701,1,25.9,14.2,Hillsdale Caltrain Station,37.537503,-122.298001,"",Limited
+ct_local_20120701,Hillsdale Caltrain,WD_20120701,0,55.6,9.0,Hillsdale Caltrain Station,37.537503,-122.298001,"",Local
+ct_local_20120701,Hillsdale Caltrain,WD_20120701,1,60.0,12.0,Hillsdale Caltrain Station,37.537503,-122.298001,"",Local
+ct_limited_20120701,Lawrence Caltrain,WD_20120701,0,37.4,18.2,Lawrence Caltrain Station,37.371578,-121.996982,"",Limited
+ct_limited_20120701,Lawrence Caltrain,WD_20120701,1,38.8,17.5,Lawrence Caltrain Station,37.371578,-121.996982,"",Limited
+ct_local_20120701,Lawrence Caltrain,WD_20120701,0,55.6,9.0,Lawrence Caltrain Station,37.371578,-121.996982,"",Local
+ct_local_20120701,Lawrence Caltrain,WD_20120701,1,60.0,12.0,Lawrence Caltrain Station,37.371578,-121.996982,"",Local
+ct_bullet_20120701,Menlo Park Caltrain,WD_20120701,0,60.0,0.0,Menlo Park Caltrain Station,37.454604,-122.182518,"",Bullet
+ct_bullet_20120701,Menlo Park Caltrain,WD_20120701,1,60.0,0.0,Menlo Park Caltrain Station,37.454604,-122.182518,"",Bullet
+ct_limited_20120701,Menlo Park Caltrain,WD_20120701,0,29.9,20.4,Menlo Park Caltrain Station,37.454604,-122.182518,"",Limited
+ct_limited_20120701,Menlo Park Caltrain,WD_20120701,1,31.0,20.6,Menlo Park Caltrain Station,37.454604,-122.182518,"",Limited
+ct_local_20120701,Menlo Park Caltrain,WD_20120701,0,55.6,9.0,Menlo Park Caltrain Station,37.454604,-122.182518,"",Local
+ct_local_20120701,Menlo Park Caltrain,WD_20120701,1,60.0,12.0,Menlo Park Caltrain Station,37.454604,-122.182518,"",Local
+ct_bullet_20120701,Millbrae Caltrain,WD_20120701,0,29.0,9.9,Millbrae Caltrain Station,37.600006,-122.386534,"",Bullet
+ct_bullet_20120701,Millbrae Caltrain,WD_20120701,1,29.3,13.3,Millbrae Caltrain Station,37.600006,-122.386534,"",Bullet
+ct_limited_20120701,Millbrae Caltrain,WD_20120701,0,28.3,14.1,Millbrae Caltrain Station,37.600006,-122.386534,"",Limited
+ct_limited_20120701,Millbrae Caltrain,WD_20120701,1,29.2,17.1,Millbrae Caltrain Station,37.600006,-122.386534,"",Limited
+ct_local_20120701,Millbrae Caltrain,WD_20120701,0,55.6,9.0,Millbrae Caltrain Station,37.600006,-122.386534,"",Local
+ct_local_20120701,Millbrae Caltrain,WD_20120701,1,60.0,12.0,Millbrae Caltrain Station,37.600006,-122.386534,"",Local
+ct_limited_20120701,Morgan Hill Caltrain,WD_20120701,0,29.0,8.4,Morgan Hill Caltrain Station,37.129081,-121.650721,"",Limited
+ct_limited_20120701,Morgan Hill Caltrain,WD_20120701,1,40.0,,Morgan Hill Caltrain Station,37.129081,-121.650721,"",Limited
+ct_local_20120701,Morgan Hill Caltrain,WD_20120701,1,,,Morgan Hill Caltrain Station,37.129081,-121.650721,"",Local
+ct_bullet_20120701,Mountain View Caltrain,WD_20120701,0,40.0,17.4,Mountain View Caltrain Station,37.393879,-122.076327,"",Bullet
+ct_bullet_20120701,Mountain View Caltrain,WD_20120701,1,40.8,22.1,Mountain View Caltrain Station,37.393879,-122.076327,"",Bullet
+ct_limited_20120701,Mountain View Caltrain,WD_20120701,0,25.6,14.5,Mountain View Caltrain Station,37.393879,-122.076327,"",Limited
+ct_limited_20120701,Mountain View Caltrain,WD_20120701,1,26.4,9.1,Mountain View Caltrain Station,37.393879,-122.076327,"",Limited
+ct_local_20120701,Mountain View Caltrain,WD_20120701,0,55.6,9.0,Mountain View Caltrain Station,37.393879,-122.076327,"",Local
+ct_local_20120701,Mountain View Caltrain,WD_20120701,1,60.0,12.0,Mountain View Caltrain Station,37.393879,-122.076327,"",Local
+ct_bullet_20120701,Palo Alto Caltrain,WD_20120701,0,33.0,17.6,Palo Alto Caltrain Station,37.44307,-122.1649,"",Bullet
+ct_bullet_20120701,Palo Alto Caltrain,WD_20120701,1,34.6,13.9,Palo Alto Caltrain Station,37.44307,-122.1649,"",Bullet
+ct_limited_20120701,Palo Alto Caltrain,WD_20120701,0,25.3,13.9,Palo Alto Caltrain Station,37.44307,-122.1649,"",Limited
+ct_limited_20120701,Palo Alto Caltrain,WD_20120701,1,26.3,15.2,Palo Alto Caltrain Station,37.44307,-122.1649,"",Limited
+ct_local_20120701,Palo Alto Caltrain,WD_20120701,0,55.6,9.0,Palo Alto Caltrain Station,37.44307,-122.1649,"",Local
+ct_local_20120701,Palo Alto Caltrain,WD_20120701,1,60.0,12.0,Palo Alto Caltrain Station,37.44307,-122.1649,"",Local
+ct_bullet_20120701,Redwood City Caltrain,WD_20120701,0,60.0,0.0,Redwood City Caltrain Station,37.485412,-122.231957,"",Bullet
+ct_bullet_20120701,Redwood City Caltrain,WD_20120701,1,60.0,0.0,Redwood City Caltrain Station,37.485412,-122.231957,"",Bullet
+ct_limited_20120701,Redwood City Caltrain,WD_20120701,0,27.3,23.3,Redwood City Caltrain Station,37.485412,-122.231957,"",Limited
+ct_limited_20120701,Redwood City Caltrain,WD_20120701,1,28.3,25.2,Redwood City Caltrain Station,37.485412,-122.231957,"",Limited
+ct_local_20120701,Redwood City Caltrain,WD_20120701,0,55.6,9.0,Redwood City Caltrain Station,37.485412,-122.231957,"",Local
+ct_local_20120701,Redwood City Caltrain,WD_20120701,1,60.0,12.0,Redwood City Caltrain Station,37.485412,-122.231957,"",Local
+ct_limited_20120701,San Antonio Caltrain,WD_20120701,0,55.2,10.7,San Antonio Caltrain Station,37.406163,-122.105787,"",Limited
+ct_limited_20120701,San Antonio Caltrain,WD_20120701,1,62.6,5.8,San Antonio Caltrain Station,37.406163,-122.105787,"",Limited
+ct_local_20120701,San Antonio Caltrain,WD_20120701,0,55.6,9.0,San Antonio Caltrain Station,37.406163,-122.105787,"",Local
+ct_local_20120701,San Antonio Caltrain,WD_20120701,1,60.0,12.0,San Antonio Caltrain Station,37.406163,-122.105787,"",Local
+ct_limited_20120701,San Bruno Caltrain,WD_20120701,0,31.6,13.5,San Bruno Caltrain Station,37.621572,-122.406408,"",Limited
+ct_limited_20120701,San Bruno Caltrain,WD_20120701,1,33.4,18.6,San Bruno Caltrain Station,37.621572,-122.406408,"",Limited
+ct_local_20120701,San Bruno Caltrain,WD_20120701,0,55.6,9.0,San Bruno Caltrain Station,37.621572,-122.406408,"",Local
+ct_local_20120701,San Bruno Caltrain,WD_20120701,1,60.0,12.0,San Bruno Caltrain Station,37.621572,-122.406408,"",Local
+ct_limited_20120701,San Carlos Caltrain,WD_20120701,0,24.7,13.2,San Carlos Caltrain Station,37.507361,-122.260365,"",Limited
+ct_limited_20120701,San Carlos Caltrain,WD_20120701,1,25.7,15.8,San Carlos Caltrain Station,37.507361,-122.260365,"",Limited
+ct_local_20120701,San Carlos Caltrain,WD_20120701,0,55.6,9.0,San Carlos Caltrain Station,37.507361,-122.260365,"",Local
+ct_local_20120701,San Carlos Caltrain,WD_20120701,1,60.0,12.0,San Carlos Caltrain Station,37.507361,-122.260365,"",Local
+ct_bullet_20120701,San Francisco Caltrain,WD_20120701,0,28.8,10.5,San Francisco Caltrain Station,37.776439,-122.394323,"",Bullet
+ct_bullet_20120701,San Francisco Caltrain,WD_20120701,1,29.3,13.3,San Francisco Caltrain Station,37.776439,-122.394323,"",Bullet
+ct_limited_20120701,San Francisco Caltrain,WD_20120701,0,21.2,7.9,San Francisco Caltrain Station,37.776439,-122.394323,"",Limited
+ct_limited_20120701,San Francisco Caltrain,WD_20120701,1,22.0,11.7,San Francisco Caltrain Station,37.776439,-122.394323,"",Limited
+ct_local_20120701,San Francisco Caltrain,WD_20120701,0,55.6,9.0,San Francisco Caltrain Station,37.776439,-122.394323,"",Local
+ct_local_20120701,San Francisco Caltrain,WD_20120701,1,60.0,12.0,San Francisco Caltrain Station,37.776439,-122.394323,"",Local
+ct_bullet_20120701,San Jose Caltrain,WD_20120701,0,28.6,11.7,San Jose Caltrain Station,37.330196,-121.901985,"",Bullet
+ct_bullet_20120701,San Jose Caltrain,WD_20120701,1,29.5,12.4,San Jose Caltrain Station,37.330196,-121.901985,"",Bullet
+ct_limited_20120701,San Jose Caltrain,WD_20120701,0,21.5,8.6,San Jose Caltrain Station,37.330196,-121.901985,"",Limited
+ct_limited_20120701,San Jose Caltrain,WD_20120701,1,22.0,6.4,San Jose Caltrain Station,37.330196,-121.901985,"",Limited
+ct_local_20120701,San Jose Caltrain,WD_20120701,0,55.4,9.0,San Jose Caltrain Station,37.330196,-121.901985,"",Local
+ct_local_20120701,San Jose Caltrain,WD_20120701,1,60.1,12.0,San Jose Caltrain Station,37.330196,-121.901985,"",Local
+ct_limited_20120701,San Martin Caltrain,WD_20120701,0,29.0,8.4,San Martin Caltrain Station,37.085775,-121.610809,"",Limited
+ct_limited_20120701,San Martin Caltrain,WD_20120701,1,40.0,,San Martin Caltrain Station,37.085775,-121.610809,"",Limited
+ct_local_20120701,San Martin Caltrain,WD_20120701,1,,,San Martin Caltrain Station,37.085775,-121.610809,"",Local
+ct_bullet_20120701,San Mateo Caltrain,WD_20120701,0,60.0,0.0,San Mateo Caltrain Station,37.568209,-122.323933,"",Bullet
+ct_bullet_20120701,San Mateo Caltrain,WD_20120701,1,60.0,0.0,San Mateo Caltrain Station,37.568209,-122.323933,"",Bullet
+ct_limited_20120701,San Mateo Caltrain,WD_20120701,0,24.6,10.4,San Mateo Caltrain Station,37.568209,-122.323933,"",Limited
+ct_limited_20120701,San Mateo Caltrain,WD_20120701,1,25.6,14.9,San Mateo Caltrain Station,37.568209,-122.323933,"",Limited
+ct_local_20120701,San Mateo Caltrain,WD_20120701,0,55.6,9.0,San Mateo Caltrain Station,37.568209,-122.323933,"",Local
+ct_local_20120701,San Mateo Caltrain,WD_20120701,1,60.0,12.0,San Mateo Caltrain Station,37.568209,-122.323933,"",Local
+ct_limited_20120701,Santa Clara Caltrain,WD_20120701,0,27.6,6.3,Santa Clara Caltrain Station,37.352915,-121.936376,"",Limited
+ct_limited_20120701,Santa Clara Caltrain,WD_20120701,1,30.4,12.3,Santa Clara Caltrain Station,37.352915,-121.936376,"",Limited
+ct_local_20120701,Santa Clara Caltrain,WD_20120701,0,55.6,9.0,Santa Clara Caltrain Station,37.352915,-121.936376,"",Local
+ct_local_20120701,Santa Clara Caltrain,WD_20120701,1,60.0,12.0,Santa Clara Caltrain Station,37.352915,-121.936376,"",Local
+ct_limited_20120701,So. San Francisco Caltrain,WD_20120701,0,37.1,17.9,So. San Francisco Caltrain Station,37.657013,-122.405516,"",Limited
+ct_limited_20120701,So. San Francisco Caltrain,WD_20120701,1,37.1,17.9,So. San Francisco Caltrain Station,37.657013,-122.405516,"",Limited
+ct_local_20120701,So. San Francisco Caltrain,WD_20120701,0,55.6,9.0,So. San Francisco Caltrain Station,37.657013,-122.405516,"",Local
+ct_local_20120701,So. San Francisco Caltrain,WD_20120701,1,60.0,12.0,So. San Francisco Caltrain Station,37.657013,-122.405516,"",Local
+ct_bullet_20120701,Sunnyvale Caltrain,WD_20120701,0,60.0,0.0,Sunnyvale Caltrain Station,37.377589,-122.030116,"",Bullet
+ct_bullet_20120701,Sunnyvale Caltrain,WD_20120701,1,60.0,0.0,Sunnyvale Caltrain Station,37.377589,-122.030116,"",Bullet
+ct_limited_20120701,Sunnyvale Caltrain,WD_20120701,0,39.4,17.2,Sunnyvale Caltrain Station,37.377589,-122.030116,"",Limited
+ct_limited_20120701,Sunnyvale Caltrain,WD_20120701,1,44.7,15.3,Sunnyvale Caltrain Station,37.377589,-122.030116,"",Limited
+ct_local_20120701,Sunnyvale Caltrain,WD_20120701,0,55.6,9.0,Sunnyvale Caltrain Station,37.377589,-122.030116,"",Local
+ct_local_20120701,Sunnyvale Caltrain,WD_20120701,1,60.0,12.0,Sunnyvale Caltrain Station,37.377589,-122.030116,"",Local
+ct_bullet_20120701,Tamien Caltrain,WD_20120701,0,60.0,0.0,Tamien Caltrain Station,37.31164,-121.8839,"",Bullet
+ct_bullet_20120701,Tamien Caltrain,WD_20120701,1,60.0,0.0,Tamien Caltrain Station,37.31164,-121.8839,"",Bullet
+ct_limited_20120701,Tamien Caltrain,WD_20120701,0,33.0,11.7,Tamien Caltrain Station,37.31164,-121.8839,"",Limited
+ct_limited_20120701,Tamien Caltrain,WD_20120701,1,37.1,18.4,Tamien Caltrain Station,37.31164,-121.8839,"",Limited
+ct_local_20120701,Tamien Caltrain,WD_20120701,0,60.0,,Tamien Caltrain Station,37.31164,-121.8839,"",Local
+ct_local_20120701,Tamien Caltrain,WD_20120701,1,60.0,,Tamien Caltrain Station,37.31164,-121.8839,"",Local
+ct_local_20120701,22nd Street Caltrain,WE_20120701,0,60.0,0.0,22nd Street Caltrain Station,37.757674,-122.392636,"",Local
+ct_local_20120701,22nd Street Caltrain,WE_20120701,1,60.0,0.0,22nd Street Caltrain Station,37.757674,-122.392636,"",Local
+ct_local_20120701,Atherton Caltrain,WE_20120701,0,60.0,0.0,Atherton Caltrain Station,37.464349,-122.198106,"",Local
+ct_local_20120701,Atherton Caltrain,WE_20120701,1,60.0,0.0,Atherton Caltrain Station,37.464349,-122.198106,"",Local
+ct_local_20120701,Bayshore Caltrain,WE_20120701,0,60.0,0.0,Bayshore Caltrain Station,37.709544,-122.401318,"",Local
+ct_local_20120701,Bayshore Caltrain,WE_20120701,1,60.0,0.0,Bayshore Caltrain Station,37.709544,-122.401318,"",Local
+ct_local_20120701,Belmont Caltrain,WE_20120701,0,60.0,0.0,Belmont Caltrain Station,37.520504,-122.276075,"",Local
+ct_local_20120701,Belmont Caltrain,WE_20120701,1,60.0,0.0,Belmont Caltrain Station,37.520504,-122.276075,"",Local
+ct_local_20120701,Broadway Caltrain,WE_20120701,0,60.0,0.0,Broadway Caltrain Station,37.587466,-122.363233,"",Local
+ct_local_20120701,Broadway Caltrain,WE_20120701,1,60.0,0.0,Broadway Caltrain Station,37.587466,-122.363233,"",Local
+ct_local_20120701,Burlingame Caltrain,WE_20120701,0,60.0,0.0,Burlingame Caltrain Station,37.579719,-122.345266,"",Local
+ct_local_20120701,Burlingame Caltrain,WE_20120701,1,60.0,0.0,Burlingame Caltrain Station,37.579719,-122.345266,"",Local
+ct_local_20120701,California Ave Caltrain,WE_20120701,0,60.0,0.0,California Ave Caltrain Station,37.428835,-122.142703,"",Local
+ct_local_20120701,California Ave Caltrain,WE_20120701,1,60.0,0.0,California Ave Caltrain Station,37.428835,-122.142703,"",Local
+ct_local_20120701,Hayward Park Caltrain,WE_20120701,0,60.0,0.0,Hayward Park Caltrain Station,37.552346,-122.308916,"",Local
+ct_local_20120701,Hayward Park Caltrain,WE_20120701,1,60.0,0.0,Hayward Park Caltrain Station,37.552346,-122.308916,"",Local
+ct_bullet_20120701,Hillsdale Caltrain,WE_20120701,0,,,Hillsdale Caltrain Station,37.537503,-122.298001,"",Bullet
+ct_bullet_20120701,Hillsdale Caltrain,WE_20120701,1,,,Hillsdale Caltrain Station,37.537503,-122.298001,"",Bullet
+ct_local_20120701,Hillsdale Caltrain,WE_20120701,0,60.0,0.0,Hillsdale Caltrain Station,37.537503,-122.298001,"",Local
+ct_local_20120701,Hillsdale Caltrain,WE_20120701,1,60.0,0.0,Hillsdale Caltrain Station,37.537503,-122.298001,"",Local
+ct_local_20120701,Lawrence Caltrain,WE_20120701,0,60.0,0.0,Lawrence Caltrain Station,37.371578,-121.996982,"",Local
+ct_local_20120701,Lawrence Caltrain,WE_20120701,1,60.0,0.0,Lawrence Caltrain Station,37.371578,-121.996982,"",Local
+ct_local_20120701,Menlo Park Caltrain,WE_20120701,0,60.0,0.0,Menlo Park Caltrain Station,37.454604,-122.182518,"",Local
+ct_local_20120701,Menlo Park Caltrain,WE_20120701,1,60.0,0.0,Menlo Park Caltrain Station,37.454604,-122.182518,"",Local
+ct_bullet_20120701,Millbrae Caltrain,WE_20120701,0,,,Millbrae Caltrain Station,37.600006,-122.386534,"",Bullet
+ct_bullet_20120701,Millbrae Caltrain,WE_20120701,1,,,Millbrae Caltrain Station,37.600006,-122.386534,"",Bullet
+ct_local_20120701,Millbrae Caltrain,WE_20120701,0,60.0,0.0,Millbrae Caltrain Station,37.600006,-122.386534,"",Local
+ct_local_20120701,Millbrae Caltrain,WE_20120701,1,60.0,0.0,Millbrae Caltrain Station,37.600006,-122.386534,"",Local
+ct_bullet_20120701,Mountain View Caltrain,WE_20120701,0,,,Mountain View Caltrain Station,37.393879,-122.076327,"",Bullet
+ct_bullet_20120701,Mountain View Caltrain,WE_20120701,1,,,Mountain View Caltrain Station,37.393879,-122.076327,"",Bullet
+ct_local_20120701,Mountain View Caltrain,WE_20120701,0,60.0,0.0,Mountain View Caltrain Station,37.393879,-122.076327,"",Local
+ct_local_20120701,Mountain View Caltrain,WE_20120701,1,60.0,0.0,Mountain View Caltrain Station,37.393879,-122.076327,"",Local
+ct_bullet_20120701,Palo Alto Caltrain,WE_20120701,0,,,Palo Alto Caltrain Station,37.44307,-122.1649,"",Bullet
+ct_bullet_20120701,Palo Alto Caltrain,WE_20120701,1,,,Palo Alto Caltrain Station,37.44307,-122.1649,"",Bullet
+ct_local_20120701,Palo Alto Caltrain,WE_20120701,0,60.0,0.0,Palo Alto Caltrain Station,37.44307,-122.1649,"",Local
+ct_local_20120701,Palo Alto Caltrain,WE_20120701,1,60.0,0.0,Palo Alto Caltrain Station,37.44307,-122.1649,"",Local
+ct_bullet_20120701,Redwood City Caltrain,WE_20120701,0,,,Redwood City Caltrain Station,37.485412,-122.231957,"",Bullet
+ct_bullet_20120701,Redwood City Caltrain,WE_20120701,1,,,Redwood City Caltrain Station,37.485412,-122.231957,"",Bullet
+ct_local_20120701,Redwood City Caltrain,WE_20120701,0,60.0,0.0,Redwood City Caltrain Station,37.485412,-122.231957,"",Local
+ct_local_20120701,Redwood City Caltrain,WE_20120701,1,60.0,0.0,Redwood City Caltrain Station,37.485412,-122.231957,"",Local
+ct_local_20120701,San Antonio Caltrain,WE_20120701,0,60.0,0.0,San Antonio Caltrain Station,37.406163,-122.105787,"",Local
+ct_local_20120701,San Antonio Caltrain,WE_20120701,1,60.0,0.0,San Antonio Caltrain Station,37.406163,-122.105787,"",Local
+ct_local_20120701,San Bruno Caltrain,WE_20120701,0,60.0,0.0,San Bruno Caltrain Station,37.621572,-122.406408,"",Local
+ct_local_20120701,San Bruno Caltrain,WE_20120701,1,60.0,0.0,San Bruno Caltrain Station,37.621572,-122.406408,"",Local
+ct_local_20120701,San Carlos Caltrain,WE_20120701,0,60.0,0.0,San Carlos Caltrain Station,37.507361,-122.260365,"",Local
+ct_local_20120701,San Carlos Caltrain,WE_20120701,1,60.0,0.0,San Carlos Caltrain Station,37.507361,-122.260365,"",Local
+ct_bullet_20120701,San Francisco Caltrain,WE_20120701,0,,,San Francisco Caltrain Station,37.776439,-122.394323,"",Bullet
+ct_bullet_20120701,San Francisco Caltrain,WE_20120701,1,,,San Francisco Caltrain Station,37.776439,-122.394323,"",Bullet
+ct_local_20120701,San Francisco Caltrain,WE_20120701,0,60.0,0.0,San Francisco Caltrain Station,37.776439,-122.394323,"",Local
+ct_local_20120701,San Francisco Caltrain,WE_20120701,1,60.0,0.0,San Francisco Caltrain Station,37.776439,-122.394323,"",Local
+ct_bullet_20120701,San Jose Caltrain,WE_20120701,0,,,San Jose Caltrain Station,37.330196,-121.901985,"",Bullet
+ct_bullet_20120701,San Jose Caltrain,WE_20120701,1,,,San Jose Caltrain Station,37.330196,-121.901985,"",Bullet
+ct_local_20120701,San Jose Caltrain,WE_20120701,0,60.0,0.0,San Jose Caltrain Station,37.330196,-121.901985,"",Local
+ct_local_20120701,San Jose Caltrain,WE_20120701,1,60.0,0.0,San Jose Caltrain Station,37.330196,-121.901985,"",Local
+ct_bullet_20120701,San Mateo Caltrain,WE_20120701,0,,,San Mateo Caltrain Station,37.568209,-122.323933,"",Bullet
+ct_bullet_20120701,San Mateo Caltrain,WE_20120701,1,,,San Mateo Caltrain Station,37.568209,-122.323933,"",Bullet
+ct_local_20120701,San Mateo Caltrain,WE_20120701,0,60.0,0.0,San Mateo Caltrain Station,37.568209,-122.323933,"",Local
+ct_local_20120701,San Mateo Caltrain,WE_20120701,1,60.0,0.0,San Mateo Caltrain Station,37.568209,-122.323933,"",Local
+ct_local_20120701,Santa Clara Caltrain,WE_20120701,0,60.0,0.0,Santa Clara Caltrain Station,37.352915,-121.936376,"",Local
+ct_local_20120701,Santa Clara Caltrain,WE_20120701,1,60.0,0.0,Santa Clara Caltrain Station,37.352915,-121.936376,"",Local
+ct_local_20120701,So. San Francisco Caltrain,WE_20120701,0,60.0,0.0,So. San Francisco Caltrain Station,37.657013,-122.405516,"",Local
+ct_local_20120701,So. San Francisco Caltrain,WE_20120701,1,60.0,0.0,So. San Francisco Caltrain Station,37.657013,-122.405516,"",Local
+ct_bullet_20120701,Sunnyvale Caltrain,WE_20120701,0,,,Sunnyvale Caltrain Station,37.377589,-122.030116,"",Bullet
+ct_bullet_20120701,Sunnyvale Caltrain,WE_20120701,1,,,Sunnyvale Caltrain Station,37.377589,-122.030116,"",Bullet
+ct_local_20120701,Sunnyvale Caltrain,WE_20120701,0,60.0,0.0,Sunnyvale Caltrain Station,37.377589,-122.030116,"",Local
+ct_local_20120701,Sunnyvale Caltrain,WE_20120701,1,60.0,0.0,Sunnyvale Caltrain Station,37.377589,-122.030116,"",Local

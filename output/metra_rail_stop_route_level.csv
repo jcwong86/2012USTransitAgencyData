@@ -1,0 +1,656 @@
+route_id,stop_id,service_id,direction_id,avghdwy,stdev_hdwy,stop_name,stop_lat,stop_lon,route_short_name,route_long_name
+RI,103RD-BEV,S1,0,26.4,14.6,103rd St. - Beverly Hills Metra,41.706111,-87.668889,RI,Rock Island
+ME,103RD-UP,S1,0,24.6,17.4,103rd St. (Rosemoor) Metra,41.706944,-87.607222,ME,Metra Electric
+RI,107TH-BEV,S1,0,25.9,15.3,107th St. - Beverly Hills Metra,41.698889,-87.67,RI,Rock Island
+ME,107TH-UP,S1,0,27.3,18.5,107th St. Metra,41.699722,-87.608889,ME,Metra Electric
+RI,111TH-BEV,S1,0,27.2,15.6,111th St. - Morgan Park Metra,41.692778,-87.670556,RI,Rock Island
+ME,111TH-UP,S1,0,25.7,18.3,111th St. (Pullman) Metra,41.692778,-87.610556,ME,Metra Electric
+RI,115TH-BEV,S1,0,28.0,16.3,115th St. - Morgan Park Metra,41.685,-87.671667,RI,Rock Island
+RI,119TH-BEV,S1,0,26.8,17.7,119th St. Metra,41.676389,-87.6725,RI,Rock Island
+RI,123RD-BEV,S1,0,26.3,18.6,123rd St. Metra,41.67,-87.673611,RI,Rock Island
+SWS,143RD-SWS,S1,0,38.5,21.2,Orland Park 143rd Metra,41.630556,-87.859167,SWS,Southwest Service
+ME,147TH-UP,S1,0,24.0,16.0,147th St. Metra,41.622778,-87.636111,ME,Metra Electric
+SWS,153RD-SWS,S1,0,37.5,22.4,Orland Park 153rd Metra,41.609444,-87.873333,SWS,Southwest Service
+SWS,179TH-SWS,S1,0,32.1,17.8,Orland Park 179th Metra,41.563889,-87.9025,SWS,Southwest Service
+ME,18TH-UP,S1,0,24.0,14.4,18th St. Metra,41.858333,-87.618056,ME,Metra Electric
+ME,211TH-UP,S1,0,22.9,13.3,211th St. Metra,41.506111,-87.698333,ME,Metra Electric
+ME,27TH-UP,S1,0,18.5,14.8,27th St. Metra,41.844167,-87.613333,ME,Metra Electric
+RI,35TH,S1,0,22.4,17.9,"35th St. / ""Lou"" Jones Metra",41.831389,-87.629167,RI,Rock Island
+ME,47TH-UP,S1,0,23.3,16.4,47th St. (Kenwood) Metra,41.809722,-87.591389,ME,Metra Electric
+ME,51ST/53RD,S1,0,18.4,16.9,51st/53rd St. (Hyde Park) Metra,41.8,-87.586944,ME,Metra Electric
+ME,55-56-57TH,S1,0,13.4,14.8,55th - 56th - 57th St. Metra,41.793333,-87.5875,ME,Metra Electric
+ME,59TH-UP,S1,0,17.1,17.0,59th St. (U. of Chicago) Metra,41.788056,-87.588611,ME,Metra Electric
+ME,63RD-UP,S1,0,24.2,16.5,63rd St. Metra,41.780278,-87.590556,ME,Metra Electric
+ME,75TH-UP,S1,0,26.4,13.4,75th St. (Grand Crossing) Metra,41.758889,-87.595278,ME,Metra Electric
+ME,79TH-SC,S1,0,25.2,12.0,Cheltenham (79th St.) Metra,41.752222,-87.5525,ME,Metra Electric
+ME,79TH-UP,S1,0,25.3,13.4,79th St. (Chatham) Metra,41.750833,-87.597222,ME,Metra Electric
+ME,83RD-SC,S1,0,23.9,13.0,83rd St. Metra,41.745,-87.551667,ME,Metra Electric
+ME,83RD-UP,S1,0,26.7,13.8,83rd St. (Avalon Park) Metra,41.744167,-87.598611,ME,Metra Electric
+ME,87TH-SC,S1,0,24.6,13.4,87th St. Metra,41.737778,-87.548333,ME,Metra Electric
+ME,87TH-UP,S1,0,26.5,14.4,87th St. (Woodruff) Metra,41.736944,-87.600278,ME,Metra Electric
+RI,91ST-BEV,S1,0,25.5,14.7,91st St. - Beverly Hills Metra,41.728056,-87.667222,RI,Rock Island
+ME,91ST-UP,S1,0,28.8,14.7,91st St. Metra,41.729444,-87.601944,ME,Metra Electric
+ME,93RD-SC,S1,0,23.5,15.5,South Chicago (93rd) Metra,41.726667,-87.547778,ME,Metra Electric
+RI,95TH-BEV,S1,0,26.9,14.1,95th St. - Beverly Hills Metra,41.721389,-87.667222,RI,Rock Island
+ME,95TH-UP,S1,0,27.7,15.2,95th St. Metra,41.721944,-87.603889,ME,Metra Electric
+RI,99TH-BEV,S1,0,26.3,14.5,99th St. - Beverly Hills Metra,41.713611,-87.6675,RI,Rock Island
+NCS,ANTIOCH,S1,0,35.9,25.8,Antioch Metra,42.481111,-88.0925,NCS,North Central Service
+UP-NW,ARLINGTNHT,S1,0,24.7,17.4,Arlington Heights Metra,42.084167,-87.983611,UP-NW,Union Pacific Northwest
+UP-NW,ARLINGTNPK,S1,0,23.6,19.3,Arlington Park Metra,42.095278,-88.009167,UP-NW,Union Pacific Northwest
+SWS,ASHBURN,S1,0,36.2,25.0,Ashburn Metra,41.741667,-87.7125,SWS,Southwest Service
+ME,ASHLAND,S1,0,32.6,20.6,Ashland Metra,41.669444,-87.660556,ME,Metra Electric
+BNSF,AURORA,S1,0,21.4,18.8,Aurora Metra,41.760833,-88.308333,BNSF,Burlington Northern
+UP-NW,BARRINGTON,S1,0,22.3,19.8,Barrington Metra,42.152778,-88.131944,UP-NW,Union Pacific Northwest
+MD-W,BARTLETT,S1,0,26.0,16.4,Bartlett Metra,41.992222,-88.183889,MD-W,Milwaukee West
+UP-W,BELLWOOD,S1,0,30.6,19.2,Bellwood Metra,41.891389,-87.8825,UP-W,Union Pacific West
+BNSF,BELMONT,S1,0,24.9,20.1,Belmont Metra,41.795278,-88.038056,BNSF,Burlington Northern
+MD-W,BENSENVIL,S1,0,29.5,15.9,Bensenville Metra,41.956944,-87.941944,MD-W,Milwaukee West
+UP-W,BERKELEY,S1,0,32.5,20.7,Berkeley Metra,41.896111,-87.915278,UP-W,Union Pacific West
+BNSF,BERWYN,S1,0,26.1,15.9,Berwyn Metra,41.833056,-87.793611,BNSF,Burlington Northern
+MD-W,BIGTIMBER,S1,0,27.8,16.4,Big Timber Metra,42.058611,-88.327778,MD-W,Milwaukee West
+ME,BLUEISLAND,S1,0,32.6,20.4,Blue Island Metra,41.656111,-87.675833,ME,Metra Electric
+BNSF,BNWESTERN,S1,0,32.7,21.1,Western Avenue Metra,41.857778,-87.685278,BNSF,Burlington Northern
+UP-N,BRAESIDE,S1,0,23.6,15.1,Braeside Metra,42.152778,-87.7725,UP-N,Union Pacific North
+RI,BRAINERD,S1,0,26.0,14.8,Brainerd Metra,41.732222,-87.658889,RI,Rock Island
+BNSF,BROOKFIELD,S1,0,28.6,18.2,Brookfield Metra,41.821944,-87.843056,BNSF,Burlington Northern
+ME,BRYNMAWR,S1,0,23.3,15.4,Bryn Mawr Metra,41.766111,-87.576667,ME,Metra Electric
+NCS,BUFFGROVE,S1,0,34.2,27.0,Buffalo Grove Metra,42.168611,-87.941389,NCS,North Central Service
+ME,BURROAK,S1,0,32.6,20.1,Burr Oak Metra,41.662222,-87.668889,ME,Metra Electric
+ME,CALUMET,S1,0,23.8,17.3,Calumet Metra,41.573611,-87.6625,ME,Metra Electric
+UP-NW,CARY,S1,0,28.3,17.9,Cary Metra,42.208889,-88.241389,UP-NW,Union Pacific Northwest
+UP-N,CENTRALST,S1,0,21.5,18.5,Central St. Metra,42.064167,-87.698056,UP-N,Union Pacific North
+SWS,CHICRIDGE,S1,0,34.6,22.6,Chicago Ridge Metra,41.703333,-87.780278,SWS,Southwest Service
+BNSF,CICERO,S1,0,29.9,16.1,Cicero Metra,41.844167,-87.745556,BNSF,Burlington Northern
+BNSF,CLARNDNHIL,S1,0,21.8,14.7,Clarendon Hills Metra,41.796944,-87.953611,BNSF,Burlington Northern
+UP-N,CLYBOURN,S1,0,20.3,15.3,Clybourn Metra,41.916944,-87.668056,UP-N,Union Pacific North
+UP-NW,CLYBOURN,S1,0,19.8,16.0,Clybourn Metra,41.916944,-87.668056,UP-NW,Union Pacific Northwest
+UP-W,COLLEGEAVE,S1,0,26.7,13.5,College Ave Metra,41.868333,-88.090278,UP-W,Union Pacific West
+BNSF,CONGRESSPK,S1,0,43.7,27.6,Congress Park Metra,41.818889,-87.8575,BNSF,Burlington Northern
+UP-NW,CRYSTAL,S1,0,28.6,19.2,Crystal Lake Metra,42.244167,-88.317222,UP-NW,Union Pacific Northwest
+UP-NW,CUMBERLAND,S1,0,27.9,16.4,Cumberland Metra,42.0525,-87.912222,UP-NW,Union Pacific Northwest
+BNSF,CUS,S1,0,14.8,17.5,Chicago Union Station Metra,41.878889,-87.638889,BNSF,Burlington Northern
+HC,CUS,S1,0,40.5,4.9,Chicago Union Station Metra,41.878889,-87.638889,HC,Heritage Corridor
+MD-N,CUS,S1,0,19.2,14.5,Chicago Union Station Metra,41.878889,-87.638889,MD-N,Milwaukee North
+MD-W,CUS,S1,0,20.6,15.2,Chicago Union Station Metra,41.878889,-87.638889,MD-W,Milwaukee West
+NCS,CUS,S1,0,26.6,22.1,Chicago Union Station Metra,41.878889,-87.638889,NCS,North Central Service
+SWS,CUS,S1,0,31.5,19.2,Chicago Union Station Metra,41.878889,-87.638889,SWS,Southwest Service
+MD-N,DEERFIELD,S1,0,23.9,20.6,Deerfield Metra,42.168056,-87.85,MD-N,Milwaukee North
+UP-NW,DEEROAD,S1,0,29.7,17.9,Dee Road Metra,42.024167,-87.856111,UP-NW,Union Pacific Northwest
+UP-NW,DESPLAINES,S1,0,23.7,17.5,Des Plaines Metra,42.040833,-87.886667,UP-NW,Union Pacific Northwest
+MD-N,EDGEBROOK,S1,0,23.2,17.1,Edgebrook Metra,41.997778,-87.765556,MD-N,Milwaukee North
+UP-NW,EDISONPK,S1,0,33.9,20.1,Edison Park Metra,42.002222,-87.8175,UP-NW,Union Pacific Northwest
+UP-W,ELBURN,S1,0,27.9,14.6,Elburn Metra,41.890556,-88.463889,UP-W,Union Pacific West
+MD-W,ELGIN,S1,0,26.5,13.1,Elgin Metra,42.036111,-88.286111,MD-W,Milwaukee West
+UP-W,ELMHURST,S1,0,26.9,21.9,Elmhurst Metra,41.899722,-87.940833,UP-W,Union Pacific West
+MD-W,ELMWOODPK,S1,0,27.5,15.2,Elmwood Park Metra,41.924722,-87.814722,MD-W,Milwaukee West
+UP-N,EVANSTON,S1,0,22.9,19.0,Evanston (Davis St.) Metra,42.048056,-87.684722,UP-N,Union Pacific North
+BNSF,FAIRVIEWDG,S1,0,23.7,15.1,Fairview Ave. Metra,41.795278,-87.993611,BNSF,Burlington Northern
+ME,FLOSSMOOR,S1,0,23.1,17.0,Flossmoor Metra,41.543056,-87.678611,ME,Metra Electric
+MD-N,FORESTGLEN,S1,0,24.9,19.2,Forest Glen Metra,41.978056,-87.755556,MD-N,Milwaukee North
+MD-N,FOXLAKE,S1,0,34.1,26.9,Fox Lake Metra,42.398333,-88.182222,MD-N,Milwaukee North
+UP-NW,FOXRG,S1,0,29.3,17.8,Fox River Grove Metra,42.197778,-88.219444,UP-NW,Union Pacific Northwest
+MD-W,FRANKLIN,S1,0,21.2,15.5,Franklin Park Metra,41.936667,-87.866389,MD-W,Milwaukee West
+NCS,FRANKLINPK,S1,0,48.5,25.9,Franklin Pk Metra,41.937778,-87.86,NCS,North Central Service
+UP-N,FTSHERIDAN,S1,0,31.7,19.7,Fort Sheridan Metra,42.2175,-87.820833,UP-N,Union Pacific North
+MD-W,GALEWOOD,S1,0,26.2,15.3,Galewood Metra,41.916389,-87.785833,MD-W,Milwaukee West
+UP-W,GENEVA,S1,0,26.3,18.2,Geneva Metra,41.881667,-88.31,UP-W,Union Pacific West
+UP-NW,GLADSTONEP,S1,0,40.6,13.5,Gladstone Park Metra,41.979722,-87.778056,UP-NW,Union Pacific Northwest
+UP-N,GLENCOE,S1,0,25.1,14.9,Glencoe Metra,42.135556,-87.758056,UP-N,Union Pacific North
+UP-W,GLENELLYN,S1,0,24.8,13.3,Glen Ellyn Metra,41.876667,-88.064722,UP-W,Union Pacific West
+MD-N,GLENVIEW,S1,0,20.1,13.2,Glenview Metra,42.075,-87.805556,MD-N,Milwaukee North
+MD-N,GOLF,S1,0,24.2,13.1,Golf Metra,42.058333,-87.796944,MD-N,Milwaukee North
+MD-W,GRAND/CIC,S1,0,31.2,20.5,Grand/Cicero Metra,41.914444,-87.746111,MD-W,Milwaukee West
+MD-N,GRAYLAND,S1,0,25.4,17.6,Grayland Metra,41.948889,-87.740278,MD-N,Milwaukee North
+MD-N,GRAYSLAKE,S1,0,28.9,18.2,Grayslake Metra,42.333611,-88.043333,MD-N,Milwaukee North
+NCS,GRAYSLAKE.,S1,0,43.8,24.8,Washington St (Grayslake) Metra,42.359167,-88.050556,NCS,North Central Service
+RI,GRESHAM,S1,0,24.1,16.7,Gresham Metra,41.736389,-87.644722,RI,Rock Island
+UP-N,GRTLAKES,S1,0,27.2,15.4,Great Lakes Metra,42.306944,-87.846389,UP-N,Union Pacific North
+BNSF,HALSTED,S1,0,32.0,19.8,Halsted Street Metra,41.860278,-87.647222,BNSF,Burlington Northern
+MD-W,HANOVERP,S1,0,24.9,16.5,Hanover Park Metra,41.988056,-88.149167,MD-W,Milwaukee West
+MD-W,HANSONPK,S1,0,26.3,13.6,Hanson Park Metra,41.916667,-87.766944,MD-W,Milwaukee West
+BNSF,HARLEM,S1,0,29.5,17.4,Harlem Ave. Metra,41.831389,-87.801944,BNSF,Burlington Northern
+UP-NW,HARVARD,S1,0,36.6,17.9,Harvard Metra,42.419722,-88.6175,UP-NW,Union Pacific Northwest
+ME,HARVEY,S1,0,23.2,15.9,Harvey Metra,41.608333,-87.643889,ME,Metra Electric
+ME,HAZELCREST,S1,0,22.9,16.6,Hazel Crest Metra,41.580833,-87.658611,ME,Metra Electric
+MD-N,HEALY,S1,0,23.7,15.1,Healy Metra,41.924722,-87.727778,MD-N,Milwaukee North
+RI,HICKORYCRK,S1,0,25.7,19.8,Hickory Creek Metra,41.548611,-87.845556,RI,Rock Island
+UP-N,HIGHLANDPK,S1,0,22.3,17.1,Highland Park Metra,42.183333,-87.7975,UP-N,Union Pacific North
+BNSF,HIGHLANDS,S1,0,26.4,13.9,Highlands Metra,41.805,-87.918333,BNSF,Burlington Northern
+UP-N,HIGHWOOD,S1,0,27.9,20.5,Highwood Metra,42.203333,-87.810556,UP-N,Union Pacific North
+BNSF,HINSDALE,S1,0,20.3,15.7,Hinsdale Metra,41.802778,-87.928333,BNSF,Burlington Northern
+BNSF,HOLLYWOOD,S1,0,33.0,19.1,Hollywood Metra,41.824444,-87.833889,BNSF,Burlington Northern
+ME,HOMEWOOD,S1,0,27.6,17.3,Homewood Metra,41.562222,-87.668611,ME,Metra Electric
+UP-N,HUBARDWOOD,S1,0,28.2,13.6,Hubbard Woods Metra,42.118056,-87.743611,UP-N,Union Pacific North
+UP-N,INDIANHILL,S1,0,23.2,14.8,Indian Hill Metra,42.094444,-87.723889,UP-N,Union Pacific North
+MD-N,INGLESIDE,S1,0,41.1,22.1,Ingleside Metra,42.383889,-88.153611,MD-N,Milwaukee North
+UP-NW,IRVINGPK,S1,0,26.7,14.6,Irving Park Metra,41.9525,-87.729722,UP-NW,Union Pacific Northwest
+MD-W,ITASCA,S1,0,26.5,12.4,Itasca Metra,41.971389,-88.014167,MD-W,Milwaukee West
+ME,IVANHOE,S1,0,23.9,15.6,Ivanhoe Metra,41.633333,-87.630278,ME,Metra Electric
+UP-NW,JEFFERSONP,S1,0,26.7,15.8,Jefferson Park Metra,41.971389,-87.763333,UP-NW,Union Pacific Northwest
+HC,JOLIET,S1,0,40.5,4.9,Joliet Metra,41.524444,-88.079722,HC,Heritage Corridor
+RI,JOLIET,S1,0,26.7,15.6,Joliet Metra,41.524444,-88.079722,RI,Rock Island
+UP-W,KEDZIE,S1,0,30.5,22.6,Kedzie Metra,41.888333,-87.706944,UP-W,Union Pacific West
+UP-N,KENILWORTH,S1,0,24.6,15.0,Kenilworth Metra,42.086389,-87.716667,UP-N,Union Pacific North
+UP-N,KENOSHA,S1,0,28.3,9.7,Kenosha Metra,42.585833,-87.825833,UP-N,Union Pacific North
+ME,KENSINGTN,S1,0,15.5,15.1,Kensington Metra,41.685833,-87.612222,ME,Metra Electric
+UP-W,LAFOX,S1,0,29.3,15.9,La Fox Metra,41.886667,-88.412222,UP-W,Union Pacific West
+BNSF,LAGRANGE,S1,0,23.6,18.3,LaGrange Road Metra,41.815833,-87.871111,BNSF,Burlington Northern
+UP-N,LAKEBLUFF,S1,0,25.1,15.0,Lake Bluff Metra,42.279722,-87.846667,UP-N,Union Pacific North
+MD-N,LAKECOOKRD,S1,0,22.7,19.0,Lake-Cook Metra,42.151667,-87.841389,MD-N,Milwaukee North
+MD-N,LAKEFRST,S1,0,25.3,17.7,Lake Forest Metra,42.223611,-87.874722,MD-N,Milwaukee North
+NCS,LAKEVILLA,S1,0,40.4,23.5,Lake Villa Metra,42.4175,-88.079444,NCS,North Central Service
+SWS,LARAWAY,S1,0,45.6,5.1,Laraway Road Metra,41.484722,-87.959722,SWS,Southwest Service
+BNSF,LAVERGNE,S1,0,37.9,22.0,Lavergne Metra,41.835556,-87.783333,BNSF,Burlington Northern
+HC,LEMONT,S1,0,40.5,4.9,Lemont Metra,41.673611,-88.0025,HC,Heritage Corridor
+MD-N,LIBERTYVIL,S1,0,25.2,11.5,Libertyville Metra,42.291111,-87.956389,MD-N,Milwaukee North
+BNSF,LISLE,S1,0,23.0,20.4,Lisle Metra,41.797778,-88.071944,BNSF,Burlington Northern
+UP-N,LKFOREST,S1,0,25.5,16.8,Lake Forest. Metra,42.2525,-87.839722,UP-N,Union Pacific North
+HC,LOCKPORT,S1,0,40.5,4.9,Lockport Metra,41.585,-88.060278,HC,Heritage Corridor
+UP-W,LOMBARD,S1,0,26.9,15.3,Lombard Metra,41.886667,-88.018611,UP-W,Union Pacific West
+MD-N,LONGLAKE,S1,0,38.1,20.7,Long Lake Metra,42.368056,-88.128056,MD-N,Milwaukee North
+RI,LONGWOOD,S1,0,26.2,14.5,95th St.-Longwood Metra,41.721111,-87.650278,RI,Rock Island
+RI,LSS,S1,0,17.1,14.8,LaSalle Street Metra,41.876389,-87.632222,RI,Rock Island
+UP-N,MAINST,S1,0,23.7,18.2,Main St. Metra,42.033333,-87.68,UP-N,Union Pacific North
+BNSF,MAINST-DG,S1,0,20.4,18.4,Downers Grove Metra,41.795278,-88.009722,BNSF,Burlington Northern
+SWS,MANHATTAN,S1,0,39.3,11.0,Manhattan Metra,41.418333,-87.989167,SWS,Southwest Service
+MD-W,MANNHEIM,S1,0,36.3,23.6,Mannheim Metra,41.941667,-87.883333,MD-W,Milwaukee West
+MD-W,MARS,S1,0,26.7,12.0,Mars Metra,41.919167,-87.794444,MD-W,Milwaukee West
+ME,MATTESON,S1,0,23.9,11.8,Matteson Metra,41.498611,-87.702222,ME,Metra Electric
+MD-N,MAYFAIR,S1,0,28.0,19.2,Mayfair Metra,41.959722,-87.745833,MD-N,Milwaukee North
+UP-W,MAYWOOD,S1,0,30.8,20.1,Maywood Metra,41.888333,-87.838611,UP-W,Union Pacific West
+ME,MCCORMICK,S1,0,18.2,13.3,McCormick Place Metra,41.851389,-87.616389,ME,Metra Electric
+UP-NW,MCHENRY,S1,0,39.2,22.4,McHenry Metra,42.343333,-88.276111,UP-NW,Union Pacific Northwest
+MD-W,MEDINAH,S1,0,27.3,12.2,Medinah Metra,41.978056,-88.050833,MD-W,Milwaukee West
+UP-W,MELROSEPK,S1,0,35.0,20.3,Melrose Park Metra,41.890278,-87.855556,UP-W,Union Pacific West
+RI,MIDLOTHIAN,S1,0,25.0,15.2,Midlothian Metra,41.626389,-87.711667,RI,Rock Island
+RI,MOKENA,S1,0,26.5,21.0,Mokena Metra,41.530833,-87.886667,RI,Rock Island
+MD-W,MONTCLARE,S1,0,27.5,15.2,Mont Clare Metra,41.921667,-87.801667,MD-W,Milwaukee West
+MD-N,MORTONGRV,S1,0,21.2,14.9,Morton Grove Metra,42.035,-87.785278,MD-N,Milwaukee North
+UP-NW,MTPROSPECT,S1,0,26.0,16.3,Mt. Prospect Metra,42.063056,-87.936111,UP-NW,Union Pacific Northwest
+NCS,MUNDELEIN,S1,0,49.2,26.3,Mundelein Metra,42.266944,-87.998056,NCS,North Central Service
+ME,MUSEUM,S1,0,10.6,11.1,Museum Campus/11th St. Metra,41.868611,-87.621389,ME,Metra Electric
+BNSF,NAPERVILLE,S1,0,22.8,20.1,Naperville Metra,41.779722,-88.145556,BNSF,Burlington Northern
+MD-W,NATIONALS,S1,0,25.4,14.9,National St Metra,42.026389,-88.278889,MD-W,Milwaukee West
+MD-N,NBROOK,S1,0,22.5,15.9,Northbrook Metra,42.126944,-87.827778,MD-N,Milwaukee North
+UP-N,NCHICAGO,S1,0,25.8,11.6,North Chicago Metra,42.328611,-87.836944,UP-N,Union Pacific North
+RI,NEWLENOX,S1,0,26.2,19.1,New Lenox Metra,41.514444,-87.965278,RI,Rock Island
+MD-N,NGLENVIEW,S1,0,23.4,13.2,Glen/N. Glenview Metra,42.0975,-87.815833,MD-N,Milwaukee North
+UP-NW,NORWOODP,S1,0,28.6,19.7,Norwood Park Metra,41.991667,-87.798889,UP-NW,Union Pacific Northwest
+RI,OAKFOREST,S1,0,27.5,13.8,Oak Forest Metra,41.604444,-87.738333,RI,Rock Island
+SWS,OAKLAWN,S1,0,33.8,24.9,Oak Lawn Metra,41.719444,-87.748611,SWS,Southwest Service
+UP-W,OAKPARK,S1,0,23.5,14.4,Oak Park Metra,41.886944,-87.801111,UP-W,Union Pacific West
+NCS,O'HARE,S1,0,30.0,24.0,O'Hare Transfer Metra,41.995,-87.880556,NCS,North Central Service
+ME,OLYMPIA,S1,0,23.7,14.6,Olympia Fields Metra,41.521389,-87.69,ME,Metra Electric
+UP-N,OTC,S1,0,19.0,17.4,Chicago OTC Metra,41.882222,-87.640556,UP-N,Union Pacific North
+UP-NW,OTC,S1,0,18.6,19.1,Chicago OTC Metra,41.882222,-87.640556,UP-NW,Union Pacific Northwest
+UP-W,OTC,S1,0,18.8,19.1,Chicago OTC Metra,41.882222,-87.640556,UP-W,Union Pacific West
+UP-NW,PALATINE,S1,0,29.8,21.4,Palatine Metra,42.113056,-88.048333,UP-NW,Union Pacific Northwest
+SWS,PALOSHTS,S1,0,34.1,20.7,Palos Heights Metra,41.681944,-87.806944,SWS,Southwest Service
+SWS,PALOSPARK,S1,0,35.9,19.5,Palos Park Metra,41.668889,-87.820278,SWS,Southwest Service
+UP-NW,PARKRIDGE,S1,0,24.9,20.4,Park Ridge Metra,42.010278,-87.831667,UP-NW,Union Pacific Northwest
+UP-NW,PINGREE,S1,0,28.0,16.8,Pingree Road Metra,42.234167,-88.298056,UP-NW,Union Pacific Northwest
+NCS,PRAIRCROSS,S1,0,46.4,24.4,Prairie Crossing. Metra,42.318056,-88.017222,NCS,North Central Service
+RI,PRAIRIEST,S1,0,30.6,18.6,Prairie St. Metra,41.6625,-87.675,RI,Rock Island
+NCS,PRAIRIEVW,S1,0,39.6,28.9,Prairie View Metra,42.198056,-87.955833,NCS,North Central Service
+MD-N,PRAIRIEXNG,S1,0,31.1,16.7,Prairie Crossing Metra,42.320833,-88.015278,MD-N,Milwaukee North
+NCS,PROSPECTHG,S1,0,32.0,27.4,Prospect Hts Metra,42.092222,-87.908056,NCS,North Central Service
+ME,RACINE,S1,0,32.7,21.6,Racine Metra,41.674167,-87.651944,ME,Metra Electric
+ME,RANDOLPH,S1,0,10.5,10.5,Randolph St. Metra,41.884167,-87.623056,ME,Metra Electric
+UP-N,RAVENSWOOD,S1,0,21.9,15.4,Ravenswood Metra,41.968333,-87.674444,UP-N,Union Pacific North
+UP-N,RAVINIA,S1,0,25.2,15.8,Ravinia Metra,42.165,-87.782778,UP-N,Union Pacific North
+UP-N,RAVINIAPK,S1,0,28.5,21.1,Ravinia Park Metra,42.158056,-87.776944,UP-N,Union Pacific North
+ME,RICHTON,S1,0,23.5,11.9,Richton Park Metra,41.485556,-87.709444,ME,Metra Electric
+ME,RIVERDALE,S1,0,23.5,14.7,Riverdale Metra,41.646667,-87.623333,ME,Metra Electric
+MD-W,RIVERGROVE,S1,0,27.6,14.5,River Grove Metra,41.931111,-87.836111,MD-W,Milwaukee West
+NCS,RIVERGROVE,S1,0,47.4,21.5,River Grove Metra,41.931111,-87.836111,NCS,North Central Service
+BNSF,RIVERSIDE,S1,0,26.6,17.2,Riverside Metra,41.827222,-87.82,BNSF,Burlington Northern
+UP-W,RIVRFOREST,S1,0,25.9,13.7,River Forest Metra,41.886944,-87.825,UP-W,Union Pacific West
+RI,ROBBINS,S1,0,30.3,16.3,Robbins Metra,41.640833,-87.694444,RI,Rock Island
+UP-N,ROGERPK,S1,0,21.9,16.4,Rogers Park Metra,42.009444,-87.675556,UP-N,Union Pacific North
+MD-W,ROSELLE,S1,0,24.0,13.9,Roselle Metra,41.981389,-88.067222,MD-W,Milwaukee West
+NCS,ROSEMONT,S1,0,45.5,27.1,Rosemont Metra,41.976111,-87.873889,NCS,North Central Service
+MD-N,ROUNDLAKE,S1,0,36.7,17.6,Round Lake Metra,42.354444,-88.094167,MD-N,Milwaukee North
+NCS,ROUNDLKBCH,S1,0,40.8,22.7,Round Lake Beach Metra,42.385,-88.065556,NCS,North Central Service
+BNSF,ROUTE59,S1,0,21.8,18.0,Route 59 Metra,41.777778,-88.208611,BNSF,Burlington Northern
+MD-W,SCHAUM,S1,0,28.1,15.7,Schaumburg Metra,41.989167,-88.118056,MD-W,Milwaukee West
+NCS,SCHILLERPK,S1,0,45.5,25.4,Schiller Park Metra,41.962778,-87.870556,NCS,North Central Service
+ME,SOUTHSHORE,S1,0,23.0,14.1,South Shore Metra,41.765278,-87.565833,ME,Metra Electric
+ME,STATEST,S1,0,26.4,15.1,State St. Metra,41.674444,-87.621944,ME,Metra Electric
+ME,STEWARTRID,S1,0,26.8,14.4,Stewart Ridge Metra,41.674444,-87.631667,ME,Metra Electric
+BNSF,STONEAVE,S1,0,31.3,18.7,Stone Ave. Metra,41.814167,-87.878333,BNSF,Burlington Northern
+ME,STONYISLND,S1,0,23.1,17.2,Stony Island Metra,41.766111,-87.586944,ME,Metra Electric
+HC,SUMMIT,S1,0,40.5,4.9,Summit Metra,41.795,-87.809722,HC,Heritage Corridor
+RI,TINLEY80TH,S1,0,27.2,17.2,Tinley-80th Metra,41.564444,-87.809444,RI,Rock Island
+RI,TINLEYPARK,S1,0,24.8,15.9,Tinley Park Metra,41.575833,-87.782778,RI,Rock Island
+ME,UNIVERSITY,S1,0,24.1,13.8,University Park Metra,41.459444,-87.723333,ME,Metra Electric
+ME,VANBUREN,S1,0,10.4,10.5,Van Buren St. Metra,41.876944,-87.623056,ME,Metra Electric
+RI,VERMONT,S1,0,18.1,18.3,Blue Island-Vermont Metra,41.654722,-87.677778,RI,Rock Island
+NCS,VERNON,S1,0,40.4,27.9,Vernon Hills Metra,42.215556,-87.964444,NCS,North Central Service
+UP-W,VILLAPARK,S1,0,28.0,18.8,Villa Park Metra,41.896389,-87.9775,UP-W,Union Pacific West
+RI,WASHHGTS,S1,0,30.2,14.9,103rd St.-Washington Hts. Metra,41.705556,-87.655833,RI,Rock Island
+UP-N,WAUKEGAN,S1,0,22.6,14.3,Waukegan Metra,42.360556,-87.828333,UP-N,Union Pacific North
+UP-W,WCHICAGO,S1,0,26.5,21.1,West Chicago Metra,41.881111,-88.198889,UP-W,Union Pacific West
+MD-N,WESTERNAVE,S1,0,20.7,14.4,Western Ave Metra,41.889167,-87.688056,MD-N,Milwaukee North
+MD-W,WESTERNAVE,S1,0,20.6,15.4,Western Ave Metra,41.889167,-87.688056,MD-W,Milwaukee West
+NCS,WESTERNAVE,S1,0,33.8,26.0,Western Ave Metra,41.889167,-87.688056,NCS,North Central Service
+BNSF,WESTMONT,S1,0,20.8,14.8,Westmont Metra,41.795556,-87.976389,BNSF,Burlington Northern
+BNSF,WESTSPRING,S1,0,24.2,17.3,Western Springs Metra,41.808889,-87.901111,BNSF,Burlington Northern
+UP-W,WHEATON,S1,0,24.5,15.0,Wheaton Metra,41.864444,-88.111944,UP-W,Union Pacific West
+NCS,WHEELING,S1,0,35.0,27.5,Wheeling Metra,42.136389,-87.927222,NCS,North Central Service
+BNSF,WHINSDALE,S1,0,31.0,19.9,West Hinsdale Metra,41.798889,-87.945278,BNSF,Burlington Northern
+HC,WILLOWSPRN,S1,0,40.5,4.9,Willow Springs Metra,41.733333,-87.878333,HC,Heritage Corridor
+UP-N,WILMETTE,S1,0,21.6,16.6,Wilmette Metra,42.077222,-87.709167,UP-N,Union Pacific North
+ME,WINDSORPK,S1,0,24.1,12.9,Windsor Park Metra,41.758611,-87.559444,ME,Metra Electric
+UP-W,WINFIELD,S1,0,27.0,17.9,Winfield Metra,41.87,-88.156944,UP-W,Union Pacific West
+UP-N,WINNETKA,S1,0,21.1,14.8,Winnetka Metra,42.105278,-87.732778,UP-N,Union Pacific North
+UP-N,WINTHROP,S1,0,31.7,13.7,Winthrop Harbor Metra,42.482778,-87.816111,UP-N,Union Pacific North
+MD-W,WOODDALE,S1,0,25.0,14.6,Wood Dale Metra,41.9625,-87.975278,MD-W,Milwaukee West
+UP-NW,WOODSTOCK,S1,0,47.9,16.9,Woodstock Metra,42.316944,-88.4475,UP-NW,Union Pacific Northwest
+SWS,WORTH,S1,0,35.0,20.9,Worth Metra,41.691389,-87.795833,SWS,Southwest Service
+ME,WPULLMAN,S1,0,29.0,12.7,West Pullman Metra,41.674167,-87.642222,ME,Metra Electric
+SWS,WRIGHTWOOD,S1,0,32.4,22.3,Wrightwood Metra,41.748889,-87.703611,SWS,Southwest Service
+UP-N,ZION,S1,0,35.7,16.5,Zion Metra,42.449167,-87.818056,UP-N,Union Pacific North
+RI,103RD-BEV,S2,0,33.4,18.2,103rd St. - Beverly Hills Metra,41.706111,-87.668889,RI,Rock Island
+ME,103RD-UP,S2,0,25.5,17.4,103rd St. (Rosemoor) Metra,41.706944,-87.607222,ME,Metra Electric
+RI,107TH-BEV,S2,0,32.0,19.7,107th St. - Beverly Hills Metra,41.698889,-87.67,RI,Rock Island
+ME,107TH-UP,S2,0,25.8,17.8,107th St. Metra,41.699722,-87.608889,ME,Metra Electric
+RI,111TH-BEV,S2,0,30.7,21.6,111th St. - Morgan Park Metra,41.692778,-87.670556,RI,Rock Island
+ME,111TH-UP,S2,0,26.1,18.4,111th St. (Pullman) Metra,41.692778,-87.610556,ME,Metra Electric
+RI,115TH-BEV,S2,0,29.4,23.9,115th St. - Morgan Park Metra,41.685,-87.671667,RI,Rock Island
+RI,119TH-BEV,S2,0,28.0,26.8,119th St. Metra,41.676389,-87.6725,RI,Rock Island
+RI,123RD-BEV,S2,0,26.6,29.7,123rd St. Metra,41.67,-87.673611,RI,Rock Island
+SWS,143RD-SWS,S2,0,76.0,,Orland Park 143rd Metra,41.630556,-87.859167,SWS,Southwest Service
+ME,147TH-UP,S2,0,28.8,16.2,147th St. Metra,41.622778,-87.636111,ME,Metra Electric
+SWS,153RD-SWS,S2,0,69.0,,Orland Park 153rd Metra,41.609444,-87.873333,SWS,Southwest Service
+SWS,179TH-SWS,S2,0,58.0,,Orland Park 179th Metra,41.563889,-87.9025,SWS,Southwest Service
+ME,18TH-UP,S2,0,23.5,13.4,18th St. Metra,41.858333,-87.618056,ME,Metra Electric
+ME,211TH-UP,S2,0,27.1,13.9,211th St. Metra,41.506111,-87.698333,ME,Metra Electric
+ME,27TH-UP,S2,0,21.7,15.1,27th St. Metra,41.844167,-87.613333,ME,Metra Electric
+RI,35TH,S2,0,57.7,12.3,"35th St. / ""Lou"" Jones Metra",41.831389,-87.629167,RI,Rock Island
+ME,47TH-UP,S2,0,25.9,17.2,47th St. (Kenwood) Metra,41.809722,-87.591389,ME,Metra Electric
+ME,51ST/53RD,S2,0,24.9,17.2,51st/53rd St. (Hyde Park) Metra,41.8,-87.586944,ME,Metra Electric
+ME,55-56-57TH,S2,0,14.9,15.4,55th - 56th - 57th St. Metra,41.793333,-87.5875,ME,Metra Electric
+ME,59TH-UP,S2,0,20.8,17.4,59th St. (U. of Chicago) Metra,41.788056,-87.588611,ME,Metra Electric
+ME,63RD-UP,S2,0,25.8,18.7,63rd St. Metra,41.780278,-87.590556,ME,Metra Electric
+ME,75TH-UP,S2,0,25.5,12.9,75th St. (Grand Crossing) Metra,41.758889,-87.595278,ME,Metra Electric
+ME,79TH-SC,S2,0,27.0,12.6,Cheltenham (79th St.) Metra,41.752222,-87.5525,ME,Metra Electric
+ME,79TH-UP,S2,0,25.0,13.2,79th St. (Chatham) Metra,41.750833,-87.597222,ME,Metra Electric
+ME,83RD-SC,S2,0,26.6,12.7,83rd St. Metra,41.745,-87.551667,ME,Metra Electric
+ME,83RD-UP,S2,0,24.7,13.5,83rd St. (Avalon Park) Metra,41.744167,-87.598611,ME,Metra Electric
+ME,87TH-SC,S2,0,26.8,13.1,87th St. Metra,41.737778,-87.548333,ME,Metra Electric
+ME,87TH-UP,S2,0,24.4,14.2,87th St. (Woodruff) Metra,41.736944,-87.600278,ME,Metra Electric
+RI,91ST-BEV,S2,0,51.1,26.4,91st St. - Beverly Hills Metra,41.728056,-87.667222,RI,Rock Island
+ME,91ST-UP,S2,0,27.5,14.1,91st St. Metra,41.729444,-87.601944,ME,Metra Electric
+ME,93RD-SC,S2,0,26.5,15.4,South Chicago (93rd) Metra,41.726667,-87.547778,ME,Metra Electric
+RI,95TH-BEV,S2,0,51.3,28.2,95th St. - Beverly Hills Metra,41.721389,-87.667222,RI,Rock Island
+ME,95TH-UP,S2,0,27.3,15.3,95th St. Metra,41.721944,-87.603889,ME,Metra Electric
+RI,99TH-BEV,S2,0,34.7,17.4,99th St. - Beverly Hills Metra,41.713611,-87.6675,RI,Rock Island
+UP-NW,ARLINGTNHT,S2,0,44.9,18.8,Arlington Heights Metra,42.084167,-87.983611,UP-NW,Union Pacific Northwest
+UP-NW,ARLINGTNPK,S2,0,45.2,21.0,Arlington Park Metra,42.095278,-88.009167,UP-NW,Union Pacific Northwest
+SWS,ASHBURN,S2,0,83.0,,Ashburn Metra,41.741667,-87.7125,SWS,Southwest Service
+ME,ASHLAND,S2,0,38.9,19.0,Ashland Metra,41.669444,-87.660556,ME,Metra Electric
+BNSF,AURORA,S2,0,38.8,19.5,Aurora Metra,41.760833,-88.308333,BNSF,Burlington Northern
+UP-NW,BARRINGTON,S2,0,46.3,20.2,Barrington Metra,42.152778,-88.131944,UP-NW,Union Pacific Northwest
+MD-W,BARTLETT,S2,0,47.9,21.2,Bartlett Metra,41.992222,-88.183889,MD-W,Milwaukee West
+UP-W,BELLWOOD,S2,0,27.0,19.8,Bellwood Metra,41.891389,-87.8825,UP-W,Union Pacific West
+BNSF,BELMONT,S2,0,38.8,20.7,Belmont Metra,41.795278,-88.038056,BNSF,Burlington Northern
+MD-W,BENSENVIL,S2,0,40.8,17.3,Bensenville Metra,41.956944,-87.941944,MD-W,Milwaukee West
+UP-W,BERKELEY,S2,0,24.0,23.9,Berkeley Metra,41.896111,-87.915278,UP-W,Union Pacific West
+BNSF,BERWYN,S2,0,40.2,17.9,Berwyn Metra,41.833056,-87.793611,BNSF,Burlington Northern
+ME,BLUEISLAND,S2,0,40.8,20.0,Blue Island Metra,41.656111,-87.675833,ME,Metra Electric
+BNSF,BNWESTERN,S2,0,44.3,18.9,Western Avenue Metra,41.857778,-87.685278,BNSF,Burlington Northern
+UP-N,BRAESIDE,S2,0,47.7,23.2,Braeside Metra,42.152778,-87.7725,UP-N,Union Pacific North
+RI,BRAINERD,S2,0,50.8,25.0,Brainerd Metra,41.732222,-87.658889,RI,Rock Island
+BNSF,BROOKFIELD,S2,0,38.9,26.7,Brookfield Metra,41.821944,-87.843056,BNSF,Burlington Northern
+ME,BRYNMAWR,S2,0,26.5,15.3,Bryn Mawr Metra,41.766111,-87.576667,ME,Metra Electric
+ME,BURROAK,S2,0,40.8,20.2,Burr Oak Metra,41.662222,-87.668889,ME,Metra Electric
+ME,CALUMET,S2,0,26.6,17.6,Calumet Metra,41.573611,-87.6625,ME,Metra Electric
+UP-NW,CARY,S2,0,39.7,15.1,Cary Metra,42.208889,-88.241389,UP-NW,Union Pacific Northwest
+UP-N,CENTRALST,S2,0,28.7,26.3,Central St. Metra,42.064167,-87.698056,UP-N,Union Pacific North
+SWS,CHICRIDGE,S2,0,,,Chicago Ridge Metra,41.703333,-87.780278,SWS,Southwest Service
+BNSF,CICERO,S2,0,40.9,16.0,Cicero Metra,41.844167,-87.745556,BNSF,Burlington Northern
+BNSF,CLARNDNHIL,S2,0,39.7,16.6,Clarendon Hills Metra,41.796944,-87.953611,BNSF,Burlington Northern
+UP-N,CLYBOURN,S2,0,45.2,24.8,Clybourn Metra,41.916944,-87.668056,UP-N,Union Pacific North
+UP-NW,CLYBOURN,S2,0,43.0,18.9,Clybourn Metra,41.916944,-87.668056,UP-NW,Union Pacific Northwest
+UP-W,COLLEGEAVE,S2,0,55.0,26.8,College Ave Metra,41.868333,-88.090278,UP-W,Union Pacific West
+UP-NW,CRYSTAL,S2,0,38.0,24.1,Crystal Lake Metra,42.244167,-88.317222,UP-NW,Union Pacific Northwest
+UP-NW,CUMBERLAND,S2,0,39.3,14.5,Cumberland Metra,42.0525,-87.912222,UP-NW,Union Pacific Northwest
+BNSF,CUS,S2,0,51.0,18.5,Chicago Union Station Metra,41.878889,-87.638889,BNSF,Burlington Northern
+MD-N,CUS,S2,0,42.9,23.1,Chicago Union Station Metra,41.878889,-87.638889,MD-N,Milwaukee North
+MD-W,CUS,S2,0,42.0,19.1,Chicago Union Station Metra,41.878889,-87.638889,MD-W,Milwaukee West
+SWS,CUS,S2,0,42.5,31.8,Chicago Union Station Metra,41.878889,-87.638889,SWS,Southwest Service
+MD-N,DEERFIELD,S2,0,50.9,16.9,Deerfield Metra,42.168056,-87.85,MD-N,Milwaukee North
+UP-NW,DEEROAD,S2,0,37.1,21.5,Dee Road Metra,42.024167,-87.856111,UP-NW,Union Pacific Northwest
+UP-NW,DESPLAINES,S2,0,38.3,17.1,Des Plaines Metra,42.040833,-87.886667,UP-NW,Union Pacific Northwest
+MD-N,EDGEBROOK,S2,0,40.5,20.2,Edgebrook Metra,41.997778,-87.765556,MD-N,Milwaukee North
+UP-NW,EDISONPK,S2,0,58.4,3.9,Edison Park Metra,42.002222,-87.8175,UP-NW,Union Pacific Northwest
+UP-W,ELBURN,S2,0,32.1,19.0,Elburn Metra,41.890556,-88.463889,UP-W,Union Pacific West
+MD-W,ELGIN,S2,0,36.4,22.6,Elgin Metra,42.036111,-88.286111,MD-W,Milwaukee West
+UP-W,ELMHURST,S2,0,59.5,0.5,Elmhurst Metra,41.899722,-87.940833,UP-W,Union Pacific West
+MD-W,ELMWOODPK,S2,0,33.4,24.2,Elmwood Park Metra,41.924722,-87.814722,MD-W,Milwaukee West
+UP-N,EVANSTON,S2,0,41.8,22.5,Evanston (Davis St.) Metra,42.048056,-87.684722,UP-N,Union Pacific North
+BNSF,FAIRVIEWDG,S2,0,40.9,17.2,Fairview Ave. Metra,41.795278,-87.993611,BNSF,Burlington Northern
+ME,FLOSSMOOR,S2,0,28.8,17.6,Flossmoor Metra,41.543056,-87.678611,ME,Metra Electric
+MD-N,FORESTGLEN,S2,0,53.4,19.5,Forest Glen Metra,41.978056,-87.755556,MD-N,Milwaukee North
+MD-N,FOXLAKE,S2,0,41.4,19.0,Fox Lake Metra,42.398333,-88.182222,MD-N,Milwaukee North
+UP-NW,FOXRG,S2,0,47.0,21.5,Fox River Grove Metra,42.197778,-88.219444,UP-NW,Union Pacific Northwest
+MD-W,FRANKLIN,S2,0,36.0,16.7,Franklin Park Metra,41.936667,-87.866389,MD-W,Milwaukee West
+UP-N,FTSHERIDAN,S2,0,54.0,16.5,Fort Sheridan Metra,42.2175,-87.820833,UP-N,Union Pacific North
+MD-W,GALEWOOD,S2,0,47.2,23.3,Galewood Metra,41.916389,-87.785833,MD-W,Milwaukee West
+UP-W,GENEVA,S2,0,57.2,14.8,Geneva Metra,41.881667,-88.31,UP-W,Union Pacific West
+UP-N,GLENCOE,S2,0,42.9,23.1,Glencoe Metra,42.135556,-87.758056,UP-N,Union Pacific North
+UP-W,GLENELLYN,S2,0,34.5,15.5,Glen Ellyn Metra,41.876667,-88.064722,UP-W,Union Pacific West
+MD-N,GLENVIEW,S2,0,35.7,17.7,Glenview Metra,42.075,-87.805556,MD-N,Milwaukee North
+MD-N,GOLF,S2,0,40.9,18.6,Golf Metra,42.058333,-87.796944,MD-N,Milwaukee North
+MD-N,GRAYLAND,S2,0,55.9,17.8,Grayland Metra,41.948889,-87.740278,MD-N,Milwaukee North
+MD-N,GRAYSLAKE,S2,0,46.7,25.0,Grayslake Metra,42.333611,-88.043333,MD-N,Milwaukee North
+RI,GRESHAM,S2,0,53.7,20.5,Gresham Metra,41.736389,-87.644722,RI,Rock Island
+UP-N,GRTLAKES,S2,0,41.0,24.5,Great Lakes Metra,42.306944,-87.846389,UP-N,Union Pacific North
+MD-W,HANOVERP,S2,0,47.6,20.4,Hanover Park Metra,41.988056,-88.149167,MD-W,Milwaukee West
+BNSF,HARLEM,S2,0,37.9,19.4,Harlem Ave. Metra,41.831389,-87.801944,BNSF,Burlington Northern
+UP-NW,HARVARD,S2,0,46.3,23.6,Harvard Metra,42.419722,-88.6175,UP-NW,Union Pacific Northwest
+ME,HARVEY,S2,0,27.0,16.3,Harvey Metra,41.608333,-87.643889,ME,Metra Electric
+ME,HAZELCREST,S2,0,26.5,16.6,Hazel Crest Metra,41.580833,-87.658611,ME,Metra Electric
+MD-N,HEALY,S2,0,55.9,16.8,Healy Metra,41.924722,-87.727778,MD-N,Milwaukee North
+RI,HICKORYCRK,S2,0,57.6,16.0,Hickory Creek Metra,41.548611,-87.845556,RI,Rock Island
+UP-N,HIGHLANDPK,S2,0,41.8,21.4,Highland Park Metra,42.183333,-87.7975,UP-N,Union Pacific North
+UP-N,HIGHWOOD,S2,0,53.7,16.3,Highwood Metra,42.203333,-87.810556,UP-N,Union Pacific North
+BNSF,HINSDALE,S2,0,39.5,19.0,Hinsdale Metra,41.802778,-87.928333,BNSF,Burlington Northern
+BNSF,HOLLYWOOD,S2,0,37.9,24.9,Hollywood Metra,41.824444,-87.833889,BNSF,Burlington Northern
+ME,HOMEWOOD,S2,0,32.3,16.7,Homewood Metra,41.562222,-87.668611,ME,Metra Electric
+UP-N,HUBARDWOOD,S2,0,41.5,20.9,Hubbard Woods Metra,42.118056,-87.743611,UP-N,Union Pacific North
+UP-N,INDIANHILL,S2,0,34.0,21.0,Indian Hill Metra,42.094444,-87.723889,UP-N,Union Pacific North
+MD-N,INGLESIDE,S2,0,55.9,24.1,Ingleside Metra,42.383889,-88.153611,MD-N,Milwaukee North
+UP-NW,IRVINGPK,S2,0,37.5,15.4,Irving Park Metra,41.9525,-87.729722,UP-NW,Union Pacific Northwest
+MD-W,ITASCA,S2,0,46.2,21.3,Itasca Metra,41.971389,-88.014167,MD-W,Milwaukee West
+ME,IVANHOE,S2,0,30.2,15.3,Ivanhoe Metra,41.633333,-87.630278,ME,Metra Electric
+UP-NW,JEFFERSONP,S2,0,36.6,20.4,Jefferson Park Metra,41.971389,-87.763333,UP-NW,Union Pacific Northwest
+RI,JOLIET,S2,0,57.6,28.4,Joliet Metra,41.524444,-88.079722,RI,Rock Island
+UP-N,KENILWORTH,S2,0,33.0,22.4,Kenilworth Metra,42.086389,-87.716667,UP-N,Union Pacific North
+UP-N,KENOSHA,S2,0,42.8,13.7,Kenosha Metra,42.585833,-87.825833,UP-N,Union Pacific North
+ME,KENSINGTN,S2,0,20.7,15.9,Kensington Metra,41.685833,-87.612222,ME,Metra Electric
+UP-W,LAFOX,S2,0,58.1,25.7,La Fox Metra,41.886667,-88.412222,UP-W,Union Pacific West
+BNSF,LAGRANGE,S2,0,38.7,27.2,LaGrange Road Metra,41.815833,-87.871111,BNSF,Burlington Northern
+UP-N,LAKEBLUFF,S2,0,42.8,22.8,Lake Bluff Metra,42.279722,-87.846667,UP-N,Union Pacific North
+MD-N,LAKECOOKRD,S2,0,22.2,21.7,Lake-Cook Metra,42.151667,-87.841389,MD-N,Milwaukee North
+MD-N,LAKEFRST,S2,0,43.8,25.3,Lake Forest Metra,42.223611,-87.874722,MD-N,Milwaukee North
+SWS,LARAWAY,S2,0,39.0,,Laraway Road Metra,41.484722,-87.959722,SWS,Southwest Service
+MD-N,LIBERTYVIL,S2,0,45.6,18.2,Libertyville Metra,42.291111,-87.956389,MD-N,Milwaukee North
+BNSF,LISLE,S2,0,40.4,22.9,Lisle Metra,41.797778,-88.071944,BNSF,Burlington Northern
+UP-N,LKFOREST,S2,0,42.6,22.2,Lake Forest. Metra,42.2525,-87.839722,UP-N,Union Pacific North
+UP-W,LOMBARD,S2,0,29.3,20.1,Lombard Metra,41.886667,-88.018611,UP-W,Union Pacific West
+MD-N,LONGLAKE,S2,0,61.1,20.3,Long Lake Metra,42.368056,-88.128056,MD-N,Milwaukee North
+RI,LSS,S2,0,54.4,21.8,LaSalle Street Metra,41.876389,-87.632222,RI,Rock Island
+UP-N,MAINST,S2,0,30.5,24.1,Main St. Metra,42.033333,-87.68,UP-N,Union Pacific North
+BNSF,MAINST-DG,S2,0,38.8,19.0,Downers Grove Metra,41.795278,-88.009722,BNSF,Burlington Northern
+SWS,MANHATTAN,S2,0,20.0,,Manhattan Metra,41.418333,-87.989167,SWS,Southwest Service
+ME,MATTESON,S2,0,27.2,12.7,Matteson Metra,41.498611,-87.702222,ME,Metra Electric
+MD-N,MAYFAIR,S2,0,57.0,12.1,Mayfair Metra,41.959722,-87.745833,MD-N,Milwaukee North
+UP-W,MAYWOOD,S2,0,27.3,9.2,Maywood Metra,41.888333,-87.838611,UP-W,Union Pacific West
+ME,MCCORMICK,S2,0,21.0,13.3,McCormick Place Metra,41.851389,-87.616389,ME,Metra Electric
+MD-W,MEDINAH,S2,0,46.6,24.2,Medinah Metra,41.978056,-88.050833,MD-W,Milwaukee West
+UP-W,MELROSEPK,S2,0,40.3,20.5,Melrose Park Metra,41.890278,-87.855556,UP-W,Union Pacific West
+RI,MIDLOTHIAN,S2,0,35.3,23.9,Midlothian Metra,41.626389,-87.711667,RI,Rock Island
+RI,MOKENA,S2,0,61.1,5.3,Mokena Metra,41.530833,-87.886667,RI,Rock Island
+MD-W,MONTCLARE,S2,0,36.4,26.0,Mont Clare Metra,41.921667,-87.801667,MD-W,Milwaukee West
+MD-N,MORTONGRV,S2,0,39.5,19.1,Morton Grove Metra,42.035,-87.785278,MD-N,Milwaukee North
+UP-NW,MTPROSPECT,S2,0,44.5,18.8,Mt. Prospect Metra,42.063056,-87.936111,UP-NW,Union Pacific Northwest
+ME,MUSEUM,S2,0,12.5,11.4,Museum Campus/11th St. Metra,41.868611,-87.621389,ME,Metra Electric
+BNSF,NAPERVILLE,S2,0,39.1,25.7,Naperville Metra,41.779722,-88.145556,BNSF,Burlington Northern
+MD-W,NATIONALS,S2,0,37.4,18.8,National St Metra,42.026389,-88.278889,MD-W,Milwaukee West
+MD-N,NBROOK,S2,0,36.1,20.9,Northbrook Metra,42.126944,-87.827778,MD-N,Milwaukee North
+UP-N,NCHICAGO,S2,0,41.5,19.7,North Chicago Metra,42.328611,-87.836944,UP-N,Union Pacific North
+RI,NEWLENOX,S2,0,57.6,16.0,New Lenox Metra,41.514444,-87.965278,RI,Rock Island
+MD-N,NGLENVIEW,S2,0,30.7,17.5,Glen/N. Glenview Metra,42.0975,-87.815833,MD-N,Milwaukee North
+UP-NW,NORWOODP,S2,0,35.8,25.9,Norwood Park Metra,41.991667,-87.798889,UP-NW,Union Pacific Northwest
+RI,OAKFOREST,S2,0,40.0,21.1,Oak Forest Metra,41.604444,-87.738333,RI,Rock Island
+SWS,OAKLAWN,S2,0,,,Oak Lawn Metra,41.719444,-87.748611,SWS,Southwest Service
+UP-W,OAKPARK,S2,0,53.3,26.8,Oak Park Metra,41.886944,-87.801111,UP-W,Union Pacific West
+ME,OLYMPIA,S2,0,28.2,15.2,Olympia Fields Metra,41.521389,-87.69,ME,Metra Electric
+UP-N,OTC,S2,0,40.7,23.0,Chicago OTC Metra,41.882222,-87.640556,UP-N,Union Pacific North
+UP-NW,OTC,S2,0,43.0,23.0,Chicago OTC Metra,41.882222,-87.640556,UP-NW,Union Pacific Northwest
+UP-W,OTC,S2,0,53.3,18.0,Chicago OTC Metra,41.882222,-87.640556,UP-W,Union Pacific West
+UP-NW,PALATINE,S2,0,58.7,3.6,Palatine Metra,42.113056,-88.048333,UP-NW,Union Pacific Northwest
+SWS,PALOSHTS,S2,0,,,Palos Heights Metra,41.681944,-87.806944,SWS,Southwest Service
+SWS,PALOSPARK,S2,0,88.0,,Palos Park Metra,41.668889,-87.820278,SWS,Southwest Service
+UP-NW,PARKRIDGE,S2,0,36.2,25.5,Park Ridge Metra,42.010278,-87.831667,UP-NW,Union Pacific Northwest
+UP-NW,PINGREE,S2,0,38.6,19.5,Pingree Road Metra,42.234167,-88.298056,UP-NW,Union Pacific Northwest
+RI,PRAIRIEST,S2,0,61.0,12.1,Prairie St. Metra,41.6625,-87.675,RI,Rock Island
+MD-N,PRAIRIEXNG,S2,0,59.5,13.9,Prairie Crossing Metra,42.320833,-88.015278,MD-N,Milwaukee North
+ME,RACINE,S2,0,38.8,20.4,Racine Metra,41.674167,-87.651944,ME,Metra Electric
+ME,RANDOLPH,S2,0,13.6,11.1,Randolph St. Metra,41.884167,-87.623056,ME,Metra Electric
+UP-N,RAVENSWOOD,S2,0,34.4,18.5,Ravenswood Metra,41.968333,-87.674444,UP-N,Union Pacific North
+UP-N,RAVINIA,S2,0,41.5,21.6,Ravinia Metra,42.165,-87.782778,UP-N,Union Pacific North
+UP-N,RAVINIAPK,S2,0,31.8,21.4,Ravinia Park Metra,42.158056,-87.776944,UP-N,Union Pacific North
+ME,RICHTON,S2,0,27.9,12.3,Richton Park Metra,41.485556,-87.709444,ME,Metra Electric
+ME,RIVERDALE,S2,0,28.1,15.0,Riverdale Metra,41.646667,-87.623333,ME,Metra Electric
+MD-W,RIVERGROVE,S2,0,34.5,20.7,River Grove Metra,41.931111,-87.836111,MD-W,Milwaukee West
+BNSF,RIVERSIDE,S2,0,39.5,21.8,Riverside Metra,41.827222,-87.82,BNSF,Burlington Northern
+UP-W,RIVRFOREST,S2,0,33.5,12.5,River Forest Metra,41.886944,-87.825,UP-W,Union Pacific West
+RI,ROBBINS,S2,0,32.4,26.2,Robbins Metra,41.640833,-87.694444,RI,Rock Island
+UP-N,ROGERPK,S2,0,30.7,21.4,Rogers Park Metra,42.009444,-87.675556,UP-N,Union Pacific North
+MD-W,ROSELLE,S2,0,60.5,3.4,Roselle Metra,41.981389,-88.067222,MD-W,Milwaukee West
+MD-N,ROUNDLAKE,S2,0,47.1,21.6,Round Lake Metra,42.354444,-88.094167,MD-N,Milwaukee North
+BNSF,ROUTE59,S2,0,39.9,23.4,Route 59 Metra,41.777778,-88.208611,BNSF,Burlington Northern
+MD-W,SCHAUM,S2,0,47.2,21.6,Schaumburg Metra,41.989167,-88.118056,MD-W,Milwaukee West
+ME,SOUTHSHORE,S2,0,26.6,14.1,South Shore Metra,41.765278,-87.565833,ME,Metra Electric
+ME,STATEST,S2,0,30.7,15.7,State St. Metra,41.674444,-87.621944,ME,Metra Electric
+ME,STEWARTRID,S2,0,31.4,13.6,Stewart Ridge Metra,41.674444,-87.631667,ME,Metra Electric
+BNSF,STONEAVE,S2,0,36.9,25.5,Stone Ave. Metra,41.814167,-87.878333,BNSF,Burlington Northern
+ME,STONYISLND,S2,0,25.2,17.1,Stony Island Metra,41.766111,-87.586944,ME,Metra Electric
+RI,TINLEY80TH,S2,0,59.2,19.9,Tinley-80th Metra,41.564444,-87.809444,RI,Rock Island
+RI,TINLEYPARK,S2,0,58.9,23.7,Tinley Park Metra,41.575833,-87.782778,RI,Rock Island
+ME,UNIVERSITY,S2,0,30.0,13.5,University Park Metra,41.459444,-87.723333,ME,Metra Electric
+ME,VANBUREN,S2,0,12.7,10.9,Van Buren St. Metra,41.876944,-87.623056,ME,Metra Electric
+RI,VERMONT,S2,0,27.7,30.1,Blue Island-Vermont Metra,41.654722,-87.677778,RI,Rock Island
+UP-W,VILLAPARK,S2,0,24.6,24.7,Villa Park Metra,41.896389,-87.9775,UP-W,Union Pacific West
+UP-N,WAUKEGAN,S2,0,32.4,18.8,Waukegan Metra,42.360556,-87.828333,UP-N,Union Pacific North
+UP-W,WCHICAGO,S2,0,56.3,13.6,West Chicago Metra,41.881111,-88.198889,UP-W,Union Pacific West
+MD-N,WESTERNAVE,S2,0,55.8,19.6,Western Ave Metra,41.889167,-87.688056,MD-N,Milwaukee North
+MD-W,WESTERNAVE,S2,0,34.9,18.4,Western Ave Metra,41.889167,-87.688056,MD-W,Milwaukee West
+BNSF,WESTMONT,S2,0,42.2,18.2,Westmont Metra,41.795556,-87.976389,BNSF,Burlington Northern
+BNSF,WESTSPRING,S2,0,41.0,21.2,Western Springs Metra,41.808889,-87.901111,BNSF,Burlington Northern
+UP-W,WHEATON,S2,0,55.3,22.2,Wheaton Metra,41.864444,-88.111944,UP-W,Union Pacific West
+UP-N,WILMETTE,S2,0,32.7,21.5,Wilmette Metra,42.077222,-87.709167,UP-N,Union Pacific North
+ME,WINDSORPK,S2,0,28.0,12.5,Windsor Park Metra,41.758611,-87.559444,ME,Metra Electric
+UP-W,WINFIELD,S2,0,55.8,16.3,Winfield Metra,41.87,-88.156944,UP-W,Union Pacific West
+UP-N,WINNETKA,S2,0,33.9,21.4,Winnetka Metra,42.105278,-87.732778,UP-N,Union Pacific North
+UP-N,WINTHROP,S2,0,47.5,19.7,Winthrop Harbor Metra,42.482778,-87.816111,UP-N,Union Pacific North
+MD-W,WOODDALE,S2,0,45.9,20.7,Wood Dale Metra,41.9625,-87.975278,MD-W,Milwaukee West
+UP-NW,WOODSTOCK,S2,0,42.9,25.7,Woodstock Metra,42.316944,-88.4475,UP-NW,Union Pacific Northwest
+SWS,WORTH,S2,0,,,Worth Metra,41.691389,-87.795833,SWS,Southwest Service
+ME,WPULLMAN,S2,0,32.1,11.8,West Pullman Metra,41.674167,-87.642222,ME,Metra Electric
+SWS,WRIGHTWOOD,S2,0,77.0,,Wrightwood Metra,41.748889,-87.703611,SWS,Southwest Service
+UP-N,ZION,S2,0,46.3,23.4,Zion Metra,42.449167,-87.818056,UP-N,Union Pacific North
+RI,103RD-BEV,S3,0,24.0,0.0,103rd St. - Beverly Hills Metra,41.706111,-87.668889,RI,Rock Island
+ME,103RD-UP,S3,0,60.0,26.4,103rd St. (Rosemoor) Metra,41.706944,-87.607222,ME,Metra Electric
+RI,107TH-BEV,S3,0,20.0,0.0,107th St. - Beverly Hills Metra,41.698889,-87.67,RI,Rock Island
+ME,107TH-UP,S3,0,60.0,24.3,107th St. Metra,41.699722,-87.608889,ME,Metra Electric
+RI,111TH-BEV,S3,0,16.0,0.0,111th St. - Morgan Park Metra,41.692778,-87.670556,RI,Rock Island
+ME,111TH-UP,S3,0,60.0,22.3,111th St. (Pullman) Metra,41.692778,-87.610556,ME,Metra Electric
+RI,115TH-BEV,S3,0,12.0,0.0,115th St. - Morgan Park Metra,41.685,-87.671667,RI,Rock Island
+RI,119TH-BEV,S3,0,8.0,0.0,119th St. Metra,41.676389,-87.6725,RI,Rock Island
+RI,123RD-BEV,S3,0,4.0,0.0,123rd St. Metra,41.67,-87.673611,RI,Rock Island
+ME,147TH-UP,S3,0,60.0,0.8,147th St. Metra,41.622778,-87.636111,ME,Metra Electric
+ME,18TH-UP,S3,0,31.1,24.9,18th St. Metra,41.858333,-87.618056,ME,Metra Electric
+ME,211TH-UP,S3,0,28.6,0.5,211th St. Metra,41.506111,-87.698333,ME,Metra Electric
+ME,27TH-UP,S3,0,31.0,23.1,27th St. Metra,41.844167,-87.613333,ME,Metra Electric
+RI,35TH,S3,0,60.9,5.2,"35th St. / ""Lou"" Jones Metra",41.831389,-87.629167,RI,Rock Island
+ME,47TH-UP,S3,0,39.7,16.3,47th St. (Kenwood) Metra,41.809722,-87.591389,ME,Metra Electric
+ME,51ST/53RD,S3,0,40.0,14.0,51st/53rd St. (Hyde Park) Metra,41.8,-87.586944,ME,Metra Electric
+ME,55-56-57TH,S3,0,30.6,17.9,55th - 56th - 57th St. Metra,41.793333,-87.5875,ME,Metra Electric
+ME,59TH-UP,S3,0,30.5,15.0,59th St. (U. of Chicago) Metra,41.788056,-87.588611,ME,Metra Electric
+ME,63RD-UP,S3,0,30.5,13.6,63rd St. Metra,41.780278,-87.590556,ME,Metra Electric
+ME,75TH-UP,S3,0,17.0,0.0,75th St. (Grand Crossing) Metra,41.758889,-87.595278,ME,Metra Electric
+ME,79TH-SC,S3,0,26.0,0.0,Cheltenham (79th St.) Metra,41.752222,-87.5525,ME,Metra Electric
+ME,79TH-UP,S3,0,21.0,0.0,79th St. (Chatham) Metra,41.750833,-87.597222,ME,Metra Electric
+ME,83RD-SC,S3,0,22.0,0.0,83rd St. Metra,41.745,-87.551667,ME,Metra Electric
+ME,83RD-UP,S3,0,23.3,0.5,83rd St. (Avalon Park) Metra,41.744167,-87.598611,ME,Metra Electric
+ME,87TH-SC,S3,0,18.0,0.0,87th St. Metra,41.737778,-87.548333,ME,Metra Electric
+ME,87TH-UP,S3,0,25.3,0.5,87th St. (Woodruff) Metra,41.736944,-87.600278,ME,Metra Electric
+RI,91ST-BEV,S3,0,58.1,24.9,91st St. - Beverly Hills Metra,41.728056,-87.667222,RI,Rock Island
+ME,91ST-UP,S3,0,27.3,0.5,91st St. Metra,41.729444,-87.601944,ME,Metra Electric
+ME,93RD-SC,S3,0,12.0,0.0,South Chicago (93rd) Metra,41.726667,-87.547778,ME,Metra Electric
+RI,95TH-BEV,S3,0,57.8,29.0,95th St. - Beverly Hills Metra,41.721389,-87.667222,RI,Rock Island
+ME,95TH-UP,S3,0,60.0,30.5,95th St. Metra,41.721944,-87.603889,ME,Metra Electric
+RI,99TH-BEV,S3,0,28.0,0.0,99th St. - Beverly Hills Metra,41.713611,-87.6675,RI,Rock Island
+UP-NW,ARLINGTNHT,S3,0,16.0,0.0,Arlington Heights Metra,42.084167,-87.983611,UP-NW,Union Pacific Northwest
+UP-NW,ARLINGTNPK,S3,0,9.0,0.0,Arlington Park Metra,42.095278,-88.009167,UP-NW,Union Pacific Northwest
+BNSF,AURORA,S3,0,32.8,21.0,Aurora Metra,41.760833,-88.308333,BNSF,Burlington Northern
+UP-NW,BARRINGTON,S3,0,14.0,0.0,Barrington Metra,42.152778,-88.131944,UP-NW,Union Pacific Northwest
+MD-W,BARTLETT,S3,0,59.8,23.9,Bartlett Metra,41.992222,-88.183889,MD-W,Milwaukee West
+UP-W,BELLWOOD,S3,0,13.8,0.3,Bellwood Metra,41.891389,-87.8825,UP-W,Union Pacific West
+BNSF,BELMONT,S3,0,55.7,18.4,Belmont Metra,41.795278,-88.038056,BNSF,Burlington Northern
+MD-W,BENSENVIL,S3,0,53.6,28.3,Bensenville Metra,41.956944,-87.941944,MD-W,Milwaukee West
+UP-W,BERKELEY,S3,0,7.8,0.3,Berkeley Metra,41.896111,-87.915278,UP-W,Union Pacific West
+BNSF,BERWYN,S3,0,25.6,19.1,Berwyn Metra,41.833056,-87.793611,BNSF,Burlington Northern
+BNSF,BNWESTERN,S3,0,60.0,22.9,Western Avenue Metra,41.857778,-87.685278,BNSF,Burlington Northern
+UP-N,BRAESIDE,S3,0,45.4,21.5,Braeside Metra,42.152778,-87.7725,UP-N,Union Pacific North
+RI,BRAINERD,S3,0,58.4,20.7,Brainerd Metra,41.732222,-87.658889,RI,Rock Island
+BNSF,BROOKFIELD,S3,0,10.3,20.4,Brookfield Metra,41.821944,-87.843056,BNSF,Burlington Northern
+ME,BRYNMAWR,S3,0,58.8,22.5,Bryn Mawr Metra,41.766111,-87.576667,ME,Metra Electric
+ME,CALUMET,S3,0,60.0,13.7,Calumet Metra,41.573611,-87.6625,ME,Metra Electric
+UP-NW,CARY,S3,0,57.7,26.1,Cary Metra,42.208889,-88.241389,UP-NW,Union Pacific Northwest
+UP-N,CENTRALST,S3,0,38.0,27.4,Central St. Metra,42.064167,-87.698056,UP-N,Union Pacific North
+BNSF,CICERO,S3,0,34.3,18.4,Cicero Metra,41.844167,-87.745556,BNSF,Burlington Northern
+BNSF,CLARNDNHIL,S3,0,26.1,3.1,Clarendon Hills Metra,41.796944,-87.953611,BNSF,Burlington Northern
+UP-N,CLYBOURN,S3,0,39.1,25.0,Clybourn Metra,41.916944,-87.668056,UP-N,Union Pacific North
+UP-NW,CLYBOURN,S3,0,34.5,22.6,Clybourn Metra,41.916944,-87.668056,UP-NW,Union Pacific Northwest
+UP-W,COLLEGEAVE,S3,0,58.0,29.9,College Ave Metra,41.868333,-88.090278,UP-W,Union Pacific West
+UP-NW,CRYSTAL,S3,0,59.1,8.7,Crystal Lake Metra,42.244167,-88.317222,UP-NW,Union Pacific Northwest
+UP-NW,CUMBERLAND,S3,0,60.0,28.2,Cumberland Metra,42.0525,-87.912222,UP-NW,Union Pacific Northwest
+BNSF,CUS,S3,0,60.0,1.8,Chicago Union Station Metra,41.878889,-87.638889,BNSF,Burlington Northern
+MD-N,CUS,S3,0,41.0,26.0,Chicago Union Station Metra,41.878889,-87.638889,MD-N,Milwaukee North
+MD-W,CUS,S3,0,56.6,21.4,Chicago Union Station Metra,41.878889,-87.638889,MD-W,Milwaukee West
+MD-N,DEERFIELD,S3,0,50.4,20.1,Deerfield Metra,42.168056,-87.85,MD-N,Milwaukee North
+UP-NW,DEEROAD,S3,0,60.0,12.5,Dee Road Metra,42.024167,-87.856111,UP-NW,Union Pacific Northwest
+UP-NW,DESPLAINES,S3,0,60.0,20.8,Des Plaines Metra,42.040833,-87.886667,UP-NW,Union Pacific Northwest
+MD-N,EDGEBROOK,S3,0,49.6,20.7,Edgebrook Metra,41.997778,-87.765556,MD-N,Milwaukee North
+UP-NW,EDISONPK,S3,0,60.0,1.0,Edison Park Metra,42.002222,-87.8175,UP-NW,Union Pacific Northwest
+UP-W,ELBURN,S3,0,19.0,0.0,Elburn Metra,41.890556,-88.463889,UP-W,Union Pacific West
+MD-W,ELGIN,S3,0,12.8,2.3,Elgin Metra,42.036111,-88.286111,MD-W,Milwaukee West
+UP-W,ELMHURST,S3,0,,,Elmhurst Metra,41.899722,-87.940833,UP-W,Union Pacific West
+MD-W,ELMWOODPK,S3,0,9.0,4.6,Elmwood Park Metra,41.924722,-87.814722,MD-W,Milwaukee West
+UP-N,EVANSTON,S3,0,46.2,21.0,Evanston (Davis St.) Metra,42.048056,-87.684722,UP-N,Union Pacific North
+BNSF,FAIRVIEWDG,S3,0,55.7,25.6,Fairview Ave. Metra,41.795278,-87.993611,BNSF,Burlington Northern
+ME,FLOSSMOOR,S3,0,60.0,21.9,Flossmoor Metra,41.543056,-87.678611,ME,Metra Electric
+MD-N,FORESTGLEN,S3,0,59.1,12.7,Forest Glen Metra,41.978056,-87.755556,MD-N,Milwaukee North
+MD-N,FOXLAKE,S3,0,52.2,25.4,Fox Lake Metra,42.398333,-88.182222,MD-N,Milwaukee North
+UP-NW,FOXRG,S3,0,29.0,0.0,Fox River Grove Metra,42.197778,-88.219444,UP-NW,Union Pacific Northwest
+MD-W,FRANKLIN,S3,0,21.2,4.9,Franklin Park Metra,41.936667,-87.866389,MD-W,Milwaukee West
+UP-N,FTSHERIDAN,S3,0,60.0,1.0,Fort Sheridan Metra,42.2175,-87.820833,UP-N,Union Pacific North
+MD-W,GALEWOOD,S3,0,6.3,4.0,Galewood Metra,41.916389,-87.785833,MD-W,Milwaukee West
+UP-W,GENEVA,S3,0,60.6,10.3,Geneva Metra,41.881667,-88.31,UP-W,Union Pacific West
+UP-N,GLENCOE,S3,0,40.4,19.1,Glencoe Metra,42.135556,-87.758056,UP-N,Union Pacific North
+UP-W,GLENELLYN,S3,0,25.0,0.0,Glen Ellyn Metra,41.876667,-88.064722,UP-W,Union Pacific West
+MD-N,GLENVIEW,S3,0,33.6,19.5,Glenview Metra,42.075,-87.805556,MD-N,Milwaukee North
+MD-N,GOLF,S3,0,48.6,26.9,Golf Metra,42.058333,-87.796944,MD-N,Milwaukee North
+MD-N,GRAYLAND,S3,0,59.1,9.4,Grayland Metra,41.948889,-87.740278,MD-N,Milwaukee North
+MD-N,GRAYSLAKE,S3,0,56.5,16.4,Grayslake Metra,42.333611,-88.043333,MD-N,Milwaukee North
+RI,GRESHAM,S3,0,58.9,14.5,Gresham Metra,41.736389,-87.644722,RI,Rock Island
+UP-N,GRTLAKES,S3,0,43.8,25.4,Great Lakes Metra,42.306944,-87.846389,UP-N,Union Pacific North
+MD-W,HANOVERP,S3,0,61.8,18.5,Hanover Park Metra,41.988056,-88.149167,MD-W,Milwaukee West
+BNSF,HARLEM,S3,0,14.8,0.3,Harlem Ave. Metra,41.831389,-87.801944,BNSF,Burlington Northern
+UP-NW,HARVARD,S3,0,15.0,0.0,Harvard Metra,42.419722,-88.6175,UP-NW,Union Pacific Northwest
+ME,HARVEY,S3,0,60.0,3.4,Harvey Metra,41.608333,-87.643889,ME,Metra Electric
+ME,HAZELCREST,S3,0,60.0,9.6,Hazel Crest Metra,41.580833,-87.658611,ME,Metra Electric
+MD-N,HEALY,S3,0,59.1,11.9,Healy Metra,41.924722,-87.727778,MD-N,Milwaukee North
+RI,HICKORYCRK,S3,0,59.2,10.3,Hickory Creek Metra,41.548611,-87.845556,RI,Rock Island
+UP-N,HIGHLANDPK,S3,0,41.2,23.4,Highland Park Metra,42.183333,-87.7975,UP-N,Union Pacific North
+UP-N,HIGHWOOD,S3,0,48.4,23.6,Highwood Metra,42.203333,-87.810556,UP-N,Union Pacific North
+BNSF,HINSDALE,S3,0,21.6,7.4,Hinsdale Metra,41.802778,-87.928333,BNSF,Burlington Northern
+BNSF,HOLLYWOOD,S3,0,7.0,0.0,Hollywood Metra,41.824444,-87.833889,BNSF,Burlington Northern
+ME,HOMEWOOD,S3,0,60.0,17.8,Homewood Metra,41.562222,-87.668611,ME,Metra Electric
+UP-N,HUBARDWOOD,S3,0,45.7,25.2,Hubbard Woods Metra,42.118056,-87.743611,UP-N,Union Pacific North
+UP-N,INDIANHILL,S3,0,43.0,26.4,Indian Hill Metra,42.094444,-87.723889,UP-N,Union Pacific North
+MD-N,INGLESIDE,S3,0,55.9,22.5,Ingleside Metra,42.383889,-88.153611,MD-N,Milwaukee North
+UP-NW,IRVINGPK,S3,0,60.0,22.9,Irving Park Metra,41.9525,-87.729722,UP-NW,Union Pacific Northwest
+MD-W,ITASCA,S3,0,59.8,13.4,Itasca Metra,41.971389,-88.014167,MD-W,Milwaukee West
+ME,IVANHOE,S3,0,60.0,4.8,Ivanhoe Metra,41.633333,-87.630278,ME,Metra Electric
+UP-NW,JEFFERSONP,S3,0,60.0,13.5,Jefferson Park Metra,41.971389,-87.763333,UP-NW,Union Pacific Northwest
+RI,JOLIET,S3,0,62.3,31.1,Joliet Metra,41.524444,-88.079722,RI,Rock Island
+UP-N,KENILWORTH,S3,0,41.9,27.6,Kenilworth Metra,42.086389,-87.716667,UP-N,Union Pacific North
+UP-N,KENOSHA,S3,0,34.0,,Kenosha Metra,42.585833,-87.825833,UP-N,Union Pacific North
+ME,KENSINGTN,S3,0,60.0,19.2,Kensington Metra,41.685833,-87.612222,ME,Metra Electric
+UP-W,LAFOX,S3,0,61.8,27.8,La Fox Metra,41.886667,-88.412222,UP-W,Union Pacific West
+BNSF,LAGRANGE,S3,0,9.5,18.3,LaGrange Road Metra,41.815833,-87.871111,BNSF,Burlington Northern
+UP-N,LAKEBLUFF,S3,0,42.5,25.4,Lake Bluff Metra,42.279722,-87.846667,UP-N,Union Pacific North
+MD-N,LAKECOOKRD,S3,0,16.3,21.7,Lake-Cook Metra,42.151667,-87.841389,MD-N,Milwaukee North
+MD-N,LAKEFRST,S3,0,42.3,28.9,Lake Forest Metra,42.223611,-87.874722,MD-N,Milwaukee North
+MD-N,LIBERTYVIL,S3,0,55.3,21.5,Libertyville Metra,42.291111,-87.956389,MD-N,Milwaukee North
+BNSF,LISLE,S3,0,55.7,15.6,Lisle Metra,41.797778,-88.071944,BNSF,Burlington Northern
+UP-N,LKFOREST,S3,0,41.5,25.9,Lake Forest. Metra,42.2525,-87.839722,UP-N,Union Pacific North
+UP-W,LOMBARD,S3,0,16.0,0.0,Lombard Metra,41.886667,-88.018611,UP-W,Union Pacific West
+MD-N,LONGLAKE,S3,0,61.1,19.1,Long Lake Metra,42.368056,-88.128056,MD-N,Milwaukee North
+RI,LSS,S3,0,63.0,19.3,LaSalle Street Metra,41.876389,-87.632222,RI,Rock Island
+UP-N,MAINST,S3,0,37.4,24.8,Main St. Metra,42.033333,-87.68,UP-N,Union Pacific North
+BNSF,MAINST-DG,S3,0,55.7,22.4,Downers Grove Metra,41.795278,-88.009722,BNSF,Burlington Northern
+ME,MATTESON,S3,0,24.6,0.5,Matteson Metra,41.498611,-87.702222,ME,Metra Electric
+MD-N,MAYFAIR,S3,0,59.1,9.7,Mayfair Metra,41.959722,-87.745833,MD-N,Milwaukee North
+UP-W,MAYWOOD,S3,0,22.0,0.0,Maywood Metra,41.888333,-87.838611,UP-W,Union Pacific West
+ME,MCCORMICK,S3,0,31.0,24.0,McCormick Place Metra,41.851389,-87.616389,ME,Metra Electric
+MD-W,MEDINAH,S3,0,60.4,5.9,Medinah Metra,41.978056,-88.050833,MD-W,Milwaukee West
+UP-W,MELROSEPK,S3,0,20.0,,Melrose Park Metra,41.890278,-87.855556,UP-W,Union Pacific West
+RI,MIDLOTHIAN,S3,0,17.0,0.0,Midlothian Metra,41.626389,-87.711667,RI,Rock Island
+RI,MOKENA,S3,0,59.8,2.0,Mokena Metra,41.530833,-87.886667,RI,Rock Island
+MD-W,MONTCLARE,S3,0,6.6,4.0,Mont Clare Metra,41.921667,-87.801667,MD-W,Milwaukee West
+MD-N,MORTONGRV,S3,0,49.0,23.7,Morton Grove Metra,42.035,-87.785278,MD-N,Milwaukee North
+UP-NW,MTPROSPECT,S3,0,26.0,0.0,Mt. Prospect Metra,42.063056,-87.936111,UP-NW,Union Pacific Northwest
+ME,MUSEUM,S3,0,31.2,27.2,Museum Campus/11th St. Metra,41.868611,-87.621389,ME,Metra Electric
+BNSF,NAPERVILLE,S3,0,56.2,15.5,Naperville Metra,41.779722,-88.145556,BNSF,Burlington Northern
+MD-W,NATIONALS,S3,0,19.1,2.3,National St Metra,42.026389,-88.278889,MD-W,Milwaukee West
+MD-N,NBROOK,S3,0,30.4,23.6,Northbrook Metra,42.126944,-87.827778,MD-N,Milwaukee North
+UP-N,NCHICAGO,S3,0,37.7,22.2,North Chicago Metra,42.328611,-87.836944,UP-N,Union Pacific North
+RI,NEWLENOX,S3,0,60.7,10.3,New Lenox Metra,41.514444,-87.965278,RI,Rock Island
+MD-N,NGLENVIEW,S3,0,29.8,18.7,Glen/N. Glenview Metra,42.0975,-87.815833,MD-N,Milwaukee North
+UP-NW,NORWOODP,S3,0,60.0,5.2,Norwood Park Metra,41.991667,-87.798889,UP-NW,Union Pacific Northwest
+RI,OAKFOREST,S3,0,25.0,0.0,Oak Forest Metra,41.604444,-87.738333,RI,Rock Island
+UP-W,OAKPARK,S3,0,60.0,28.9,Oak Park Metra,41.886944,-87.801111,UP-W,Union Pacific West
+ME,OLYMPIA,S3,0,60.0,28.1,Olympia Fields Metra,41.521389,-87.69,ME,Metra Electric
+UP-N,OTC,S3,0,31.0,22.4,Chicago OTC Metra,41.882222,-87.640556,UP-N,Union Pacific North
+UP-NW,OTC,S3,0,15.5,22.6,Chicago OTC Metra,41.882222,-87.640556,UP-NW,Union Pacific Northwest
+UP-W,OTC,S3,0,60.0,6.3,Chicago OTC Metra,41.882222,-87.640556,UP-W,Union Pacific West
+UP-NW,PALATINE,S3,0,,,Palatine Metra,42.113056,-88.048333,UP-NW,Union Pacific Northwest
+UP-NW,PARKRIDGE,S3,0,60.0,6.2,Park Ridge Metra,42.010278,-87.831667,UP-NW,Union Pacific Northwest
+UP-NW,PINGREE,S3,0,58.6,15.6,Pingree Road Metra,42.234167,-88.298056,UP-NW,Union Pacific Northwest
+RI,PRAIRIEST,S3,0,,,Prairie St. Metra,41.6625,-87.675,RI,Rock Island
+MD-N,PRAIRIEXNG,S3,0,59.5,13.9,Prairie Crossing Metra,42.320833,-88.015278,MD-N,Milwaukee North
+ME,RANDOLPH,S3,0,34.0,34.7,Randolph St. Metra,41.884167,-87.623056,ME,Metra Electric
+UP-N,RAVENSWOOD,S3,0,39.7,22.7,Ravenswood Metra,41.968333,-87.674444,UP-N,Union Pacific North
+UP-N,RAVINIA,S3,0,42.2,21.8,Ravinia Metra,42.165,-87.782778,UP-N,Union Pacific North
+UP-N,RAVINIAPK,S3,0,42.0,21.5,Ravinia Park Metra,42.158056,-87.776944,UP-N,Union Pacific North
+ME,RICHTON,S3,0,19.3,1.0,Richton Park Metra,41.485556,-87.709444,ME,Metra Electric
+ME,RIVERDALE,S3,0,60.0,8.9,Riverdale Metra,41.646667,-87.623333,ME,Metra Electric
+MD-W,RIVERGROVE,S3,0,14.2,4.9,River Grove Metra,41.931111,-87.836111,MD-W,Milwaukee West
+BNSF,RIVERSIDE,S3,0,17.7,19.4,Riverside Metra,41.827222,-87.82,BNSF,Burlington Northern
+UP-W,RIVRFOREST,S3,0,27.0,0.0,River Forest Metra,41.886944,-87.825,UP-W,Union Pacific West
+RI,ROBBINS,S3,0,12.0,0.0,Robbins Metra,41.640833,-87.694444,RI,Rock Island
+UP-N,ROGERPK,S3,0,37.6,24.4,Rogers Park Metra,42.009444,-87.675556,UP-N,Union Pacific North
+MD-W,ROSELLE,S3,0,60.6,3.8,Roselle Metra,41.981389,-88.067222,MD-W,Milwaukee West
+MD-N,ROUNDLAKE,S3,0,57.0,16.1,Round Lake Metra,42.354444,-88.094167,MD-N,Milwaukee North
+BNSF,ROUTE59,S3,0,57.7,18.7,Route 59 Metra,41.777778,-88.208611,BNSF,Burlington Northern
+MD-W,SCHAUM,S3,0,61.3,10.5,Schaumburg Metra,41.989167,-88.118056,MD-W,Milwaukee West
+ME,SOUTHSHORE,S3,0,58.6,26.6,South Shore Metra,41.765278,-87.565833,ME,Metra Electric
+BNSF,STONEAVE,S3,0,7.0,0.0,Stone Ave. Metra,41.814167,-87.878333,BNSF,Burlington Northern
+ME,STONYISLND,S3,0,59.0,18.4,Stony Island Metra,41.766111,-87.586944,ME,Metra Electric
+RI,TINLEY80TH,S3,0,58.6,18.6,Tinley-80th Metra,41.564444,-87.809444,RI,Rock Island
+RI,TINLEYPARK,S3,0,58.1,24.9,Tinley Park Metra,41.575833,-87.782778,RI,Rock Island
+ME,UNIVERSITY,S3,0,12.6,1.6,University Park Metra,41.459444,-87.723333,ME,Metra Electric
+ME,VANBUREN,S3,0,31.3,30.6,Van Buren St. Metra,41.876944,-87.623056,ME,Metra Electric
+RI,VERMONT,S3,0,4.0,0.0,Blue Island-Vermont Metra,41.654722,-87.677778,RI,Rock Island
+UP-W,VILLAPARK,S3,0,8.0,0.0,Villa Park Metra,41.896389,-87.9775,UP-W,Union Pacific West
+UP-N,WAUKEGAN,S3,0,34.2,18.5,Waukegan Metra,42.360556,-87.828333,UP-N,Union Pacific North
+UP-W,WCHICAGO,S3,0,59.6,6.1,West Chicago Metra,41.881111,-88.198889,UP-W,Union Pacific West
+MD-N,WESTERNAVE,S3,0,59.0,19.9,Western Ave Metra,41.889167,-87.688056,MD-N,Milwaukee North
+MD-W,WESTERNAVE,S3,0,18.0,4.6,Western Ave Metra,41.889167,-87.688056,MD-W,Milwaukee West
+BNSF,WESTMONT,S3,0,55.7,29.9,Westmont Metra,41.795556,-87.976389,BNSF,Burlington Northern
+BNSF,WESTSPRING,S3,0,17.1,11.6,Western Springs Metra,41.808889,-87.901111,BNSF,Burlington Northern
+UP-W,WHEATON,S3,0,58.4,23.7,Wheaton Metra,41.864444,-88.111944,UP-W,Union Pacific West
+UP-N,WILMETTE,S3,0,45.2,27.2,Wilmette Metra,42.077222,-87.709167,UP-N,Union Pacific North
+ME,WINDSORPK,S3,0,58.4,30.7,Windsor Park Metra,41.758611,-87.559444,ME,Metra Electric
+UP-W,WINFIELD,S3,0,59.0,14.4,Winfield Metra,41.87,-88.156944,UP-W,Union Pacific West
+UP-N,WINNETKA,S3,0,43.7,22.9,Winnetka Metra,42.105278,-87.732778,UP-N,Union Pacific North
+UP-N,WINTHROP,S3,0,54.0,,Winthrop Harbor Metra,42.482778,-87.816111,UP-N,Union Pacific North
+MD-W,WOODDALE,S3,0,59.3,21.4,Wood Dale Metra,41.9625,-87.975278,MD-W,Milwaukee West
+UP-NW,WOODSTOCK,S3,0,60.0,13.8,Woodstock Metra,42.316944,-88.4475,UP-NW,Union Pacific Northwest
+UP-N,ZION,S3,0,63.0,,Zion Metra,42.449167,-87.818056,UP-N,Union Pacific North

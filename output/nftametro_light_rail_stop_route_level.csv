@@ -1,0 +1,100 @@
+route_id,stop_id,service_id,direction_id,avghdwy,stdev_hdwy,stop_name,stop_lat,stop_lon,route_short_name,route_long_name
+45,43500,sat,0,42.8,9.0,RAIL at Special Events Station,42.87649,-78.87721,"",METRO RAIL
+45,43501,sat,0,41.4,15.9,RAIL at Special Events Station,42.8764,-78.87752,"",METRO RAIL
+45,43502,sat,0,16.6,2.3,RAIL at Erie Canal Harbor Station,42.87778,-78.8768,"",METRO RAIL
+45,43503,sat,0,16.6,2.3,RAIL at Erie Canal Harbor Station,42.87777,-78.87703,"",METRO RAIL
+45,43504,sat,0,16.6,2.3,RAIL at Seneca Station,42.88152,-78.87565,"",METRO RAIL
+45,43505,sat,0,16.6,2.3,RAIL at Seneca Station,42.88091,-78.87599,"",METRO RAIL
+45,43506,sat,0,16.6,2.3,RAIL at Church Street Station,42.88357,-78.87497,"",METRO RAIL
+45,43507,sat,0,16.6,2.3,RAIL at Church Street Station,42.88362,-78.87519,"",METRO RAIL
+45,43508,sat,0,16.6,2.3,RAIL at Lafayette Station,42.88641,-78.87405,"",METRO RAIL
+45,43509,sat,0,16.6,2.3,RAIL at Lafayette Station,42.88624,-78.87427,"",METRO RAIL
+45,43510,sat,0,16.6,2.3,RAIL at Fountain Plaza Station,42.88931,-78.87306,"",METRO RAIL
+45,43511,sat,0,16.6,2.3,RAIL at Fountain Plaza Station,42.8893,-78.87326,"",METRO RAIL
+45,43512,sat,0,16.6,2.3,RAIL at Theater Station,42.89223,-78.87212,"",METRO RAIL
+45,43513,sat,0,16.6,2.3,RAIL at Theater Station,42.89241,-78.87228,"",METRO RAIL
+45,43514,sat,0,16.6,2.3,RAIL at Allen/Medical Campus Sta.,42.89975,-78.86968,"",METRO RAIL
+45,43515,sat,0,16.6,2.3,RAIL at Allen/Medical Campus Sta.,42.89983,-78.86987,"",METRO RAIL
+45,43516,sat,0,16.6,2.3,RAIL at Summer-Best Station,42.90483,-78.86794,"",METRO RAIL
+45,43517,sat,0,16.6,2.3,RAIL at Summer-Best Station,42.90488,-78.86819,"",METRO RAIL
+45,43518,sat,0,16.6,2.3,RAIL at Utica Station,42.91153,-78.86571,"",METRO RAIL
+45,43519,sat,0,16.6,2.3,RAIL at Utica Station,42.91167,-78.8659,"",METRO RAIL
+45,43520,sat,0,16.6,2.3,RAIL at Delavan/Canisius College,42.9224,-78.85684,"",METRO RAIL
+45,43521,sat,0,16.6,2.3,RAIL at Delavan/Canisius College,42.92247,-78.85717,"",METRO RAIL
+45,43522,sat,0,16.6,2.3,RAIL at Humboldt Station,42.9275,-78.85153,"",METRO RAIL
+45,43523,sat,0,16.6,2.3,RAIL at Humboldt Station,42.92753,-78.85191,"",METRO RAIL
+45,43524,sat,0,16.6,2.3,RAIL at Amherst Station,42.93982,-78.83836,"",METRO RAIL
+45,43525,sat,0,16.6,2.3,RAIL at Amherst Station,42.93983,-78.83863,"",METRO RAIL
+45,43526,sat,0,16.6,2.3,RAIL at LaSalle Station,42.94726,-78.83005,"",METRO RAIL
+45,43527,sat,0,16.6,2.3,RAIL at LaSalle Station,42.94753,-78.83023,"",METRO RAIL
+45,43528,sat,0,16.6,2.3,RAIL at University Station,42.95439,-78.82015,"",METRO RAIL
+45,43529,sat,0,16.6,2.3,RAIL at University Station,42.95441,-78.82025,"",METRO RAIL
+45,43530,sat,0,42.8,9.0,RAIL at South Park Yard&Shops,42.87339,-78.87576,"",METRO RAIL
+45,43531,sat,0,41.4,15.9,RAIL at South Park Yard&Shops,42.87333,-78.876,"",METRO RAIL
+45,43532,sat,0,32.7,8.1,RAIL at Shed,42.87297,-78.87298,"",METRO RAIL
+45,43500,sun,0,40.0,0.0,RAIL at Special Events Station,42.87649,-78.87721,"",METRO RAIL
+45,43501,sun,0,40.0,0.0,RAIL at Special Events Station,42.8764,-78.87752,"",METRO RAIL
+45,43502,sun,0,20.0,0.0,RAIL at Erie Canal Harbor Station,42.87778,-78.8768,"",METRO RAIL
+45,43503,sun,0,20.0,0.0,RAIL at Erie Canal Harbor Station,42.87777,-78.87703,"",METRO RAIL
+45,43504,sun,0,20.0,0.0,RAIL at Seneca Station,42.88152,-78.87565,"",METRO RAIL
+45,43505,sun,0,20.0,0.0,RAIL at Seneca Station,42.88091,-78.87599,"",METRO RAIL
+45,43506,sun,0,20.0,0.0,RAIL at Church Street Station,42.88357,-78.87497,"",METRO RAIL
+45,43507,sun,0,20.0,0.0,RAIL at Church Street Station,42.88362,-78.87519,"",METRO RAIL
+45,43508,sun,0,20.0,0.0,RAIL at Lafayette Station,42.88641,-78.87405,"",METRO RAIL
+45,43509,sun,0,20.0,0.0,RAIL at Lafayette Station,42.88624,-78.87427,"",METRO RAIL
+45,43510,sun,0,20.0,0.0,RAIL at Fountain Plaza Station,42.88931,-78.87306,"",METRO RAIL
+45,43511,sun,0,20.0,0.0,RAIL at Fountain Plaza Station,42.8893,-78.87326,"",METRO RAIL
+45,43512,sun,0,20.0,0.0,RAIL at Theater Station,42.89223,-78.87212,"",METRO RAIL
+45,43513,sun,0,20.0,0.0,RAIL at Theater Station,42.89241,-78.87228,"",METRO RAIL
+45,43514,sun,0,20.0,0.0,RAIL at Allen/Medical Campus Sta.,42.89975,-78.86968,"",METRO RAIL
+45,43515,sun,0,20.0,0.0,RAIL at Allen/Medical Campus Sta.,42.89983,-78.86987,"",METRO RAIL
+45,43516,sun,0,20.0,0.0,RAIL at Summer-Best Station,42.90483,-78.86794,"",METRO RAIL
+45,43517,sun,0,20.0,0.0,RAIL at Summer-Best Station,42.90488,-78.86819,"",METRO RAIL
+45,43518,sun,0,20.0,0.0,RAIL at Utica Station,42.91153,-78.86571,"",METRO RAIL
+45,43519,sun,0,20.0,0.0,RAIL at Utica Station,42.91167,-78.8659,"",METRO RAIL
+45,43520,sun,0,20.0,0.0,RAIL at Delavan/Canisius College,42.9224,-78.85684,"",METRO RAIL
+45,43521,sun,0,20.0,0.0,RAIL at Delavan/Canisius College,42.92247,-78.85717,"",METRO RAIL
+45,43522,sun,0,20.0,0.0,RAIL at Humboldt Station,42.9275,-78.85153,"",METRO RAIL
+45,43523,sun,0,20.0,0.0,RAIL at Humboldt Station,42.92753,-78.85191,"",METRO RAIL
+45,43524,sun,0,20.0,0.0,RAIL at Amherst Station,42.93982,-78.83836,"",METRO RAIL
+45,43525,sun,0,20.0,0.0,RAIL at Amherst Station,42.93983,-78.83863,"",METRO RAIL
+45,43526,sun,0,20.0,0.0,RAIL at LaSalle Station,42.94726,-78.83005,"",METRO RAIL
+45,43527,sun,0,20.0,0.0,RAIL at LaSalle Station,42.94753,-78.83023,"",METRO RAIL
+45,43528,sun,0,20.0,0.0,RAIL at University Station,42.95439,-78.82015,"",METRO RAIL
+45,43529,sun,0,20.0,0.0,RAIL at University Station,42.95441,-78.82025,"",METRO RAIL
+45,43530,sun,0,40.0,0.0,RAIL at South Park Yard&Shops,42.87339,-78.87576,"",METRO RAIL
+45,43531,sun,0,40.0,0.0,RAIL at South Park Yard&Shops,42.87333,-78.876,"",METRO RAIL
+45,43532,sun,0,40.0,0.0,RAIL at Shed,42.87297,-78.87298,"",METRO RAIL
+45,43500,wkd,0,26.6,20.8,RAIL at Special Events Station,42.87649,-78.87721,"",METRO RAIL
+45,43501,wkd,0,22.7,17.5,RAIL at Special Events Station,42.8764,-78.87752,"",METRO RAIL
+45,43502,wkd,0,12.6,3.4,RAIL at Erie Canal Harbor Station,42.87778,-78.8768,"",METRO RAIL
+45,43503,wkd,0,12.7,3.5,RAIL at Erie Canal Harbor Station,42.87777,-78.87703,"",METRO RAIL
+45,43504,wkd,0,12.6,3.4,RAIL at Seneca Station,42.88152,-78.87565,"",METRO RAIL
+45,43505,wkd,0,12.7,3.5,RAIL at Seneca Station,42.88091,-78.87599,"",METRO RAIL
+45,43506,wkd,0,12.7,3.4,RAIL at Church Street Station,42.88357,-78.87497,"",METRO RAIL
+45,43507,wkd,0,12.7,3.5,RAIL at Church Street Station,42.88362,-78.87519,"",METRO RAIL
+45,43508,wkd,0,12.7,3.4,RAIL at Lafayette Station,42.88641,-78.87405,"",METRO RAIL
+45,43509,wkd,0,12.7,3.5,RAIL at Lafayette Station,42.88624,-78.87427,"",METRO RAIL
+45,43510,wkd,0,12.6,3.4,RAIL at Fountain Plaza Station,42.88931,-78.87306,"",METRO RAIL
+45,43511,wkd,0,12.7,3.5,RAIL at Fountain Plaza Station,42.8893,-78.87326,"",METRO RAIL
+45,43512,wkd,0,12.6,3.4,RAIL at Theater Station,42.89223,-78.87212,"",METRO RAIL
+45,43513,wkd,0,12.7,3.5,RAIL at Theater Station,42.89241,-78.87228,"",METRO RAIL
+45,43514,wkd,0,12.6,3.4,RAIL at Allen/Medical Campus Sta.,42.89975,-78.86968,"",METRO RAIL
+45,43515,wkd,0,12.7,3.5,RAIL at Allen/Medical Campus Sta.,42.89983,-78.86987,"",METRO RAIL
+45,43516,wkd,0,12.6,3.4,RAIL at Summer-Best Station,42.90483,-78.86794,"",METRO RAIL
+45,43517,wkd,0,12.7,3.5,RAIL at Summer-Best Station,42.90488,-78.86819,"",METRO RAIL
+45,43518,wkd,0,12.6,3.4,RAIL at Utica Station,42.91153,-78.86571,"",METRO RAIL
+45,43519,wkd,0,12.7,3.5,RAIL at Utica Station,42.91167,-78.8659,"",METRO RAIL
+45,43520,wkd,0,12.6,3.4,RAIL at Delavan/Canisius College,42.9224,-78.85684,"",METRO RAIL
+45,43521,wkd,0,12.7,3.5,RAIL at Delavan/Canisius College,42.92247,-78.85717,"",METRO RAIL
+45,43522,wkd,0,12.6,3.4,RAIL at Humboldt Station,42.9275,-78.85153,"",METRO RAIL
+45,43523,wkd,0,12.7,3.5,RAIL at Humboldt Station,42.92753,-78.85191,"",METRO RAIL
+45,43524,wkd,0,12.6,3.4,RAIL at Amherst Station,42.93982,-78.83836,"",METRO RAIL
+45,43525,wkd,0,12.7,3.5,RAIL at Amherst Station,42.93983,-78.83863,"",METRO RAIL
+45,43526,wkd,0,12.6,3.4,RAIL at LaSalle Station,42.94726,-78.83005,"",METRO RAIL
+45,43527,wkd,0,12.7,3.5,RAIL at LaSalle Station,42.94753,-78.83023,"",METRO RAIL
+45,43528,wkd,0,12.6,3.4,RAIL at University Station,42.95439,-78.82015,"",METRO RAIL
+45,43529,wkd,0,12.7,3.5,RAIL at University Station,42.95441,-78.82025,"",METRO RAIL
+45,43530,wkd,0,26.8,20.8,RAIL at South Park Yard&Shops,42.87339,-78.87576,"",METRO RAIL
+45,43531,wkd,0,22.7,17.5,RAIL at South Park Yard&Shops,42.87333,-78.876,"",METRO RAIL
+45,43532,wkd,0,23.5,12.8,RAIL at Shed,42.87297,-78.87298,"",METRO RAIL

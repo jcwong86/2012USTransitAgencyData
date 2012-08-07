@@ -1,0 +1,2404 @@
+stop_id,service_id,direction_id,numroutes,TripsServingStop,stop_name,stop_lat,stop_lon
+10011,1,0,1,61,Magnolia Av Station,39.919383,-75.28701
+10011,5,0,1,35,Magnolia Av Station,39.919383,-75.28701
+10011,7,0,1,35,Magnolia Av Station,39.919383,-75.28701
+10909,5,0,1,8,North Gulph Rd & Freedom Busn Ctr,40.092369,-75.415918
+10910,5,0,1,8,North Gulph Rd & Guthrie Rd,40.089896,-75.413304
+11055,1,1,1,11,North Warner Rd & North Gulph Rd,40.08503,-75.400883
+11055,5,1,1,10,North Warner Rd & North Gulph Rd,40.08503,-75.400883
+12048,1,0,1,61,Providence Rd Station,39.921554,-75.288705
+12048,5,0,1,35,Providence Rd Station,39.921554,-75.288705
+12048,7,0,1,35,Providence Rd Station,39.921554,-75.288705
+14656,1,1,1,6,Island Av & Woodland Av,39.917394,-75.246491
+14964,1,0,1,14,Swedesford Rd & South Warner Rd,40.081951,-75.403321
+14964,5,0,1,10,Swedesford Rd & South Warner Rd,40.081951,-75.403321
+14965,1,0,1,14,North Warner Rd & North Gulph Rd,40.085146,-75.400812
+14965,5,0,1,10,North Warner Rd & North Gulph Rd,40.085146,-75.400812
+14984,5,1,1,9,North Gulph Rd & Guthrie Rd - MBFS,40.089575,-75.412878
+14998,1,1,1,11,Market St & High St,39.959675,-75.604554
+14998,5,1,1,9,Market St & High St,39.959675,-75.604554
+15178,1,1,1,2,Conshohocken Station,40.071908,-75.308114
+15271,1,0,1,140,Lansdowne Av & 60th St,39.975833,-75.240354
+15271,5,0,1,73,Lansdowne Av & 60th St,39.975833,-75.240354
+15271,7,0,1,66,Lansdowne Av & 60th St,39.975833,-75.240354
+15319,1,0,2,133,Fairfield Av Station,39.960792,-75.263625
+15319,5,0,2,69,Fairfield Av Station,39.960792,-75.263625
+15319,7,0,2,67,Fairfield Av Station,39.960792,-75.263625
+15322,1,0,2,133,Congress Av Station,39.953029,-75.279066
+15322,5,0,2,69,Congress Av Station,39.953029,-75.279066
+15322,7,0,2,67,Congress Av Station,39.953029,-75.279066
+15325,1,0,1,61,Garrettford Station,39.944034,-75.295864
+15325,5,0,1,35,Garrettford Station,39.944034,-75.295864
+15325,7,0,1,35,Garrettford Station,39.944034,-75.295864
+15326,1,0,1,61,Drexel Manor Station,39.942196,-75.296564
+15326,5,0,1,35,Drexel Manor Station,39.942196,-75.296564
+15326,7,0,1,35,Drexel Manor Station,39.942196,-75.296564
+15327,1,0,1,61,Marshall Rd Station,39.939912,-75.296532
+15327,5,0,1,35,Marshall Rd Station,39.939912,-75.296532
+15327,7,0,1,35,Marshall Rd Station,39.939912,-75.296532
+15328,1,0,1,61,Creek Rd Station,39.935002,-75.295373
+15328,5,0,1,35,Creek Rd Station,39.935002,-75.295373
+15328,7,0,1,35,Creek Rd Station,39.935002,-75.295373
+15329,1,0,1,61,Penn St Station,39.928733,-75.292079
+15329,5,0,1,35,Penn St Station,39.928733,-75.292079
+15329,7,0,1,35,Penn St Station,39.928733,-75.292079
+15330,1,0,1,61,Springfield Rd Station,39.927163,-75.292743
+15330,5,0,1,35,Springfield Rd Station,39.927163,-75.292743
+15330,7,0,1,35,Springfield Rd Station,39.927163,-75.292743
+15333,1,0,1,57,Andrews Av Station,39.911461,-75.28188
+15333,5,0,1,35,Andrews Av Station,39.911461,-75.28188
+15333,7,0,1,35,Andrews Av Station,39.911461,-75.28188
+15339,1,1,1,61,Creek Rd Station,39.935091,-75.295278
+15339,5,1,1,35,Creek Rd Station,39.935091,-75.295278
+15339,7,1,1,35,Creek Rd Station,39.935091,-75.295278
+15340,1,1,1,61,Marshall Rd Station,39.939965,-75.29645
+15340,5,1,1,35,Marshall Rd Station,39.939965,-75.29645
+15340,7,1,1,35,Marshall Rd Station,39.939965,-75.29645
+15344,1,1,2,133,Congress Av Station,39.952895,-75.279019
+15344,5,1,2,69,Congress Av Station,39.952895,-75.279019
+15344,7,1,2,67,Congress Av Station,39.952895,-75.279019
+15349,1,0,1,72,Huey Av Station,39.947445,-75.297581
+15349,5,0,1,34,Huey Av Station,39.947445,-75.297581
+15349,7,0,1,32,Huey Av Station,39.947445,-75.297581
+15355,1,0,1,68,Saxer Av Station,39.928727,-75.333669
+15355,5,0,1,34,Saxer Av Station,39.928727,-75.333669
+15355,7,0,1,32,Saxer Av Station,39.928727,-75.333669
+15358,1,0,1,51,Pine Ridge Station,39.914908,-75.369887
+15358,5,0,1,34,Pine Ridge Station,39.914908,-75.369887
+15358,7,0,1,32,Pine Ridge Station,39.914908,-75.369887
+15366,1,1,1,51,Pine Ridge Station,39.9148,-75.369922
+15366,5,1,1,34,Pine Ridge Station,39.9148,-75.369922
+15366,7,1,1,32,Pine Ridge Station,39.9148,-75.369922
+15370,1,1,1,68,Saxer Av Station,39.928638,-75.333598
+15370,5,1,1,34,Saxer Av Station,39.928638,-75.333598
+15370,7,1,1,32,Saxer Av Station,39.928638,-75.333598
+15376,1,1,1,72,Huey Av Station,39.947374,-75.29764
+15376,5,1,1,34,Huey Av Station,39.947374,-75.29764
+15376,7,1,1,32,Huey Av Station,39.947374,-75.29764
+15379,1,0,1,51,Monroe St Station,39.917753,-75.387566
+15379,5,0,1,34,Monroe St Station,39.917753,-75.387566
+15379,7,0,1,32,Monroe St Station,39.917753,-75.387566
+15380,1,1,1,51,Monroe St Station,39.917681,-75.387743
+15380,5,1,1,34,Monroe St Station,39.917681,-75.387743
+15380,7,1,1,32,Monroe St Station,39.917681,-75.387743
+15497,1,0,2,133,69th Street Transportation Center,39.962064,-75.260244
+15497,1,1,2,133,69th Street Transportation Center,39.962064,-75.260244
+15497,5,0,2,69,69th Street Transportation Center,39.962064,-75.260244
+15497,5,1,2,69,69th Street Transportation Center,39.962064,-75.260244
+15497,7,0,2,67,69th Street Transportation Center,39.962064,-75.260244
+15497,7,1,2,67,69th Street Transportation Center,39.962064,-75.260244
+1562,1,0,1,3,Ridge Pk & Trooper Rd - MBNS,40.142039,-75.389436
+1562,5,0,1,1,Ridge Pk & Trooper Rd - MBNS,40.142039,-75.389436
+1563,1,0,1,4,Ridge Pk & Eagleville Plaza - FS,40.157722,-75.404681
+1563,5,0,1,1,Ridge Pk & Eagleville Plaza - FS,40.157722,-75.404681
+1568,1,1,1,3,Ridge Pk & Eagleville Plaza,40.157336,-75.404347
+1570,1,1,1,3,Main St & Egypt Rd,40.132937,-75.378696
+1573,1,0,1,13,Exton Square Mall 3,40.03105,-75.621467
+1573,1,1,1,11,Exton Square Mall 3,40.03105,-75.621467
+1573,5,0,1,9,Exton Square Mall 3,40.03105,-75.621467
+1573,5,1,1,9,Exton Square Mall 3,40.03105,-75.621467
+1576,1,1,1,13,Marshall St & Montgomery Av - FS,39.972058,-75.601016
+1576,5,1,1,10,Marshall St & Montgomery Av - FS,39.972058,-75.601016
+1578,1,1,1,11,High St & Linden St,39.953249,-75.597594
+1578,5,1,1,9,High St & Linden St,39.953249,-75.597594
+1580,1,0,1,13,High St & Lexington Av,39.942369,-75.59137
+1580,5,0,1,9,High St & Lexington Av,39.942369,-75.59137
+1583,1,0,1,14,Marshall St & Montgomery Av,39.97188,-75.600933
+1583,5,0,1,10,Marshall St & Montgomery Av,39.97188,-75.600933
+1585,1,1,1,11,Pottstown Pk & US 30,40.019971,-75.623459
+1585,5,1,1,9,Pottstown Pk & US 30,40.019971,-75.623459
+1589,1,0,1,3,Main St & 9th Av,40.192913,-75.46212
+1589,5,0,1,1,Main St & 9th Av,40.192913,-75.46212
+1591,1,0,1,3,High St & Armand Hammer Blvd,40.244045,-75.613359
+1594,1,0,1,3,Montgomery County Community College,40.244597,-75.654589
+1594,1,1,1,3,Montgomery County Community College,40.244597,-75.654589
+1598,1,1,1,3,High St & Armand Hammer Blvd,40.243946,-75.613948
+1599,1,0,1,3,Philadelphia Premium Outlets,40.237611,-75.571667
+1599,1,1,1,3,Philadelphia Premium Outlets,40.237611,-75.571667
+1600,1,1,1,3,Main St & 9th Av,40.192877,-75.462452
+1614,1,0,1,2,North Wales & Welsh Rd - FS,40.229,-75.262164
+1617,1,0,1,2,Montgomery Mall,40.23463,-75.247042
+1617,1,1,1,2,Montgomery Mall,40.23463,-75.247042
+1621,1,0,1,2,North Wales Rd & Main St,40.229036,-75.262409
+1638,1,0,1,1,Swedeland Rd & River Rd,40.085041,-75.326138
+1638,1,1,1,2,Swedeland Rd & River Rd,40.085041,-75.326138
+1639,1,1,1,2,Renaissance Business Center,40.088706,-75.341144
+16395,1,1,1,72,Aronimink Station,39.949185,-75.306033
+16395,5,1,1,34,Aronimink Station,39.949185,-75.306033
+16395,7,1,1,32,Aronimink Station,39.949185,-75.306033
+16402,1,0,1,72,Aronimink Station,39.949284,-75.306174
+16402,5,0,1,34,Aronimink Station,39.949284,-75.306174
+16402,7,0,1,32,Aronimink Station,39.949284,-75.306174
+1641,1,1,1,2,Gulph Mills Station,40.07132,-75.342053
+1642,1,0,1,1,Renaissance Business Center,40.088839,-75.341061
+1649,1,0,3,8,Norristown Transportation Center,40.11353,-75.345066
+1649,1,1,3,7,Norristown Transportation Center,40.11353,-75.345066
+1649,5,0,1,1,Norristown Transportation Center,40.11353,-75.345066
+1650,1,0,1,2,Pine St & Logan St,40.130451,-75.330674
+1651,1,0,1,2,Mercy Suburban Hospital,40.140014,-75.314002
+1653,1,0,1,2,Montgomery Co Community College,40.17738,-75.275264
+1653,1,1,1,1,Montgomery Co Community College,40.17738,-75.275264
+1654,1,0,1,2,Walnut St & 5th North Wales RR Sta,40.213265,-75.277083
+1663,1,0,1,2,Green St & Main St,40.242098,-75.28621
+1663,1,1,1,2,Green St & Main St,40.242098,-75.28621
+1665,1,1,1,2,North Wales Railroad Station,40.213802,-75.276963
+1668,1,1,1,2,Mercy Suburban Hospital,40.139913,-75.314698
+1669,1,1,1,2,Pine St & Logan St,40.130683,-75.33052
+1679,1,0,1,2,Marshall St & Stanbridge St,40.122407,-75.352714
+1702,1,1,1,11,Plaza at King of Prussia ParkN Ride,40.090275,-75.392539
+1702,5,0,1,8,Plaza at King of Prussia ParkN Ride,40.090275,-75.392539
+1702,5,1,1,10,Plaza at King of Prussia ParkN Ride,40.090275,-75.392539
+1707,5,0,1,8,Phoenixville Plaza,40.133427,-75.536134
+1708,5,0,1,8,New St & Main St,40.179554,-75.547527
+1709,5,0,1,8,Limerick Square Shopping Center,40.198312,-75.527192
+1709,5,1,1,9,Limerick Square Shopping Center,40.198312,-75.527192
+1711,5,1,1,9,Main St & New St,40.179706,-75.547551
+1712,5,1,1,9,Phoenixville Plaza,40.133374,-75.536063
+1817,1,0,1,2,Trooper Rd & Eisenhower Av - FS,40.123625,-75.409271
+1818,1,0,1,2,Audubon Rd & Adams Av,40.117361,-75.423382
+1818,1,1,1,2,Audubon Rd & Adams Av,40.117361,-75.423382
+1822,1,0,1,2,Marshall St & Buttonwood St,40.123801,-75.355021
+1827,1,0,1,14,Plaza at King of Prussia,40.089615,-75.393403
+1827,1,1,1,11,Plaza at King of Prussia,40.089615,-75.393403
+1827,5,0,2,18,Plaza at King of Prussia,40.089615,-75.393403
+1827,5,1,2,19,Plaza at King of Prussia,40.089615,-75.393403
+18304,1,0,2,6,Main St & Barbadoes St,40.115638,-75.347194
+18304,5,0,1,1,Main St & Barbadoes St,40.115638,-75.347194
+18307,1,0,2,6,Main St & Markley St,40.11646,-75.348827
+18307,5,0,1,1,Main St & Markley St,40.11646,-75.348827
+18308,1,0,1,2,Marshall St & Astor St,40.119592,-75.348137
+1831,1,1,1,11,King St & Warren Av,40.036121,-75.514472
+1831,5,1,1,10,King St & Warren Av,40.036121,-75.514472
+1832,1,1,1,11,King Rd & Immaculata University,40.027608,-75.564242
+1832,5,1,1,10,King Rd & Immaculata University,40.027608,-75.564242
+18323,1,1,1,2,Trooper Rd & Audubon Rd,40.114843,-75.417878
+18326,1,0,1,2,Blvd of Generals & Trooper Rd - FS,40.126751,-75.403949
+18327,1,0,1,2,Blvd of Generals & Gen Washington,40.12456,-75.400642
+1833,1,0,1,14,King Rd & Immaculata University,40.027501,-75.564159
+1833,5,0,1,10,King Rd & Immaculata University,40.027501,-75.564159
+18332,1,1,1,2,Egypt Rd & Quest Diagnostic,40.131093,-75.395702
+18333,1,1,1,2,Egypt Rd & Port Indian Rd,40.131404,-75.390623
+18334,1,1,1,2,Egypt Rd & School Ln,40.132035,-75.384349
+18335,1,1,1,2,Egypt Rd & Varnum Rd,40.132142,-75.382336
+18337,1,1,1,2,Schuylkill Av & Main St - FS,40.130978,-75.374511
+18338,1,1,1,2,Schuylkill Av & Marshall St,40.133173,-75.372426
+18339,1,1,1,2,Marshall St & Whitehall Rd,40.131717,-75.36961
+1834,1,0,1,14,King St & Warren Av,40.035862,-75.514756
+1834,5,0,1,10,King St & Warren Av,40.035862,-75.514756
+18340,1,1,1,2,Marshall St & Prospect St,40.130243,-75.366947
+18341,1,1,1,2,Marshall St & 1510,40.128447,-75.363682
+18342,1,1,1,2,Marshall St & Montgomery Av,40.127393,-75.361765
+18343,1,1,1,2,Marshall St & Forrest Av,40.126276,-75.359754
+18344,1,1,1,2,Marshall St & Selma St,40.125177,-75.357801
+18348,1,1,1,2,Marshall St & Haws Av,40.121621,-75.351768
+18349,1,1,1,2,Marshall St & George St,40.120513,-75.34997
+18350,1,1,1,2,Marshall St & Astor St,40.119602,-75.348444
+18351,1,1,1,2,Marshall St & Markley St,40.118913,-75.347108
+18352,1,1,1,2,Marshall St & Barbadoes St,40.118368,-75.345723
+18353,1,1,1,2,Marshall St & Cherry St,40.117751,-75.344079
+18358,1,0,1,2,Marshall St & George St,40.120486,-75.349662
+18359,1,0,1,2,Marshall St & Haws Av,40.121594,-75.35146
+18364,1,0,1,2,Marshall St & Forrest Av,40.126302,-75.359422
+18365,1,0,1,2,Marshall St & Montgomery Av,40.127419,-75.36141
+18366,1,0,1,2,Marshall St & 1621,40.128447,-75.363303
+18367,1,0,1,2,Marshall St & Prospect St,40.130225,-75.366545
+18368,1,0,1,2,Marshall St & Whitehall Rd,40.131663,-75.369148
+1837,1,1,1,11,Old Eagle School Rd & Devon Park Dr,40.075865,-75.410586
+1837,5,1,1,10,Old Eagle School Rd & Devon Park Dr,40.075865,-75.410586
+18370,1,0,1,2,Marshall St & Liberty Av,40.134575,-75.374189
+18373,1,0,1,2,Egypt Rd & Varnum Rd,40.132311,-75.382158
+18374,1,0,1,2,Egypt Rd & School Ln - FS,40.132178,-75.384739
+18375,1,0,1,2,Egypt Rd & Port Indian Rd,40.131582,-75.390363
+18376,1,0,1,2,Egypt Rd & Willowbrook Dr,40.131253,-75.39588
+18377,1,0,1,2,Trooper Rd & Forge Av - FS,40.125403,-75.407044
+18597,1,0,2,133,Walnut St Station,39.958708,-75.266701
+18597,5,0,2,69,Walnut St Station,39.958708,-75.266701
+18597,7,0,2,67,Walnut St Station,39.958708,-75.266701
+18598,1,0,2,133,Hilltop Rd Station,39.95578,-75.273002
+18598,5,0,2,69,Hilltop Rd Station,39.95578,-75.273002
+18598,7,0,2,67,Hilltop Rd Station,39.95578,-75.273002
+18599,1,0,2,133,Beverly Blvd Station,39.954729,-75.275071
+18599,5,0,2,69,Beverly Blvd Station,39.954729,-75.275071
+18599,7,0,2,67,Beverly Blvd Station,39.954729,-75.275071
+18600,1,0,2,133,Drexel Park Station,39.949665,-75.286843
+18600,5,0,2,69,Drexel Park Station,39.949665,-75.286843
+18600,7,0,2,67,Drexel Park Station,39.949665,-75.286843
+18601,1,0,2,133,Irvington Rd Station,39.948632,-75.288888
+18601,5,0,2,69,Irvington Rd Station,39.948632,-75.288888
+18601,7,0,2,67,Irvington Rd Station,39.948632,-75.288888
+18602,1,0,1,72,School Ln Station,39.948572,-75.299764
+18602,5,0,1,34,School Ln Station,39.948572,-75.299764
+18602,7,0,1,32,School Ln Station,39.948572,-75.299764
+18603,1,0,1,72,Anderson Av Station,39.947755,-75.313002
+18603,5,0,1,34,Anderson Av Station,39.947755,-75.313002
+18603,7,0,1,32,Anderson Av Station,39.947755,-75.313002
+18604,1,0,1,72,Drexelbrook Station,39.947089,-75.316038
+18604,5,0,1,34,Drexelbrook Station,39.947089,-75.316038
+18604,7,0,1,32,Drexelbrook Station,39.947089,-75.316038
+18605,1,0,1,72,Drexeline Station,39.944389,-75.321816
+18605,5,0,1,34,Drexeline Station,39.944389,-75.321816
+18605,7,0,1,32,Drexeline Station,39.944389,-75.321816
+18606,1,0,1,68,Springfield Rd Station,39.934356,-75.329588
+18606,5,0,1,34,Springfield Rd Station,39.934356,-75.329588
+18606,7,0,1,32,Springfield Rd Station,39.934356,-75.329588
+18607,1,0,1,51,Thomson Av Station,39.92106,-75.345329
+18607,5,0,1,34,Thomson Av Station,39.92106,-75.345329
+18607,7,0,1,32,Thomson Av Station,39.92106,-75.345329
+18608,1,0,1,51,Beatty Rd Station,39.916232,-75.376814
+18608,5,0,1,34,Beatty Rd Station,39.916232,-75.376814
+18608,7,0,1,32,Beatty Rd Station,39.916232,-75.376814
+18609,1,0,1,51,Manchester Av Station,39.917135,-75.382833
+18609,5,0,1,34,Manchester Av Station,39.917135,-75.382833
+18609,7,0,1,32,Manchester Av Station,39.917135,-75.382833
+18610,1,0,1,51,Edgmont St Station,39.917484,-75.385595
+18610,5,0,1,34,Edgmont St Station,39.917484,-75.385595
+18610,7,0,1,32,Edgmont St Station,39.917484,-75.385595
+18611,1,0,1,51,Jackson St Station,39.918003,-75.389407
+18611,5,0,1,34,Jackson St Station,39.918003,-75.389407
+18611,7,0,1,32,Jackson St Station,39.918003,-75.389407
+18612,1,0,1,51,Olive St Station,39.918218,-75.391047
+18612,5,0,1,34,Olive St Station,39.918218,-75.391047
+18612,7,0,1,32,Olive St Station,39.918218,-75.391047
+18613,1,0,1,51,Veterans Square Station,39.918352,-75.391991
+18613,5,0,1,34,Veterans Square Station,39.918352,-75.391991
+18613,7,0,1,32,Veterans Square Station,39.918352,-75.391991
+18614,1,0,1,68,Leamy Av Station,39.926187,-75.337485
+18614,5,0,1,34,Leamy Av Station,39.926187,-75.337485
+18614,7,0,1,32,Leamy Av Station,39.926187,-75.337485
+18615,1,1,1,51,Veterans Square Station,39.918299,-75.392157
+18615,5,1,1,34,Veterans Square Station,39.918299,-75.392157
+18615,7,1,1,32,Veterans Square Station,39.918299,-75.392157
+18616,1,1,1,51,Olive St Station,39.918156,-75.391177
+18616,5,1,1,34,Olive St Station,39.918156,-75.391177
+18616,7,1,1,32,Olive St Station,39.918156,-75.391177
+18617,1,1,1,51,Jackson St Station,39.917932,-75.389525
+18617,5,1,1,34,Jackson St Station,39.917932,-75.389525
+18617,7,1,1,32,Jackson St Station,39.917932,-75.389525
+18618,1,1,1,51,Edgmont St Station,39.917404,-75.38576
+18618,5,1,1,34,Edgmont St Station,39.917404,-75.38576
+18618,7,1,1,32,Edgmont St Station,39.917404,-75.38576
+18619,1,1,1,51,Manchester Av Station,39.917046,-75.382986
+18619,5,1,1,34,Manchester Av Station,39.917046,-75.382986
+18619,7,1,1,32,Manchester Av Station,39.917046,-75.382986
+18620,1,1,1,51,Beatty Rd Station,39.916107,-75.376743
+18620,5,1,1,34,Beatty Rd Station,39.916107,-75.376743
+18620,7,1,1,32,Beatty Rd Station,39.916107,-75.376743
+18621,1,1,1,51,Thomson Av Station,39.920998,-75.345235
+18621,5,1,1,34,Thomson Av Station,39.920998,-75.345235
+18621,7,1,1,32,Thomson Av Station,39.920998,-75.345235
+18622,1,1,1,68,Leamy Av Station,39.926151,-75.337343
+18622,5,1,1,34,Leamy Av Station,39.926151,-75.337343
+18622,7,1,1,32,Leamy Av Station,39.926151,-75.337343
+18623,1,1,1,68,Springfield Rd Station,39.934409,-75.329458
+18623,5,1,1,34,Springfield Rd Station,39.934409,-75.329458
+18623,7,1,1,32,Springfield Rd Station,39.934409,-75.329458
+18624,1,1,1,72,Drexeline Station,39.944478,-75.321509
+18624,5,1,1,34,Drexeline Station,39.944478,-75.321509
+18624,7,1,1,32,Drexeline Station,39.944478,-75.321509
+18625,1,1,1,72,Drexelbrook Station,39.947017,-75.315944
+18625,5,1,1,34,Drexelbrook Station,39.947017,-75.315944
+18625,7,1,1,32,Drexelbrook Station,39.947017,-75.315944
+18626,1,1,1,72,Anderson Av Station,39.947675,-75.313014
+18626,5,1,1,34,Anderson Av Station,39.947675,-75.313014
+18626,7,1,1,32,Anderson Av Station,39.947675,-75.313014
+18627,1,1,1,72,School Ln Station,39.948465,-75.299799
+18627,5,1,1,34,School Ln Station,39.948465,-75.299799
+18627,7,1,1,32,School Ln Station,39.948465,-75.299799
+18628,1,1,2,133,Irvington Rd Station,39.948453,-75.289042
+18628,5,1,2,69,Irvington Rd Station,39.948453,-75.289042
+18628,7,1,2,67,Irvington Rd Station,39.948453,-75.289042
+18629,1,1,2,133,Drexel Park Station,39.949522,-75.286891
+18629,5,1,2,69,Drexel Park Station,39.949522,-75.286891
+18629,7,1,2,67,Drexel Park Station,39.949522,-75.286891
+18630,1,1,2,133,Beverly Blvd Station,39.954978,-75.274303
+18630,5,1,2,69,Beverly Blvd Station,39.954978,-75.274303
+18630,7,1,2,67,Beverly Blvd Station,39.954978,-75.274303
+18631,1,1,2,133,Hilltop Rd Station,39.955824,-75.272659
+18631,5,1,2,69,Hilltop Rd Station,39.955824,-75.272659
+18631,7,1,2,67,Hilltop Rd Station,39.955824,-75.272659
+18636,1,0,1,61,Clifton Aldan Station,39.925625,-75.29009
+18636,5,0,1,35,Clifton Aldan Station,39.925625,-75.29009
+18636,7,0,1,35,Clifton Aldan Station,39.925625,-75.29009
+18729,1,0,1,13,Chestnut St & Church St,39.96101,-75.60712
+18729,1,1,1,12,Chestnut St & Church St,39.96101,-75.60712
+18729,5,0,1,9,Chestnut St & Church St,39.96101,-75.60712
+18729,5,1,1,9,Chestnut St & Church St,39.96101,-75.60712
+18730,1,0,1,13,Chestnut St & Darlington St,39.960428,-75.608406
+18730,1,1,1,12,Chestnut St & Darlington St,39.960428,-75.608406
+18730,5,0,1,9,Chestnut St & Darlington St,39.960428,-75.608406
+18730,5,1,1,9,Chestnut St & Darlington St,39.960428,-75.608406
+18733,1,1,1,11,High St & Union St,39.957438,-75.602021
+18733,5,1,1,9,High St & Union St,39.957438,-75.602021
+18734,1,1,1,11,High St & Price St,39.955985,-75.600447
+18734,5,1,1,9,High St & Price St,39.955985,-75.600447
+18737,1,0,1,13,High St & Linden St,39.953249,-75.597417
+18737,5,0,1,9,High St & Linden St,39.953249,-75.597417
+18738,1,0,1,13,High St & Nields St,39.954203,-75.598447
+18738,5,0,1,9,High St & Nields St,39.954203,-75.598447
+18739,1,0,1,13,High St & Price St,39.955852,-75.600222
+18739,5,0,1,9,High St & Price St,39.955852,-75.600222
+18740,1,0,1,13,High St & Union St,39.957269,-75.601749
+18740,5,0,1,9,High St & Union St,39.957269,-75.601749
+18741,1,0,1,13,High St & Miner St,39.958766,-75.603394
+18741,5,0,1,9,High St & Miner St,39.958766,-75.603394
+18742,1,0,1,27,High St & Gay St,39.960691,-75.605406
+18742,5,0,1,19,High St & Gay St,39.960691,-75.605406
+18842,1,1,1,57,Bartram Av Station,39.914489,-75.284104
+18842,5,1,1,35,Bartram Av Station,39.914489,-75.284104
+18842,7,1,1,35,Bartram Av Station,39.914489,-75.284104
+18843,1,1,1,61,Magnolia Av Station,39.919258,-75.286797
+18843,5,1,1,35,Magnolia Av Station,39.919258,-75.286797
+18843,7,1,1,35,Magnolia Av Station,39.919258,-75.286797
+18844,1,1,1,61,Providence Rd Station,39.921598,-75.288622
+18844,5,1,1,35,Providence Rd Station,39.921598,-75.288622
+18844,7,1,1,35,Providence Rd Station,39.921598,-75.288622
+18846,1,1,1,61,Drexel Manor Station,39.942134,-75.296505
+18846,5,1,1,35,Drexel Manor Station,39.942134,-75.296505
+18846,7,1,1,35,Drexel Manor Station,39.942134,-75.296505
+1892,1,0,1,87,Bridgeport Station,40.104955,-75.348201
+1892,1,1,1,87,Bridgeport Station,40.104955,-75.348201
+1892,5,0,1,54,Bridgeport Station,40.104955,-75.348201
+1892,5,1,1,54,Bridgeport Station,40.104955,-75.348201
+1892,7,0,1,40,Bridgeport Station,40.104955,-75.348201
+1892,7,1,1,40,Bridgeport Station,40.104955,-75.348201
+1895,1,0,1,106,Gulph Mills Station,40.070838,-75.342349
+1895,1,1,1,106,Gulph Mills Station,40.070838,-75.342349
+1895,5,0,1,54,Gulph Mills Station,40.070838,-75.342349
+1895,5,1,1,54,Gulph Mills Station,40.070838,-75.342349
+1895,7,0,1,40,Gulph Mills Station,40.070838,-75.342349
+1895,7,1,1,40,Gulph Mills Station,40.070838,-75.342349
+1900,1,0,1,92,Stadium Station,40.032717,-75.340764
+1900,1,1,1,100,Stadium Station,40.032717,-75.340764
+1900,5,0,1,54,Stadium Station,40.032717,-75.340764
+1900,5,1,1,54,Stadium Station,40.032717,-75.340764
+1900,7,0,1,40,Stadium Station,40.032717,-75.340764
+1900,7,1,1,40,Stadium Station,40.032717,-75.340764
+1902,1,0,1,92,Roberts Rd Station,40.021365,-75.33027
+1902,1,1,1,100,Roberts Rd Station,40.021365,-75.33027
+1902,5,0,1,54,Roberts Rd Station,40.021365,-75.33027
+1902,5,1,1,54,Roberts Rd Station,40.021365,-75.33027
+1902,7,0,1,40,Roberts Rd Station,40.021365,-75.33027
+1902,7,1,1,40,Roberts Rd Station,40.021365,-75.33027
+1908,1,0,1,86,Beechwood Brookline Station,39.986673,-75.291661
+1908,1,1,1,91,Beechwood Brookline Station,39.986673,-75.291661
+1908,5,0,1,55,Beechwood Brookline Station,39.986673,-75.291661
+1908,5,1,1,55,Beechwood Brookline Station,39.986673,-75.291661
+1908,7,0,1,41,Beechwood Brookline Station,39.986673,-75.291661
+1908,7,1,1,41,Beechwood Brookline Station,39.986673,-75.291661
+19085,1,1,1,11,Swedesford Rd & Valley Fair SC,40.071127,-75.439024
+19085,5,1,1,10,Swedesford Rd & Valley Fair SC,40.071127,-75.439024
+19086,1,1,1,11,Swedesford Rd & Swedesford Plaza SC,40.071046,-75.442702
+19086,5,1,1,10,Swedesford Rd & Swedesford Plaza SC,40.071046,-75.442702
+19087,1,1,1,11,Swedesford Rd & Contention Ln,40.069653,-75.446806
+19087,5,1,1,10,Swedesford Rd & Contention Ln,40.069653,-75.446806
+19088,1,1,1,11,Swedesford Rd & Residence Inn,40.067645,-75.451301
+19088,5,1,1,10,Swedesford Rd & Residence Inn,40.067645,-75.451301
+19089,1,1,1,11,Swedesford Rd & Chesterbrook Blvd,40.063037,-75.462346
+19089,5,1,1,10,Swedesford Rd & Chesterbrook Blvd,40.063037,-75.462346
+19093,1,0,1,14,Swedesford Rd & Residence Inn,40.067573,-75.451372
+19093,5,0,1,10,Swedesford Rd & Residence Inn,40.067573,-75.451372
+19094,1,0,1,14,Swedesford Rd & Contention Ln,40.069321,-75.447161
+19094,5,0,1,10,Swedesford Rd & Contention Ln,40.069321,-75.447161
+19095,1,0,1,14,Swedesford Rd & Valley Fair SC,40.070947,-75.442749
+19095,5,0,1,10,Swedesford Rd & Valley Fair SC,40.070947,-75.442749
+19096,1,0,1,14,Swedesford Rd & Valley Forge Rd 1,40.071109,-75.439639
+19096,5,0,1,10,Swedesford Rd & Valley Forge Rd 1,40.071109,-75.439639
+1917,1,0,1,78,Parkview Station,39.969008,-75.274827
+1917,1,1,1,87,Parkview Station,39.969008,-75.274827
+1917,5,0,1,55,Parkview Station,39.969008,-75.274827
+1917,5,1,1,55,Parkview Station,39.969008,-75.274827
+1917,7,0,1,41,Parkview Station,39.969008,-75.274827
+1917,7,1,1,41,Parkview Station,39.969008,-75.274827
+1918,1,0,1,78,Township Line Rd Station,39.974809,-75.281536
+1918,1,1,1,87,Township Line Rd Station,39.974809,-75.281536
+1918,5,0,1,55,Township Line Rd Station,39.974809,-75.281536
+1918,5,1,1,55,Township Line Rd Station,39.974809,-75.281536
+1918,7,0,1,41,Township Line Rd Station,39.974809,-75.281536
+1918,7,1,1,41,Township Line Rd Station,39.974809,-75.281536
+1919,1,0,1,97,Penfield Station Manoa Rd,39.980881,-75.284111
+1919,1,1,1,109,Penfield Station Manoa Rd,39.980881,-75.284111
+1919,5,0,1,55,Penfield Station Manoa Rd,39.980881,-75.284111
+1919,5,1,1,55,Penfield Station Manoa Rd,39.980881,-75.284111
+1919,7,0,1,41,Penfield Station Manoa Rd,39.980881,-75.284111
+1919,7,1,1,41,Penfield Station Manoa Rd,39.980881,-75.284111
+1921,1,0,1,86,Wynnewood Rd Station,39.993391,-75.298217
+1921,1,1,1,91,Wynnewood Rd Station,39.993391,-75.298217
+1921,5,0,1,55,Wynnewood Rd Station,39.993391,-75.298217
+1921,5,1,1,55,Wynnewood Rd Station,39.993391,-75.298217
+1921,7,0,1,41,Wynnewood Rd Station,39.993391,-75.298217
+1921,7,1,1,41,Wynnewood Rd Station,39.993391,-75.298217
+1923,1,0,1,86,Ardmore Av Station,40.000114,-75.309573
+1923,1,1,1,91,Ardmore Av Station,40.000114,-75.309573
+1923,5,0,1,55,Ardmore Av Station,40.000114,-75.309573
+1923,5,1,1,55,Ardmore Av Station,40.000114,-75.309573
+1923,7,0,1,41,Ardmore Av Station,40.000114,-75.309573
+1923,7,1,1,41,Ardmore Av Station,40.000114,-75.309573
+1924,1,0,1,105,Haverford Station,40.009911,-75.315335
+1924,1,1,1,113,Haverford Station,40.009911,-75.315335
+1924,5,0,1,55,Haverford Station,40.009911,-75.315335
+1924,5,1,1,55,Haverford Station,40.009911,-75.315335
+1924,7,0,1,41,Haverford Station,40.009911,-75.315335
+1924,7,1,1,41,Haverford Station,40.009911,-75.315335
+1925,1,0,1,105,Bryn Mawr Station,40.018013,-75.323549
+1925,1,1,1,113,Bryn Mawr Station,40.018013,-75.323549
+1925,5,0,1,55,Bryn Mawr Station,40.018013,-75.323549
+1925,5,1,1,55,Bryn Mawr Station,40.018013,-75.323549
+1925,7,0,1,41,Bryn Mawr Station,40.018013,-75.323549
+1925,7,1,1,41,Bryn Mawr Station,40.018013,-75.323549
+1927,1,0,1,92,Garrett Hill Station,40.027921,-75.336479
+1927,1,1,1,100,Garrett Hill Station,40.027921,-75.336479
+1927,5,0,1,54,Garrett Hill Station,40.027921,-75.336479
+1927,5,1,1,54,Garrett Hill Station,40.027921,-75.336479
+1927,7,0,1,40,Garrett Hill Station,40.027921,-75.336479
+1927,7,1,1,40,Garrett Hill Station,40.027921,-75.336479
+1929,1,0,1,92,Villanova Station,40.033969,-75.344073
+1929,1,1,1,100,Villanova Station,40.033969,-75.344073
+1929,5,0,1,54,Villanova Station,40.033969,-75.344073
+1929,5,1,1,54,Villanova Station,40.033969,-75.344073
+1929,7,0,1,40,Villanova Station,40.033969,-75.344073
+1929,7,1,1,40,Villanova Station,40.033969,-75.344073
+1930,1,0,1,106,Radnor Station,40.04257,-75.353593
+1930,1,1,1,106,Radnor Station,40.04257,-75.353593
+1930,5,0,1,54,Radnor Station,40.04257,-75.353593
+1930,5,1,1,54,Radnor Station,40.04257,-75.353593
+1930,7,0,1,40,Radnor Station,40.04257,-75.353593
+1930,7,1,1,40,Radnor Station,40.04257,-75.353593
+1931,1,0,1,92,County Line Station,40.049965,-75.34753
+1931,1,1,1,100,County Line Station,40.049965,-75.34753
+1931,5,0,1,54,County Line Station,40.049965,-75.34753
+1931,5,1,1,54,County Line Station,40.049965,-75.34753
+1931,7,0,1,40,County Line Station,40.049965,-75.34753
+1931,7,1,1,40,County Line Station,40.049965,-75.34753
+1932,1,0,1,92,Matsonford Station,40.058224,-75.33955
+1932,1,1,1,100,Matsonford Station,40.058224,-75.33955
+1932,5,0,1,54,Matsonford Station,40.058224,-75.33955
+1932,5,1,1,54,Matsonford Station,40.058224,-75.33955
+1932,7,0,1,40,Matsonford Station,40.058224,-75.33955
+1932,7,1,1,40,Matsonford Station,40.058224,-75.33955
+1934,1,0,1,106,Hughes Park Station,40.081419,-75.349103
+1934,1,1,1,106,Hughes Park Station,40.081419,-75.349103
+1934,5,0,1,54,Hughes Park Station,40.081419,-75.349103
+1934,5,1,1,54,Hughes Park Station,40.081419,-75.349103
+1934,7,0,1,40,Hughes Park Station,40.081419,-75.349103
+1934,7,1,1,40,Hughes Park Station,40.081419,-75.349103
+1935,1,0,1,87,DeKalb St Station,40.098799,-75.352124
+1935,1,1,1,87,DeKalb St Station,40.098799,-75.352124
+1935,5,0,1,54,DeKalb St Station,40.098799,-75.352124
+1935,5,1,1,54,DeKalb St Station,40.098799,-75.352124
+1935,7,0,1,40,DeKalb St Station,40.098799,-75.352124
+1935,7,1,1,40,DeKalb St Station,40.098799,-75.352124
+19377,1,1,1,11,Lancaster Av & Darby Rd,40.042082,-75.482591
+19377,5,1,1,10,Lancaster Av & Darby Rd,40.042082,-75.482591
+19378,1,1,1,11,Lancaster Av & Valley Rd - FS,40.042028,-75.484482
+19378,5,1,1,10,Lancaster Av & Valley Rd - FS,40.042028,-75.484482
+19379,1,1,1,11,Lancaster Av & Plank Av,40.041902,-75.48784
+19379,5,1,1,10,Lancaster Av & Plank Av,40.041902,-75.48784
+1938,1,0,2,127,Avon Rd Station,39.957515,-75.269183
+1938,5,0,2,69,Avon Rd Station,39.957515,-75.269183
+1938,7,0,2,67,Avon Rd Station,39.957515,-75.269183
+19380,1,1,1,11,Lancaster Av & Cedar Hollow Rd,40.041703,-75.49283
+19380,5,1,1,10,Lancaster Av & Cedar Hollow Rd,40.041703,-75.49283
+19388,1,0,1,14,Lancaster Av & Cedar Hollow Rd,40.041497,-75.493172
+19388,5,0,1,10,Lancaster Av & Cedar Hollow Rd,40.041497,-75.493172
+19389,1,0,1,14,Lancaster Av & Plank Av,40.041669,-75.488277
+19389,5,0,1,10,Lancaster Av & Plank Av,40.041669,-75.488277
+1939,1,0,2,133,Lansdowne Av Station,39.951614,-75.282257
+1939,5,0,2,69,Lansdowne Av Station,39.951614,-75.282257
+1939,7,0,2,67,Lansdowne Av Station,39.951614,-75.282257
+19390,1,0,1,14,Lancaster Av & Valley Rd,40.041841,-75.484411
+19390,5,0,1,10,Lancaster Av & Valley Rd,40.041841,-75.484411
+19391,1,0,1,14,Lancaster Av & Darby Rd,40.041886,-75.483004
+19391,5,0,1,10,Lancaster Av & Darby Rd,40.041886,-75.483004
+19392,1,0,1,14,Lancaster Av & Paoli Shopping Ctr,40.041923,-75.479737
+19392,5,0,1,10,Lancaster Av & Paoli Shopping Ctr,40.041923,-75.479737
+1940,1,0,2,133,Drexel Hill Jct Station,39.946887,-75.292658
+1940,5,0,2,69,Drexel Hill Jct Station,39.946887,-75.292658
+1940,7,0,2,67,Drexel Hill Jct Station,39.946887,-75.292658
+1943,1,0,1,68,Woodland Av Station,39.924662,-75.339706
+1943,5,0,1,34,Woodland Av Station,39.924662,-75.339706
+1943,7,0,1,32,Woodland Av Station,39.924662,-75.339706
+1944,1,0,1,51,Springfield Mall Station,39.918171,-75.348886
+1944,5,0,1,34,Springfield Mall Station,39.918171,-75.348886
+1944,7,0,1,32,Springfield Mall Station,39.918171,-75.348886
+1946,1,0,1,51,Providence Rd Station,39.916787,-75.380921
+1946,5,0,1,34,Providence Rd Station,39.916787,-75.380921
+1946,7,0,1,32,Providence Rd Station,39.916787,-75.380921
+1947,1,0,1,51,Orange St Station,39.918612,-75.393844
+1947,5,0,1,34,Orange St Station,39.918612,-75.393844
+1947,7,0,1,32,Orange St Station,39.918612,-75.393844
+1948,1,1,1,51,Orange St Station,39.918513,-75.393833
+1948,5,1,1,34,Orange St Station,39.918513,-75.393833
+1948,7,1,1,32,Orange St Station,39.918513,-75.393833
+1949,1,1,1,51,Providence Rd Station,39.91667,-75.380874
+1949,5,1,1,34,Providence Rd Station,39.91667,-75.380874
+1949,7,1,1,32,Providence Rd Station,39.91667,-75.380874
+1951,1,1,1,51,Springfield Mall Station,39.918002,-75.34898
+1951,5,1,1,34,Springfield Mall Station,39.918002,-75.34898
+1951,7,1,1,32,Springfield Mall Station,39.918002,-75.34898
+1952,1,1,1,68,Woodland Av Station,39.924608,-75.339588
+1952,5,1,1,34,Woodland Av Station,39.924608,-75.339588
+1952,7,1,1,32,Woodland Av Station,39.924608,-75.339588
+1953,1,1,1,72,Scenic Rd Station,39.940564,-75.325895
+1953,5,1,1,34,Scenic Rd Station,39.940564,-75.325895
+1953,7,1,1,32,Scenic Rd Station,39.940564,-75.325895
+1955,1,1,2,133,Drexel Hill Jct Station,39.946842,-75.292481
+1955,5,1,2,69,Drexel Hill Jct Station,39.946842,-75.292481
+1955,7,1,2,67,Drexel Hill Jct Station,39.946842,-75.292481
+1957,1,1,2,133,Avon Rd Station,39.957372,-75.26929
+1957,5,1,2,69,Avon Rd Station,39.957372,-75.26929
+1957,7,1,2,67,Avon Rd Station,39.957372,-75.26929
+1959,1,0,1,61,Baltimore Av Station,39.931099,-75.292877
+1959,5,0,1,35,Baltimore Av Station,39.931099,-75.292877
+1959,7,0,1,35,Baltimore Av Station,39.931099,-75.292877
+1961,1,0,1,61,North St Station,39.917329,-75.285503
+1961,5,0,1,35,North St Station,39.917329,-75.285503
+1961,7,0,1,35,North St Station,39.917329,-75.285503
+1964,1,1,1,61,North St Station - MBFS,39.917534,-75.285538
+1964,5,1,1,35,North St Station - MBFS,39.917534,-75.285538
+1964,7,1,1,35,North St Station - MBFS,39.917534,-75.285538
+19687,5,1,1,9,North Gulph Rd & 1st Av,40.095654,-75.417539
+19688,5,1,1,9,Main St & Church St - FS,40.132744,-75.515924
+19689,5,0,1,8,North Gulph Rd & 1st Av - FS,40.095243,-75.417184
+19690,5,0,1,8,Main St & Church St,40.132755,-75.515817
+19691,5,0,1,8,Valley Forge Rd & Ferry Ln,40.112102,-75.481719
+19692,5,1,1,9,Valley Forge Rd & Ferry Ln - FS,40.111983,-75.481731
+1989,1,0,1,10,West Chester Pk & Five Points Rd - FS,39.968395,-75.576239
+1990,1,0,1,14,West Chester Trans Ctr,39.958117,-75.608046
+1990,1,1,1,14,West Chester Trans Ctr,39.958117,-75.608046
+1990,5,0,1,10,West Chester Trans Ctr,39.958117,-75.608046
+1990,5,1,1,10,West Chester Trans Ctr,39.958117,-75.608046
+20024,1,0,1,51,Paper Mill Rd Station,39.915276,-75.35793
+20024,5,0,1,34,Paper Mill Rd Station,39.915276,-75.35793
+20024,7,0,1,32,Paper Mill Rd Station,39.915276,-75.35793
+20025,1,1,1,51,Paper Mill Rd Station,39.915169,-75.357836
+20025,5,1,1,34,Paper Mill Rd Station,39.915169,-75.357836
+20025,7,1,1,32,Paper Mill Rd Station,39.915169,-75.357836
+20420,5,0,1,7,Township Line Rd & Ridge Pk - FS,40.214472,-75.500235
+20420,5,1,1,8,Township Line Rd & Ridge Pk - FS,40.214472,-75.500235
+20431,1,0,1,57,Sharon Hill Station,39.906316,-75.278055
+20431,1,1,1,57,Sharon Hill Station,39.906316,-75.278055
+20431,5,0,1,35,Sharon Hill Station,39.906316,-75.278055
+20431,5,1,1,35,Sharon Hill Station,39.906316,-75.278055
+20431,7,0,1,35,Sharon Hill Station,39.906316,-75.278055
+20431,7,1,1,35,Sharon Hill Station,39.906316,-75.278055
+20610,1,0,1,140,Malvern Av & 63rd St,39.983626,-75.247032
+20610,5,0,1,73,Malvern Av & 63rd St,39.983626,-75.247032
+20610,7,0,1,66,Malvern Av & 63rd St,39.983626,-75.247032
+20611,1,0,1,140,63rd St & Lebanon Av,39.981022,-75.246707
+20611,5,0,1,73,63rd St & Lebanon Av,39.981022,-75.246707
+20611,7,0,1,66,63rd St & Lebanon Av,39.981022,-75.246707
+20612,1,0,1,140,63rd St & Jefferson St,39.978332,-75.246207
+20612,5,0,1,73,63rd St & Jefferson St,39.978332,-75.246207
+20612,7,0,1,66,63rd St & Jefferson St,39.978332,-75.246207
+20613,1,0,1,140,Lansdowne Av & 63rd - FS,39.975332,-75.244963
+20613,5,0,1,73,Lansdowne Av & 63rd - FS,39.975332,-75.244963
+20613,7,0,1,66,Lansdowne Av & 63rd - FS,39.975332,-75.244963
+20614,1,0,1,140,Lansdowne Av & 62nd St,39.975464,-75.24371
+20614,5,0,1,73,Lansdowne Av & 62nd St,39.975464,-75.24371
+20614,7,0,1,66,Lansdowne Av & 62nd St,39.975464,-75.24371
+20615,1,0,1,140,Lansdowne Av & 61st St,39.975657,-75.241902
+20615,5,0,1,73,Lansdowne Av & 61st St,39.975657,-75.241902
+20615,7,0,1,66,Lansdowne Av & 61st St,39.975657,-75.241902
+20616,1,0,1,140,Lansdowne Av & 59th St,39.976009,-75.2387
+20616,5,0,1,73,Lansdowne Av & 59th St,39.976009,-75.2387
+20616,7,0,1,66,Lansdowne Av & 59th St,39.976009,-75.2387
+20617,1,0,1,140,Lansdowne Av & 58th St,39.976194,-75.236904
+20617,5,0,1,73,Lansdowne Av & 58th St,39.976194,-75.236904
+20617,7,0,1,66,Lansdowne Av & 58th St,39.976194,-75.236904
+20618,1,0,1,140,Lansdowne Av & 57th St,39.976344,-75.235427
+20618,5,0,1,73,Lansdowne Av & 57th St,39.976344,-75.235427
+20618,7,0,1,66,Lansdowne Av & 57th St,39.976344,-75.235427
+20619,1,0,1,140,Lansdowne Av & 56th St,39.976519,-75.233773
+20619,5,0,1,73,Lansdowne Av & 56th St,39.976519,-75.233773
+20619,7,0,1,66,Lansdowne Av & 56th St,39.976519,-75.233773
+20622,1,0,1,140,Lansdowne Av & 55th St,39.976731,-75.231906
+20622,5,0,1,73,Lansdowne Av & 55th St,39.976731,-75.231906
+20622,7,0,1,66,Lansdowne Av & 55th St,39.976731,-75.231906
+20623,1,0,1,140,Lansdowne Av & 54th St,39.97696,-75.22992
+20623,5,0,1,73,Lansdowne Av & 54th St,39.97696,-75.22992
+20623,7,0,1,66,Lansdowne Av & 54th St,39.97696,-75.22992
+20624,1,0,1,140,Lansdowne Av & Lancaster Av,39.97725,-75.22725
+20624,5,0,1,73,Lansdowne Av & Lancaster Av,39.97725,-75.22725
+20624,7,0,1,66,Lansdowne Av & Lancaster Av,39.97725,-75.22725
+20625,1,0,1,140,Lancaster Av & Media St,39.976864,-75.226235
+20625,5,0,1,73,Lancaster Av & Media St,39.976864,-75.226235
+20625,7,0,1,66,Lancaster Av & Media St,39.976864,-75.226235
+20626,1,0,1,140,Lancaster Av & 50th St,39.975163,-75.22259
+20626,5,0,1,73,Lancaster Av & 50th St,39.975163,-75.22259
+20626,7,0,1,66,Lancaster Av & 50th St,39.975163,-75.22259
+20627,1,0,1,140,Lancaster Av & Thomson St,39.973775,-75.21983
+20627,5,0,1,73,Lancaster Av & Thomson St,39.973775,-75.21983
+20627,7,0,1,66,Lancaster Av & Thomson St,39.973775,-75.21983
+20628,1,0,1,140,Lancaster Av & 47th St,39.971573,-75.216245
+20628,5,0,1,73,Lancaster Av & 47th St,39.971573,-75.216245
+20628,7,0,1,66,Lancaster Av & 47th St,39.971573,-75.216245
+20630,1,0,1,140,Lancaster Av & 45th St,39.969694,-75.213132
+20630,5,0,1,73,Lancaster Av & 45th St,39.969694,-75.213132
+20630,7,0,1,66,Lancaster Av & 45th St,39.969694,-75.213132
+20631,1,0,1,140,Lancaster Av & 44th St,39.9687,-75.211553
+20631,5,0,1,73,Lancaster Av & 44th St,39.9687,-75.211553
+20631,7,0,1,66,Lancaster Av & 44th St,39.9687,-75.211553
+20632,1,0,1,140,Lancaster Av & 43th St,39.967735,-75.209948
+20632,5,0,1,73,Lancaster Av & 43th St,39.967735,-75.209948
+20632,7,0,1,66,Lancaster Av & 43th St,39.967735,-75.209948
+20633,1,0,1,140,Lancaster Av & 42nd St,39.966349,-75.207732
+20633,5,0,1,73,Lancaster Av & 42nd St,39.966349,-75.207732
+20633,7,0,1,66,Lancaster Av & 42nd St,39.966349,-75.207732
+20634,1,0,1,140,Lancaster Av & 41st St,39.965031,-75.20567
+20634,5,0,1,73,Lancaster Av & 41st St,39.965031,-75.20567
+20634,7,0,1,66,Lancaster Av & 41st St,39.965031,-75.20567
+20635,1,0,1,140,Lancaster Av & 40th St,39.963105,-75.20257
+20635,5,0,1,73,Lancaster Av & 40th St,39.963105,-75.20257
+20635,7,0,1,66,Lancaster Av & 40th St,39.963105,-75.20257
+20636,1,0,1,132,Lancaster Av & Spring Garden St,39.961915,-75.200365
+20636,5,0,1,73,Lancaster Av & Spring Garden St,39.961915,-75.200365
+20636,7,0,1,60,Lancaster Av & Spring Garden St,39.961915,-75.200365
+20637,1,0,1,132,Lancaster Av & Saunders St,39.961252,-75.199044
+20637,5,0,1,73,Lancaster Av & Saunders St,39.961252,-75.199044
+20637,7,0,1,60,Lancaster Av & Saunders St,39.961252,-75.199044
+20638,1,0,1,132,Lancaster Av & 38th St,39.960214,-75.197099
+20638,5,0,1,73,Lancaster Av & 38th St,39.960214,-75.197099
+20638,7,0,1,60,Lancaster Av & 38th St,39.960214,-75.197099
+20639,1,0,1,132,Lancaster Av & 36th St,39.958646,-75.193868
+20639,5,0,1,73,Lancaster Av & 36th St,39.958646,-75.193868
+20639,7,0,1,60,Lancaster Av & 36th St,39.958646,-75.193868
+20640,1,0,1,132,36th St & Market St,39.956281,-75.194207
+20640,5,0,1,73,36th St & Market St,39.956281,-75.194207
+20640,7,0,1,60,36th St & Market St,39.956281,-75.194207
+20641,1,0,1,132,36th St Portal Trolley Station,39.954862,-75.193987
+20641,5,0,1,73,36th St Portal Trolley Station,39.954862,-75.193987
+20641,7,0,1,60,36th St Portal Trolley Station,39.954862,-75.193987
+20642,1,0,5,562,33rd St & Market St Trolley Station,39.954363,-75.189784
+20642,5,0,4,287,33rd St & Market St Trolley Station,39.954363,-75.189784
+20642,7,0,4,232,33rd St & Market St Trolley Station,39.954363,-75.189784
+20643,1,0,5,562,30th St Trolley Station,39.954716,-75.183418
+20643,5,0,4,287,30th St Trolley Station,39.954716,-75.183418
+20643,7,0,4,232,30th St Trolley Station,39.954716,-75.183418
+20645,1,0,5,562,22nd St Trolley Station,39.953846,-75.176713
+20645,5,0,4,287,22nd St Trolley Station,39.953846,-75.176713
+20645,7,0,4,232,22nd St Trolley Station,39.953846,-75.176713
+20646,1,0,5,562,19th St Trolley Station,39.95314,-75.171756
+20646,5,0,4,287,19th St Trolley Station,39.95314,-75.171756
+20646,7,0,4,232,19th St Trolley Station,39.95314,-75.171756
+20658,1,1,5,562,33rd St & Market St Trolley Station,39.954515,-75.189996
+20658,5,1,4,287,33rd St & Market St Trolley Station,39.954515,-75.189996
+20658,7,1,4,232,33rd St & Market St Trolley Station,39.954515,-75.189996
+20659,1,1,5,562,15th St Trolley Station,39.952538,-75.165322
+20659,5,1,4,287,15th St Trolley Station,39.952538,-75.165322
+20659,7,1,4,232,15th St Trolley Station,39.952538,-75.165322
+20660,1,1,5,562,19th St Trolley Station,39.953309,-75.171625
+20660,5,1,4,287,19th St Trolley Station,39.953309,-75.171625
+20660,7,1,4,232,19th St Trolley Station,39.953309,-75.171625
+20661,1,1,5,562,22nd St Trolley Station,39.953989,-75.176701
+20661,5,1,4,287,22nd St Trolley Station,39.953989,-75.176701
+20661,7,1,4,232,22nd St Trolley Station,39.953989,-75.176701
+20662,1,1,5,562,30th St Trolley Station,39.954868,-75.183323
+20662,5,1,4,287,30th St Trolley Station,39.954868,-75.183323
+20662,7,1,4,232,30th St Trolley Station,39.954868,-75.183323
+20663,1,1,1,132,Lancaster Av & 38th St,39.960145,-75.196712
+20663,5,1,1,73,Lancaster Av & 38th St,39.960145,-75.196712
+20663,7,1,1,60,Lancaster Av & 38th St,39.960145,-75.196712
+20664,1,1,1,132,36th St & Market St,39.956058,-75.194077
+20664,5,1,1,73,36th St & Market St,39.956058,-75.194077
+20664,7,1,1,60,36th St & Market St,39.956058,-75.194077
+20667,1,1,1,132,Lancaster Av & Hamilton St,39.961189,-75.198667
+20667,5,1,1,73,Lancaster Av & Hamilton St,39.961189,-75.198667
+20667,7,1,1,60,Lancaster Av & Hamilton St,39.961189,-75.198667
+20668,1,1,1,132,Lancaster Av & Spring Garden St,39.96187,-75.200058
+20668,5,1,1,73,Lancaster Av & Spring Garden St,39.96187,-75.200058
+20668,7,1,1,60,Lancaster Av & Spring Garden St,39.96187,-75.200058
+20669,1,1,1,132,Lancaster Av & Haverford Av,39.962837,-75.201897
+20669,5,1,1,73,Lancaster Av & Haverford Av,39.962837,-75.201897
+20669,7,1,1,60,Lancaster Av & Haverford Av,39.962837,-75.201897
+20670,1,1,1,132,Lancaster Av & Wallace St,39.96375,-75.203406
+20670,5,1,1,73,Lancaster Av & Wallace St,39.96375,-75.203406
+20670,7,1,1,60,Lancaster Av & Wallace St,39.96375,-75.203406
+20671,1,1,1,140,Lancaster Av & 41st St,39.965017,-75.205351
+20671,5,1,1,73,Lancaster Av & 41st St,39.965017,-75.205351
+20671,7,1,1,66,Lancaster Av & 41st St,39.965017,-75.205351
+20672,1,1,1,140,Lancaster Av & 42nd St,39.966319,-75.207497
+20672,5,1,1,73,Lancaster Av & 42nd St,39.966319,-75.207497
+20672,7,1,1,66,Lancaster Av & 42nd St,39.966319,-75.207497
+20673,1,1,1,140,Lancaster Av & Parrish St,39.967599,-75.209524
+20673,5,1,1,73,Lancaster Av & Parrish St,39.967599,-75.209524
+20673,7,1,1,66,Lancaster Av & Parrish St,39.967599,-75.209524
+20674,1,1,1,140,Lancaster Av & Ogden St,39.968593,-75.211187
+20674,5,1,1,73,Lancaster Av & Ogden St,39.968593,-75.211187
+20674,7,1,1,66,Lancaster Av & Ogden St,39.968593,-75.211187
+20675,1,1,1,140,Lancaster Av & Westminster St,39.969416,-75.212472
+20675,5,1,1,73,Lancaster Av & Westminster St,39.969416,-75.212472
+20675,7,1,1,66,Lancaster Av & Westminster St,39.969416,-75.212472
+20676,1,1,1,140,Lancaster Av & Wyalusing Av,39.970606,-75.214441
+20676,5,1,1,73,Lancaster Av & Wyalusing Av,39.970606,-75.214441
+20676,7,1,1,66,Lancaster Av & Wyalusing Av,39.970606,-75.214441
+20677,1,1,1,140,Lancaster Av & 47th St,39.971519,-75.215974
+20677,5,1,1,73,Lancaster Av & 47th St,39.971519,-75.215974
+20677,7,1,1,66,Lancaster Av & 47th St,39.971519,-75.215974
+20678,1,1,1,140,Lancaster Av & 49th St,39.973712,-75.219534
+20678,5,1,1,73,Lancaster Av & 49th St,39.973712,-75.219534
+20678,7,1,1,66,Lancaster Av & 49th St,39.973712,-75.219534
+20679,1,1,1,140,Lancaster Av & 50th St,39.975162,-75.22233
+20679,5,1,1,73,Lancaster Av & 50th St,39.975162,-75.22233
+20679,7,1,1,66,Lancaster Av & 50th St,39.975162,-75.22233
+20681,1,1,1,140,Lancaster Av & 52nd St,39.977097,-75.226518
+20681,5,1,1,73,Lancaster Av & 52nd St,39.977097,-75.226518
+20681,7,1,1,66,Lancaster Av & 52nd St,39.977097,-75.226518
+20683,1,1,1,140,Lansdowne Av & 54th St,39.977093,-75.229625
+20683,5,1,1,73,Lansdowne Av & 54th St,39.977093,-75.229625
+20683,7,1,1,66,Lansdowne Av & 54th St,39.977093,-75.229625
+20684,1,1,1,140,Lansdowne Av & 55th St,39.976864,-75.23161
+20684,5,1,1,73,Lansdowne Av & 55th St,39.976864,-75.23161
+20684,7,1,1,66,Lansdowne Av & 55th St,39.976864,-75.23161
+20685,1,1,1,140,Lansdowne Av & 56th St,39.976653,-75.233524
+20685,5,1,1,73,Lansdowne Av & 56th St,39.976653,-75.233524
+20685,7,1,1,66,Lansdowne Av & 56th St,39.976653,-75.233524
+20686,1,1,1,140,Lansdowne Av & 57th St,39.976486,-75.235084
+20686,5,1,1,73,Lansdowne Av & 57th St,39.976486,-75.235084
+20686,7,1,1,66,Lansdowne Av & 57th St,39.976486,-75.235084
+20687,1,1,1,140,Lansdowne Av & 58th St,39.976327,-75.236608
+20687,5,1,1,73,Lansdowne Av & 58th St,39.976327,-75.236608
+20687,7,1,1,66,Lansdowne Av & 58th St,39.976327,-75.236608
+20688,1,1,1,140,Lansdowne Av & 59th St,39.976123,-75.238382
+20688,5,1,1,73,Lansdowne Av & 59th St,39.976123,-75.238382
+20688,7,1,1,66,Lansdowne Av & 59th St,39.976123,-75.238382
+20689,1,1,1,140,Lansdowne Av & 60th St,39.975967,-75.240059
+20689,5,1,1,73,Lansdowne Av & 60th St,39.975967,-75.240059
+20689,7,1,1,66,Lansdowne Av & 60th St,39.975967,-75.240059
+20690,1,1,1,140,Lansdowne Av & 61st St,39.975791,-75.241607
+20690,5,1,1,73,Lansdowne Av & 61st St,39.975791,-75.241607
+20690,7,1,1,66,Lansdowne Av & 61st St,39.975791,-75.241607
+20691,1,1,1,140,Lansdowne Av & 62nd St,39.975606,-75.243426
+20691,5,1,1,73,Lansdowne Av & 62nd St,39.975606,-75.243426
+20691,7,1,1,66,Lansdowne Av & 62nd St,39.975606,-75.243426
+20692,1,1,1,140,63rd St & Lansdowne Av - FS,39.975591,-75.245553
+20692,5,1,1,73,63rd St & Lansdowne Av - FS,39.975591,-75.245553
+20692,7,1,1,66,63rd St & Lansdowne Av - FS,39.975591,-75.245553
+20693,1,1,1,140,63rd St & Jefferson St,39.978109,-75.246031
+20693,5,1,1,73,63rd St & Jefferson St,39.978109,-75.246031
+20693,7,1,1,66,63rd St & Jefferson St,39.978109,-75.246031
+20695,1,1,1,140,63rd St & Columbia Av,39.980528,-75.246461
+20695,5,1,1,73,63rd St & Columbia Av,39.980528,-75.246461
+20695,7,1,1,66,63rd St & Columbia Av,39.980528,-75.246461
+20697,1,0,1,112,Main St & Summit St,39.918115,-75.257563
+20697,5,0,1,65,Main St & Summit St,39.918115,-75.257563
+20697,7,0,1,61,Main St & Summit St,39.918115,-75.257563
+20698,1,0,1,112,Main St & 6th St,39.917729,-75.255876
+20698,5,0,1,65,Main St & 6th St,39.917729,-75.255876
+20698,7,0,1,61,Main St & 6th St,39.917729,-75.255876
+20699,1,0,1,112,Main St & 5th St,39.917406,-75.254661
+20699,5,0,1,65,Main St & 5th St,39.917406,-75.254661
+20699,7,0,1,61,Main St & 5th St,39.917406,-75.254661
+20700,1,0,1,112,Main St & 4th St,39.917029,-75.253104
+20700,5,0,1,65,Main St & 4th St,39.917029,-75.253104
+20700,7,0,1,61,Main St & 4th St,39.917029,-75.253104
+20701,1,0,1,112,Main St & 3rd St,39.916732,-75.2519
+20701,5,0,1,65,Main St & 3rd St,39.916732,-75.2519
+20701,7,0,1,61,Main St & 3rd St,39.916732,-75.2519
+20702,1,0,1,112,Main St & 2nd St,39.916427,-75.250579
+20702,5,0,1,65,Main St & 2nd St,39.916427,-75.250579
+20702,7,0,1,61,Main St & 2nd St,39.916427,-75.250579
+20703,1,0,1,112,Main St & Front St,39.916193,-75.249282
+20703,5,0,1,65,Main St & Front St,39.916193,-75.249282
+20703,7,0,1,61,Main St & Front St,39.916193,-75.249282
+20704,1,0,1,115,Woodland Av & Island Av,39.917162,-75.246387
+20704,5,0,1,66,Woodland Av & Island Av,39.917162,-75.246387
+20704,7,0,1,62,Woodland Av & Island Av,39.917162,-75.246387
+20705,1,0,1,115,Woodland Av & 72nd St,39.918432,-75.244412
+20705,5,0,1,66,Woodland Av & 72nd St,39.918432,-75.244412
+20705,7,0,1,62,Woodland Av & 72nd St,39.918432,-75.244412
+20706,1,0,1,115,Woodland Av & 71st St,39.919361,-75.243077
+20706,5,0,1,66,Woodland Av & 71st St,39.919361,-75.243077
+20706,7,0,1,62,Woodland Av & 71st St,39.919361,-75.243077
+20707,1,0,1,115,Woodland Av & 70th St,39.920483,-75.241539
+20707,5,0,1,66,Woodland Av & 70th St,39.920483,-75.241539
+20707,7,0,1,62,Woodland Av & 70th St,39.920483,-75.241539
+20708,1,0,1,115,Woodland Av & 69th St,39.921445,-75.240156
+20708,5,0,1,66,Woodland Av & 69th St,39.921445,-75.240156
+20708,7,0,1,62,Woodland Av & 69th St,39.921445,-75.240156
+20709,1,0,1,115,Woodland Av & 68th St,39.922612,-75.238441
+20709,5,0,1,66,Woodland Av & 68th St,39.922612,-75.238441
+20709,7,0,1,62,Woodland Av & 68th St,39.922612,-75.238441
+20710,1,0,1,115,Woodland Av & 67th St,39.923672,-75.236998
+20710,5,0,1,66,Woodland Av & 67th St,39.923672,-75.236998
+20710,7,0,1,62,Woodland Av & 67th St,39.923672,-75.236998
+20711,1,0,1,115,Woodland Av & 66th St,39.924607,-75.235673
+20711,5,0,1,66,Woodland Av & 66th St,39.924607,-75.235673
+20711,7,0,1,62,Woodland Av & 66th St,39.924607,-75.235673
+20712,1,0,1,115,Woodland Av & 65th St,39.925479,-75.234432
+20712,5,0,1,66,Woodland Av & 65th St,39.925479,-75.234432
+20712,7,0,1,62,Woodland Av & 65th St,39.925479,-75.234432
+20713,1,0,1,115,Woodland Av & 64th St,39.926343,-75.23319
+20713,5,0,1,66,Woodland Av & 64th St,39.926343,-75.23319
+20713,7,0,1,62,Woodland Av & 64th St,39.926343,-75.23319
+20714,1,0,1,115,Woodland Av & 63rd St,39.927305,-75.23183
+20714,5,0,1,66,Woodland Av & 63rd St,39.927305,-75.23183
+20714,7,0,1,62,Woodland Av & 63rd St,39.927305,-75.23183
+20715,1,0,1,115,Woodland Av & 62nd St,39.928053,-75.23073
+20715,5,0,1,66,Woodland Av & 62nd St,39.928053,-75.23073
+20715,7,0,1,62,Woodland Av & 62nd St,39.928053,-75.23073
+20716,1,0,1,115,Woodland Av & 60th St,39.930181,-75.227595
+20716,5,0,1,66,Woodland Av & 60th St,39.930181,-75.227595
+20716,7,0,1,62,Woodland Av & 60th St,39.930181,-75.227595
+20717,1,0,1,115,Woodland Av & 61st St,39.929041,-75.229287
+20717,5,0,1,66,Woodland Av & 61st St,39.929041,-75.229287
+20717,7,0,1,62,Woodland Av & 61st St,39.929041,-75.229287
+20718,1,0,1,115,Woodland Av & 58th St,39.932255,-75.224603
+20718,5,0,1,66,Woodland Av & 58th St,39.932255,-75.224603
+20718,7,0,1,62,Woodland Av & 58th St,39.932255,-75.224603
+20719,1,0,1,115,Woodland Av & 57th St,39.933235,-75.223254
+20719,5,0,1,66,Woodland Av & 57th St,39.933235,-75.223254
+20719,7,0,1,62,Woodland Av & 57th St,39.933235,-75.223254
+20720,1,0,1,115,Woodland Av & 56th St,39.934286,-75.22174
+20720,5,0,1,66,Woodland Av & 56th St,39.934286,-75.22174
+20720,7,0,1,62,Woodland Av & 56th St,39.934286,-75.22174
+20721,1,0,1,115,Woodland Av & 55th St,39.935265,-75.220403
+20721,5,0,1,66,Woodland Av & 55th St,39.935265,-75.220403
+20721,7,0,1,62,Woodland Av & 55th St,39.935265,-75.220403
+20722,1,0,1,115,Woodland Av & 54th St,39.936262,-75.219054
+20722,5,0,1,66,Woodland Av & 54th St,39.936262,-75.219054
+20722,7,0,1,62,Woodland Av & 54th St,39.936262,-75.219054
+20723,1,0,1,115,Woodland Av & 52nd St,39.938185,-75.216285
+20723,5,0,1,66,Woodland Av & 52nd St,39.938185,-75.216285
+20723,7,0,1,62,Woodland Av & 52nd St,39.938185,-75.216285
+20724,1,0,1,115,Woodland Av & 51st St,39.93896,-75.215173
+20724,5,0,1,66,Woodland Av & 51st St,39.93896,-75.215173
+20724,7,0,1,62,Woodland Av & 51st St,39.93896,-75.215173
+20725,1,0,2,121,Woodland Av & 50th St,39.939832,-75.213931
+20725,5,0,1,66,Woodland Av & 50th St,39.939832,-75.213931
+20725,7,0,1,62,Woodland Av & 50th St,39.939832,-75.213931
+20726,1,0,2,268,Woodland Av & 48th St,39.941926,-75.211669
+20726,5,0,2,142,Woodland Av & 48th St,39.941926,-75.211669
+20726,7,0,2,127,Woodland Av & 48th St,39.941926,-75.211669
+20727,1,0,2,268,Woodland Av & 46th St,39.944314,-75.209785
+20727,5,0,2,142,Woodland Av & 46th St,39.944314,-75.209785
+20727,7,0,2,127,Woodland Av & 46th St,39.944314,-75.209785
+20728,1,0,2,268,Woodland Av & 45th St,39.945535,-75.208518
+20728,5,0,2,142,Woodland Av & 45th St,39.945535,-75.208518
+20728,7,0,2,127,Woodland Av & 45th St,39.945535,-75.208518
+20729,1,0,2,257,Woodland Av & 42nd St,39.946666,-75.207168
+20729,5,0,2,142,Woodland Av & 42nd St,39.946666,-75.207168
+20729,7,0,2,114,Woodland Av & 42nd St,39.946666,-75.207168
+20731,1,0,4,430,37th St Trolley Station,39.950914,-75.197247
+20731,5,0,3,214,37th St Trolley Station,39.950914,-75.197247
+20731,7,0,3,172,37th St Trolley Station,39.950914,-75.197247
+20732,1,0,4,430,36th St Trolley Station,39.953854,-75.194533
+20732,5,0,3,214,36th St Trolley Station,39.953854,-75.194533
+20732,7,0,3,172,36th St Trolley Station,39.953854,-75.194533
+20733,1,1,4,430,36th St Trolley Station,39.953872,-75.19471
+20733,5,1,3,214,36th St Trolley Station,39.953872,-75.19471
+20733,7,1,3,172,36th St Trolley Station,39.953872,-75.19471
+20734,1,1,4,430,37th St Trolley Station,39.951048,-75.197306
+20734,5,1,3,214,37th St Trolley Station,39.951048,-75.197306
+20734,7,1,3,172,37th St Trolley Station,39.951048,-75.197306
+20735,1,0,2,257,Woodland Av & 41st St,39.947966,-75.205641
+20735,5,0,2,142,Woodland Av & 41st St,39.947966,-75.205641
+20735,7,0,2,114,Woodland Av & 41st St,39.947966,-75.205641
+20736,1,1,2,257,Woodland Av & 42nd St,39.946915,-75.207026
+20736,5,1,2,142,Woodland Av & 42nd St,39.946915,-75.207026
+20736,7,1,2,114,Woodland Av & 42nd St,39.946915,-75.207026
+20737,1,1,2,268,Woodland Av & 43rd St,39.945767,-75.208422
+20737,5,1,2,142,Woodland Av & 43rd St,39.945767,-75.208422
+20737,7,1,2,127,Woodland Av & 43rd St,39.945767,-75.208422
+20739,1,1,2,268,Woodland Av & 46th St,39.944537,-75.209701
+20739,5,1,2,142,Woodland Av & 46th St,39.944537,-75.209701
+20739,7,1,2,127,Woodland Av & 46th St,39.944537,-75.209701
+20740,1,1,2,268,Woodland Av & 48th St,39.942149,-75.211657
+20740,5,1,2,142,Woodland Av & 48th St,39.942149,-75.211657
+20740,7,1,2,127,Woodland Av & 48th St,39.942149,-75.211657
+20741,1,1,1,115,Woodland Av & 51st St,39.939183,-75.215055
+20741,5,1,1,66,Woodland Av & 51st St,39.939183,-75.215055
+20741,7,1,1,62,Woodland Av & 51st St,39.939183,-75.215055
+20742,1,1,1,115,Woodland Av & 52nd St,39.938408,-75.216155
+20742,5,1,1,66,Woodland Av & 52nd St,39.938408,-75.216155
+20742,7,1,1,62,Woodland Av & 52nd St,39.938408,-75.216155
+20743,1,1,1,115,Woodland Av & 53rd St,39.937438,-75.217563
+20743,5,1,1,66,Woodland Av & 53rd St,39.937438,-75.217563
+20743,7,1,1,62,Woodland Av & 53rd St,39.937438,-75.217563
+20744,1,1,1,115,Woodland Av & 54th St,39.936485,-75.218947
+20744,5,1,1,66,Woodland Av & 54th St,39.936485,-75.218947
+20744,7,1,1,62,Woodland Av & 54th St,39.936485,-75.218947
+20745,1,1,1,115,Woodland Av & 55th St,39.935488,-75.220284
+20745,5,1,1,66,Woodland Av & 55th St,39.935488,-75.220284
+20745,7,1,1,62,Woodland Av & 55th St,39.935488,-75.220284
+20746,1,1,1,115,Woodland Av & 56th St,39.934508,-75.221621
+20746,5,1,1,66,Woodland Av & 56th St,39.934508,-75.221621
+20746,7,1,1,62,Woodland Av & 56th St,39.934508,-75.221621
+20747,1,1,1,115,Woodland Av & 57th St,39.933458,-75.223147
+20747,5,1,1,66,Woodland Av & 57th St,39.933458,-75.223147
+20747,7,1,1,62,Woodland Av & 57th St,39.933458,-75.223147
+20748,1,1,1,115,Woodland Av & 58th St,39.932416,-75.224531
+20748,5,1,1,66,Woodland Av & 58th St,39.932416,-75.224531
+20748,7,1,1,62,Woodland Av & 58th St,39.932416,-75.224531
+20749,1,1,1,115,Woodland Av & 60th St,39.930404,-75.227465
+20749,5,1,1,66,Woodland Av & 60th St,39.930404,-75.227465
+20749,7,1,1,62,Woodland Av & 60th St,39.930404,-75.227465
+20750,1,1,1,115,Woodland Av & 61st St,39.929264,-75.229168
+20750,5,1,1,66,Woodland Av & 61st St,39.929264,-75.229168
+20750,7,1,1,62,Woodland Av & 61st St,39.929264,-75.229168
+20751,1,1,1,115,Woodland Av & 63rd St,39.927528,-75.231699
+20751,5,1,1,66,Woodland Av & 63rd St,39.927528,-75.231699
+20751,7,1,1,62,Woodland Av & 63rd St,39.927528,-75.231699
+20752,1,1,1,115,Woodland Av & 64th St,39.926566,-75.233071
+20752,5,1,1,66,Woodland Av & 64th St,39.926566,-75.233071
+20752,7,1,1,62,Woodland Av & 64th St,39.926566,-75.233071
+20753,1,1,1,115,Woodland Av & 65th St,39.925702,-75.234325
+20753,5,1,1,66,Woodland Av & 65th St,39.925702,-75.234325
+20753,7,1,1,62,Woodland Av & 65th St,39.925702,-75.234325
+20754,1,1,1,115,Woodland Av & 66th St,39.92483,-75.235567
+20754,5,1,1,66,Woodland Av & 66th St,39.92483,-75.235567
+20754,7,1,1,62,Woodland Av & 66th St,39.92483,-75.235567
+20755,1,1,1,115,Woodland Av & 67th St,39.923895,-75.236891
+20755,5,1,1,66,Woodland Av & 67th St,39.923895,-75.236891
+20755,7,1,1,62,Woodland Av & 67th St,39.923895,-75.236891
+20756,1,1,1,115,Woodland Av & 68th St,39.922835,-75.238334
+20756,5,1,1,66,Woodland Av & 68th St,39.922835,-75.238334
+20756,7,1,1,62,Woodland Av & 68th St,39.922835,-75.238334
+20757,1,1,1,115,Woodland Av & 69th St,39.921668,-75.240037
+20757,5,1,1,66,Woodland Av & 69th St,39.921668,-75.240037
+20757,7,1,1,62,Woodland Av & 69th St,39.921668,-75.240037
+20758,1,1,1,115,Woodland Av & 70th St,39.920697,-75.241409
+20758,5,1,1,66,Woodland Av & 70th St,39.920697,-75.241409
+20758,7,1,1,62,Woodland Av & 70th St,39.920697,-75.241409
+20759,1,1,1,115,Woodland Av & 71st St,39.919584,-75.24297
+20759,5,1,1,66,Woodland Av & 71st St,39.919584,-75.24297
+20759,7,1,1,62,Woodland Av & 71st St,39.919584,-75.24297
+20760,1,1,1,115,Woodland Av & 72nd St,39.918622,-75.244353
+20760,5,1,1,66,Woodland Av & 72nd St,39.918622,-75.244353
+20760,7,1,1,62,Woodland Av & 72nd St,39.918622,-75.244353
+20761,1,1,1,115,Main St & Front St,39.916291,-75.248986
+20761,5,1,1,66,Main St & Front St,39.916291,-75.248986
+20761,7,1,1,62,Main St & Front St,39.916291,-75.248986
+20762,1,1,1,115,Main St & 2nd St,39.916453,-75.250284
+20762,5,1,1,66,Main St & 2nd St,39.916453,-75.250284
+20762,7,1,1,62,Main St & 2nd St,39.916453,-75.250284
+20763,1,1,1,115,Main St & 3rd St,39.916759,-75.251605
+20763,5,1,1,66,Main St & 3rd St,39.916759,-75.251605
+20763,7,1,1,62,Main St & 3rd St,39.916759,-75.251605
+20764,1,1,1,115,Main St & 4th St,39.917055,-75.252809
+20764,5,1,1,66,Main St & 4th St,39.917055,-75.252809
+20764,7,1,1,62,Main St & 4th St,39.917055,-75.252809
+20765,1,1,1,115,Main St & 5th St,39.917423,-75.254354
+20765,5,1,1,66,Main St & 5th St,39.917423,-75.254354
+20765,7,1,1,62,Main St & 5th St,39.917423,-75.254354
+20766,1,1,1,115,Main St & 6th St,39.917746,-75.255569
+20766,5,1,1,66,Main St & 6th St,39.917746,-75.255569
+20766,7,1,1,62,Main St & 6th St,39.917746,-75.255569
+20767,1,1,1,115,Main St & Summit St,39.918141,-75.257268
+20767,5,1,1,66,Main St & Summit St,39.918141,-75.257268
+20767,7,1,1,62,Main St & Summit St,39.918141,-75.257268
+20768,1,0,1,28,9th St & Ridge Av,39.91985,-75.260675
+20768,5,0,1,12,9th St & Ridge Av,39.91985,-75.260675
+20768,7,0,1,10,9th St & Ridge Av,39.91985,-75.260675
+20770,1,0,1,28,9th St & Summit Av,39.921097,-75.258996
+20770,5,0,1,12,9th St & Summit Av,39.921097,-75.258996
+20770,7,0,1,10,9th St & Summit Av,39.921097,-75.258996
+20771,1,0,1,28,9th St & Summit Av - MBFS,39.922068,-75.257305
+20771,5,0,1,12,9th St & Summit Av - MBFS,39.922068,-75.257305
+20771,7,0,1,10,9th St & Summit Av - MBFS,39.922068,-75.257305
+20773,1,0,1,28,Chester Av & Alfred Av,39.923635,-75.254303
+20773,5,0,1,12,Chester Av & Alfred Av,39.923635,-75.254303
+20773,7,0,1,10,Chester Av & Alfred Av,39.923635,-75.254303
+20774,1,0,1,146,Chester Av & Allen Dr Yeadon Loop,39.924408,-75.252519
+20774,5,0,1,72,Chester Av & Allen Dr Yeadon Loop,39.924408,-75.252519
+20774,7,0,1,63,Chester Av & Allen Dr Yeadon Loop,39.924408,-75.252519
+20775,1,0,1,146,Chester Av & Stetser Av,39.925031,-75.250782
+20775,5,0,1,72,Chester Av & Stetser Av,39.925031,-75.250782
+20775,7,0,1,63,Chester Av & Stetser Av,39.925031,-75.250782
+20776,1,0,1,146,Chester Av & Duncan Av,39.925546,-75.249164
+20776,5,0,1,72,Chester Av & Duncan Av,39.925546,-75.249164
+20776,7,0,1,63,Chester Av & Duncan Av,39.925546,-75.249164
+20777,1,0,1,146,Chester Av & Yeadon Av,39.926017,-75.247581
+20777,5,0,1,72,Chester Av & Yeadon Av,39.926017,-75.247581
+20777,7,0,1,63,Chester Av & Yeadon Av,39.926017,-75.247581
+20778,1,0,1,146,Chester Av & Church Ln,39.92631,-75.246565
+20778,5,0,1,72,Chester Av & Church Ln,39.92631,-75.246565
+20778,7,0,1,63,Chester Av & Church Ln,39.92631,-75.246565
+20779,1,0,1,146,Chester Av & 65th St - West,39.929457,-75.244691
+20779,5,0,1,72,Chester Av & 65th St - West,39.929457,-75.244691
+20779,7,0,1,63,Chester Av & 65th St - West,39.929457,-75.244691
+20780,1,0,1,146,65th St & Cobbs Creek Pkwy,39.929348,-75.242874
+20780,5,0,1,72,65th St & Cobbs Creek Pkwy,39.929348,-75.242874
+20780,7,0,1,63,65th St & Cobbs Creek Pkwy,39.929348,-75.242874
+20781,1,0,1,146,65th St & Belmar Av,39.92897,-75.241057
+20781,5,0,1,72,65th St & Belmar Av,39.92897,-75.241057
+20781,7,0,1,63,65th St & Belmar Av,39.92897,-75.241057
+20782,1,0,1,146,65th St & Chester Av - East,39.928574,-75.238992
+20782,5,0,1,72,65th St & Chester Av - East,39.928574,-75.238992
+20782,7,0,1,63,65th St & Chester Av - East,39.928574,-75.238992
+20784,1,0,1,146,Kingsessing Av & 61st St,39.930974,-75.23241
+20784,5,0,1,72,Kingsessing Av & 61st St,39.930974,-75.23241
+20784,7,0,1,63,Kingsessing Av & 61st St,39.930974,-75.23241
+20785,1,0,1,146,Kingsessing Av & 62nd St,39.929905,-75.2339
+20785,5,0,1,72,Kingsessing Av & 62nd St,39.929905,-75.2339
+20785,7,0,1,63,Kingsessing Av & 62nd St,39.929905,-75.2339
+20786,1,0,1,146,Kingsessing Av & 60th St,39.93239,-75.230363
+20786,5,0,1,72,Kingsessing Av & 60th St,39.93239,-75.230363
+20786,7,0,1,63,Kingsessing Av & 60th St,39.93239,-75.230363
+20787,1,0,1,146,60th St & Chester Av,39.933587,-75.231434
+20787,5,0,1,72,60th St & Chester Av,39.933587,-75.231434
+20787,7,0,1,63,60th St & Chester Av,39.933587,-75.231434
+20788,1,0,1,146,Chester Av & 59th St,39.93462,-75.229979
+20788,5,0,1,72,Chester Av & 59th St,39.93462,-75.229979
+20788,7,0,1,63,Chester Av & 59th St,39.93462,-75.229979
+20789,1,0,1,146,Chester Av & 48th St,39.944976,-75.215439
+20789,5,0,1,72,Chester Av & 48th St,39.944976,-75.215439
+20789,7,0,1,63,Chester Av & 48th St,39.944976,-75.215439
+20790,1,0,1,146,Chester Av & 47th St,39.945911,-75.21409
+20790,5,0,1,72,Chester Av & 47th St,39.945911,-75.21409
+20790,7,0,1,63,Chester Av & 47th St,39.945911,-75.21409
+20791,1,0,1,146,Chester Av & 57th St,39.936597,-75.227211
+20791,5,0,1,72,Chester Av & 57th St,39.936597,-75.227211
+20791,7,0,1,63,Chester Av & 57th St,39.936597,-75.227211
+20792,1,0,1,146,Chester Av & 56th St,39.937612,-75.225709
+20792,5,0,1,72,Chester Av & 56th St,39.937612,-75.225709
+20792,7,0,1,63,Chester Av & 56th St,39.937612,-75.225709
+20793,1,0,1,146,Chester Av & 55th St,39.938565,-75.224325
+20793,5,0,1,72,Chester Av & 55th St,39.938565,-75.224325
+20793,7,0,1,63,Chester Av & 55th St,39.938565,-75.224325
+20794,1,0,1,146,Chester Av & 54th St,39.939535,-75.222952
+20794,5,0,1,72,Chester Av & 54th St,39.939535,-75.222952
+20794,7,0,1,63,Chester Av & 54th St,39.939535,-75.222952
+20795,1,0,1,146,Chester Av & 53rd St,39.940497,-75.22158
+20795,5,0,1,72,Chester Av & 53rd St,39.940497,-75.22158
+20795,7,0,1,63,Chester Av & 53rd St,39.940497,-75.22158
+20796,1,0,1,146,Chester Av & 52nd St,39.94145,-75.220243
+20796,5,0,1,72,Chester Av & 52nd St,39.94145,-75.220243
+20796,7,0,1,63,Chester Av & 52nd St,39.94145,-75.220243
+20797,1,0,1,146,Chester Av & 51st St,39.94226,-75.219095
+20797,5,0,1,72,Chester Av & 51st St,39.94226,-75.219095
+20797,7,0,1,63,Chester Av & 51st St,39.94226,-75.219095
+20799,1,0,1,146,Chester Av & 46th St,39.94681,-75.212824
+20799,5,0,1,72,Chester Av & 46th St,39.94681,-75.212824
+20799,7,0,1,63,Chester Av & 46th St,39.94681,-75.212824
+20801,1,0,1,146,Chester Av & 43rd St,39.948383,-75.2093
+20801,5,0,1,72,Chester Av & 43rd St,39.948383,-75.2093
+20801,7,0,1,63,Chester Av & 43rd St,39.948383,-75.2093
+20802,1,0,1,146,Chester Av & 42nd St,39.948433,-75.207316
+20802,5,0,1,72,Chester Av & 42nd St,39.948433,-75.207316
+20802,7,0,1,63,Chester Av & 42nd St,39.948433,-75.207316
+20803,1,0,1,138,Chester Av & 41st St,39.948472,-75.205789
+20803,5,0,1,72,Chester Av & 41st St,39.948472,-75.205789
+20803,7,0,1,58,Chester Av & 41st St,39.948472,-75.205789
+20804,1,0,4,430,40th St Trolley Portal,39.949542,-75.203404
+20804,5,0,3,214,40th St Trolley Portal,39.949542,-75.203404
+20804,7,0,3,172,40th St Trolley Portal,39.949542,-75.203404
+20805,1,1,3,395,Woodland Av & Chester Av,39.948599,-75.204883
+20805,5,1,3,214,Woodland Av & Chester Av,39.948599,-75.204883
+20805,7,1,3,172,Woodland Av & Chester Av,39.948599,-75.204883
+20807,1,1,1,146,Chester Av & 42nd St,39.948549,-75.20702
+20807,5,1,1,72,Chester Av & 42nd St,39.948549,-75.20702
+20807,7,1,1,63,Chester Av & 42nd St,39.948549,-75.20702
+20808,1,1,1,146,Chester Av & 43rd St,39.948499,-75.209004
+20808,5,1,1,72,Chester Av & 43rd St,39.948499,-75.209004
+20808,7,1,1,63,Chester Av & 43rd St,39.948499,-75.209004
+20809,1,1,1,146,Chester Av & 45th St,39.947967,-75.21138
+20809,5,1,1,72,Chester Av & 45th St,39.947967,-75.21138
+20809,7,1,1,63,Chester Av & 45th St,39.947967,-75.21138
+20810,1,1,1,146,Chester Av & 46th St,39.947033,-75.212717
+20810,5,1,1,72,Chester Av & 46th St,39.947033,-75.212717
+20810,7,1,1,63,Chester Av & 46th St,39.947033,-75.212717
+20811,1,1,1,146,Chester Av & 47th St,39.946133,-75.213971
+20811,5,1,1,72,Chester Av & 47th St,39.946133,-75.213971
+20811,7,1,1,63,Chester Av & 47th St,39.946133,-75.213971
+20812,1,1,1,146,Chester Av & 48th St,39.945199,-75.21532
+20812,5,1,1,72,Chester Av & 48th St,39.945199,-75.21532
+20812,7,1,1,63,Chester Av & 48th St,39.945199,-75.21532
+20814,1,1,1,146,Chester Av & 51st St,39.942509,-75.218906
+20814,5,1,1,72,Chester Av & 51st St,39.942509,-75.218906
+20814,7,1,1,63,Chester Av & 51st St,39.942509,-75.218906
+20815,1,1,1,146,Chester Av & 52nd St,39.941708,-75.220089
+20815,5,1,1,72,Chester Av & 52nd St,39.941708,-75.220089
+20815,7,1,1,63,Chester Av & 52nd St,39.941708,-75.220089
+20816,1,1,1,146,Chester Av & 53rd St,39.940755,-75.22139
+20816,5,1,1,72,Chester Av & 53rd St,39.940755,-75.22139
+20816,7,1,1,63,Chester Av & 53rd St,39.940755,-75.22139
+20817,1,1,1,146,Chester Av & 54th St,39.939794,-75.222798
+20817,5,1,1,72,Chester Av & 54th St,39.939794,-75.222798
+20817,7,1,1,63,Chester Av & 54th St,39.939794,-75.222798
+20818,1,1,1,146,Chester Av & 55th St,39.938797,-75.224194
+20818,5,1,1,72,Chester Av & 55th St,39.938797,-75.224194
+20818,7,1,1,63,Chester Av & 55th St,39.938797,-75.224194
+20819,1,1,1,146,Chester Av & 56th St,39.937924,-75.22546
+20819,5,1,1,72,Chester Av & 56th St,39.937924,-75.22546
+20819,7,1,1,63,Chester Av & 56th St,39.937924,-75.22546
+20820,1,1,1,146,Chester Av & 57th St,39.93682,-75.227104
+20820,5,1,1,72,Chester Av & 57th St,39.93682,-75.227104
+20820,7,1,1,63,Chester Av & 57th St,39.93682,-75.227104
+20821,1,1,1,146,Chester Av & 59th St,39.934937,-75.229704
+20821,5,1,1,72,Chester Av & 59th St,39.934937,-75.229704
+20821,7,1,1,63,Chester Av & 59th St,39.934937,-75.229704
+20822,1,1,1,146,Chester Av & 60th St,39.933843,-75.231316
+20822,5,1,1,72,Chester Av & 60th St,39.933843,-75.231316
+20822,7,1,1,63,Chester Av & 60th St,39.933843,-75.231316
+20823,1,1,1,146,60th St & Kingsessing Av,39.932586,-75.230386
+20823,5,1,1,72,60th St & Kingsessing Av,39.932586,-75.230386
+20823,7,1,1,63,60th St & Kingsessing Av,39.932586,-75.230386
+20824,1,1,1,146,Kingsessing Av & 61st St,39.93125,-75.232191
+20824,5,1,1,72,Kingsessing Av & 61st St,39.93125,-75.232191
+20824,7,1,1,63,Kingsessing Av & 61st St,39.93125,-75.232191
+20825,1,1,1,146,Kingsessing Av & 62nd St,39.930262,-75.233612
+20825,5,1,1,72,Kingsessing Av & 62nd St,39.930262,-75.233612
+20825,7,1,1,63,Kingsessing Av & 62nd St,39.930262,-75.233612
+20826,1,1,1,146,Kingsessing Av & 65th St,39.92797,-75.236856
+20826,5,1,1,72,Kingsessing Av & 65th St,39.92797,-75.236856
+20826,7,1,1,63,Kingsessing Av & 65th St,39.92797,-75.236856
+20827,1,1,1,146,65th St & Chester St - East,39.928835,-75.238082
+20827,5,1,1,72,65th St & Chester St - East,39.928835,-75.238082
+20827,7,1,1,63,65th St & Chester St - East,39.928835,-75.238082
+20828,1,1,1,146,65th St & Windsar Av,39.929194,-75.241682
+20828,5,1,1,72,65th St & Windsar Av,39.929194,-75.241682
+20828,7,1,1,63,65th St & Windsar Av,39.929194,-75.241682
+20829,1,1,1,146,65th St & Cobbs Creek Pkwy,39.9295,-75.243157
+20829,5,1,1,72,65th St & Cobbs Creek Pkwy,39.9295,-75.243157
+20829,7,1,1,63,65th St & Cobbs Creek Pkwy,39.9295,-75.243157
+20831,1,1,1,146,Chester Av & Church Ln,39.926645,-75.245867
+20831,5,1,1,72,Chester Av & Church Ln,39.926645,-75.245867
+20831,7,1,1,63,Chester Av & Church Ln,39.926645,-75.245867
+20833,1,1,1,146,Chester Av & Duncan Av,39.925689,-75.249022
+20833,5,1,1,72,Chester Av & Duncan Av,39.925689,-75.249022
+20833,7,1,1,63,Chester Av & Duncan Av,39.925689,-75.249022
+20834,1,1,1,146,Chester Av & Stetser Av,39.9252,-75.250628
+20834,5,1,1,72,Chester Av & Stetser Av,39.9252,-75.250628
+20834,7,1,1,63,Chester Av & Stetser Av,39.9252,-75.250628
+20835,1,1,1,26,Chester Av & Alfred Av,39.92392,-75.253948
+20835,5,1,1,12,Chester Av & Alfred Av,39.92392,-75.253948
+20835,7,1,1,13,Chester Av & Alfred Av,39.92392,-75.253948
+20836,1,1,1,26,Chester Av & Cedar Av,39.92303,-75.255957
+20836,5,1,1,12,Chester Av & Cedar Av,39.92303,-75.255957
+20836,7,1,1,13,Chester Av & Cedar Av,39.92303,-75.255957
+20838,1,1,1,26,10th St & Mulberry Av,39.923621,-75.257349
+20838,5,1,1,12,10th St & Mulberry Av,39.923621,-75.257349
+20838,7,1,1,13,10th St & Mulberry Av,39.923621,-75.257349
+20839,1,1,1,26,10th St & Wycombe Av,39.92306,-75.258519
+20839,5,1,1,12,10th St & Wycombe Av,39.92306,-75.258519
+20839,7,1,1,13,10th St & Wycombe Av,39.92306,-75.258519
+20841,1,1,1,26,10th St & Ridge Av,39.921351,-75.261368
+20841,5,1,1,12,10th St & Ridge Av,39.921351,-75.261368
+20841,7,1,1,13,10th St & Ridge Av,39.921351,-75.261368
+20843,1,0,1,146,65th St & Kingsessing Av,39.92784,-75.237176
+20843,5,0,1,72,65th St & Kingsessing Av,39.92784,-75.237176
+20843,7,0,1,63,65th St & Kingsessing Av,39.92784,-75.237176
+20845,1,0,1,119,69th Street Transportation Center,39.962561,-75.258578
+20845,1,1,1,119,69th Street Transportation Center,39.962561,-75.258578
+20845,5,0,1,55,69th Street Transportation Center,39.962561,-75.258578
+20845,5,1,1,55,69th Street Transportation Center,39.962561,-75.258578
+20845,7,0,1,41,69th Street Transportation Center,39.962561,-75.258578
+20845,7,1,1,41,69th Street Transportation Center,39.962561,-75.258578
+20854,1,0,1,1,Montgomery Co Correctional Facility,40.15878,-75.422079
+20870,1,0,1,10,Baltimore Av & 48th St,39.948418,-75.219266
+20871,1,0,1,10,Baltimore Av & 47th St,39.948629,-75.217128
+20872,1,0,1,10,Baltimore Av & 46th St,39.948777,-75.215144
+20873,1,0,1,10,Baltimore Av & 45th St,39.948997,-75.213159
+20874,1,0,1,10,Baltimore Av & 44th St,39.949235,-75.211482
+20875,1,0,1,10,Baltimore Av & 43rd St,39.949535,-75.209438
+20876,1,0,1,10,Baltimore Av & 42nd St,39.94979,-75.207394
+20877,1,0,1,10,Baltimore Av & 41st St,39.949832,-75.206013
+20878,1,1,1,4,Baltimore Av & 41st St,39.949948,-75.205717
+20879,1,1,1,4,Baltimore Av & 42nd St,39.949915,-75.207099
+20880,1,1,1,4,Baltimore Av & 43rd St,39.949668,-75.20919
+20881,1,1,1,4,Baltimore Av & 44th St,39.949368,-75.211234
+20882,1,1,1,4,Baltimore Av & 45th St,39.949148,-75.212887
+20883,1,1,1,4,Baltimore Av & 46th St,39.948911,-75.214848
+20884,1,1,1,4,Baltimore Av & 47th St,39.948762,-75.216833
+20885,1,1,1,4,Baltimore Av & 48th St,39.948552,-75.218994
+20897,1,1,1,146,49th St & Paschall Av,39.93998,-75.211652
+20897,5,1,1,76,49th St & Paschall Av,39.93998,-75.211652
+20897,7,1,1,65,49th St & Paschall Av,39.93998,-75.211652
+20899,1,1,1,146,Grays Av & Lindbergh Blvd,39.936128,-75.213682
+20899,5,1,1,76,Grays Av & Lindbergh Blvd,39.936128,-75.213682
+20899,7,1,1,65,Grays Av & Lindbergh Blvd,39.936128,-75.213682
+20900,1,1,1,146,Lindbergh Blvd & Grays Av - FS,39.935344,-75.214334
+20900,5,1,1,76,Lindbergh Blvd & Grays Av - FS,39.935344,-75.214334
+20900,7,1,1,65,Lindbergh Blvd & Grays Av - FS,39.935344,-75.214334
+20901,1,1,1,146,Lindbergh Blvd & 54th St,39.933597,-75.215532
+20901,5,1,1,76,Lindbergh Blvd & 54th St,39.933597,-75.215532
+20901,7,1,1,65,Lindbergh Blvd & 54th St,39.933597,-75.215532
+20902,1,1,1,153,Elmwood Av & 56th St,39.931102,-75.217782
+20902,5,1,1,76,Elmwood Av & 56th St,39.931102,-75.217782
+20902,7,1,1,65,Elmwood Av & 56th St,39.931102,-75.217782
+20903,1,1,1,153,Elmwood Av & 57th St,39.930051,-75.219285
+20903,5,1,1,76,Elmwood Av & 57th St,39.930051,-75.219285
+20903,7,1,1,65,Elmwood Av & 57th St,39.930051,-75.219285
+20904,1,1,1,153,Elmwood Av & 58th St,39.929152,-75.220539
+20904,5,1,1,76,Elmwood Av & 58th St,39.929152,-75.220539
+20904,7,1,1,65,Elmwood Av & 58th St,39.929152,-75.220539
+20905,1,1,1,153,Elmwood Av & 59th St,39.928101,-75.221994
+20905,5,1,1,76,Elmwood Av & 59th St,39.928101,-75.221994
+20905,7,1,1,65,Elmwood Av & 59th St,39.928101,-75.221994
+20906,1,1,1,153,Elmwood Av & Edgewood Av,39.926854,-75.223721
+20906,5,1,1,76,Elmwood Av & Edgewood Av,39.926854,-75.223721
+20906,7,1,1,65,Elmwood Av & Edgewood Av,39.926854,-75.223721
+20907,1,1,1,153,Elmwood Av & 61st St,39.926187,-75.224762
+20907,5,1,1,76,Elmwood Av & 61st St,39.926187,-75.224762
+20907,7,1,1,65,Elmwood Av & 61st St,39.926187,-75.224762
+20908,1,1,1,153,Elmwood Av & 62nd St,39.925065,-75.226441
+20908,5,1,1,76,Elmwood Av & 62nd St,39.925065,-75.226441
+20908,7,1,1,65,Elmwood Av & 62nd St,39.925065,-75.226441
+20909,1,1,1,153,Elmwood Av & 63rd St,39.924157,-75.227671
+20909,5,1,1,76,Elmwood Av & 63rd St,39.924157,-75.227671
+20909,7,1,1,65,Elmwood Av & 63rd St,39.924157,-75.227671
+20910,1,1,1,153,Elmwood Av & 64th St,39.923195,-75.22902
+20910,5,1,1,76,Elmwood Av & 64th St,39.923195,-75.22902
+20910,7,1,1,65,Elmwood Av & 64th St,39.923195,-75.22902
+20911,1,1,1,153,Elmwood Av & 65th St,39.922305,-75.230285
+20911,5,1,1,76,Elmwood Av & 65th St,39.922305,-75.230285
+20911,7,1,1,65,Elmwood Av & 65th St,39.922305,-75.230285
+20912,1,1,1,153,Elmwood Av & 66th St,39.921468,-75.231503
+20912,5,1,1,76,Elmwood Av & 66th St,39.921468,-75.231503
+20912,7,1,1,65,Elmwood Av & 66th St,39.921468,-75.231503
+20913,1,1,1,153,Elmwood Av & 67th St,39.920524,-75.23284
+20913,5,1,1,76,Elmwood Av & 67th St,39.920524,-75.23284
+20913,7,1,1,65,Elmwood Av & 67th St,39.920524,-75.23284
+20914,1,1,1,153,Elmwood Av & 68th St,39.919482,-75.234365
+20914,5,1,1,76,Elmwood Av & 68th St,39.919482,-75.234365
+20914,7,1,1,65,Elmwood Av & 68th St,39.919482,-75.234365
+20915,1,1,1,153,Elmwood Av & 69th St,39.918333,-75.235985
+20915,5,1,1,76,Elmwood Av & 69th St,39.918333,-75.235985
+20915,7,1,1,65,Elmwood Av & 69th St,39.918333,-75.235985
+20916,1,1,1,153,Elmwood Av & 70th St,39.917345,-75.237428
+20916,5,1,1,76,Elmwood Av & 70th St,39.917345,-75.237428
+20916,7,1,1,65,Elmwood Av & 70th St,39.917345,-75.237428
+20917,1,1,1,153,Elmwood Av & 71st St,39.916249,-75.238965
+20917,5,1,1,76,Elmwood Av & 71st St,39.916249,-75.238965
+20917,7,1,1,65,Elmwood Av & 71st St,39.916249,-75.238965
+20918,1,1,1,153,Elmwood Av & 72nd St,39.915305,-75.240349
+20918,5,1,1,76,Elmwood Av & 72nd St,39.915305,-75.240349
+20918,7,1,1,65,Elmwood Av & 72nd St,39.915305,-75.240349
+20919,1,1,1,139,Elmwood Av & Island Av,39.913269,-75.243316
+20919,5,1,1,69,Elmwood Av & Island Av,39.913269,-75.243316
+20919,7,1,1,57,Elmwood Av & Island Av,39.913269,-75.243316
+20920,1,1,1,139,Island Av & 74th St - FS,39.911088,-75.242933
+20920,5,1,1,69,Island Av & 74th St - FS,39.911088,-75.242933
+20920,7,1,1,57,Island Av & 74th St - FS,39.911088,-75.242933
+20921,1,1,1,139,Island Av & Tanager St,39.909123,-75.242301
+20921,5,1,1,69,Island Av & Tanager St,39.909123,-75.242301
+20921,7,1,1,57,Island Av & Tanager St,39.909123,-75.242301
+20922,1,1,1,139,Island Av & 76th St,39.907365,-75.24181
+20922,5,1,1,69,Island Av & 76th St,39.907365,-75.24181
+20922,7,1,1,57,Island Av & 76th St,39.907365,-75.24181
+20925,1,0,3,395,Woodland Av & Chester Av,39.948536,-75.204753
+20925,5,0,3,214,Woodland Av & Chester Av,39.948536,-75.204753
+20925,7,0,3,172,Woodland Av & Chester Av,39.948536,-75.204753
+20927,1,0,1,133,Island Av & Lindbergh Blvd - FS,39.904248,-75.240555
+20927,5,0,1,66,Island Av & Lindbergh Blvd - FS,39.904248,-75.240555
+20927,7,0,1,55,Island Av & Lindbergh Blvd - FS,39.904248,-75.240555
+20928,1,0,1,133,Island Av & 76th St,39.90732,-75.241586
+20928,5,0,1,66,Island Av & 76th St,39.90732,-75.241586
+20928,7,0,1,55,Island Av & 76th St,39.90732,-75.241586
+20929,1,0,1,133,Island Av & Tanager St,39.909221,-75.2421
+20929,5,0,1,66,Island Av & Tanager St,39.909221,-75.2421
+20929,7,0,1,55,Island Av & Tanager St,39.909221,-75.2421
+20930,1,0,1,133,Island Av & Buist Av,39.911132,-75.24272
+20930,5,0,1,66,Island Av & Buist Av,39.911132,-75.24272
+20930,7,0,1,55,Island Av & Buist Av,39.911132,-75.24272
+20931,1,0,1,133,Elmwood Av & Island Av - MBFS,39.913346,-75.24301
+20931,5,0,1,66,Elmwood Av & Island Av - MBFS,39.913346,-75.24301
+20931,7,0,1,55,Elmwood Av & Island Av - MBFS,39.913346,-75.24301
+20932,1,0,1,153,Elmwood Av & 73rd St,39.914094,-75.241839
+20932,5,0,1,76,Elmwood Av & 73rd St,39.914094,-75.241839
+20932,7,0,1,65,Elmwood Av & 73rd St,39.914094,-75.241839
+20933,1,0,1,153,Elmwood Av & 72nd St,39.915082,-75.240468
+20933,5,0,1,76,Elmwood Av & 72nd St,39.915082,-75.240468
+20933,7,0,1,65,Elmwood Av & 72nd St,39.915082,-75.240468
+20934,1,0,1,153,Elmwood Av & 71st St,39.916026,-75.239096
+20934,5,0,1,76,Elmwood Av & 71st St,39.916026,-75.239096
+20934,7,0,1,65,Elmwood Av & 71st St,39.916026,-75.239096
+20935,1,0,1,153,Elmwood Av & 70th St,39.917122,-75.237535
+20935,5,0,1,76,Elmwood Av & 70th St,39.917122,-75.237535
+20935,7,0,1,65,Elmwood Av & 70th St,39.917122,-75.237535
+20936,1,0,1,153,Elmwood Av & 69th St,39.918119,-75.236116
+20936,5,0,1,76,Elmwood Av & 69th St,39.918119,-75.236116
+20936,7,0,1,65,Elmwood Av & 69th St,39.918119,-75.236116
+20937,1,0,1,153,Elmwood Av & 68th St,39.919259,-75.234484
+20937,5,0,1,76,Elmwood Av & 68th St,39.919259,-75.234484
+20937,7,0,1,65,Elmwood Av & 68th St,39.919259,-75.234484
+20938,1,0,1,153,Elmwood Av & 67th St,39.920301,-75.232947
+20938,5,0,1,76,Elmwood Av & 67th St,39.920301,-75.232947
+20938,7,0,1,65,Elmwood Av & 67th St,39.920301,-75.232947
+20939,1,0,1,153,Elmwood Av & 66th St,39.921236,-75.231587
+20939,5,0,1,76,Elmwood Av & 66th St,39.921236,-75.231587
+20939,7,0,1,65,Elmwood Av & 66th St,39.921236,-75.231587
+20940,1,0,1,153,Elmwood Av & 65th St,39.922082,-75.230404
+20940,5,0,1,76,Elmwood Av & 65th St,39.922082,-75.230404
+20940,7,0,1,65,Elmwood Av & 65th St,39.922082,-75.230404
+20941,1,0,1,153,Elmwood Av & 64th St,39.922972,-75.229126
+20941,5,0,1,76,Elmwood Av & 64th St,39.922972,-75.229126
+20941,7,0,1,65,Elmwood Av & 64th St,39.922972,-75.229126
+20942,1,0,1,153,Elmwood Av & 63rd St,39.923934,-75.227778
+20942,5,0,1,76,Elmwood Av & 63rd St,39.923934,-75.227778
+20942,7,0,1,65,Elmwood Av & 63rd St,39.923934,-75.227778
+20943,1,0,1,153,Elmwood Av & 62nd St,39.924842,-75.22656
+20943,5,0,1,76,Elmwood Av & 62nd St,39.924842,-75.22656
+20943,7,0,1,65,Elmwood Av & 62nd St,39.924842,-75.22656
+20944,1,0,1,153,Elmwood Av & 61st St,39.925973,-75.224892
+20944,5,0,1,76,Elmwood Av & 61st St,39.925973,-75.224892
+20944,7,0,1,65,Elmwood Av & 61st St,39.925973,-75.224892
+20945,1,0,1,153,Elmwood Av & Edgewood St,39.926596,-75.223922
+20945,5,0,1,76,Elmwood Av & Edgewood St,39.926596,-75.223922
+20945,7,0,1,65,Elmwood Av & Edgewood St,39.926596,-75.223922
+20946,1,0,1,153,Elmwood Av & 59th St,39.927878,-75.222101
+20946,5,0,1,76,Elmwood Av & 59th St,39.927878,-75.222101
+20946,7,0,1,65,Elmwood Av & 59th St,39.927878,-75.222101
+20947,1,0,1,153,Elmwood Av & 58th St,39.928929,-75.220646
+20947,5,0,1,76,Elmwood Av & 58th St,39.928929,-75.220646
+20947,7,0,1,65,Elmwood Av & 58th St,39.928929,-75.220646
+20948,1,0,1,153,Elmwood Av & 57th St,39.929828,-75.219392
+20948,5,0,1,76,Elmwood Av & 57th St,39.929828,-75.219392
+20948,7,0,1,65,Elmwood Av & 57th St,39.929828,-75.219392
+20949,1,0,1,153,Elmwood Av & 56th St,39.930879,-75.217889
+20949,5,0,1,76,Elmwood Av & 56th St,39.930879,-75.217889
+20949,7,0,1,65,Elmwood Av & 56th St,39.930879,-75.217889
+20950,1,0,1,153,Lindbergh Blvd & Wheeler St,39.932268,-75.216374
+20950,5,0,1,76,Lindbergh Blvd & Wheeler St,39.932268,-75.216374
+20950,7,0,1,65,Lindbergh Blvd & Wheeler St,39.932268,-75.216374
+20951,1,0,1,153,Lindbergh Blvd & 54th St,39.933365,-75.215556
+20951,5,0,1,76,Lindbergh Blvd & 54th St,39.933365,-75.215556
+20951,7,0,1,65,Lindbergh Blvd & 54th St,39.933365,-75.215556
+20952,1,0,1,153,Lindbergh Blvd & 53rd St,39.935118,-75.214326
+20952,5,0,1,76,Lindbergh Blvd & 53rd St,39.935118,-75.214326
+20952,7,0,1,65,Lindbergh Blvd & 53rd St,39.935118,-75.214326
+20953,1,0,1,153,Grays Av & 52nd St,39.936163,-75.213399
+20953,5,0,1,76,Grays Av & 52nd St,39.936163,-75.213399
+20953,7,0,1,65,Grays Av & 52nd St,39.936163,-75.213399
+20954,1,0,1,153,Grays Av & 51st St,39.936867,-75.212334
+20954,5,0,1,76,Grays Av & 51st St,39.936867,-75.212334
+20954,7,0,1,65,Grays Av & 51st St,39.936867,-75.212334
+20955,1,0,1,153,49th St & Paschall Av,39.939891,-75.211357
+20955,5,0,1,76,49th St & Paschall Av,39.939891,-75.211357
+20955,7,0,1,65,49th St & Paschall Av,39.939891,-75.211357
+20957,1,0,2,157,49th St & Woodland Av,39.940794,-75.212429
+20957,5,0,1,76,49th St & Woodland Av,39.940794,-75.212429
+20957,7,0,1,65,49th St & Woodland Av,39.940794,-75.212429
+20958,1,0,2,268,Woodland Av & 47th St,39.94321,-75.210851
+20958,5,0,2,142,Woodland Av & 47th St,39.94321,-75.210851
+20958,7,0,2,127,Woodland Av & 47th St,39.94321,-75.210851
+20978,1,1,1,96,Girard Av & Front St,39.968824,-75.136252
+20978,5,1,1,74,Girard Av & Front St,39.968824,-75.136252
+20978,7,1,1,73,Girard Av & Front St,39.968824,-75.136252
+2099,1,0,1,57,MacDade Blvd Station,39.910228,-75.280985
+2099,5,0,1,35,MacDade Blvd Station,39.910228,-75.280985
+2099,7,0,1,35,MacDade Blvd Station,39.910228,-75.280985
+20991,1,0,1,96,Girard Av & Frankford Av,39.968864,-75.134279
+20991,5,0,1,74,Girard Av & Frankford Av,39.968864,-75.134279
+20991,7,0,1,73,Girard Av & Frankford Av,39.968864,-75.134279
+20993,1,0,1,96,Girard Av & 2nd St,39.969491,-75.139391
+20993,5,0,1,74,Girard Av & 2nd St,39.969491,-75.139391
+20993,7,0,1,73,Girard Av & 2nd St,39.969491,-75.139391
+20994,1,0,1,96,Girard Av & 3rd St,39.969755,-75.141363
+20994,5,0,1,74,Girard Av & 3rd St,39.969755,-75.141363
+20994,7,0,1,73,Girard Av & 3rd St,39.969755,-75.141363
+20995,1,0,1,96,Girard Av & 4th St,39.969919,-75.142874
+20995,5,0,1,74,Girard Av & 4th St,39.969919,-75.142874
+20995,7,0,1,73,Girard Av & 4th St,39.969919,-75.142874
+20996,1,0,1,96,Girard Av & 5th St,39.970209,-75.144822
+20996,5,0,1,74,Girard Av & 5th St,39.970209,-75.144822
+20996,7,0,1,73,Girard Av & 5th St,39.970209,-75.144822
+20998,1,0,1,96,Girard Av & 7th St,39.970439,-75.147928
+20998,5,0,1,74,Girard Av & 7th St,39.970439,-75.147928
+20998,7,0,1,73,Girard Av & 7th St,39.970439,-75.147928
+20999,1,0,1,96,Girard Av & 8th St,39.970497,-75.149758
+20999,5,0,1,74,Girard Av & 8th St,39.970497,-75.149758
+20999,7,0,1,73,Girard Av & 8th St,39.970497,-75.149758
+21001,1,0,1,96,Girard Av & 11th St,39.970765,-75.153939
+21001,5,0,1,74,Girard Av & 11th St,39.970765,-75.153939
+21001,7,0,1,73,Girard Av & 11th St,39.970765,-75.153939
+21002,1,0,1,96,Girard Av & 12th St,39.970982,-75.155556
+21002,5,0,1,74,Girard Av & 12th St,39.970982,-75.155556
+21002,7,0,1,73,Girard Av & 12th St,39.970982,-75.155556
+21005,1,0,1,96,Girard Av & 16th St,39.971863,-75.162522
+21005,5,0,1,74,Girard Av & 16th St,39.971863,-75.162522
+21005,7,0,1,73,Girard Av & 16th St,39.971863,-75.162522
+21006,1,0,1,96,Girard Av & 17th St,39.972063,-75.164104
+21006,5,0,1,74,Girard Av & 17th St,39.972063,-75.164104
+21006,7,0,1,73,Girard Av & 17th St,39.972063,-75.164104
+21008,1,0,1,96,Girard Av & Ridge Av,39.972332,-75.166191
+21008,5,0,1,74,Girard Av & Ridge Av,39.972332,-75.166191
+21008,7,0,1,73,Girard Av & Ridge Av,39.972332,-75.166191
+21009,1,0,1,96,Girard Av & 20th St,39.972662,-75.16878
+21009,5,0,1,74,Girard Av & 20th St,39.972662,-75.16878
+21009,7,0,1,73,Girard Av & 20th St,39.972662,-75.16878
+21010,1,0,1,96,Girard Av & Corinthian Av,39.972834,-75.170126
+21010,5,0,1,74,Girard Av & Corinthian Av,39.972834,-75.170126
+21010,7,0,1,73,Girard Av & Corinthian Av,39.972834,-75.170126
+21014,1,0,1,96,Poplar St & 25th St,39.972349,-75.177368
+21014,5,0,1,74,Poplar St & 25th St,39.972349,-75.177368
+21014,7,0,1,73,Poplar St & 25th St,39.972349,-75.177368
+21016,1,0,1,96,Girard Av & 26th St,39.973958,-75.178662
+21016,5,0,1,74,Girard Av & 26th St,39.973958,-75.178662
+21016,7,0,1,73,Girard Av & 26th St,39.973958,-75.178662
+21017,1,0,1,96,Girard Av & 27th St,39.974167,-75.180244
+21017,5,0,1,74,Girard Av & 27th St,39.974167,-75.180244
+21017,7,0,1,73,Girard Av & 27th St,39.974167,-75.180244
+21018,1,0,1,96,Girard Av & 28th St,39.974339,-75.181649
+21018,5,0,1,74,Girard Av & 28th St,39.974339,-75.181649
+21018,7,0,1,73,Girard Av & 28th St,39.974339,-75.181649
+21019,1,0,1,96,Girard Av & 29th St,39.974538,-75.183302
+21019,5,0,1,74,Girard Av & 29th St,39.974538,-75.183302
+21019,7,0,1,73,Girard Av & 29th St,39.974538,-75.183302
+21021,1,0,1,96,Girard Av & 31st St,39.974973,-75.186514
+21021,5,0,1,74,Girard Av & 31st St,39.974973,-75.186514
+21021,7,0,1,73,Girard Av & 31st St,39.974973,-75.186514
+21022,1,0,1,96,Girard Av & 33rd St,39.975163,-75.188037
+21022,5,0,1,74,Girard Av & 33rd St,39.975163,-75.188037
+21022,7,0,1,73,Girard Av & 33rd St,39.975163,-75.188037
+21025,1,0,1,96,Girard Av & 39th St,39.974457,-75.201695
+21025,5,0,1,74,Girard Av & 39th St,39.974457,-75.201695
+21025,7,0,1,73,Girard Av & 39th St,39.974457,-75.201695
+21026,1,0,1,96,Girard Av & 41st St,39.97393,-75.206386
+21026,5,0,1,74,Girard Av & 41st St,39.97393,-75.206386
+21026,7,0,1,73,Girard Av & 41st St,39.97393,-75.206386
+21027,1,0,1,96,Girard Av & 42nd St,39.973658,-75.208797
+21027,5,0,1,74,Girard Av & 42nd St,39.973658,-75.208797
+21027,7,0,1,73,Girard Av & 42nd St,39.973658,-75.208797
+21028,1,0,1,96,Girard Av & Belmont Av,39.973315,-75.212094
+21028,5,0,1,74,Girard Av & Belmont Av,39.973315,-75.212094
+21028,7,0,1,73,Girard Av & Belmont Av,39.973315,-75.212094
+21030,1,0,1,96,Girard Av & 49th St,39.972917,-75.219064
+21030,5,0,1,74,Girard Av & 49th St,39.972917,-75.219064
+21030,7,0,1,73,Girard Av & 49th St,39.972917,-75.219064
+21032,1,0,1,96,Girard Av & 51st St,39.971987,-75.223438
+21032,5,0,1,74,Girard Av & 51st St,39.971987,-75.223438
+21032,7,0,1,73,Girard Av & 51st St,39.971987,-75.223438
+21033,1,0,1,96,Girard Av & 52nd St,39.97154,-75.225637
+21033,5,0,1,74,Girard Av & 52nd St,39.97154,-75.225637
+21033,7,0,1,73,Girard Av & 52nd St,39.97154,-75.225637
+21035,1,0,1,96,Girard Av & 54th St,39.971156,-75.228543
+21035,5,0,1,74,Girard Av & 54th St,39.971156,-75.228543
+21035,7,0,1,73,Girard Av & 54th St,39.971156,-75.228543
+21037,1,0,1,96,Girard Av & 56th St,39.970752,-75.232347
+21037,5,0,1,74,Girard Av & 56th St,39.970752,-75.232347
+21037,7,0,1,73,Girard Av & 56th St,39.970752,-75.232347
+21038,1,0,1,96,Girard Av & 57th St,39.970558,-75.234013
+21038,5,0,1,74,Girard Av & 57th St,39.970558,-75.234013
+21038,7,0,1,73,Girard Av & 57th St,39.970558,-75.234013
+21040,1,0,1,96,Girard Av & 60th St,39.969977,-75.238952
+21040,5,0,1,74,Girard Av & 60th St,39.969977,-75.238952
+21040,7,0,1,73,Girard Av & 60th St,39.969977,-75.238952
+21041,1,0,1,96,Haverford Av & 61st St,39.970881,-75.24071
+21041,5,0,1,74,Haverford Av & 61st St,39.970881,-75.24071
+21041,7,0,1,73,Haverford Av & 61st St,39.970881,-75.24071
+21042,1,0,1,96,Haverford Av & 62nd St,39.97158,-75.242645
+21042,5,0,1,74,Haverford Av & 62nd St,39.97158,-75.242645
+21042,7,0,1,73,Haverford Av & 62nd St,39.97158,-75.242645
+21044,1,0,1,96,Girard Av & 63rd St - FS,39.970163,-75.244444
+21044,1,1,1,96,Girard Av & 63rd St - FS,39.970163,-75.244444
+21044,5,0,1,74,Girard Av & 63rd St - FS,39.970163,-75.244444
+21044,5,1,1,74,Girard Av & 63rd St - FS,39.970163,-75.244444
+21044,7,0,1,73,Girard Av & 63rd St - FS,39.970163,-75.244444
+21044,7,1,1,73,Girard Av & 63rd St - FS,39.970163,-75.244444
+21047,1,1,1,96,Girard Av & 61st St,39.969793,-75.241374
+21047,5,1,1,74,Girard Av & 61st St,39.969793,-75.241374
+21047,7,1,1,73,Girard Av & 61st St,39.969793,-75.241374
+21048,1,1,1,96,Girard Av & 60th St,39.969825,-75.239378
+21048,5,1,1,74,Girard Av & 60th St,39.969825,-75.239378
+21048,7,1,1,73,Girard Av & 60th St,39.969825,-75.239378
+21050,1,1,1,96,Girard Av & 57th St,39.970389,-75.234286
+21050,5,1,1,74,Girard Av & 57th St,39.970389,-75.234286
+21050,7,1,1,73,Girard Av & 57th St,39.970389,-75.234286
+21051,1,1,1,96,Girard Av & 56th St,39.970592,-75.232631
+21051,5,1,1,74,Girard Av & 56th St,39.970592,-75.232631
+21051,7,1,1,73,Girard Av & 56th St,39.970592,-75.232631
+21053,1,1,1,96,Girard Av & 54th St,39.970987,-75.228815
+21053,5,1,1,74,Girard Av & 54th St,39.970987,-75.228815
+21053,7,1,1,73,Girard Av & 54th St,39.970987,-75.228815
+21055,1,1,1,96,Girard Av & 52nd St,39.971348,-75.22592
+21055,5,1,1,74,Girard Av & 52nd St,39.971348,-75.22592
+21055,7,1,1,73,Girard Av & 52nd St,39.971348,-75.22592
+21056,1,1,1,96,Girard Av & 51st St,39.971701,-75.223702
+21056,5,1,1,74,Girard Av & 51st St,39.971701,-75.223702
+21056,7,1,1,73,Girard Av & 51st St,39.971701,-75.223702
+21058,1,1,1,96,Girard Av & Lancaster Av,39.972898,-75.218556
+21058,5,1,1,74,Girard Av & Lancaster Av,39.972898,-75.218556
+21058,7,1,1,73,Girard Av & Lancaster Av,39.972898,-75.218556
+21060,1,1,1,96,Girard Av & Belmont Av - FS,39.973197,-75.211745
+21060,5,1,1,74,Girard Av & Belmont Av - FS,39.973197,-75.211745
+21060,7,1,1,73,Girard Av & Belmont Av - FS,39.973197,-75.211745
+21061,1,1,1,96,Girard Av & 42nd St,39.973433,-75.209094
+21061,5,1,1,74,Girard Av & 42nd St,39.973433,-75.209094
+21061,7,1,1,73,Girard Av & 42nd St,39.973433,-75.209094
+21062,1,1,1,96,Girard Av & 41st St,39.973752,-75.206647
+21062,5,1,1,74,Girard Av & 41st St,39.973752,-75.206647
+21062,7,1,1,73,Girard Av & 41st St,39.973752,-75.206647
+21063,1,1,1,96,Girard Av & 39th St,39.974297,-75.201979
+21063,5,1,1,74,Girard Av & 39th St,39.974297,-75.201979
+21063,7,1,1,73,Girard Av & 39th St,39.974297,-75.201979
+21067,1,1,1,96,Girard Av & 31st St,39.974902,-75.186821
+21067,5,1,1,74,Girard Av & 31st St,39.974902,-75.186821
+21067,7,1,1,73,Girard Av & 31st St,39.974902,-75.186821
+21068,1,1,1,96,Girard Av & 29th St,39.974468,-75.18361
+21068,5,1,1,74,Girard Av & 29th St,39.974468,-75.18361
+21068,7,1,1,73,Girard Av & 29th St,39.974468,-75.18361
+21069,1,1,1,96,Girard Av & 28th St,39.974268,-75.181957
+21069,5,1,1,74,Girard Av & 28th St,39.974268,-75.181957
+21069,7,1,1,73,Girard Av & 28th St,39.974268,-75.181957
+21070,1,1,1,96,Girard Av & 27th St,39.974096,-75.180552
+21070,5,1,1,74,Girard Av & 27th St,39.974096,-75.180552
+21070,7,1,1,73,Girard Av & 27th St,39.974096,-75.180552
+21071,1,1,1,96,Girard Av & 26th St,39.973878,-75.178958
+21071,5,1,1,74,Girard Av & 26th St,39.973878,-75.178958
+21071,7,1,1,73,Girard Av & 26th St,39.973878,-75.178958
+21073,1,1,1,96,Poplar St & Stillman St,39.972369,-75.178172
+21073,5,1,1,74,Poplar St & Stillman St,39.972369,-75.178172
+21073,7,1,1,73,Poplar St & Stillman St,39.972369,-75.178172
+21075,1,1,1,96,College Av & 24th St - FS,39.972237,-75.175327
+21075,5,1,1,74,College Av & 24th St - FS,39.972237,-75.175327
+21075,7,1,1,73,College Av & 24th St - FS,39.972237,-75.175327
+21078,1,1,1,96,Girard Av & Corinthian Av,39.972745,-75.170421
+21078,5,1,1,74,Girard Av & Corinthian Av,39.972745,-75.170421
+21078,7,1,1,73,Girard Av & Corinthian Av,39.972745,-75.170421
+21079,1,1,1,96,Girard Av & 20th St,39.972591,-75.169087
+21079,5,1,1,74,Girard Av & 20th St,39.972591,-75.169087
+21079,7,1,1,73,Girard Av & 20th St,39.972591,-75.169087
+21080,1,1,1,96,Girard Av & 19th St,39.9724,-75.167552
+21080,5,1,1,74,Girard Av & 19th St,39.9724,-75.167552
+21080,7,1,1,73,Girard Av & 19th St,39.9724,-75.167552
+21081,1,1,1,96,Girard Av & Ridge Av,39.972282,-75.166655
+21081,5,1,1,74,Girard Av & Ridge Av,39.972282,-75.166655
+21081,7,1,1,73,Girard Av & Ridge Av,39.972282,-75.166655
+21082,1,1,1,96,Girard Av & 17th St,39.971983,-75.1644
+21082,5,1,1,74,Girard Av & 17th St,39.971983,-75.1644
+21082,7,1,1,73,Girard Av & 17th St,39.971983,-75.1644
+21083,1,1,1,96,Girard Av & 16th St,39.971783,-75.162818
+21083,5,1,1,74,Girard Av & 16th St,39.971783,-75.162818
+21083,7,1,1,73,Girard Av & 16th St,39.971783,-75.162818
+21086,1,1,1,96,Girard Av & 12th St,39.970912,-75.155864
+21086,5,1,1,74,Girard Av & 12th St,39.970912,-75.155864
+21086,7,1,1,73,Girard Av & 12th St,39.970912,-75.155864
+21087,1,1,1,96,Girard Av & 11th St,39.970703,-75.154258
+21087,5,1,1,74,Girard Av & 11th St,39.970703,-75.154258
+21087,7,1,1,73,Girard Av & 11th St,39.970703,-75.154258
+21090,1,1,1,96,Girard Av & 8th St,39.970399,-75.150054
+21090,5,1,1,74,Girard Av & 8th St,39.970399,-75.150054
+21090,7,1,1,73,Girard Av & 8th St,39.970399,-75.150054
+21091,1,1,1,96,Girard Av & 7th St,39.970341,-75.148223
+21091,5,1,1,74,Girard Av & 7th St,39.970341,-75.148223
+21091,7,1,1,73,Girard Av & 7th St,39.970341,-75.148223
+21093,1,1,1,96,Girard Av & 5th St,39.970147,-75.145118
+21093,5,1,1,74,Girard Av & 5th St,39.970147,-75.145118
+21093,7,1,1,73,Girard Av & 5th St,39.970147,-75.145118
+21095,1,1,1,96,Girard Av & 3rd St,39.969675,-75.141659
+21095,5,1,1,74,Girard Av & 3rd St,39.969675,-75.141659
+21095,7,1,1,73,Girard Av & 3rd St,39.969675,-75.141659
+21096,1,1,1,96,Girard Av & 2nd St,39.969438,-75.139687
+21096,5,1,1,74,Girard Av & 2nd St,39.969438,-75.139687
+21096,7,1,1,73,Girard Av & 2nd St,39.969438,-75.139687
+21201,1,0,1,153,Grays Av & 49th St,39.938282,-75.210441
+21201,5,0,1,76,Grays Av & 49th St,39.938282,-75.210441
+21201,7,0,1,65,Grays Av & 49th St,39.938282,-75.210441
+21202,1,1,2,268,Woodland Av & 47th St,39.943451,-75.21085
+21202,5,1,2,142,Woodland Av & 47th St,39.943451,-75.21085
+21202,7,1,2,127,Woodland Av & 47th St,39.943451,-75.21085
+21208,1,0,1,115,Woodland Av & 53rd St,39.937215,-75.217682
+21208,5,0,1,66,Woodland Av & 53rd St,39.937215,-75.217682
+21208,7,0,1,62,Woodland Av & 53rd St,39.937215,-75.217682
+21209,1,1,1,146,65th St & Chester Av - West,39.929565,-75.244703
+21209,5,1,1,72,65th St & Chester Av - West,39.929565,-75.244703
+21209,7,1,1,63,65th St & Chester Av - West,39.929565,-75.244703
+21217,1,1,1,3,Main St & Forrest Av,40.123591,-75.362491
+21248,1,0,3,19,40th St & Market St,39.957269,-75.202092
+21248,1,1,3,19,40th St & Market St,39.957269,-75.202092
+21248,7,0,3,18,40th St & Market St,39.957269,-75.202092
+21248,7,1,3,18,40th St & Market St,39.957269,-75.202092
+21481,1,0,1,96,Haverford Av & 63rd St,39.971842,-75.244759
+21481,5,0,1,74,Haverford Av & 63rd St,39.971842,-75.244759
+21481,7,0,1,73,Haverford Av & 63rd St,39.971842,-75.244759
+2352,1,0,1,10,Paoli Pk & Airport Rd,39.981684,-75.568079
+2353,1,1,1,9,Resevoir Rd & Enterprise Dr,39.988113,-75.556749
+2354,1,0,1,10,Enterprise Dr & Reservoir Rd,39.987657,-75.557729
+24175,1,1,1,10,Ward Av & Airport Rd  MBNS,39.9896,-75.576282
+24568,1,0,1,112,Main St & Mill St,39.918091,-75.260065
+24568,5,0,1,65,Main St & Mill St,39.918091,-75.260065
+24568,7,0,1,61,Main St & Mill St,39.918091,-75.260065
+24738,1,1,1,139,Island Av & Suffolk Av - MBFS,39.899525,-75.239506
+24738,5,1,1,69,Island Av & Suffolk Av - MBFS,39.899525,-75.239506
+24738,7,1,1,57,Island Av & Suffolk Av - MBFS,39.899525,-75.239506
+25241,1,1,1,115,Main St & Powell Av,39.918248,-75.260641
+25241,5,1,1,66,Main St & Powell Av,39.918248,-75.260641
+25241,7,1,1,62,Main St & Powell Av,39.918248,-75.260641
+25793,1,0,1,96,Delaware Av & Frankford Av,39.964526,-75.134297
+25793,5,0,1,74,Delaware Av & Frankford Av,39.964526,-75.134297
+25793,7,0,1,73,Delaware Av & Frankford Av,39.964526,-75.134297
+26612,1,0,1,4,Main St & Astor St,40.117345,-75.350199
+26612,5,0,1,1,Main St & Astor St,40.117345,-75.350199
+26613,1,0,1,4,Main St & George St,40.118443,-75.351795
+26613,5,0,1,1,Main St & George St,40.118443,-75.351795
+26614,1,0,1,4,Main St & Haws Av,40.119141,-75.353617
+26614,5,0,1,1,Main St & Haws Av,40.119141,-75.353617
+26615,1,0,1,4,Main St & Stanbridge St,40.119731,-75.355286
+26615,5,0,1,1,Main St & Stanbridge St,40.119731,-75.355286
+26616,1,0,1,4,Main St & Noble St,40.12041,-75.356563
+26616,5,0,1,1,Main St & Noble St,40.12041,-75.356563
+26618,1,0,1,4,Main St & Hamilton St,40.121777,-75.358965
+26618,5,0,1,1,Main St & Hamilton St,40.121777,-75.358965
+26619,1,0,1,4,Main St & Selma St,40.122483,-75.360207
+26619,5,0,1,1,Main St & Selma St,40.122483,-75.360207
+26625,1,0,1,3,Main St & School Ln - FS,40.136016,-75.382139
+26625,5,0,1,1,Main St & School Ln - FS,40.136016,-75.382139
+26628,1,0,1,3,Ridge Pk & Clearfield Av - FS,40.144105,-75.392037
+26628,5,0,1,1,Ridge Pk & Clearfield Av - FS,40.144105,-75.392037
+26635,1,0,1,1,Eagleville Rd & Ridge Pk - FS,40.159419,-75.408454
+26652,1,1,1,3,Main St & 1st Av,40.184615,-75.449333
+26658,1,1,1,3,Ridge Pk & Wilson Blvd,40.162559,-75.4135
+26659,1,1,1,3,Ridge Pk & Eagleville Rd,40.159256,-75.407686
+26660,1,1,1,3,Ridge Pk & Mt Kirk Av,40.155533,-75.401339
+26666,1,1,1,3,Main St & Trooper Rd - FS,40.141626,-75.389238
+26668,1,1,1,3,Main St & Galbraith Av - FS,40.137417,-75.383848
+26669,1,1,1,3,Main St & School Ln,40.135881,-75.382215
+26672,1,1,1,3,Main St & Rittenhouse Blvd,40.128477,-75.371116
+26675,1,1,1,3,Main St & Hartranft St - FS,40.122724,-75.36087
+26680,1,1,1,3,Main St & Haws Av,40.119078,-75.353973
+26685,1,0,1,4,Main St & Forrest Av,40.123591,-75.362135
+26685,5,0,1,1,Main St & Forrest Av,40.123591,-75.362135
+26686,1,1,1,3,Ridge Pk & Barry Av,40.149114,-75.396866
+26689,1,0,1,3,Main St & 3rd Av,40.185837,-75.451419
+26689,5,0,1,1,Main St & 3rd Av,40.185837,-75.451419
+26691,1,0,1,3,Main St & 5th Av,40.190255,-75.455697
+26691,5,0,1,1,Main St & 5th Av,40.190255,-75.455697
+26692,1,0,1,3,Main St & 6th Av,40.191236,-75.458032
+26692,5,0,1,1,Main St & 6th Av,40.191236,-75.458032
+26695,1,0,1,3,Main St & 1st Av,40.194456,-75.465877
+26695,5,0,1,1,Main St & 1st Av,40.194456,-75.465877
+26698,1,0,1,3,Main St & Harvard Dr,40.198336,-75.475228
+26698,5,0,1,1,Main St & Harvard Dr,40.198336,-75.475228
+26711,1,0,1,3,Ridge Pk & Sunset Rd,40.22504,-75.515205
+26712,1,0,1,3,Ridge Pk & Limerick Rd,40.230998,-75.521922
+26715,1,0,1,3,Ridge Pk & Village Way,40.234346,-75.532418
+26717,1,0,1,3,Ridge Pk & Kugler Rd,40.236887,-75.53694
+26724,1,0,1,3,High St & Shaners Trailer Park,40.244066,-75.578047
+26729,1,0,1,3,High St & Pleasant View Rd - FS,40.24491,-75.597618
+26731,1,0,1,3,High St & Heritage Dr,40.24433,-75.601987
+26732,1,0,1,3,High St & Sunnybrook Rd,40.244007,-75.609385
+26736,1,0,1,3,High St & Roland St,40.243595,-75.62238
+26748,1,0,1,3,High St & Penn St - FS,40.245561,-75.648839
+26754,1,0,1,3,Hanover St & Queen St,40.244683,-75.65052
+26775,1,1,1,3,High St & Sunnybrook Rd,40.243856,-75.609314
+26778,1,1,1,3,High St & Pleasant View Rd,40.244737,-75.59798
+26783,1,1,1,3,High St & Shaners Trailer Park,40.243905,-75.57807
+26786,1,1,1,3,Ridge Pk & Airport Rd - MBNS,40.242352,-75.553559
+26788,1,1,1,3,Ridge Pk & Limerick Center Rd,40.236895,-75.537295
+26790,1,1,1,3,Ridge Pk & Village Way,40.23366,-75.531054
+26793,1,1,1,3,Ridge Pk & Limerick Rd,40.23098,-75.522278
+26807,1,1,1,3,Main St & 5th Av - MBFS,40.198844,-75.476816
+26808,1,1,1,3,Main St & 3rd Av,40.196463,-75.471175
+26810,1,1,1,3,Main St & 1st Av,40.19442,-75.466232
+26813,1,1,1,3,Main St & 6th Av,40.191191,-75.458375
+26814,1,1,1,3,Main St & 5th Av,40.190228,-75.456041
+26816,1,1,1,3,Main St & 3rd Av,40.185998,-75.451881
+26819,1,0,1,14,Swedesford Rd & Drummers Ln,40.080828,-75.410845
+26819,5,0,1,10,Swedesford Rd & Drummers Ln,40.080828,-75.410845
+26820,1,1,1,11,Mall Blvd & Goddard Blvd,40.090401,-75.39629
+26820,5,1,1,10,Mall Blvd & Goddard Blvd,40.090401,-75.39629
+26823,1,1,1,11,Bear Hill Rd & Daylesford Blvd,40.057215,-75.472064
+26823,5,1,1,10,Bear Hill Rd & Daylesford Blvd,40.057215,-75.472064
+26824,1,1,1,11,Bear Hill Rd & Central Av - FS,40.044956,-75.475568
+26824,5,1,1,10,Bear Hill Rd & Central Av - FS,40.044956,-75.475568
+26825,1,1,1,11,King Rd & Lancaster Av - FS,40.041415,-75.496755
+26825,5,1,1,10,King Rd & Lancaster Av - FS,40.041415,-75.496755
+26826,1,1,1,11,King Rd & Lloyd Av,40.041111,-75.498717
+26826,5,1,1,10,King Rd & Lloyd Av,40.041111,-75.498717
+26827,1,1,1,11,King Rd & Grubb Rd,40.040216,-75.501873
+26827,5,1,1,10,King Rd & Grubb Rd,40.040216,-75.501873
+26828,1,1,1,11,King Rd& Arlington Ave,40.039144,-75.504864
+26828,5,1,1,10,King Rd& Arlington Ave,40.039144,-75.504864
+26829,1,1,1,11,King St & Ruthland Av,40.037695,-75.508858
+26829,5,1,1,10,King St & Ruthland Av,40.037695,-75.508858
+26831,1,1,1,11,King St & Bridge St,40.036881,-75.512593
+26831,5,1,1,10,King St & Bridge St,40.036881,-75.512593
+26833,1,1,1,11,King St & Kingsburt Condos,40.034967,-75.517438
+26833,5,1,1,10,King St & Kingsburt Condos,40.034967,-75.517438
+26834,1,1,1,11,King St & Karen Dr,40.034546,-75.519921
+26834,5,1,1,10,King St & Karen Dr,40.034546,-75.519921
+26837,1,1,1,11,King St & Sugartown Rd,40.033549,-75.529176
+26837,5,1,1,10,King St & Sugartown Rd,40.033549,-75.529176
+26839,1,1,1,11,King Rd & Gingerwood Rd,40.032295,-75.53427
+26839,5,1,1,10,King Rd & Gingerwood Rd,40.032295,-75.53427
+26840,1,1,1,11,King Rd & Summit Rd,40.032391,-75.537214
+26840,5,1,1,10,King Rd & Summit Rd,40.032391,-75.537214
+26842,1,1,1,11,King Rd & Line Rd,40.029985,-75.542849
+26842,5,1,1,10,King Rd & Line Rd,40.029985,-75.542849
+26852,1,1,1,11,King Rd & Weston Dr - FS,40.021099,-75.58215
+26852,5,1,1,10,King Rd & Weston Dr - FS,40.021099,-75.58215
+26853,1,1,1,11,King Rd & Phoenixville Pk,40.019864,-75.584937
+26853,5,1,1,10,King Rd & Phoenixville Pk,40.019864,-75.584937
+26866,1,1,1,11,Exton Square Mall & Pottstown Pk,40.029905,-75.629255
+26866,5,1,1,9,Exton Square Mall & Pottstown Pk,40.029905,-75.629255
+26867,1,1,1,11,Exton Square Mall 1,40.031868,-75.629378
+26867,5,1,1,9,Exton Square Mall 1,40.031868,-75.629378
+26868,1,1,1,11,Exton Square Mall 2,40.032961,-75.626402
+26868,5,1,1,9,Exton Square Mall 2,40.032961,-75.626402
+26870,1,0,1,13,Pottstown Pk & Bartlett Av,40.02294,-75.625465
+26870,5,0,1,9,Pottstown Pk & Bartlett Av,40.02294,-75.625465
+26871,1,0,1,13,Boot Rd & Pottstown Pk,40.009567,-75.615548
+26871,5,0,1,9,Boot Rd & Pottstown Pk,40.009567,-75.615548
+26872,1,0,1,13,Boot Rd & King Rd,40.00933,-75.613065
+26872,5,0,1,9,Boot Rd & King Rd,40.00933,-75.613065
+26873,1,0,1,13,Boot Rd & Autumn Way,40.009632,-75.607925
+26873,5,0,1,9,Boot Rd & Autumn Way,40.009632,-75.607925
+26874,1,0,1,13,Boot Rd & Kirkland Av,40.009907,-75.60256
+26874,5,0,1,9,Boot Rd & Kirkland Av,40.009907,-75.60256
+26876,1,0,1,13,Boot Rd & Hillcrest Rd,40.009976,-75.597963
+26876,5,0,1,9,Boot Rd & Hillcrest Rd,40.009976,-75.597963
+26877,1,0,1,13,Boot Rd & Phoenixville Pk,40.008628,-75.591235
+26877,5,0,1,9,Boot Rd & Phoenixville Pk,40.008628,-75.591235
+26878,1,1,1,3,Phoenixville Pk & Laurel Dr,40.006717,-75.592271
+26878,5,1,1,10,Phoenixville Pk & Laurel Dr,40.006717,-75.592271
+26879,1,1,1,3,Phoenixville Pk & Knollwood Dr,40.005377,-75.593131
+26879,5,1,1,10,Phoenixville Pk & Knollwood Dr,40.005377,-75.593131
+26881,1,1,1,3,Phoenixville Pk & Karen La.,40.000905,-75.593747
+26881,5,1,1,10,Phoenixville Pk & Karen La.,40.000905,-75.593747
+26882,1,1,1,3,Phoenixville Pk & E Greenhill Rd,39.998326,-75.593339
+26882,5,1,1,10,Phoenixville Pk & E Greenhill Rd,39.998326,-75.593339
+26884,1,1,1,3,Phoenixville Pk & Camaro Run Dr,39.993068,-75.594284
+26884,5,1,1,10,Phoenixville Pk & Camaro Run Dr,39.993068,-75.594284
+26885,1,1,1,3,Phoenixville Pk & Ashbridge Rd,39.990684,-75.594503
+26885,5,1,1,10,Phoenixville Pk & Ashbridge Rd,39.990684,-75.594503
+26888,1,1,1,13,Phoenixville Pk & Goshen Rd,39.978691,-75.592905
+26888,5,1,1,10,Phoenixville Pk & Goshen Rd,39.978691,-75.592905
+26889,1,1,1,13,Goshen Rd & Greystone Dr,39.976544,-75.596597
+26889,5,1,1,10,Goshen Rd & Greystone Dr,39.976544,-75.596597
+26890,1,1,1,13,Goshen Rd & North Hills Rd,39.974783,-75.599239
+26890,5,1,1,10,Goshen Rd & North Hills Rd,39.974783,-75.599239
+26892,1,1,1,12,Marshall St & Convent Dr,39.968897,-75.602592
+26892,5,1,1,9,Marshall St & Convent Dr,39.968897,-75.602592
+26893,1,1,1,12,Marshall St & Franklin St,39.966699,-75.604169
+26893,5,1,1,9,Marshall St & Franklin St,39.966699,-75.604169
+26896,1,1,1,12,Marshall St & High St,39.964774,-75.608405
+26896,5,1,1,9,Marshall St & High St,39.964774,-75.608405
+26897,1,1,1,12,High St & Biddle St,39.963419,-75.607704
+26897,5,1,1,9,High St & Biddle St,39.963419,-75.607704
+26899,1,1,1,12,High St & Chestnut St,39.961493,-75.606247
+26899,5,1,1,9,High St & Chestnut St,39.961493,-75.606247
+26900,1,1,1,11,High St & Nields St,39.954406,-75.59874
+26900,5,1,1,9,High St & Nields St,39.954406,-75.59874
+26901,1,1,1,11,High St & Rosedale Av,39.951948,-75.596233
+26901,5,1,1,9,High St & Rosedale Av,39.951948,-75.596233
+26902,1,1,1,11,High St & Church Av,39.948131,-75.593804
+26902,5,1,1,9,High St & Church Av,39.948131,-75.593804
+26903,1,1,1,11,High St & Spruce Av,39.944884,-75.592568
+26903,5,1,1,9,High St & Spruce Av,39.944884,-75.592568
+26904,1,1,1,11,Old Eagle School Rd & Swedesford Rd,40.079489,-75.412667
+26904,5,1,1,10,Old Eagle School Rd & Swedesford Rd,40.079489,-75.412667
+26907,1,1,1,11,Devon Park Dr & 435,40.071448,-75.420819
+26907,5,1,1,10,Devon Park Dr & 435,40.071448,-75.420819
+26908,1,1,1,11,Devon Park Dr & West Valley Rd,40.069886,-75.424534
+26908,5,1,1,10,Devon Park Dr & West Valley Rd,40.069886,-75.424534
+26909,1,1,1,11,West Valley Rd & USPS Facility,40.07193,-75.42587
+26909,5,1,1,10,West Valley Rd & USPS Facility,40.07193,-75.42587
+26910,1,1,1,11,Swedesford Rd & Westlakes Dr,40.061393,-75.466615
+26910,5,1,1,10,Swedesford Rd & Westlakes Dr,40.061393,-75.466615
+26911,1,0,1,13,High St & Spruce Av,39.944437,-75.592164
+26911,5,0,1,9,High St & Spruce Av,39.944437,-75.592164
+26912,1,0,1,13,High St & Rosedale Av,39.951886,-75.595891
+26912,5,0,1,9,High St & Rosedale Av,39.951886,-75.595891
+26914,1,0,1,14,High St & Washington St - FS,39.962465,-75.606813
+26914,5,0,1,10,High St & Washington St - FS,39.962465,-75.606813
+26915,1,0,1,14,High St & Biddle St,39.963312,-75.607373
+26915,5,0,1,10,High St & Biddle St,39.963312,-75.607373
+26916,1,0,1,14,High St & Marshall St,39.964587,-75.608298
+26916,5,0,1,10,High St & Marshall St,39.964587,-75.608298
+26917,1,0,1,14,Marshall St & Walnut St,39.965079,-75.60726
+26917,5,0,1,10,Marshall St & Walnut St,39.965079,-75.60726
+26919,1,0,1,14,Marshall St & Franklin St,39.96644,-75.604216
+26919,5,0,1,10,Marshall St & Franklin St,39.96644,-75.604216
+26920,1,0,1,14,Marshall St & Convent Ln,39.968879,-75.602367
+26920,5,0,1,10,Marshall St & Convent Ln,39.968879,-75.602367
+26923,1,0,1,14,Goshen Rd & Fern Hill Rd,39.978486,-75.592821
+26923,5,0,1,10,Goshen Rd & Fern Hill Rd,39.978486,-75.592821
+26924,1,0,1,3,Phoenixville Pk & Saunders Ln,39.987194,-75.595417
+26924,5,0,1,10,Phoenixville Pk & Saunders Ln,39.987194,-75.595417
+26926,1,0,1,3,Phoenixville Pk & Ashbridge Rd,39.99047,-75.594278
+26926,5,0,1,10,Phoenixville Pk & Ashbridge Rd,39.99047,-75.594278
+26927,1,0,1,3,Phoenixville Pk & Camaro Run Dr,39.992854,-75.594059
+26927,5,0,1,10,Phoenixville Pk & Camaro Run Dr,39.992854,-75.594059
+26929,1,0,1,3,Phoenixville Pk & E Greenhill Rd,39.997746,-75.593196
+26929,5,0,1,10,Phoenixville Pk & E Greenhill Rd,39.997746,-75.593196
+26930,1,0,1,3,Phoenixville Pk & Karen Ln,40.000709,-75.593486
+26930,5,0,1,10,Phoenixville Pk & Karen Ln,40.000709,-75.593486
+26932,1,0,1,3,Phoenixville Pk & Gail Rd,40.005306,-75.592941
+26932,5,0,1,10,Phoenixville Pk & Gail Rd,40.005306,-75.592941
+26934,1,1,1,11,Boot Rd & Phoenixville Pk,40.008806,-75.5912
+26934,5,1,1,9,Boot Rd & Phoenixville Pk,40.008806,-75.5912
+26935,1,1,1,11,Boot Rd & Hillcrest Rd,40.010128,-75.597668
+26935,5,1,1,9,Boot Rd & Hillcrest Rd,40.010128,-75.597668
+26937,1,1,1,11,Boot Rd & Kirkland Av,40.010068,-75.602265
+26937,5,1,1,9,Boot Rd & Kirkland Av,40.010068,-75.602265
+26938,1,1,1,11,Boot Rd & Autumn Way,40.00982,-75.607654
+26938,5,1,1,9,Boot Rd & Autumn Way,40.00982,-75.607654
+26939,1,1,1,11,Boot Rd & King Rd,40.00949,-75.613137
+26939,5,1,1,9,Boot Rd & King Rd,40.00949,-75.613137
+26940,1,1,1,11,Boot Rd & Pottstown Pk,40.009737,-75.615596
+26940,5,1,1,9,Boot Rd & Pottstown Pk,40.009737,-75.615596
+26941,1,1,1,11,Pottstown Pk & Luther Ln,40.014457,-75.616707
+26941,5,1,1,9,Pottstown Pk & Luther Ln,40.014457,-75.616707
+26942,1,1,1,11,Pottstown Pk & Mountainview Dr,40.017849,-75.622106
+26942,5,1,1,9,Pottstown Pk & Mountainview Dr,40.017849,-75.622106
+26943,1,1,1,11,Pottstown Pk & Commerce Dr,40.027721,-75.627786
+26943,5,1,1,9,Pottstown Pk & Commerce Dr,40.027721,-75.627786
+26956,1,0,1,13,High St & Guinta Ln,39.947971,-75.593508
+26956,5,0,1,9,High St & Guinta Ln,39.947971,-75.593508
+26957,1,0,1,14,King Rd & Weston Dr,40.020956,-75.582055
+26957,5,0,1,10,King Rd & Weston Dr,40.020956,-75.582055
+26961,1,0,1,14,King Rd & Hershey Mill Rd,40.026908,-75.568054
+26961,5,0,1,10,King Rd & Hershey Mill Rd,40.026908,-75.568054
+26962,1,0,1,14,King Rd & Frazer Rd,40.027979,-75.558864
+26962,5,0,1,10,King Rd & Frazer Rd,40.027979,-75.558864
+26963,1,0,1,14,King Rd & Cottonwood Dr,40.026772,-75.552077
+26963,5,0,1,10,King Rd & Cottonwood Dr,40.026772,-75.552077
+26966,1,0,1,14,King Rd & Line Rd,40.029726,-75.542991
+26966,5,0,1,10,King Rd & Line Rd,40.029726,-75.542991
+26969,1,0,1,14,King Rd & Summit Rd,40.032302,-75.536965
+26969,5,0,1,10,King Rd & Summit Rd,40.032302,-75.536965
+26970,1,0,1,14,King Rd & Gingerwood Rd,40.03217,-75.534565
+26970,5,0,1,10,King Rd & Gingerwood Rd,40.03217,-75.534565
+26974,1,0,1,14,King St & Crest Av,40.033589,-75.522367
+26974,5,0,1,10,King St & Crest Av,40.033589,-75.522367
+26976,1,0,1,14,King St & Malvern Crossing Apts.,40.034843,-75.517214
+26976,5,0,1,10,King St & Malvern Crossing Apts.,40.034843,-75.517214
+26978,1,0,1,14,King St & Bridge St,40.036684,-75.51277
+26978,5,0,1,10,King St & Bridge St,40.036684,-75.51277
+26980,1,0,1,14,King St & Ruthland Av,40.037445,-75.509023
+26980,5,0,1,10,King St & Ruthland Av,40.037445,-75.509023
+26981,1,0,1,14,King St & Arlington Av,40.038894,-75.505029
+26981,5,0,1,10,King St & Arlington Av,40.038894,-75.505029
+26982,1,0,1,14,King Rd & Grubb Rd,40.039966,-75.502062
+26982,5,0,1,10,King Rd & Grubb Rd,40.039966,-75.502062
+26983,1,0,1,14,King Rd & Lloyd Av,40.040878,-75.498918
+26983,5,0,1,10,King Rd & Lloyd Av,40.040878,-75.498918
+26984,1,0,1,14,King Rd & Lancaster Av,40.041469,-75.495466
+26984,5,0,1,10,King Rd & Lancaster Av,40.041469,-75.495466
+26985,1,0,1,14,Bear Hill Rd & Central Av,40.045379,-75.475238
+26985,5,0,1,10,Bear Hill Rd & Central Av,40.045379,-75.475238
+26986,1,0,1,14,Bear Hill Rd & Daylesford Blvd,40.05642,-75.472324
+26986,5,0,1,10,Bear Hill Rd & Daylesford Blvd,40.05642,-75.472324
+26988,1,0,1,14,Swedesford Rd & Westlakes Blvd,40.061215,-75.46626
+26988,5,0,1,10,Swedesford Rd & Westlakes Blvd,40.061215,-75.46626
+26989,1,0,1,14,Swedesford Rd & Valley Forge Rd 2,40.071011,-75.436338
+26989,5,0,1,10,Swedesford Rd & Valley Forge Rd 2,40.071011,-75.436338
+26990,1,0,1,14,West Valley Rd & USPS Facility,40.072341,-75.426391
+26990,5,0,1,10,West Valley Rd & USPS Facility,40.072341,-75.426391
+26991,1,0,1,14,Devon Park Dr & West Valley Rd,40.06977,-75.424368
+26991,5,0,1,10,Devon Park Dr & West Valley Rd,40.06977,-75.424368
+26993,1,0,1,14,Devon Park Dr & 200,40.072617,-75.417661
+26993,5,0,1,10,Devon Park Dr & 200,40.072617,-75.417661
+26994,1,0,1,14,Devon Park Dr & 446,40.074027,-75.41436
+26994,5,0,1,10,Devon Park Dr & 446,40.074027,-75.41436
+27067,1,1,1,2,Main St & Hillcrest Shop Ctr - FS,40.233054,-75.269809
+27068,1,1,1,2,Main St & Oakland Av,40.232079,-75.268175
+27085,1,0,1,2,Main St & Greenwood Rd,40.233053,-75.269453
+27252,1,1,1,2,River Rd & 3rd St,40.088248,-75.326391
+27258,1,1,1,2,Hertzog Blvd & Flint Hill Rd - FS,40.09022,-75.335502
+27262,1,1,1,2,Horizon Blvd & Renaissance Blvd,40.084944,-75.339056
+27263,1,1,1,2,Renaissance Blvd & Swedeland Rd,40.079479,-75.331833
+27264,1,1,1,2,Swedeland Rd & Smith Kline,40.076518,-75.335315
+27269,1,0,1,1,Swedeland Rd & Renaissance Rd -MBNS,40.077668,-75.333078
+27271,1,0,1,1,2000 Renaissance Rd,40.082887,-75.334499
+27273,1,0,1,1,Feheley Dr & Church Rd - FS,40.092291,-75.339459
+27275,1,0,1,1,Hertzog Blvd & Flint Hill Rd,40.090121,-75.335463
+27278,1,0,1,1,B St & V St,40.087874,-75.330966
+27281,1,0,1,1,River Rd & 3rd St,40.088489,-75.326757
+27390,1,0,1,2,Airy St & DeKalb St - FS,40.115446,-75.341497
+27391,1,0,1,2,Airy St & Swede St,40.116153,-75.343524
+27394,1,0,1,2,Swede St & Oak St - FS,40.118856,-75.341876
+27395,1,0,1,2,Swede St & Elm St - FS,40.121348,-75.340534
+27398,1,0,1,2,Pine St & Wood St,40.1247,-75.338791
+27400,1,0,1,2,Pine St & Freedley St,40.126965,-75.33545
+27401,1,0,1,2,Pine St & Brown St,40.128151,-75.333838
+27402,1,0,1,2,Pine St St & Roberts St,40.129257,-75.332274
+27403,1,0,1,2,Pine St & Johnson Hwy,40.131815,-75.328613
+27405,1,0,1,2,Johnson Hwy & DeKalb Pk,40.129625,-75.324449
+27419,1,0,1,2,DeKalb Pk & Northtowne Shop Ctr,40.138441,-75.315695
+27423,1,0,1,2,DeKalb Pk & Township Line Rd,40.148505,-75.307523
+27424,1,0,1,2,DeKalb Pk & Shoppes at Blue Bell,40.150236,-75.306348
+27425,1,0,1,2,DeKalb Pk & Yost Rd,40.155248,-75.302123
+27426,1,0,1,2,DeKalb Pk & Jolly Rd,40.158219,-75.299087
+27427,1,0,1,2,DeKalb Pk & Michaels Ln,40.16002,-75.297203
+27429,1,0,1,2,DeKalb Pk & Skippack Pk - MBFS,40.167912,-75.289241
+27431,1,0,1,2,DeKalb Pk & Tournament Dr,40.175952,-75.281346
+27434,1,0,1,2,DeKalb Pk & Township Line Rd,40.182922,-75.274494
+27435,1,0,1,2,DeKalb Pk & Grasshopper Ln,40.185729,-75.270756
+27438,1,0,1,2,Sumneytown Pk & DeKalb Pk - FS,40.202528,-75.256206
+27442,1,0,1,2,Main St & Prospect Av,40.207982,-75.270706
+27445,1,0,1,2,Main St & Montgomery Av,40.210023,-75.275644
+27450,1,0,1,2,Walnut St & 10th St,40.21842,-75.273623
+27451,1,0,1,2,North Wales Rd & Mill Rd,40.219953,-75.272126
+27453,1,0,1,2,North Wales Rd & Hancock Rd,40.223028,-75.268006
+27459,1,0,1,2,Main St & Line St,40.238823,-75.27915
+27461,1,0,1,2,Main St & Broad St,40.241408,-75.283508
+27503,1,1,1,2,Main St & Park Dr,40.237434,-75.277046
+27511,1,1,1,2,North Wales Rd & Hancock Rd,40.223286,-75.26797
+27512,1,1,1,2,North Wales Rd & Mill Rd,40.220221,-75.272125
+27514,1,1,1,2,Walnut St & 8th St,40.217092,-75.275143
+27522,1,1,1,2,Main St & Prospect Av,40.208,-75.271062
+27536,1,1,1,2,DeKalb Pk & Skippack Pk,40.167565,-75.289823
+27538,1,1,1,2,DeKalb Pk & Michaels Ln,40.159911,-75.297626
+27539,1,1,1,2,DeKalb Pk & Jolly Rd,40.15819,-75.299347
+27540,1,1,1,2,DeKalb Pk & Yost Rd,40.155337,-75.302313
+27541,1,1,1,2,DeKalb Pk & Tournament Dr,40.17571,-75.281866
+27542,1,1,1,2,DeKalb Pk & Shoppes at Blue Bell,40.150254,-75.306573
+27543,1,1,1,2,DeKalb Pk & Township Line Rd,40.148846,-75.307535
+27546,1,1,1,2,DeKalb Pk & Germantown Pk - MBNS,40.143153,-75.311694
+27547,1,1,1,2,DeKalb Pk & Northtowne Shop Ctr,40.138829,-75.315567
+27554,1,1,1,2,Pine St & Johnson Hwy,40.131905,-75.328814
+27555,1,1,1,2,Pine St & Roberts St,40.129524,-75.332179
+27556,1,1,1,2,Pine St & Brown St,40.128401,-75.333767
+27557,1,1,1,2,Pine St & Freedley St,40.127242,-75.335355
+27558,1,1,1,2,Pine St & Fornance St,40.126092,-75.337037
+27559,1,1,1,2,Pine St & Wood St,40.124968,-75.338696
+27562,1,1,1,2,Swede St & Elm St,40.120935,-75.340796
+27563,1,1,1,2,Swede St & Oak St - FS,40.118934,-75.342064
+277,1,0,1,140,Lancaster Av & Girard Av,39.973104,-75.218686
+277,5,0,1,73,Lancaster Av & Girard Av,39.973104,-75.218686
+277,7,0,1,66,Lancaster Av & Girard Av,39.973104,-75.218686
+27887,5,0,1,8,Bridge St & Gay St,40.133744,-75.518305
+279,1,0,1,8,40th St & Filbert St,39.957947,-75.202031
+279,1,1,1,8,40th St & Filbert St,39.957947,-75.202031
+279,7,0,1,6,40th St & Filbert St,39.957947,-75.202031
+279,7,1,1,6,40th St & Filbert St,39.957947,-75.202031
+283,1,0,5,562,13th St Trolley Station,39.952291,-75.162441
+283,1,1,5,562,13th St Trolley Station,39.952291,-75.162441
+283,5,0,4,287,13th St Trolley Station,39.952291,-75.162441
+283,5,1,4,287,13th St Trolley Station,39.952291,-75.162441
+283,7,0,4,232,13th St Trolley Station,39.952291,-75.162441
+283,7,1,4,232,13th St Trolley Station,39.952291,-75.162441
+287,1,1,1,132,36th St Trolley Portal,39.954933,-75.193963
+287,5,1,1,73,36th St Trolley Portal,39.954933,-75.193963
+287,7,1,1,60,36th St Trolley Portal,39.954933,-75.193963
+28851,5,0,1,8,North Gulph Rd & Valley Forge Rd,40.100894,-75.420614
+28854,5,0,1,8,Valley Forge Rd & Valley Creek Rd,40.099925,-75.461771
+28858,5,0,1,8,Valley Forge Rd & Eastgate Dr,40.106311,-75.47749
+28862,5,0,1,8,Valley Forge Rd & Lafayette Rd,40.115394,-75.485
+28863,5,0,1,8,Valley Forge Rd & Pawlings Rd - FS,40.11766,-75.48757
+28864,5,0,1,8,Valley Forge Rd & Morehall Dr,40.120422,-75.497882
+28866,5,0,1,8,Valley Forge Rd & Whitehorse Rd,40.120089,-75.502948
+28868,5,0,1,8,Valley Forge Rd & Rossiter Av,40.121345,-75.50663
+28872,5,0,1,8,Main St & 5th Av,40.125598,-75.51337
+28874,5,0,1,8,Main St & 3rd Av,40.127382,-75.514
+28876,5,0,1,8,Main St & 1st Av,40.1294,-75.514618
+28877,5,0,1,8,Main St & Washington Av,40.130417,-75.514986
+28879,5,0,1,8,Gay St & High St,40.137796,-75.518582
+28880,5,0,1,8,High St & Fairview St,40.137625,-75.521577
+28881,5,0,1,8,High St & Taylor St,40.137328,-75.523957
+28882,5,0,1,8,Mowere Rd & Northridge Dr,40.138482,-75.532234
+28884,5,0,1,8,Township Line Rd & Szabo Farm Ln,40.137432,-75.538756
+28885,5,0,1,8,Schuylkill Rd & Kimberton Rd,40.132214,-75.535256
+28885,5,1,1,9,Schuylkill Rd & Kimberton Rd,40.132214,-75.535256
+28886,5,0,1,8,Schuylkill Rd & Otis Ln,40.136857,-75.543527
+28888,5,0,1,8,Schuylkill Rd & Mowere Rd - FS,40.14021,-75.546693
+28889,5,0,1,8,Schuylkill Rd & Ridge Rd,40.144342,-75.548514
+28891,5,0,1,8,Schuylkill Rd & Hares Hill Rd,40.153996,-75.551678
+28892,5,0,1,8,Schuylkill Rd & Spring Hollow Rd,40.158644,-75.55313
+28895,5,0,1,8,Schuylkill Rd & Park Rd,40.17384,-75.558368
+28896,5,0,1,8,New St & Vincent Heights Cr - MBFS,40.175591,-75.556915
+28898,5,0,1,8,New St & Penn St,40.177935,-75.551233
+28899,5,0,1,8,New St & Church St,40.178803,-75.549078
+28900,5,0,1,1,Main St & Yost St - MBFS,40.18099,-75.54824
+28903,5,0,1,1,Main St & 1st Av - MBFS,40.182887,-75.543434
+28905,5,0,1,1,Main St & 3rd Av,40.183514,-75.540994
+28906,5,0,1,1,Main St & 4th Av,40.184944,-75.539148
+28909,5,0,1,1,Main St & 7th Av,40.188822,-75.534462
+28910,5,0,1,1,Main St & Lewis Rd,40.190832,-75.532167
+28919,5,1,1,9,Main St & Lewis Rd,40.191091,-75.532167
+28922,5,1,1,9,Main St & 5th Av,40.18648,-75.537587
+28923,5,1,1,9,Main St & 4th Av,40.185212,-75.539113
+28924,5,1,1,9,Main St & 3rd Av,40.184175,-75.540403
+28925,5,1,1,9,Main St & 2nd Av,40.183317,-75.542155
+28928,5,1,1,9,Main St & Yost St,40.180607,-75.548299
+28929,5,1,1,9,New St & Church St,40.179044,-75.548924
+28930,5,1,1,9,New St & Penn St,40.178176,-75.551079
+28932,5,1,1,9,Main St & Schuykill Rd - MBNS,40.175787,-75.556879
+28933,5,1,1,9,Schuylkill Rd Rd & Hill Church Rd,40.173973,-75.558677
+28936,5,1,1,9,Schuylkill Rd & Bonnie Brae Rd,40.15851,-75.553308
+28937,5,1,1,9,Schuylkill Rd & Hares Hill Rd -MBFS,40.152211,-75.551284
+28939,5,1,1,9,Schuylkill Rd & Ridge Rd,40.143547,-75.548581
+28942,5,1,1,9,Schuylkill Rd & Shops Valley Forge,40.136108,-75.543004
+28943,5,1,1,9,Township Line Rd & Westridge Dr,40.137379,-75.53859
+28945,5,1,1,9,Mowere Rd & Westridge Dr,40.138401,-75.533418
+28946,5,1,1,9,High St & Taylor St,40.137132,-75.524241
+28947,5,1,1,9,High St & Fairview St,40.137428,-75.521849
+28948,5,1,1,9,High St & Franklin St,40.137787,-75.518795
+28951,5,1,1,9,Main St & Washington Av,40.13056,-75.515211
+28952,5,1,1,9,Main St & 1st Av,40.129569,-75.51489
+28954,5,1,1,9,Main St & 3rd Av,40.127624,-75.514261
+28956,5,1,1,9,Main St & 5th Av - FS,40.125484,-75.513519
+28957,5,1,1,9,Main St & Nutt Rd,40.124153,-75.513073
+28962,5,1,1,9,Valley Forge Rd & Whitehorse Rd,40.119919,-75.503243
+28964,5,1,1,9,Valley Forge Rd & Dorchester Way,40.120234,-75.498166
+28965,5,1,1,9,Valley Forge Rd & Pawlings Rd,40.117482,-75.487546
+28966,5,1,1,9,Valley Forge Rd & Lafayette Dr,40.115162,-75.485023
+28970,5,1,1,9,Valley Forge Rd & Eastgate Dr,40.106463,-75.477786
+28975,5,1,1,9,Valley Forge Park Dr & Wash Chapel,40.104035,-75.438637
+28977,5,1,1,9,North Gulph Rd & Valley Forge Rd,40.100652,-75.420662
+28978,5,0,1,8,Goddard Blvd & Lockheed Martin,40.091946,-75.399306
+28979,5,0,1,8,Goddard Blvd & North Gulph Rd,40.088878,-75.407152
+28980,5,1,1,9,Goddard Blvd & North Gulph Rd,40.088753,-75.407081
+28981,5,1,1,9,Goddard Blvd & Lockheed Martin,40.091911,-75.399578
+290,1,1,1,140,Lancaster Av & 48th St,39.972199,-75.217046
+290,5,1,1,73,Lancaster Av & 48th St,39.972199,-75.217046
+290,7,1,1,66,Lancaster Av & 48th St,39.972199,-75.217046
+29323,1,1,1,11,High St & Lexington Av,39.942431,-75.591712
+29323,5,1,1,9,High St & Lexington Av,39.942431,-75.591712
+29347,1,0,1,11,Fern Hill Rd & Turner Ln  FS,39.975543,-75.590595
+29350,1,0,1,11,Five Points Rd & Lawrence Dr,39.98109,-75.587452
+29353,1,0,1,11,Ward Av & UPS Facility,39.988641,-75.579683
+29359,1,0,1,11,Wilson Dr & Brandywine Pkwy,39.995191,-75.580913
+29361,1,0,1,11,Wilson Dr & Mars Corporation,39.997506,-75.577373
+29365,1,1,1,10,Airport Rd & American Blvd.,39.993766,-75.577814
+29368,1,1,1,10,Ward Av & UPS Facility,39.988873,-75.579695
+29371,1,1,1,10,Five Points Rd & Lawrence Dr,39.981099,-75.587783
+29449,1,1,1,2,Main St & Highland Av - MBFS,40.234728,-75.272475
+29450,1,1,1,2,Main St & Lansdale Av,40.235777,-75.274282
+29463,1,0,1,2,Main St & Highland Av - MBNS,40.234807,-75.272508
+29476,1,1,1,3,Ridge Pk & Church Rd,40.15489,-75.400416
+29477,1,1,1,3,Main St & Rose Av,40.13915,-75.385836
+29479,1,0,1,3,Main St & Rose Av - FS,40.139228,-75.385724
+29479,5,0,1,1,Main St & Rose Av - FS,40.139228,-75.385724
+29480,1,0,1,3,Ridge Pk & Mt Kirk Av - FS,40.155606,-75.401151
+29480,5,0,1,1,Ridge Pk & Mt Kirk Av - FS,40.155606,-75.401151
+29482,1,0,1,14,Goshen Rd & Sylvania Ln,39.975724,-75.597672
+29482,5,0,1,10,Goshen Rd & Sylvania Ln,39.975724,-75.597672
+29483,1,0,1,14,Swedesford Rd & W Valley Rd,40.072533,-75.429675
+29483,5,0,1,10,Swedesford Rd & W Valley Rd,40.072533,-75.429675
+29484,1,1,1,11,Swedesford Rd & W Valley Rd - FS,40.073951,-75.428202
+29484,5,1,1,10,Swedesford Rd & W Valley Rd - FS,40.073951,-75.428202
+29485,1,1,1,11,Lancaster Av & Bear Hill Rd 2,40.042262,-75.478701
+29485,5,1,1,10,Lancaster Av & Bear Hill Rd 2,40.042262,-75.478701
+29486,1,1,1,11,Kings Rd & Alumnae Dr,40.026303,-75.571196
+29486,5,1,1,10,Kings Rd & Alumnae Dr,40.026303,-75.571196
+29500,1,1,1,2,Feheley Dr  & Hertzog Blvd - FS,40.091397,-75.33863
+29501,1,1,1,2,2100 Renaisance Blvd - MBFS,40.083371,-75.336174
+29502,1,1,1,2,2000 Renaisance Blvd - MBFS,40.082525,-75.334487
+29511,1,0,1,2,Swede St & Basin St,40.123541,-75.340059
+29512,1,0,1,2,DeKalb Pk & Germantown Pk - MBFS,40.143007,-75.311468
+29513,1,0,1,2,Walnut St & 2nd St,40.211395,-75.277858
+29514,1,0,1,2,Walnut St & Beaver St,40.216353,-75.275591
+29515,1,1,1,2,DeKalb Pk & Lynch Gwynedd,40.190081,-75.266116
+29517,1,1,1,2,Walnut St & 2nd St,40.211368,-75.27809
+29523,1,1,1,57,MacDade Blvd Station,39.910246,-75.280844
+29523,5,1,1,35,MacDade Blvd Station,39.910246,-75.280844
+29523,7,1,1,35,MacDade Blvd Station,39.910246,-75.280844
+29526,1,1,1,2,Main St & Washington Av - FS,40.209228,-75.273965
+29529,1,0,1,2,DeKalb Pk & Lunch Gwynedd,40.189566,-75.266383
+29610,1,0,1,14,Swedesford Rd & South Warner Rd -FS,40.082041,-75.402201
+29610,5,0,1,10,Swedesford Rd & South Warner Rd -FS,40.082041,-75.402201
+29626,1,1,1,2,Egypt Rd & Tropper Rd,40.130774,-75.400723
+29647,1,0,1,2,Trooper Rd & Egypt Rd,40.130418,-75.401902
+29695,5,0,1,8,New St & Wall St,40.176866,-75.553877
+297,1,0,1,115,Woodland Av & 49th St,39.940732,-75.212629
+297,5,0,1,66,Woodland Av & 49th St,39.940732,-75.212629
+297,7,0,1,62,Woodland Av & 49th St,39.940732,-75.212629
+29778,5,1,1,9,Bridge St & Main St,40.181656,-75.548166
+29779,5,1,1,9,Goddard Blvd & Lockheed Martin,40.090964,-75.398017
+29782,1,1,1,11,Mall Blvd & Pulaski Dr,40.086736,-75.396626
+29782,5,1,1,10,Mall Blvd & Pulaski Dr,40.086736,-75.396626
+29783,1,0,1,14,Mall Blvd & Pulaski Rd,40.086808,-75.396329
+29783,5,0,1,10,Mall Blvd & Pulaski Rd,40.086808,-75.396329
+30029,1,0,1,11,Ward Av & Morning Glory Dr,39.987414,-75.583673
+30030,1,1,1,10,Wilson Dr & Airport Rd,39.996144,-75.578754
+301,1,1,4,430,40th St Trolley Portal,39.949595,-75.203333
+301,5,1,3,214,40th St Trolley Portal,39.949595,-75.203333
+301,7,1,3,172,40th St Trolley Portal,39.949595,-75.203333
+30107,1,1,1,10,Ward Av & Morning Glory Dr,39.987539,-75.583331
+30146,1,0,1,13,New St & Chestnut St - FS,39.959536,-75.609863
+30146,1,1,1,12,New St & Chestnut St - FS,39.959536,-75.609863
+30146,5,0,1,9,New St & Chestnut St - FS,39.959536,-75.609863
+30146,5,1,1,9,New St & Chestnut St - FS,39.959536,-75.609863
+302,1,1,2,268,Woodland Av & 49th St,39.940964,-75.212546
+302,5,1,2,142,Woodland Av & 49th St,39.940964,-75.212546
+302,7,1,2,127,Woodland Av & 49th St,39.940964,-75.212546
+30233,1,0,1,3,High St & Beech St - FS,40.243954,-75.615729
+30234,1,0,1,3,High St & Cedar St - FS,40.243851,-75.624811
+30235,1,0,1,3,High St & Price St - FS,40.243992,-75.626009
+30236,1,0,1,3,High St & Edgewood St,40.244077,-75.628689
+30237,1,0,1,3,High St & Montgomery St - FS,40.243858,-75.631451
+30238,1,0,1,3,High St & Madison St - FS,40.243683,-75.634747
+30239,1,0,1,3,High St & Adams St - FS,40.244194,-75.638804
+30240,1,0,1,3,High St & Franklin St - FS,40.244917,-75.644248
+30241,1,0,1,3,High St & Evans St - FS,40.245128,-75.645897
+30244,1,1,1,3,High St & Hanover St - FS,40.245434,-75.650048
+30245,1,1,1,3,High St & Penn St - FS,40.245249,-75.64853
+30246,1,1,1,3,High St & Charlette St - FS,40.245162,-75.64713
+30247,1,1,1,3,High St & Evans St - FS,40.244951,-75.645481
+30248,1,1,1,3,High St & Franklin St - FS,40.244739,-75.643844
+30249,1,1,1,3,High St & Washington St - FS,40.244439,-75.641686
+30250,1,1,1,3,High St & Adams St - FS,40.244007,-75.6384
+30251,1,1,1,3,High St & Madison St - FS,40.243541,-75.63432
+30252,1,1,1,3,High St & Montgomery St,40.243761,-75.631012
+30253,1,1,1,3,High St & Edgewood St,40.243934,-75.628843
+30254,1,1,1,3,High St & Keim St - FS,40.243999,-75.627218
+30290,1,0,1,96,Girard Av & 19th St,39.972486,-75.167203
+30290,5,0,1,74,Girard Av & 19th St,39.972486,-75.167203
+30290,7,0,1,73,Girard Av & 19th St,39.972486,-75.167203
+30291,1,0,1,96,Girard Av & 34th St - FS,39.975108,-75.195961
+30291,5,0,1,74,Girard Av & 34th St - FS,39.975108,-75.195961
+30291,7,0,1,73,Girard Av & 34th St - FS,39.975108,-75.195961
+30292,1,1,1,96,Girard Av & 34th St,39.974947,-75.196278
+30292,5,1,1,74,Girard Av & 34th St,39.974947,-75.196278
+30292,7,1,1,73,Girard Av & 34th St,39.974947,-75.196278
+303,1,1,1,115,Woodland Av & 62nd St,39.928267,-75.230599
+303,5,1,1,66,Woodland Av & 62nd St,39.928267,-75.230599
+303,7,1,1,62,Woodland Av & 62nd St,39.928267,-75.230599
+30332,1,0,1,1,Gulph Mills Station,40.071132,-75.342289
+30374,1,1,1,61,Clifton Aldan Station,39.925634,-75.28996
+30374,5,1,1,35,Clifton Aldan Station,39.925634,-75.28996
+30374,7,1,1,35,Clifton Aldan Station,39.925634,-75.28996
+30375,1,1,1,61,Penn St Station,39.928581,-75.292044
+30375,5,1,1,35,Penn St Station,39.928581,-75.292044
+30375,7,1,1,35,Penn St Station,39.928581,-75.292044
+30376,1,1,1,61,Baltimore Av Station,39.931144,-75.292806
+30376,5,1,1,35,Baltimore Av Station,39.931144,-75.292806
+30376,7,1,1,35,Baltimore Av Station,39.931144,-75.292806
+30395,1,0,1,14,Swedesford Rd & Howellville Rd,40.059706,-75.469547
+30395,5,0,1,10,Swedesford Rd & Howellville Rd,40.059706,-75.469547
+304,1,1,1,115,Woodland Av & Island Av,39.917367,-75.246233
+304,5,1,1,66,Woodland Av & Island Av,39.917367,-75.246233
+304,7,1,1,62,Woodland Av & Island Av,39.917367,-75.246233
+30432,1,1,1,3,Main St & Clearfield Av - FS,40.1438,-75.391871
+30433,1,1,1,3,Main St & Egypt Rd - FS,40.132327,-75.377985
+30434,1,1,1,3,Main St & Stanbridge St,40.119713,-75.355607
+30435,1,0,1,3,Ridge Pk & Park Av - FS,40.147014,-75.395128
+30435,5,0,1,1,Ridge Pk & Park Av - FS,40.147014,-75.395128
+30436,1,0,1,3,Ridge Pk & Wilson Blvd - MBNS,40.162239,-75.412564
+30436,5,0,1,1,Ridge Pk & Wilson Blvd - MBNS,40.162239,-75.412564
+30437,1,0,1,3,Ridge Pike & Township Line Rd 2 - FS,40.21524,-75.50028
+30437,5,0,1,1,Ridge Pike & Township Line Rd 2 - FS,40.21524,-75.50028
+30438,1,0,1,3,Ridge Pk & Airport Rd - MBFS,40.242689,-75.556237
+30439,1,1,1,3,Ridge Pk & Township Line Rd - FS,40.21455,-75.499499
+30440,1,1,1,3,Ridge Pk & Court at Upper Providence,40.213282,-75.497454
+30442,1,1,1,3,Main St & Park Av - FS,40.146617,-75.395026
+30457,1,1,1,2,Main St & Broad St,40.241426,-75.283852
+30494,1,1,2,133,Lansdowne Av Station,39.951498,-75.282234
+30494,5,1,2,69,Lansdowne Av Station,39.951498,-75.282234
+30494,7,1,2,67,Lansdowne Av Station,39.951498,-75.282234
+305,1,0,2,140,Darby Transportation Center Old,39.91904,-75.262317
+305,1,1,2,141,Darby Transportation Center Old,39.91904,-75.262317
+305,5,0,2,77,Darby Transportation Center Old,39.91904,-75.262317
+305,5,1,2,78,Darby Transportation Center Old,39.91904,-75.262317
+305,7,0,2,71,Darby Transportation Center Old,39.91904,-75.262317
+305,7,1,2,75,Darby Transportation Center Old,39.91904,-75.262317
+30519,1,0,1,119,Ardmore Junction Station,39.995922,-75.302986
+30519,1,1,1,119,Ardmore Junction Station,39.995922,-75.302986
+30519,5,0,1,55,Ardmore Junction Station,39.995922,-75.302986
+30519,5,1,1,55,Ardmore Junction Station,39.995922,-75.302986
+30519,7,0,1,41,Ardmore Junction Station,39.995922,-75.302986
+30519,7,1,1,41,Ardmore Junction Station,39.995922,-75.302986
+30520,1,0,1,87,Norristown Transportation Center,40.113414,-75.345137
+30520,1,1,1,87,Norristown Transportation Center,40.113414,-75.345137
+30520,5,0,1,54,Norristown Transportation Center,40.113414,-75.345137
+30520,5,1,1,54,Norristown Transportation Center,40.113414,-75.345137
+30520,7,0,1,40,Norristown Transportation Center,40.113414,-75.345137
+30520,7,1,1,40,Norristown Transportation Center,40.113414,-75.345137
+30537,1,0,1,1,2200 Horizon Dr,40.08522,-75.339006
+30544,1,1,1,61,Springfield Rd Station,39.927154,-75.292602
+30544,5,1,1,35,Springfield Rd Station,39.927154,-75.292602
+30544,7,1,1,35,Springfield Rd Station,39.927154,-75.292602
+30550,1,0,1,96,Girard Av & Merion Av,39.972814,-75.216277
+30550,5,0,1,74,Girard Av & Merion Av,39.972814,-75.216277
+30550,7,0,1,73,Girard Av & Merion Av,39.972814,-75.216277
+30579,5,0,1,1,Bridge St & Main St - MBFS,40.181848,-75.54714
+30580,5,0,1,1,10th Av & Church St,40.194064,-75.530406
+30581,5,0,1,1,10th Av & Royersford Rd,40.19517,-75.531971
+30582,5,1,1,9,Royersford Rd & 10th Av,40.195268,-75.532054
+30583,5,1,1,9,10th & Main St,40.193235,-75.529528
+30584,5,1,1,9,Valley Forge Rd & Kleyona Av,40.121461,-75.507542
+30595,1,1,1,146,Grays Av & 51st St,39.937072,-75.212263
+30595,5,1,1,76,Grays Av & 51st St,39.937072,-75.212263
+30595,7,1,1,65,Grays Av & 51st St,39.937072,-75.212263
+30605,1,1,1,96,Girard Av & Merion Av,39.972672,-75.216561
+30605,5,1,1,74,Girard Av & Merion Av,39.972672,-75.216561
+30605,7,1,1,73,Girard Av & Merion Av,39.972672,-75.216561
+30607,1,0,1,72,Scenic Rd Station,39.940778,-75.325895
+30607,5,0,1,34,Scenic Rd Station,39.940778,-75.325895
+30607,7,0,1,32,Scenic Rd Station,39.940778,-75.325895
+30620,5,1,1,9,Bridge St & Main St,40.133853,-75.516328
+30662,1,0,1,2,Pine St & Fornance St,40.12586,-75.337156
+30750,1,1,1,2,Marshall St & Swede St,40.117402,-75.343073
+30751,1,1,1,2,Swede St & Marshall St - FS,40.117233,-75.343097
+30791,1,0,1,96,Girard Av & 24th St,39.972312,-75.175526
+30791,5,0,1,74,Girard Av & 24th St,39.972312,-75.175526
+30791,7,0,1,73,Girard Av & 24th St,39.972312,-75.175526
+30865,1,1,1,146,Chester Av & Yeadon Av,39.92618,-75.247368
+30865,5,1,1,72,Chester Av & Yeadon Av,39.92618,-75.247368
+30865,7,1,1,63,Chester Av & Yeadon Av,39.92618,-75.247368
+30866,1,1,1,26,10th St & Main St,39.920015,-75.263185
+30866,5,1,1,12,10th St & Main St,39.920015,-75.263185
+30866,7,1,1,13,10th St & Main St,39.920015,-75.263185
+31007,1,0,1,2,Trooper Rd & Shannondell Blvd,40.12723,-75.405186
+31008,1,1,1,2,Trooper Rd & Blvd of the Generals,40.127525,-75.404736
+31109,1,1,1,11,Phoenixville Pk & Cedarwood Av,40.014995,-75.588484
+31109,5,1,1,10,Phoenixville Pk & Cedarwood Av,40.014995,-75.588484
+31110,1,1,1,11,Phoenixville Pk & Wyntrebrook Dr NS,40.01212,-75.589742
+31110,5,1,1,10,Phoenixville Pk & Wyntrebrook Dr NS,40.01212,-75.589742
+31111,1,1,1,11,Phoenixville Pk & Boot Rd NoSign,40.009066,-75.590976
+31111,5,1,1,10,Phoenixville Pk & Boot Rd NoSign,40.009066,-75.590976
+31112,1,1,1,10,Fernhill Rd & Old Fernhill Rd NOSGN,39.977315,-75.586971
+31114,1,1,1,9,Paoli Pk & 5 Points Rd,39.973254,-75.580111
+31125,1,1,1,140,Malvern Av & 63rd St - FS,39.983617,-75.246808
+31125,5,1,1,73,Malvern Av & 63rd St - FS,39.983617,-75.246808
+31125,7,1,1,66,Malvern Av & 63rd St - FS,39.983617,-75.246808
+31126,1,0,1,10,Paoli Pk & Veronica Rd,39.974478,-75.579145
+31127,1,0,1,14,Phoenixville Pk & Boot Rd NO SIGN,40.008807,-75.590857
+31127,5,0,1,10,Phoenixville Pk & Boot Rd NO SIGN,40.008807,-75.590857
+31128,1,0,1,14,Phoenixville Pk & Wyntrebrook Dr NS,40.011468,-75.589717
+31128,5,0,1,10,Phoenixville Pk & Wyntrebrook Dr NS,40.011468,-75.589717
+31129,1,0,1,14,Phoenixville Pk & Nicholas Dr NOSGN,40.014754,-75.588401
+31129,5,0,1,10,Phoenixville Pk & Nicholas Dr NOSGN,40.014754,-75.588401
+31132,1,0,1,11,Fernhill Rd & Old Fernhill Rd NOSGN,39.9772,-75.586794
+31138,5,1,1,8,Township Line Rd & Linfield Rd,40.207193,-75.507504
+31139,5,1,1,8,Township Line & Rittenhouse,40.201825,-75.512772
+31140,1,0,4,527,15th St Trolley Station,39.952475,-75.165299
+31140,5,0,4,287,15th St Trolley Station,39.952475,-75.165299
+31140,7,0,4,232,15th St Trolley Station,39.952475,-75.165299
+31157,1,0,1,14,King Rd & Madeline Dr,40.028715,-75.545353
+31157,5,0,1,10,King Rd & Madeline Dr,40.028715,-75.545353
+31158,1,1,1,11,King Rd & Madeline Dr NO SIGN,40.028965,-75.5452
+31158,5,1,1,10,King Rd & Madeline Dr NO SIGN,40.028965,-75.5452
+31159,1,0,1,10,Enterprise Dr & Boot Rd,39.990308,-75.557591
+31160,1,1,1,9,Enterprise Dr & Reservoir Rd - MBFS,39.987746,-75.557835
+31161,1,0,1,10,Enterprise Dr & CTDI,39.989081,-75.56124
+31162,1,1,1,9,Enterprise Dr & 1373 Reservoir Rd,39.989073,-75.560909
+31163,1,0,1,10,Boot Rd & Comcast,39.999341,-75.573111
+31164,1,1,1,9,Boot Rd & Carriage Dr,39.99968,-75.573088
+31165,1,0,1,13,Boot Rd & Delmar Dr,40.008042,-75.588847
+31165,1,1,1,8,Boot Rd & Delmar Dr,40.008042,-75.588847
+31165,5,0,1,9,Boot Rd & Delmar Dr,40.008042,-75.588847
+31166,1,0,1,11,Boot Rd & Longford Blvd,40.008257,-75.588457
+31166,1,1,1,3,Boot Rd & Longford Blvd,40.008257,-75.588457
+31166,5,1,1,9,Boot Rd & Longford Blvd,40.008257,-75.588457
+31167,1,1,1,9,Five Points Rd & West Chester Pk,39.968931,-75.575862
+31168,1,1,1,9,Paoli Pk & Airport Rd,39.981452,-75.568232
+31169,1,1,1,2,Wilson Dr & Boot Rd NO SIGN,40.000035,-75.574743
+31170,1,1,1,10,Fern Hill Rd & Goshen Rd NO SIGN,39.978531,-75.592633
+31171,1,0,1,11,Wilson Dr & Boot Rd,39.999392,-75.575321
+31172,1,0,1,11,Ward Av & Airport Rd,39.989484,-75.576116
+31173,1,0,1,14,Old Eagle School Rd & Swedesford Rd,40.079614,-75.412644
+31173,5,0,1,10,Old Eagle School Rd & Swedesford Rd,40.079614,-75.412644
+31175,1,1,1,132,36th St & Warren St,39.957699,-75.1938
+31175,5,1,1,73,36th St & Warren St,39.957699,-75.1938
+31175,7,1,1,60,36th St & Warren St,39.957699,-75.1938
+31176,1,1,1,11,High St & Miner St,39.958899,-75.603666
+31176,5,1,1,9,High St & Miner St,39.958899,-75.603666
+31193,5,1,1,9,Valley Forge Rd & Valley Park Rd,40.099717,-75.47248
+31194,5,0,1,8,Valley Forge Rd & Valley Park Rd,40.099218,-75.471225
+31218,1,1,1,146,65th St & Belmar St,39.92905,-75.24095
+31218,5,1,1,72,65th St & Belmar St,39.92905,-75.24095
+31218,7,1,1,63,65th St & Belmar St,39.92905,-75.24095
+31224,5,1,1,9,New St & Cedar St,40.177496,-75.55263
+31225,5,1,1,9,Main St & Wall St,40.177076,-75.553648
+31268,5,1,1,9,Nutt Rd & Star St,40.121924,-75.508773
+31271,5,0,1,8,Nutt Rd & Valley Rd,40.121764,-75.507743
+31272,5,0,1,8,High St & Gay St - FS,40.137903,-75.518902
+31280,1,1,1,10,49th St & Woodland Av - FS,39.940999,-75.212676
+31289,1,1,1,96,Frankford Av & Delaware Av - FS,39.964562,-75.134309
+31289,5,1,1,74,Frankford Av & Delaware Av - FS,39.964562,-75.134309
+31289,7,1,1,73,Frankford Av & Delaware Av - FS,39.964562,-75.134309
+31294,1,0,1,140,Malvern Av & 63rd St Loop 2 onsite,39.983803,-75.245981
+31294,1,1,1,140,Malvern Av & 63rd St Loop 2 onsite,39.983803,-75.245981
+31294,5,0,1,73,Malvern Av & 63rd St Loop 2 onsite,39.983803,-75.245981
+31294,5,1,1,73,Malvern Av & 63rd St Loop 2 onsite,39.983803,-75.245981
+31294,7,0,1,66,Malvern Av & 63rd St Loop 2 onsite,39.983803,-75.245981
+31294,7,1,1,66,Malvern Av & 63rd St Loop 2 onsite,39.983803,-75.245981
+31303,1,0,1,14,High St & Chestnut St,39.961368,-75.605963
+31303,5,0,1,10,High St & Chestnut St,39.961368,-75.605963
+31304,1,0,1,14,King Rd & Alumnae Dr,40.026324,-75.570895
+31304,5,0,1,10,King Rd & Alumnae Dr,40.026324,-75.570895
+31406,1,1,1,3,Main St & Greenwood Av,40.206097,-75.487463
+31407,1,1,1,3,Main St & 7th Av,40.200797,-75.481131
+31408,1,1,1,3,Main St & Schuylkill Av,40.130728,-75.375044
+31409,1,0,1,3,Ridge Pike & Township Line Rd 1 - MBNS,40.213366,-75.497294
+31409,5,0,1,1,Ridge Pike & Township Line Rd 1 - MBNS,40.213366,-75.497294
+31410,1,1,1,3,Main St & Williams Way,40.197185,-75.472798
+31411,1,1,1,3,Main St & 4th Av,40.187917,-75.45335
+31412,1,1,1,3,Ridge Pk & Germantown Pk,40.183883,-75.44617
+31413,1,1,1,3,Ridge Pk & Crosskeys Rd,40.179144,-75.440091
+31414,1,1,1,3,Main St & Hamilton St,40.121804,-75.359284
+31415,1,1,1,3,Main St & Sheridan La,40.124761,-75.364478
+31416,1,1,1,3,High St & Rosedale Dr,40.2431,-75.619545
+31418,1,1,1,3,High St & Shelly La,40.244545,-75.587925
+31419,1,1,1,3,High St & Roland St,40.243602,-75.623708
+31420,1,0,1,3,Light Cap Rd & Evergreen Rd - MBFS,40.235612,-75.5788
+31420,1,1,1,3,Light Cap Rd & Evergreen Rd - MBFS,40.235612,-75.5788
+31421,1,0,1,3,Light Cap Rd & Evergreen Rd - MBNS,40.235844,-75.578552
+31421,1,1,1,3,Light Cap Rd & Evergreen Rd - MBNS,40.235844,-75.578552
+31423,1,0,1,3,Main St & Whitehall Rd,40.129085,-75.371932
+31423,5,0,1,1,Main St & Whitehall Rd,40.129085,-75.371932
+31424,1,0,1,3,Main St & Schuylkill Av,40.130666,-75.374748
+31424,5,0,1,1,Main St & Schuylkill Av,40.130666,-75.374748
+31425,1,0,1,3,Main St & Egypt Rd,40.13247,-75.377979
+31425,5,0,1,1,Main St & Egypt Rd,40.13247,-75.377979
+31426,1,1,1,2,DeKalb Pk & Bradbury Dr,40.130633,-75.323595
+31427,1,1,1,2,Main St & Line St,40.238859,-75.279482
+31428,1,0,1,2,Main St & Woodland Dr - FS,40.237231,-75.276569
+31429,1,1,1,2,Swede St & Spruce St,40.122934,-75.34032
+31430,1,0,1,2,Swede St & Spruce St,40.122711,-75.340214
+31443,1,1,1,96,Girard Av & 62nd St,39.970019,-75.243264
+31443,5,1,1,74,Girard Av & 62nd St,39.970019,-75.243264
+31443,7,1,1,73,Girard Av & 62nd St,39.970019,-75.243264
+317,1,1,1,115,Woodland Av & 50th St,39.940055,-75.213812
+317,5,1,1,66,Woodland Av & 50th St,39.940055,-75.213812
+317,7,1,1,62,Woodland Av & 50th St,39.940055,-75.213812
+319,1,0,1,146,Kingsessing Av & Cemetary Av,39.928765,-75.235497
+319,5,0,1,72,Kingsessing Av & Cemetary Av,39.928765,-75.235497
+319,7,0,1,63,Kingsessing Av & Cemetary Av,39.928765,-75.235497
+320,1,0,1,146,Chester Av & 58th St,39.935573,-75.228548
+320,5,0,1,72,Chester Av & 58th St,39.935573,-75.228548
+320,7,0,1,63,Chester Av & 58th St,39.935573,-75.228548
+321,1,0,1,146,Chester Av & 49th St,39.944059,-75.216646
+321,5,0,1,72,Chester Av & 49th St,39.944059,-75.216646
+321,7,0,1,63,Chester Av & 49th St,39.944059,-75.216646
+322,1,1,1,146,Chester Av & 49th St,39.944335,-75.21648
+322,5,1,1,72,Chester Av & 49th St,39.944335,-75.21648
+322,7,1,1,63,Chester Av & 49th St,39.944335,-75.21648
+323,1,1,1,146,Chester Av & 58th St,39.935787,-75.2285
+323,5,1,1,72,Chester Av & 58th St,39.935787,-75.2285
+323,7,1,1,63,Chester Av & 58th St,39.935787,-75.2285
+324,1,1,1,146,Kingsessing Av & Cemetery Av,39.929113,-75.235201
+324,5,1,1,72,Kingsessing Av & Cemetery Av,39.929113,-75.235201
+324,7,1,1,63,Kingsessing Av & Cemetery Av,39.929113,-75.235201
+325,1,1,1,146,Chester Av & Allen Dr Yeadon Loop,39.924507,-75.252519
+325,5,1,1,72,Chester Av & Allen Dr Yeadon Loop,39.924507,-75.252519
+325,7,1,1,63,Chester Av & Allen Dr Yeadon Loop,39.924507,-75.252519
+342,1,0,1,96,Girard Av & Front St,39.968841,-75.135945
+342,5,0,1,74,Girard Av & Front St,39.968841,-75.135945
+342,7,0,1,73,Girard Av & Front St,39.968841,-75.135945
+343,1,0,1,96,Girard Av & Broad St,39.971437,-75.159264
+343,5,0,1,74,Girard Av & Broad St,39.971437,-75.159264
+343,7,0,1,73,Girard Av & Broad St,39.971437,-75.159264
+344,1,0,1,96,Girard Av & 40th St - FS,39.974092,-75.204585
+344,5,0,1,74,Girard Av & 40th St - FS,39.974092,-75.204585
+344,7,0,1,73,Girard Av & 40th St - FS,39.974092,-75.204585
+345,1,0,1,96,Girard Av & 59th St,39.970188,-75.237275
+345,5,0,1,74,Girard Av & 59th St,39.970188,-75.237275
+345,7,0,1,73,Girard Av & 59th St,39.970188,-75.237275
+349,1,1,1,96,Girard Av & 59th St,39.970019,-75.237547
+349,5,1,1,74,Girard Av & 59th St,39.970019,-75.237547
+349,7,1,1,73,Girard Av & 59th St,39.970019,-75.237547
+350,1,1,1,96,Girard Av & 40th St,39.973998,-75.204555
+350,5,1,1,74,Girard Av & 40th St,39.973998,-75.204555
+350,7,1,1,73,Girard Av & 40th St,39.973998,-75.204555
+352,1,1,1,96,Girard Av & Broad St,39.971357,-75.159559
+352,5,1,1,74,Girard Av & Broad St,39.971357,-75.159559
+352,7,1,1,73,Girard Av & Broad St,39.971357,-75.159559
+4726,1,0,1,57,Bartram Av Station,39.91448,-75.284222
+4726,5,0,1,35,Bartram Av Station,39.91448,-75.284222
+4726,7,0,1,35,Bartram Av Station,39.91448,-75.284222
+610,1,1,2,157,Elmwood Av & 73rd St - FS,39.914317,-75.241709
+610,5,1,1,76,Elmwood Av & 73rd St - FS,39.914317,-75.241709
+610,7,1,1,65,Elmwood Av & 73rd St - FS,39.914317,-75.241709
+611,1,0,1,16,Elmwood Loop,39.914006,-75.242618
+611,1,1,1,14,Elmwood Loop,39.914006,-75.242618
+611,5,0,1,7,Elmwood Loop,39.914006,-75.242618
+611,5,1,1,7,Elmwood Loop,39.914006,-75.242618
+611,7,0,1,8,Elmwood Loop,39.914006,-75.242618
+611,7,1,1,8,Elmwood Loop,39.914006,-75.242618
+612,1,0,1,133,Island Av & 80th St Eastwick Loop,39.898731,-75.239366
+612,1,1,1,139,Island Av & 80th St Eastwick Loop,39.898731,-75.239366
+612,5,0,1,66,Island Av & 80th St Eastwick Loop,39.898731,-75.239366
+612,5,1,1,69,Island Av & 80th St Eastwick Loop,39.898731,-75.239366
+612,7,0,1,55,Island Av & 80th St Eastwick Loop,39.898731,-75.239366
+612,7,1,1,57,Island Av & 80th St Eastwick Loop,39.898731,-75.239366
+7726,1,1,1,11,Swedesford Rd & Drummers Ln,40.080926,-75.410904
+7726,5,1,1,10,Swedesford Rd & Drummers Ln,40.080926,-75.410904
+7741,1,1,1,11,Swedesford Rd & Gateway Shop Ctr,40.072912,-75.431844
+7741,5,1,1,10,Swedesford Rd & Gateway Shop Ctr,40.072912,-75.431844
+7742,1,1,1,11,Swedesford Rd & South Warner Rd,40.082057,-75.40346
+7742,5,1,1,10,Swedesford Rd & South Warner Rd,40.082057,-75.40346

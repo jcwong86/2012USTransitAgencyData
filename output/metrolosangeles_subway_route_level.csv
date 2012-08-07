@@ -1,0 +1,7 @@
+route_id,service_id,direction_id,numtripsperroute_both_dir,hours_of_service,first_departure_sec,last_departure_sec,span_of_service_hrs,route_avg_hdwy,route_stdev_hdwy,trips_per_day,average_speed,average_length_mi,w_avg_num_stops,avg_dist_bw_stops_ft,route_short_name,route_long_name
+802,NOV11-802-1_Weekday,0,221,22,16200,91380,21,5.7,2.2,221,36.7,18.0,14.0,7255.5781615384615384363,"",Metro Red Line  (802)
+802,NOV11-802-2_Saturday,0,197,22,16200,91380,21,7.7,2.8,197,36.3,18.0,14.0,7255.5781615384615384363,"",Metro Red Line  (802)
+802,NOV11-802-3_Sunday,0,197,22,16200,91380,21,7.1,2.3,197,36.3,18.0,14.0,7255.5781615384615384363,"",Metro Red Line  (802)
+805,NOV11-805-1_Weekday,0,212,21,16860,87540,20,5.5,2.1,212,28.7,6.2,8.0,4600.3369714285714286183,"",Metro Purple Line  (805)
+805,NOV11-805-2_Saturday,0,188,21,16860,87540,20,7.7,3.2,188,28.7,6.2,8.0,4600.3369714285714286183,"",Metro Purple Line  (805)
+805,NOV11-805-3_Sunday,0,188,21,16860,87540,20,9.0,2.2,188,28.7,6.2,8.0,4600.3369714285714286183,"",Metro Purple Line  (805)

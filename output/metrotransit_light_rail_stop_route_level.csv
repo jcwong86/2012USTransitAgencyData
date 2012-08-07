@@ -1,0 +1,541 @@
+route_id,stop_id,service_id,direction_id,avghdwy,stdev_hdwy,stop_name,stop_lat,stop_lon,route_short_name,route_long_name
+55-55,17874,DEC11-Multi-Holiday-01,0,13.8,7.0,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17875,DEC11-Multi-Holiday-01,0,13.6,7.8,Warehouse Station & Platform,44.980083,-93.273155,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51405,DEC11-Multi-Holiday-01,0,7.0,4.7,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51408,DEC11-Multi-Holiday-01,0,13.8,7.0,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51409,DEC11-Multi-Holiday-01,0,13.8,7.0,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51410,DEC11-Multi-Holiday-01,0,13.8,7.0,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51411,DEC11-Multi-Holiday-01,0,13.8,7.0,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51412,DEC11-Multi-Holiday-01,0,13.8,7.5,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51413,DEC11-Multi-Holiday-01,0,13.8,7.5,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51414,DEC11-Multi-Holiday-01,0,13.8,7.5,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51415,DEC11-Multi-Holiday-01,0,13.8,7.5,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51416,DEC11-Multi-Holiday-01,0,13.8,7.5,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51417,DEC11-Multi-Holiday-01,0,13.8,7.5,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51418,DEC11-Multi-Holiday-01,0,13.6,7.4,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51419,DEC11-Multi-Holiday-01,0,13.6,7.4,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51419,DEC11-Multi-Holiday-01,0,13.5,4.5,Lindbergh Station & Platform,44.880733,-93.205025,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51420,DEC11-Multi-Holiday-01,0,13.6,7.4,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51420,DEC11-Multi-Holiday-01,0,13.5,4.5,Humphrey Station & Platform,44.874104,-93.224129,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51421,DEC11-Multi-Holiday-01,0,13.6,7.4,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51422,DEC11-Multi-Holiday-01,0,13.6,7.4,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51423,DEC11-Multi-Holiday-01,0,13.6,7.8,Nicollet Mall Station & Platform,44.978565,-93.270004,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51424,DEC11-Multi-Holiday-01,0,13.6,7.8,Govt Plaza Station & Platform,44.976833,-93.26593,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51425,DEC11-Multi-Holiday-01,0,13.6,7.8,Metrodome Station & Platform,44.975052,-93.259857,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51426,DEC11-Multi-Holiday-01,0,13.6,7.8,Cedar-Riverside Sta & Platform,44.968472,-93.251068,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51427,DEC11-Multi-Holiday-01,0,13.8,8.2,Franklin Station & Platform,44.962444,-93.246902,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51428,DEC11-Multi-Holiday-01,0,13.8,8.2,Lake St Midtown Sta & Platform,44.948364,-93.238823,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51429,DEC11-Multi-Holiday-01,0,13.8,8.2,38 St Station & Platform,44.934853,-93.229546,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51430,DEC11-Multi-Holiday-01,0,13.8,8.2,46 St Station & Platform,44.920845,-93.219826,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51431,DEC11-Multi-Holiday-01,0,13.8,8.2,50 St Minnehaha Sta & Platform,44.912521,-93.210205,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51432,DEC11-Multi-Holiday-01,0,13.8,8.2,VA Medical Ctr Sta & Platform,44.902958,-93.202309,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51433,DEC11-Multi-Holiday-01,0,13.8,8.2,Fort Snelling Station & Platform,44.893532,-93.197937,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51434,DEC11-Multi-Holiday-01,0,13.8,8.2,Lindbergh Station & Platform,44.880833,-93.204811,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51434,DEC11-Multi-Holiday-01,0,13.6,4.7,Lindbergh Station & Platform,44.880833,-93.204811,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51435,DEC11-Multi-Holiday-01,0,13.8,8.2,Humphrey Station & Platform,44.874264,-93.224197,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51435,DEC11-Multi-Holiday-01,0,13.6,4.7,Humphrey Station & Platform,44.874264,-93.224197,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51436,DEC11-Multi-Holiday-01,0,13.8,8.2,Bloomington Central Sta & Platform,44.856365,-93.226028,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51437,DEC11-Multi-Holiday-01,0,13.8,8.2,28 Av Station & Platform,44.855804,-93.231644,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51866,DEC11-Multi-Holiday-01,0,11.5,3.5,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738,56,Light Rail Shuttle - Lindbergh - Humphrey
+56-55,51867,DEC11-Multi-Holiday-01,0,,,Pocket Track - Node & NWA LV,44.870502,-93.223244,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,53220,DEC11-Multi-Holiday-01,0,9.4,6.6,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53221,DEC11-Multi-Holiday-01,0,13.6,7.8,Target Field Sta & LRT Platform,44.983067,-93.277374,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53278,DEC11-Multi-Holiday-01,0,13.6,7.8,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53279,DEC11-Multi-Holiday-01,0,13.6,7.4,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53280,DEC11-Multi-Holiday-01,0,13.8,8.2,American Blv 34 Av S & Platform,44.859127,-93.223129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17874,DEC11-Multi-Reduced-01,0,14.0,8.4,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17875,DEC11-Multi-Reduced-01,0,13.3,7.8,Warehouse Station & Platform,44.980083,-93.273155,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51405,DEC11-Multi-Reduced-01,0,7.0,5.4,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51408,DEC11-Multi-Reduced-01,0,14.0,8.4,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51409,DEC11-Multi-Reduced-01,0,14.0,8.4,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51410,DEC11-Multi-Reduced-01,0,14.0,8.4,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51411,DEC11-Multi-Reduced-01,0,14.0,8.4,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51412,DEC11-Multi-Reduced-01,0,14.0,8.7,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51413,DEC11-Multi-Reduced-01,0,14.0,8.7,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51414,DEC11-Multi-Reduced-01,0,14.0,8.7,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51415,DEC11-Multi-Reduced-01,0,14.0,8.7,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51416,DEC11-Multi-Reduced-01,0,14.0,8.7,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51417,DEC11-Multi-Reduced-01,0,14.0,8.7,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51418,DEC11-Multi-Reduced-01,0,13.8,8.6,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51419,DEC11-Multi-Reduced-01,0,13.8,8.6,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51419,DEC11-Multi-Reduced-01,0,13.5,4.5,Lindbergh Station & Platform,44.880733,-93.205025,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51420,DEC11-Multi-Reduced-01,0,13.8,8.6,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51420,DEC11-Multi-Reduced-01,0,13.5,4.5,Humphrey Station & Platform,44.874104,-93.224129,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51421,DEC11-Multi-Reduced-01,0,13.8,8.6,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51422,DEC11-Multi-Reduced-01,0,13.8,8.6,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51423,DEC11-Multi-Reduced-01,0,13.3,7.8,Nicollet Mall Station & Platform,44.978565,-93.270004,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51424,DEC11-Multi-Reduced-01,0,13.3,7.8,Govt Plaza Station & Platform,44.976833,-93.26593,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51425,DEC11-Multi-Reduced-01,0,13.3,7.8,Metrodome Station & Platform,44.975052,-93.259857,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51426,DEC11-Multi-Reduced-01,0,13.3,7.8,Cedar-Riverside Sta & Platform,44.968472,-93.251068,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51427,DEC11-Multi-Reduced-01,0,13.5,8.1,Franklin Station & Platform,44.962444,-93.246902,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51428,DEC11-Multi-Reduced-01,0,13.5,8.1,Lake St Midtown Sta & Platform,44.948364,-93.238823,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51429,DEC11-Multi-Reduced-01,0,13.5,8.1,38 St Station & Platform,44.934853,-93.229546,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51430,DEC11-Multi-Reduced-01,0,13.5,8.1,46 St Station & Platform,44.920845,-93.219826,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51431,DEC11-Multi-Reduced-01,0,13.5,8.1,50 St Minnehaha Sta & Platform,44.912521,-93.210205,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51432,DEC11-Multi-Reduced-01,0,13.5,8.1,VA Medical Ctr Sta & Platform,44.902958,-93.202309,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51433,DEC11-Multi-Reduced-01,0,13.5,8.1,Fort Snelling Station & Platform,44.893532,-93.197937,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51434,DEC11-Multi-Reduced-01,0,13.5,8.1,Lindbergh Station & Platform,44.880833,-93.204811,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51434,DEC11-Multi-Reduced-01,0,13.6,4.7,Lindbergh Station & Platform,44.880833,-93.204811,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51435,DEC11-Multi-Reduced-01,0,13.5,8.1,Humphrey Station & Platform,44.874264,-93.224197,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51435,DEC11-Multi-Reduced-01,0,13.6,4.7,Humphrey Station & Platform,44.874264,-93.224197,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51436,DEC11-Multi-Reduced-01,0,13.5,8.1,Bloomington Central Sta & Platform,44.856365,-93.226028,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51437,DEC11-Multi-Reduced-01,0,13.5,8.1,28 Av Station & Platform,44.855804,-93.231644,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51866,DEC11-Multi-Reduced-01,0,11.5,3.5,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738,56,Light Rail Shuttle - Lindbergh - Humphrey
+56-55,51867,DEC11-Multi-Reduced-01,0,,,Pocket Track - Node & NWA LV,44.870502,-93.223244,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,53220,DEC11-Multi-Reduced-01,0,9.5,6.1,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53221,DEC11-Multi-Reduced-01,0,13.3,7.8,Target Field Sta & LRT Platform,44.983067,-93.277374,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53278,DEC11-Multi-Reduced-01,0,13.3,7.8,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53279,DEC11-Multi-Reduced-01,0,13.8,8.6,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53280,DEC11-Multi-Reduced-01,0,13.5,8.1,American Blv 34 Av S & Platform,44.859127,-93.223129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17874,DEC11-Multi-Saturday-01,0,14.0,8.4,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17875,DEC11-Multi-Saturday-01,0,13.3,7.8,Warehouse Station & Platform,44.980083,-93.273155,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51405,DEC11-Multi-Saturday-01,0,7.0,5.4,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51408,DEC11-Multi-Saturday-01,0,14.0,8.4,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51409,DEC11-Multi-Saturday-01,0,14.0,8.4,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51410,DEC11-Multi-Saturday-01,0,14.0,8.4,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51411,DEC11-Multi-Saturday-01,0,14.0,8.4,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51412,DEC11-Multi-Saturday-01,0,14.0,8.7,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51413,DEC11-Multi-Saturday-01,0,14.0,8.7,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51414,DEC11-Multi-Saturday-01,0,14.0,8.7,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51415,DEC11-Multi-Saturday-01,0,14.0,8.7,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51416,DEC11-Multi-Saturday-01,0,14.0,8.7,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51417,DEC11-Multi-Saturday-01,0,14.0,8.7,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51418,DEC11-Multi-Saturday-01,0,13.8,8.6,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51419,DEC11-Multi-Saturday-01,0,13.8,8.6,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51419,DEC11-Multi-Saturday-01,0,13.5,4.5,Lindbergh Station & Platform,44.880733,-93.205025,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51420,DEC11-Multi-Saturday-01,0,13.8,8.6,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51420,DEC11-Multi-Saturday-01,0,13.5,4.5,Humphrey Station & Platform,44.874104,-93.224129,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51421,DEC11-Multi-Saturday-01,0,13.8,8.6,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51422,DEC11-Multi-Saturday-01,0,13.8,8.6,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51423,DEC11-Multi-Saturday-01,0,13.3,7.8,Nicollet Mall Station & Platform,44.978565,-93.270004,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51424,DEC11-Multi-Saturday-01,0,13.3,7.8,Govt Plaza Station & Platform,44.976833,-93.26593,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51425,DEC11-Multi-Saturday-01,0,13.3,7.8,Metrodome Station & Platform,44.975052,-93.259857,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51426,DEC11-Multi-Saturday-01,0,13.3,7.8,Cedar-Riverside Sta & Platform,44.968472,-93.251068,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51427,DEC11-Multi-Saturday-01,0,13.5,8.1,Franklin Station & Platform,44.962444,-93.246902,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51428,DEC11-Multi-Saturday-01,0,13.5,8.1,Lake St Midtown Sta & Platform,44.948364,-93.238823,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51429,DEC11-Multi-Saturday-01,0,13.5,8.1,38 St Station & Platform,44.934853,-93.229546,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51430,DEC11-Multi-Saturday-01,0,13.5,8.1,46 St Station & Platform,44.920845,-93.219826,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51431,DEC11-Multi-Saturday-01,0,13.5,8.1,50 St Minnehaha Sta & Platform,44.912521,-93.210205,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51432,DEC11-Multi-Saturday-01,0,13.5,8.1,VA Medical Ctr Sta & Platform,44.902958,-93.202309,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51433,DEC11-Multi-Saturday-01,0,13.5,8.1,Fort Snelling Station & Platform,44.893532,-93.197937,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51434,DEC11-Multi-Saturday-01,0,13.5,8.1,Lindbergh Station & Platform,44.880833,-93.204811,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51434,DEC11-Multi-Saturday-01,0,13.6,4.7,Lindbergh Station & Platform,44.880833,-93.204811,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51435,DEC11-Multi-Saturday-01,0,13.5,8.1,Humphrey Station & Platform,44.874264,-93.224197,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51435,DEC11-Multi-Saturday-01,0,13.6,4.7,Humphrey Station & Platform,44.874264,-93.224197,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51436,DEC11-Multi-Saturday-01,0,13.5,8.1,Bloomington Central Sta & Platform,44.856365,-93.226028,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51437,DEC11-Multi-Saturday-01,0,13.5,8.1,28 Av Station & Platform,44.855804,-93.231644,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51866,DEC11-Multi-Saturday-01,0,11.5,3.5,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738,56,Light Rail Shuttle - Lindbergh - Humphrey
+56-55,51867,DEC11-Multi-Saturday-01,0,,,Pocket Track - Node & NWA LV,44.870502,-93.223244,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,53220,DEC11-Multi-Saturday-01,0,9.5,6.1,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53221,DEC11-Multi-Saturday-01,0,13.3,7.8,Target Field Sta & LRT Platform,44.983067,-93.277374,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53278,DEC11-Multi-Saturday-01,0,13.3,7.8,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53279,DEC11-Multi-Saturday-01,0,13.8,8.6,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53280,DEC11-Multi-Saturday-01,0,13.5,8.1,American Blv 34 Av S & Platform,44.859127,-93.223129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17874,DEC11-Multi-Sunday-01,0,13.8,7.0,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17875,DEC11-Multi-Sunday-01,0,13.6,7.8,Warehouse Station & Platform,44.980083,-93.273155,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51405,DEC11-Multi-Sunday-01,0,7.0,4.7,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51408,DEC11-Multi-Sunday-01,0,13.8,7.0,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51409,DEC11-Multi-Sunday-01,0,13.8,7.0,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51410,DEC11-Multi-Sunday-01,0,13.8,7.0,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51411,DEC11-Multi-Sunday-01,0,13.8,7.0,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51412,DEC11-Multi-Sunday-01,0,13.8,7.5,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51413,DEC11-Multi-Sunday-01,0,13.8,7.5,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51414,DEC11-Multi-Sunday-01,0,13.8,7.5,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51415,DEC11-Multi-Sunday-01,0,13.8,7.5,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51416,DEC11-Multi-Sunday-01,0,13.8,7.5,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51417,DEC11-Multi-Sunday-01,0,13.8,7.5,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51418,DEC11-Multi-Sunday-01,0,13.6,7.4,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51419,DEC11-Multi-Sunday-01,0,13.6,7.4,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51419,DEC11-Multi-Sunday-01,0,13.5,4.5,Lindbergh Station & Platform,44.880733,-93.205025,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51420,DEC11-Multi-Sunday-01,0,13.6,7.4,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51420,DEC11-Multi-Sunday-01,0,13.5,4.5,Humphrey Station & Platform,44.874104,-93.224129,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51421,DEC11-Multi-Sunday-01,0,13.6,7.4,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51422,DEC11-Multi-Sunday-01,0,13.6,7.4,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51423,DEC11-Multi-Sunday-01,0,13.6,7.8,Nicollet Mall Station & Platform,44.978565,-93.270004,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51424,DEC11-Multi-Sunday-01,0,13.6,7.8,Govt Plaza Station & Platform,44.976833,-93.26593,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51425,DEC11-Multi-Sunday-01,0,13.6,7.8,Metrodome Station & Platform,44.975052,-93.259857,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51426,DEC11-Multi-Sunday-01,0,13.6,7.8,Cedar-Riverside Sta & Platform,44.968472,-93.251068,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51427,DEC11-Multi-Sunday-01,0,13.8,8.2,Franklin Station & Platform,44.962444,-93.246902,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51428,DEC11-Multi-Sunday-01,0,13.8,8.2,Lake St Midtown Sta & Platform,44.948364,-93.238823,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51429,DEC11-Multi-Sunday-01,0,13.8,8.2,38 St Station & Platform,44.934853,-93.229546,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51430,DEC11-Multi-Sunday-01,0,13.8,8.2,46 St Station & Platform,44.920845,-93.219826,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51431,DEC11-Multi-Sunday-01,0,13.8,8.2,50 St Minnehaha Sta & Platform,44.912521,-93.210205,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51432,DEC11-Multi-Sunday-01,0,13.8,8.2,VA Medical Ctr Sta & Platform,44.902958,-93.202309,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51433,DEC11-Multi-Sunday-01,0,13.8,8.2,Fort Snelling Station & Platform,44.893532,-93.197937,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51434,DEC11-Multi-Sunday-01,0,13.8,8.2,Lindbergh Station & Platform,44.880833,-93.204811,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51434,DEC11-Multi-Sunday-01,0,13.6,4.7,Lindbergh Station & Platform,44.880833,-93.204811,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51435,DEC11-Multi-Sunday-01,0,13.8,8.2,Humphrey Station & Platform,44.874264,-93.224197,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51435,DEC11-Multi-Sunday-01,0,13.6,4.7,Humphrey Station & Platform,44.874264,-93.224197,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51436,DEC11-Multi-Sunday-01,0,13.8,8.2,Bloomington Central Sta & Platform,44.856365,-93.226028,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51437,DEC11-Multi-Sunday-01,0,13.8,8.2,28 Av Station & Platform,44.855804,-93.231644,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51866,DEC11-Multi-Sunday-01,0,11.5,3.5,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738,56,Light Rail Shuttle - Lindbergh - Humphrey
+56-55,51867,DEC11-Multi-Sunday-01,0,,,Pocket Track - Node & NWA LV,44.870502,-93.223244,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,53220,DEC11-Multi-Sunday-01,0,9.4,6.6,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53221,DEC11-Multi-Sunday-01,0,13.6,7.8,Target Field Sta & LRT Platform,44.983067,-93.277374,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53278,DEC11-Multi-Sunday-01,0,13.6,7.8,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53279,DEC11-Multi-Sunday-01,0,13.6,7.4,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53280,DEC11-Multi-Sunday-01,0,13.8,8.2,American Blv 34 Av S & Platform,44.859127,-93.223129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17874,DEC11-Multi-Weekday-01,0,12.2,6.6,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17875,DEC11-Multi-Weekday-01,0,12.1,7.5,Warehouse Station & Platform,44.980083,-93.273155,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51405,DEC11-Multi-Weekday-01,0,6.6,4.4,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51408,DEC11-Multi-Weekday-01,0,12.2,6.6,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51409,DEC11-Multi-Weekday-01,0,12.2,6.6,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51410,DEC11-Multi-Weekday-01,0,12.2,6.6,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51411,DEC11-Multi-Weekday-01,0,12.2,6.6,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51412,DEC11-Multi-Weekday-01,0,12.1,7.0,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51413,DEC11-Multi-Weekday-01,0,12.1,7.0,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51414,DEC11-Multi-Weekday-01,0,12.1,7.0,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51415,DEC11-Multi-Weekday-01,0,12.1,7.0,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51416,DEC11-Multi-Weekday-01,0,12.1,7.0,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51417,DEC11-Multi-Weekday-01,0,12.1,7.0,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51418,DEC11-Multi-Weekday-01,0,12.1,7.0,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51419,DEC11-Multi-Weekday-01,0,12.1,7.0,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51419,DEC11-Multi-Weekday-01,0,13.0,4.0,Lindbergh Station & Platform,44.880733,-93.205025,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51420,DEC11-Multi-Weekday-01,0,12.1,7.0,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51420,DEC11-Multi-Weekday-01,0,13.0,4.0,Humphrey Station & Platform,44.874104,-93.224129,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51421,DEC11-Multi-Weekday-01,0,12.1,7.0,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51422,DEC11-Multi-Weekday-01,0,12.1,7.0,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51423,DEC11-Multi-Weekday-01,0,12.1,7.5,Nicollet Mall Station & Platform,44.978565,-93.270004,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51424,DEC11-Multi-Weekday-01,0,12.1,7.5,Govt Plaza Station & Platform,44.976833,-93.26593,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51425,DEC11-Multi-Weekday-01,0,12.1,7.5,Metrodome Station & Platform,44.975052,-93.259857,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51426,DEC11-Multi-Weekday-01,0,12.1,7.5,Cedar-Riverside Sta & Platform,44.968472,-93.251068,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51427,DEC11-Multi-Weekday-01,0,12.1,7.5,Franklin Station & Platform,44.962444,-93.246902,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51428,DEC11-Multi-Weekday-01,0,12.1,7.5,Lake St Midtown Sta & Platform,44.948364,-93.238823,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51429,DEC11-Multi-Weekday-01,0,12.1,7.5,38 St Station & Platform,44.934853,-93.229546,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51430,DEC11-Multi-Weekday-01,0,12.1,7.5,46 St Station & Platform,44.920845,-93.219826,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51431,DEC11-Multi-Weekday-01,0,12.1,7.5,50 St Minnehaha Sta & Platform,44.912521,-93.210205,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51432,DEC11-Multi-Weekday-01,0,12.1,7.5,VA Medical Ctr Sta & Platform,44.902958,-93.202309,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51433,DEC11-Multi-Weekday-01,0,12.1,7.5,Fort Snelling Station & Platform,44.893532,-93.197937,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51434,DEC11-Multi-Weekday-01,0,12.1,7.5,Lindbergh Station & Platform,44.880833,-93.204811,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51434,DEC11-Multi-Weekday-01,0,13.2,4.5,Lindbergh Station & Platform,44.880833,-93.204811,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51435,DEC11-Multi-Weekday-01,0,12.1,7.5,Humphrey Station & Platform,44.874264,-93.224197,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51435,DEC11-Multi-Weekday-01,0,13.2,4.5,Humphrey Station & Platform,44.874264,-93.224197,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51436,DEC11-Multi-Weekday-01,0,12.2,7.8,Bloomington Central Sta & Platform,44.856365,-93.226028,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51437,DEC11-Multi-Weekday-01,0,12.2,7.8,28 Av Station & Platform,44.855804,-93.231644,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51866,DEC11-Multi-Weekday-01,0,,,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,53220,DEC11-Multi-Weekday-01,0,7.9,6.5,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53221,DEC11-Multi-Weekday-01,0,12.1,7.5,Target Field Sta & LRT Platform,44.983067,-93.277374,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53278,DEC11-Multi-Weekday-01,0,12.1,7.5,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53279,DEC11-Multi-Weekday-01,0,12.1,7.0,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53280,DEC11-Multi-Weekday-01,0,12.2,7.8,American Blv 34 Av S & Platform,44.859127,-93.223129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17874,DEC11-Multi-Weekday-01-0000100,0,,,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51405,DEC11-Multi-Weekday-01-0000100,0,,,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51408,DEC11-Multi-Weekday-01-0000100,0,,,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51409,DEC11-Multi-Weekday-01-0000100,0,,,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51410,DEC11-Multi-Weekday-01-0000100,0,,,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51411,DEC11-Multi-Weekday-01-0000100,0,,,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51412,DEC11-Multi-Weekday-01-0000100,0,,,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51413,DEC11-Multi-Weekday-01-0000100,0,,,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51414,DEC11-Multi-Weekday-01-0000100,0,,,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51415,DEC11-Multi-Weekday-01-0000100,0,,,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51416,DEC11-Multi-Weekday-01-0000100,0,,,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51417,DEC11-Multi-Weekday-01-0000100,0,,,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51418,DEC11-Multi-Weekday-01-0000100,0,,,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51419,DEC11-Multi-Weekday-01-0000100,0,,,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51420,DEC11-Multi-Weekday-01-0000100,0,,,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51421,DEC11-Multi-Weekday-01-0000100,0,,,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51422,DEC11-Multi-Weekday-01-0000100,0,,,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53220,DEC11-Multi-Weekday-01-0000100,0,,,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53279,DEC11-Multi-Weekday-01-0000100,0,,,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17874,DEC11-Multi-Weekday-02,0,12.2,6.6,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17875,DEC11-Multi-Weekday-02,0,12.1,7.5,Warehouse Station & Platform,44.980083,-93.273155,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51405,DEC11-Multi-Weekday-02,0,6.6,4.4,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51408,DEC11-Multi-Weekday-02,0,12.2,6.6,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51409,DEC11-Multi-Weekday-02,0,12.2,6.6,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51410,DEC11-Multi-Weekday-02,0,12.2,6.6,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51411,DEC11-Multi-Weekday-02,0,12.2,6.6,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51412,DEC11-Multi-Weekday-02,0,12.1,7.0,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51413,DEC11-Multi-Weekday-02,0,12.1,7.0,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51414,DEC11-Multi-Weekday-02,0,12.1,7.0,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51415,DEC11-Multi-Weekday-02,0,12.1,7.0,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51416,DEC11-Multi-Weekday-02,0,12.1,7.0,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51417,DEC11-Multi-Weekday-02,0,12.1,7.0,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51418,DEC11-Multi-Weekday-02,0,12.1,7.0,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51419,DEC11-Multi-Weekday-02,0,12.1,7.0,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51419,DEC11-Multi-Weekday-02,0,13.0,4.0,Lindbergh Station & Platform,44.880733,-93.205025,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51420,DEC11-Multi-Weekday-02,0,12.1,7.0,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51420,DEC11-Multi-Weekday-02,0,13.0,4.0,Humphrey Station & Platform,44.874104,-93.224129,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51421,DEC11-Multi-Weekday-02,0,12.1,7.0,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51422,DEC11-Multi-Weekday-02,0,12.1,7.0,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51423,DEC11-Multi-Weekday-02,0,12.1,7.5,Nicollet Mall Station & Platform,44.978565,-93.270004,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51424,DEC11-Multi-Weekday-02,0,12.1,7.5,Govt Plaza Station & Platform,44.976833,-93.26593,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51425,DEC11-Multi-Weekday-02,0,12.1,7.5,Metrodome Station & Platform,44.975052,-93.259857,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51426,DEC11-Multi-Weekday-02,0,12.1,7.5,Cedar-Riverside Sta & Platform,44.968472,-93.251068,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51427,DEC11-Multi-Weekday-02,0,12.1,7.5,Franklin Station & Platform,44.962444,-93.246902,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51428,DEC11-Multi-Weekday-02,0,12.1,7.5,Lake St Midtown Sta & Platform,44.948364,-93.238823,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51429,DEC11-Multi-Weekday-02,0,12.1,7.5,38 St Station & Platform,44.934853,-93.229546,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51430,DEC11-Multi-Weekday-02,0,12.1,7.5,46 St Station & Platform,44.920845,-93.219826,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51431,DEC11-Multi-Weekday-02,0,12.1,7.5,50 St Minnehaha Sta & Platform,44.912521,-93.210205,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51432,DEC11-Multi-Weekday-02,0,12.1,7.5,VA Medical Ctr Sta & Platform,44.902958,-93.202309,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51433,DEC11-Multi-Weekday-02,0,12.1,7.5,Fort Snelling Station & Platform,44.893532,-93.197937,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51434,DEC11-Multi-Weekday-02,0,12.1,7.5,Lindbergh Station & Platform,44.880833,-93.204811,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51434,DEC11-Multi-Weekday-02,0,13.2,4.5,Lindbergh Station & Platform,44.880833,-93.204811,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51435,DEC11-Multi-Weekday-02,0,12.1,7.5,Humphrey Station & Platform,44.874264,-93.224197,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51435,DEC11-Multi-Weekday-02,0,13.2,4.5,Humphrey Station & Platform,44.874264,-93.224197,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,51436,DEC11-Multi-Weekday-02,0,12.2,7.8,Bloomington Central Sta & Platform,44.856365,-93.226028,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51437,DEC11-Multi-Weekday-02,0,12.2,7.8,28 Av Station & Platform,44.855804,-93.231644,55,Hiawatha LRT - Mpls - Airport - MOA
+56-55,51866,DEC11-Multi-Weekday-02,0,,,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-55,53220,DEC11-Multi-Weekday-02,0,7.9,6.5,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53221,DEC11-Multi-Weekday-02,0,12.1,7.5,Target Field Sta & LRT Platform,44.983067,-93.277374,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53278,DEC11-Multi-Weekday-02,0,12.1,7.5,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53279,DEC11-Multi-Weekday-02,0,12.1,7.0,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53280,DEC11-Multi-Weekday-02,0,12.2,7.8,American Blv 34 Av S & Platform,44.859127,-93.223129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,17874,DEC11-Multi-Weekday-02-0000100,0,,,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51405,DEC11-Multi-Weekday-02-0000100,0,,,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51408,DEC11-Multi-Weekday-02-0000100,0,,,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51409,DEC11-Multi-Weekday-02-0000100,0,,,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51410,DEC11-Multi-Weekday-02-0000100,0,,,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51411,DEC11-Multi-Weekday-02-0000100,0,,,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51412,DEC11-Multi-Weekday-02-0000100,0,,,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51413,DEC11-Multi-Weekday-02-0000100,0,,,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51414,DEC11-Multi-Weekday-02-0000100,0,,,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51415,DEC11-Multi-Weekday-02-0000100,0,,,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51416,DEC11-Multi-Weekday-02-0000100,0,,,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51417,DEC11-Multi-Weekday-02-0000100,0,,,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51418,DEC11-Multi-Weekday-02-0000100,0,,,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51419,DEC11-Multi-Weekday-02-0000100,0,,,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51420,DEC11-Multi-Weekday-02-0000100,0,,,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51421,DEC11-Multi-Weekday-02-0000100,0,,,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,51422,DEC11-Multi-Weekday-02-0000100,0,,,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53220,DEC11-Multi-Weekday-02-0000100,0,,,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-55,53279,DEC11-Multi-Weekday-02-0000100,0,,,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,17874,SEP11-Multi-Holiday-01,0,13.8,7.0,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,17875,SEP11-Multi-Holiday-01,0,13.6,7.8,Warehouse Station & Platform,44.980083,-93.273155,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51405,SEP11-Multi-Holiday-01,0,7.0,4.7,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51408,SEP11-Multi-Holiday-01,0,13.8,7.0,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51409,SEP11-Multi-Holiday-01,0,13.8,7.0,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51410,SEP11-Multi-Holiday-01,0,13.8,7.0,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51411,SEP11-Multi-Holiday-01,0,13.8,7.0,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51412,SEP11-Multi-Holiday-01,0,13.8,7.5,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51413,SEP11-Multi-Holiday-01,0,13.8,7.5,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51414,SEP11-Multi-Holiday-01,0,13.8,7.5,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51415,SEP11-Multi-Holiday-01,0,13.8,7.5,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51416,SEP11-Multi-Holiday-01,0,13.8,7.5,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51417,SEP11-Multi-Holiday-01,0,13.8,7.5,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51418,SEP11-Multi-Holiday-01,0,13.6,7.4,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51419,SEP11-Multi-Holiday-01,0,13.6,7.4,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51419,SEP11-Multi-Holiday-01,0,13.3,4.6,Lindbergh Station & Platform,44.880733,-93.205025,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51420,SEP11-Multi-Holiday-01,0,13.6,7.4,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51420,SEP11-Multi-Holiday-01,0,13.3,4.6,Humphrey Station & Platform,44.874104,-93.224129,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51421,SEP11-Multi-Holiday-01,0,13.6,7.4,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51422,SEP11-Multi-Holiday-01,0,13.6,7.4,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51423,SEP11-Multi-Holiday-01,0,13.6,7.8,Nicollet Mall Station & Platform,44.978565,-93.270004,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51424,SEP11-Multi-Holiday-01,0,13.6,7.8,Govt Plaza Station & Platform,44.976833,-93.26593,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51425,SEP11-Multi-Holiday-01,0,13.6,7.8,Metrodome Station & Platform,44.975052,-93.259857,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51426,SEP11-Multi-Holiday-01,0,13.6,7.8,Cedar-Riverside Sta & Platform,44.968472,-93.251068,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51427,SEP11-Multi-Holiday-01,0,13.8,8.2,Franklin Station & Platform,44.962444,-93.246902,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51428,SEP11-Multi-Holiday-01,0,13.8,8.2,Lake St Midtown Sta & Platform,44.948364,-93.238823,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51429,SEP11-Multi-Holiday-01,0,13.8,8.2,38 St Station & Platform,44.934853,-93.229546,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51430,SEP11-Multi-Holiday-01,0,13.8,8.2,46 St Station & Platform,44.920845,-93.219826,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51431,SEP11-Multi-Holiday-01,0,13.8,8.2,50 St Minnehaha Sta & Platform,44.912521,-93.210205,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51432,SEP11-Multi-Holiday-01,0,13.8,8.2,VA Medical Ctr Sta & Platform,44.902958,-93.202309,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51433,SEP11-Multi-Holiday-01,0,13.8,8.2,Fort Snelling Station & Platform,44.893532,-93.197937,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51434,SEP11-Multi-Holiday-01,0,13.8,8.2,Lindbergh Station & Platform,44.880833,-93.204811,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51434,SEP11-Multi-Holiday-01,0,13.6,4.7,Lindbergh Station & Platform,44.880833,-93.204811,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51435,SEP11-Multi-Holiday-01,0,13.8,8.2,Humphrey Station & Platform,44.874264,-93.224197,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51435,SEP11-Multi-Holiday-01,0,13.6,4.7,Humphrey Station & Platform,44.874264,-93.224197,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51436,SEP11-Multi-Holiday-01,0,13.8,8.2,Bloomington Central Sta & Platform,44.856365,-93.226028,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51437,SEP11-Multi-Holiday-01,0,13.8,8.2,28 Av Station & Platform,44.855804,-93.231644,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51866,SEP11-Multi-Holiday-01,0,11.5,3.5,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738,56,Light Rail Shuttle - Lindbergh - Humphrey
+56-54,51867,SEP11-Multi-Holiday-01,0,,,Pocket Track - Node & NWA LV,44.870502,-93.223244,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,53220,SEP11-Multi-Holiday-01,0,9.4,6.6,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53221,SEP11-Multi-Holiday-01,0,13.6,7.8,Target Field Sta & LRT Platform,44.983067,-93.277374,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53278,SEP11-Multi-Holiday-01,0,13.6,7.8,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53279,SEP11-Multi-Holiday-01,0,13.6,7.4,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53280,SEP11-Multi-Holiday-01,0,13.8,8.2,American Blv 34 Av S & Platform,44.859127,-93.223129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,17874,SEP11-Multi-Reduced-01,0,14.0,8.4,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,17875,SEP11-Multi-Reduced-01,0,13.3,7.8,Warehouse Station & Platform,44.980083,-93.273155,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51405,SEP11-Multi-Reduced-01,0,7.0,5.4,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51408,SEP11-Multi-Reduced-01,0,14.0,8.4,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51409,SEP11-Multi-Reduced-01,0,14.0,8.4,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51410,SEP11-Multi-Reduced-01,0,14.0,8.4,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51411,SEP11-Multi-Reduced-01,0,14.0,8.4,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51412,SEP11-Multi-Reduced-01,0,14.0,8.7,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51413,SEP11-Multi-Reduced-01,0,14.0,8.7,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51414,SEP11-Multi-Reduced-01,0,14.0,8.7,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51415,SEP11-Multi-Reduced-01,0,14.0,8.7,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51416,SEP11-Multi-Reduced-01,0,14.0,8.7,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51417,SEP11-Multi-Reduced-01,0,14.0,8.7,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51418,SEP11-Multi-Reduced-01,0,13.8,8.6,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51419,SEP11-Multi-Reduced-01,0,13.8,8.6,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51419,SEP11-Multi-Reduced-01,0,13.5,4.5,Lindbergh Station & Platform,44.880733,-93.205025,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51420,SEP11-Multi-Reduced-01,0,13.8,8.6,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51420,SEP11-Multi-Reduced-01,0,13.5,4.5,Humphrey Station & Platform,44.874104,-93.224129,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51421,SEP11-Multi-Reduced-01,0,13.8,8.6,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51422,SEP11-Multi-Reduced-01,0,13.8,8.6,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51423,SEP11-Multi-Reduced-01,0,13.3,7.8,Nicollet Mall Station & Platform,44.978565,-93.270004,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51424,SEP11-Multi-Reduced-01,0,13.3,7.8,Govt Plaza Station & Platform,44.976833,-93.26593,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51425,SEP11-Multi-Reduced-01,0,13.3,7.8,Metrodome Station & Platform,44.975052,-93.259857,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51426,SEP11-Multi-Reduced-01,0,13.3,7.8,Cedar-Riverside Sta & Platform,44.968472,-93.251068,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51427,SEP11-Multi-Reduced-01,0,13.5,8.1,Franklin Station & Platform,44.962444,-93.246902,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51428,SEP11-Multi-Reduced-01,0,13.5,8.1,Lake St Midtown Sta & Platform,44.948364,-93.238823,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51429,SEP11-Multi-Reduced-01,0,13.5,8.1,38 St Station & Platform,44.934853,-93.229546,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51430,SEP11-Multi-Reduced-01,0,13.5,8.1,46 St Station & Platform,44.920845,-93.219826,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51431,SEP11-Multi-Reduced-01,0,13.5,8.1,50 St Minnehaha Sta & Platform,44.912521,-93.210205,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51432,SEP11-Multi-Reduced-01,0,13.5,8.1,VA Medical Ctr Sta & Platform,44.902958,-93.202309,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51433,SEP11-Multi-Reduced-01,0,13.5,8.1,Fort Snelling Station & Platform,44.893532,-93.197937,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51433,SEP11-Multi-Reduced-01,0,,,Fort Snelling Station & Platform,44.893532,-93.197937,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51434,SEP11-Multi-Reduced-01,0,13.5,8.1,Lindbergh Station & Platform,44.880833,-93.204811,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51434,SEP11-Multi-Reduced-01,0,13.6,4.7,Lindbergh Station & Platform,44.880833,-93.204811,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51435,SEP11-Multi-Reduced-01,0,13.5,8.1,Humphrey Station & Platform,44.874264,-93.224197,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51435,SEP11-Multi-Reduced-01,0,13.6,4.7,Humphrey Station & Platform,44.874264,-93.224197,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51436,SEP11-Multi-Reduced-01,0,13.5,8.1,Bloomington Central Sta & Platform,44.856365,-93.226028,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51437,SEP11-Multi-Reduced-01,0,13.5,8.1,28 Av Station & Platform,44.855804,-93.231644,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51866,SEP11-Multi-Reduced-01,0,9.0,,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738,56,Light Rail Shuttle - Lindbergh - Humphrey
+56-54,51867,SEP11-Multi-Reduced-01,0,,,Pocket Track - Node & NWA LV,44.870502,-93.223244,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,53220,SEP11-Multi-Reduced-01,0,9.5,6.1,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53221,SEP11-Multi-Reduced-01,0,13.3,7.8,Target Field Sta & LRT Platform,44.983067,-93.277374,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53278,SEP11-Multi-Reduced-01,0,13.3,7.8,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53279,SEP11-Multi-Reduced-01,0,13.8,8.6,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53280,SEP11-Multi-Reduced-01,0,13.5,8.1,American Blv 34 Av S & Platform,44.859127,-93.223129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,17874,SEP11-Multi-Saturday-01,0,14.0,8.4,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,17875,SEP11-Multi-Saturday-01,0,13.3,7.8,Warehouse Station & Platform,44.980083,-93.273155,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51405,SEP11-Multi-Saturday-01,0,7.0,5.4,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51408,SEP11-Multi-Saturday-01,0,14.0,8.4,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51409,SEP11-Multi-Saturday-01,0,14.0,8.4,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51410,SEP11-Multi-Saturday-01,0,14.0,8.4,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51411,SEP11-Multi-Saturday-01,0,14.0,8.4,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51412,SEP11-Multi-Saturday-01,0,14.0,8.7,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51413,SEP11-Multi-Saturday-01,0,14.0,8.7,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51414,SEP11-Multi-Saturday-01,0,14.0,8.7,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51415,SEP11-Multi-Saturday-01,0,14.0,8.7,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51416,SEP11-Multi-Saturday-01,0,14.0,8.7,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51417,SEP11-Multi-Saturday-01,0,14.0,8.7,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51418,SEP11-Multi-Saturday-01,0,13.8,8.6,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51419,SEP11-Multi-Saturday-01,0,13.8,8.6,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51419,SEP11-Multi-Saturday-01,0,13.5,4.5,Lindbergh Station & Platform,44.880733,-93.205025,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51420,SEP11-Multi-Saturday-01,0,13.8,8.6,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51420,SEP11-Multi-Saturday-01,0,13.5,4.5,Humphrey Station & Platform,44.874104,-93.224129,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51421,SEP11-Multi-Saturday-01,0,13.8,8.6,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51422,SEP11-Multi-Saturday-01,0,13.8,8.6,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51423,SEP11-Multi-Saturday-01,0,13.3,7.8,Nicollet Mall Station & Platform,44.978565,-93.270004,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51424,SEP11-Multi-Saturday-01,0,13.3,7.8,Govt Plaza Station & Platform,44.976833,-93.26593,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51425,SEP11-Multi-Saturday-01,0,13.3,7.8,Metrodome Station & Platform,44.975052,-93.259857,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51426,SEP11-Multi-Saturday-01,0,13.3,7.8,Cedar-Riverside Sta & Platform,44.968472,-93.251068,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51427,SEP11-Multi-Saturday-01,0,13.5,8.1,Franklin Station & Platform,44.962444,-93.246902,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51428,SEP11-Multi-Saturday-01,0,13.5,8.1,Lake St Midtown Sta & Platform,44.948364,-93.238823,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51429,SEP11-Multi-Saturday-01,0,13.5,8.1,38 St Station & Platform,44.934853,-93.229546,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51430,SEP11-Multi-Saturday-01,0,13.5,8.1,46 St Station & Platform,44.920845,-93.219826,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51431,SEP11-Multi-Saturday-01,0,13.5,8.1,50 St Minnehaha Sta & Platform,44.912521,-93.210205,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51432,SEP11-Multi-Saturday-01,0,13.5,8.1,VA Medical Ctr Sta & Platform,44.902958,-93.202309,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51433,SEP11-Multi-Saturday-01,0,13.5,8.1,Fort Snelling Station & Platform,44.893532,-93.197937,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51433,SEP11-Multi-Saturday-01,0,,,Fort Snelling Station & Platform,44.893532,-93.197937,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51434,SEP11-Multi-Saturday-01,0,13.5,8.1,Lindbergh Station & Platform,44.880833,-93.204811,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51434,SEP11-Multi-Saturday-01,0,13.6,4.7,Lindbergh Station & Platform,44.880833,-93.204811,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51435,SEP11-Multi-Saturday-01,0,13.5,8.1,Humphrey Station & Platform,44.874264,-93.224197,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51435,SEP11-Multi-Saturday-01,0,13.6,4.7,Humphrey Station & Platform,44.874264,-93.224197,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51436,SEP11-Multi-Saturday-01,0,13.5,8.1,Bloomington Central Sta & Platform,44.856365,-93.226028,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51437,SEP11-Multi-Saturday-01,0,13.5,8.1,28 Av Station & Platform,44.855804,-93.231644,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51866,SEP11-Multi-Saturday-01,0,9.0,,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738,56,Light Rail Shuttle - Lindbergh - Humphrey
+56-54,51867,SEP11-Multi-Saturday-01,0,,,Pocket Track - Node & NWA LV,44.870502,-93.223244,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,53220,SEP11-Multi-Saturday-01,0,9.5,6.1,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53221,SEP11-Multi-Saturday-01,0,13.3,7.8,Target Field Sta & LRT Platform,44.983067,-93.277374,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53278,SEP11-Multi-Saturday-01,0,13.3,7.8,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53279,SEP11-Multi-Saturday-01,0,13.8,8.6,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53280,SEP11-Multi-Saturday-01,0,13.5,8.1,American Blv 34 Av S & Platform,44.859127,-93.223129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,17874,SEP11-Multi-Sunday-01,0,13.8,7.0,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,17875,SEP11-Multi-Sunday-01,0,13.6,7.8,Warehouse Station & Platform,44.980083,-93.273155,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51405,SEP11-Multi-Sunday-01,0,7.0,4.7,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51408,SEP11-Multi-Sunday-01,0,13.8,7.0,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51409,SEP11-Multi-Sunday-01,0,13.8,7.0,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51410,SEP11-Multi-Sunday-01,0,13.8,7.0,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51411,SEP11-Multi-Sunday-01,0,13.8,7.0,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51412,SEP11-Multi-Sunday-01,0,13.8,7.5,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51413,SEP11-Multi-Sunday-01,0,13.8,7.5,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51414,SEP11-Multi-Sunday-01,0,13.8,7.5,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51415,SEP11-Multi-Sunday-01,0,13.8,7.5,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51416,SEP11-Multi-Sunday-01,0,13.8,7.5,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51417,SEP11-Multi-Sunday-01,0,13.8,7.5,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51418,SEP11-Multi-Sunday-01,0,13.6,7.4,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51419,SEP11-Multi-Sunday-01,0,13.6,7.4,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51419,SEP11-Multi-Sunday-01,0,13.3,4.6,Lindbergh Station & Platform,44.880733,-93.205025,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51420,SEP11-Multi-Sunday-01,0,13.6,7.4,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51420,SEP11-Multi-Sunday-01,0,13.3,4.6,Humphrey Station & Platform,44.874104,-93.224129,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51421,SEP11-Multi-Sunday-01,0,13.6,7.4,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51422,SEP11-Multi-Sunday-01,0,13.6,7.4,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51423,SEP11-Multi-Sunday-01,0,13.6,7.8,Nicollet Mall Station & Platform,44.978565,-93.270004,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51424,SEP11-Multi-Sunday-01,0,13.6,7.8,Govt Plaza Station & Platform,44.976833,-93.26593,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51425,SEP11-Multi-Sunday-01,0,13.6,7.8,Metrodome Station & Platform,44.975052,-93.259857,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51426,SEP11-Multi-Sunday-01,0,13.6,7.8,Cedar-Riverside Sta & Platform,44.968472,-93.251068,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51427,SEP11-Multi-Sunday-01,0,13.8,8.2,Franklin Station & Platform,44.962444,-93.246902,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51428,SEP11-Multi-Sunday-01,0,13.8,8.2,Lake St Midtown Sta & Platform,44.948364,-93.238823,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51429,SEP11-Multi-Sunday-01,0,13.8,8.2,38 St Station & Platform,44.934853,-93.229546,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51430,SEP11-Multi-Sunday-01,0,13.8,8.2,46 St Station & Platform,44.920845,-93.219826,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51431,SEP11-Multi-Sunday-01,0,13.8,8.2,50 St Minnehaha Sta & Platform,44.912521,-93.210205,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51432,SEP11-Multi-Sunday-01,0,13.8,8.2,VA Medical Ctr Sta & Platform,44.902958,-93.202309,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51433,SEP11-Multi-Sunday-01,0,13.8,8.2,Fort Snelling Station & Platform,44.893532,-93.197937,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51434,SEP11-Multi-Sunday-01,0,13.8,8.2,Lindbergh Station & Platform,44.880833,-93.204811,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51434,SEP11-Multi-Sunday-01,0,13.6,4.7,Lindbergh Station & Platform,44.880833,-93.204811,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51435,SEP11-Multi-Sunday-01,0,13.8,8.2,Humphrey Station & Platform,44.874264,-93.224197,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51435,SEP11-Multi-Sunday-01,0,13.6,4.7,Humphrey Station & Platform,44.874264,-93.224197,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51436,SEP11-Multi-Sunday-01,0,13.8,8.2,Bloomington Central Sta & Platform,44.856365,-93.226028,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51437,SEP11-Multi-Sunday-01,0,13.8,8.2,28 Av Station & Platform,44.855804,-93.231644,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51866,SEP11-Multi-Sunday-01,0,11.5,3.5,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738,56,Light Rail Shuttle - Lindbergh - Humphrey
+56-54,51867,SEP11-Multi-Sunday-01,0,,,Pocket Track - Node & NWA LV,44.870502,-93.223244,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,53220,SEP11-Multi-Sunday-01,0,9.4,6.6,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53221,SEP11-Multi-Sunday-01,0,13.6,7.8,Target Field Sta & LRT Platform,44.983067,-93.277374,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53278,SEP11-Multi-Sunday-01,0,13.6,7.8,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53279,SEP11-Multi-Sunday-01,0,13.6,7.4,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53280,SEP11-Multi-Sunday-01,0,13.8,8.2,American Blv 34 Av S & Platform,44.859127,-93.223129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,17874,SEP11-Multi-Weekday-01,0,12.2,6.6,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,17875,SEP11-Multi-Weekday-01,0,12.1,7.5,Warehouse Station & Platform,44.980083,-93.273155,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51405,SEP11-Multi-Weekday-01,0,6.6,4.4,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51408,SEP11-Multi-Weekday-01,0,12.2,6.6,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51409,SEP11-Multi-Weekday-01,0,12.2,6.6,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51410,SEP11-Multi-Weekday-01,0,12.2,6.6,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51411,SEP11-Multi-Weekday-01,0,12.2,6.6,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51412,SEP11-Multi-Weekday-01,0,12.1,7.0,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51413,SEP11-Multi-Weekday-01,0,12.1,7.0,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51414,SEP11-Multi-Weekday-01,0,12.1,7.0,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51415,SEP11-Multi-Weekday-01,0,12.1,7.0,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51416,SEP11-Multi-Weekday-01,0,12.1,7.0,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51417,SEP11-Multi-Weekday-01,0,12.1,7.0,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51418,SEP11-Multi-Weekday-01,0,12.1,7.0,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51419,SEP11-Multi-Weekday-01,0,12.1,7.0,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51419,SEP11-Multi-Weekday-01,0,13.0,4.0,Lindbergh Station & Platform,44.880733,-93.205025,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51420,SEP11-Multi-Weekday-01,0,12.1,7.0,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51420,SEP11-Multi-Weekday-01,0,13.0,4.0,Humphrey Station & Platform,44.874104,-93.224129,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51421,SEP11-Multi-Weekday-01,0,12.1,7.0,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51422,SEP11-Multi-Weekday-01,0,12.1,7.0,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51423,SEP11-Multi-Weekday-01,0,12.1,7.5,Nicollet Mall Station & Platform,44.978565,-93.270004,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51424,SEP11-Multi-Weekday-01,0,12.1,7.5,Govt Plaza Station & Platform,44.976833,-93.26593,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51425,SEP11-Multi-Weekday-01,0,12.1,7.5,Metrodome Station & Platform,44.975052,-93.259857,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51426,SEP11-Multi-Weekday-01,0,12.1,7.5,Cedar-Riverside Sta & Platform,44.968472,-93.251068,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51427,SEP11-Multi-Weekday-01,0,12.1,7.5,Franklin Station & Platform,44.962444,-93.246902,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51428,SEP11-Multi-Weekday-01,0,12.1,7.5,Lake St Midtown Sta & Platform,44.948364,-93.238823,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51429,SEP11-Multi-Weekday-01,0,12.1,7.5,38 St Station & Platform,44.934853,-93.229546,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51430,SEP11-Multi-Weekday-01,0,12.1,7.5,46 St Station & Platform,44.920845,-93.219826,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51431,SEP11-Multi-Weekday-01,0,12.1,7.5,50 St Minnehaha Sta & Platform,44.912521,-93.210205,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51432,SEP11-Multi-Weekday-01,0,12.1,7.5,VA Medical Ctr Sta & Platform,44.902958,-93.202309,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51433,SEP11-Multi-Weekday-01,0,12.1,7.5,Fort Snelling Station & Platform,44.893532,-93.197937,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51434,SEP11-Multi-Weekday-01,0,12.1,7.5,Lindbergh Station & Platform,44.880833,-93.204811,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51434,SEP11-Multi-Weekday-01,0,13.2,4.5,Lindbergh Station & Platform,44.880833,-93.204811,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51435,SEP11-Multi-Weekday-01,0,12.1,7.5,Humphrey Station & Platform,44.874264,-93.224197,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51435,SEP11-Multi-Weekday-01,0,13.2,4.5,Humphrey Station & Platform,44.874264,-93.224197,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,51436,SEP11-Multi-Weekday-01,0,12.2,7.8,Bloomington Central Sta & Platform,44.856365,-93.226028,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51437,SEP11-Multi-Weekday-01,0,12.2,7.8,28 Av Station & Platform,44.855804,-93.231644,55,Hiawatha LRT - Mpls - Airport - MOA
+56-54,51866,SEP11-Multi-Weekday-01,0,,,Pocket Trk - Node & Ft Snelling Stn,44.891354,-93.198738,56,Light Rail Shuttle - Lindbergh - Humphrey
+55-54,53220,SEP11-Multi-Weekday-01,0,7.9,6.5,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53221,SEP11-Multi-Weekday-01,0,12.1,7.5,Target Field Sta & LRT Platform,44.983067,-93.277374,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53278,SEP11-Multi-Weekday-01,0,12.1,7.5,Hiawatha LRT - Node & Tail Track,44.984219,-93.280365,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53279,SEP11-Multi-Weekday-01,0,12.1,7.0,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53280,SEP11-Multi-Weekday-01,0,12.2,7.8,American Blv 34 Av S & Platform,44.859127,-93.223129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,17874,SEP11-Multi-Weekday-01-0000100,0,,,Warehouse Station & Platform,44.980038,-93.273117,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51405,SEP11-Multi-Weekday-01-0000100,0,,,MOA Transit Station & Platform,44.854286,-93.238869,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51408,SEP11-Multi-Weekday-01-0000100,0,,,Nicollet Mall Station & Platform,44.978504,-93.269913,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51409,SEP11-Multi-Weekday-01-0000100,0,,,Govt Plaza Station & Platform,44.976788,-93.265854,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51410,SEP11-Multi-Weekday-01-0000100,0,,,Metrodome Station & Platform,44.974922,-93.259895,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51411,SEP11-Multi-Weekday-01-0000100,0,,,Cedar-Riverside Station & Platform,44.968288,-93.250961,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51412,SEP11-Multi-Weekday-01-0000100,0,,,Franklin Station & Platform,44.962608,-93.247124,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51413,SEP11-Multi-Weekday-01-0000100,0,,,Lake St Midtown Sta & Platform,44.948364,-93.238945,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51414,SEP11-Multi-Weekday-01-0000100,0,,,38 St Station & Platform,44.934589,-93.229401,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51415,SEP11-Multi-Weekday-01-0000100,0,,,46 St Station & Platform,44.920795,-93.220009,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51416,SEP11-Multi-Weekday-01-0000100,0,,,50 St Minnehaha Sta & Platform,44.912457,-93.210289,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51417,SEP11-Multi-Weekday-01-0000100,0,,,VA Medical Ctr Sta & Platform,44.902637,-93.202217,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51418,SEP11-Multi-Weekday-01-0000100,0,,,Fort Snelling Station & Platform,44.893162,-93.198112,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51419,SEP11-Multi-Weekday-01-0000100,0,,,Lindbergh Station & Platform,44.880733,-93.205025,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51420,SEP11-Multi-Weekday-01-0000100,0,,,Humphrey Station & Platform,44.874104,-93.224129,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51421,SEP11-Multi-Weekday-01-0000100,0,,,Bloomington Central Sta & Platform,44.856392,-93.226387,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,51422,SEP11-Multi-Weekday-01-0000100,0,,,28 Av Station & Platform,44.855721,-93.231766,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53220,SEP11-Multi-Weekday-01-0000100,0,,,Target Field - Board & Platform,44.982986,-93.277344,55,Hiawatha LRT - Mpls - Airport - MOA
+55-54,53279,SEP11-Multi-Weekday-01-0000100,0,,,American Blv 34 Av S & Platform,44.858311,-93.223175,55,Hiawatha LRT - Mpls - Airport - MOA

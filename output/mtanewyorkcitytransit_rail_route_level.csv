@@ -1,0 +1,7 @@
+route_id,service_id,direction_id,numtripsperroute_both_dir,hours_of_service,first_departure_sec,last_departure_sec,span_of_service_hrs,route_avg_hdwy,route_stdev_hdwy,trips_per_day,average_speed,average_length_mi,w_avg_num_stops,avg_dist_bw_stops_ft,route_short_name,route_long_name
+SI,R20100324SAT,1,82,25,60,89280,25,33.6,9.9,42,27.0,18.9,22.0,4747.2945238095238096488,SIR,Staten Island Railway
+SI,R20100324SAT,0,82,25,60,89280,25,35.3,11.6,40,27.0,18.9,22.0,4747.2945238095238096488,SIR,Staten Island Railway
+SI,R20100324SUN,1,80,25,60,89280,25,35.3,11.6,40,27.0,18.9,22.0,4747.2945238095238096488,SIR,Staten Island Railway
+SI,R20100324SUN,0,80,25,60,89280,25,35.3,11.6,40,27.0,18.9,22.0,4747.2945238095238096488,SIR,Staten Island Railway
+SI,R20100324WKD,1,141,26,60,91080,25,21.4,12.7,74,28.9,17.4,17.8,5449.3636191164658635869,SIR,Staten Island Railway
+SI,R20100324WKD,0,141,26,60,91080,25,21.3,12.7,67,27.8,18.1,20.0,5027.2851013333333332304,SIR,Staten Island Railway

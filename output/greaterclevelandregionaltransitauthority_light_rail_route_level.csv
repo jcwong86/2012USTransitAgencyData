@@ -1,0 +1,13 @@
+route_id,service_id,direction_id,numtripsperroute_both_dir,hours_of_service,first_departure_sec,last_departure_sec,span_of_service_hrs,route_avg_hdwy,route_stdev_hdwy,trips_per_day,average_speed,average_length_mi,w_avg_num_stops,avg_dist_bw_stops_ft,route_short_name,route_long_name
+67-111,1203-hr1203a1-Weekday-20,0,230,23,13620,90300,21,11.8,5.3,105,29.6,11.5,16.5,3892.1844568027210882836,Blue/Green/Waterfront Line,Light Rail
+67-111,1203-hr1203a1-Weekday-20,1,230,23,13620,90300,21,12.0,5.5,105,28.1,11.3,16.2,3885.7619360795454544858,Blue/Green/Waterfront Line,Light Rail
+67-111,1203-hr1203a6-Saturday-20,1,167,23,13680,90300,21,15.4,3.6,81,27.6,12.7,18.4,3838.8899818865345180953,Blue/Green/Waterfront Line,Light Rail
+67-111,1203-hr1203a6-Saturday-20,0,167,23,13680,90300,21,15.4,3.2,81,27.9,12.8,18.7,3843.0816595221843003245,Blue/Green/Waterfront Line,Light Rail
+67-111,1203-hr1203a7-Sunday-20,0,167,23,13680,90300,21,15.4,3.2,81,27.9,12.8,18.7,3843.0816595221843003245,Blue/Green/Waterfront Line,Light Rail
+67-111,1203-hr1203a7-Sunday-20,1,167,23,13680,90300,21,15.4,3.6,81,27.6,12.7,18.4,3838.8899818865345180953,Blue/Green/Waterfront Line,Light Rail
+67-112,1206-hr1206a1-Weekday-20,1,230,23,13620,90300,21,12.0,5.5,105,28.1,11.3,16.2,3885.7619360795454544858,Blue/Green/Waterfront Line,Light Rail
+67-112,1206-hr1206a1-Weekday-20,0,230,23,13620,90300,21,11.8,5.3,105,29.6,11.5,16.5,3892.1844568027210882836,Blue/Green/Waterfront Line,Light Rail
+67-112,1206-hr1206a6-Saturday-20,0,167,23,13680,90300,21,15.4,3.2,81,27.9,12.8,18.7,3843.0816595221843003245,Blue/Green/Waterfront Line,Light Rail
+67-112,1206-hr1206a6-Saturday-20,1,167,23,13680,90300,21,15.4,3.6,81,27.6,12.7,18.4,3838.8899818865345180953,Blue/Green/Waterfront Line,Light Rail
+67-112,1206-hr1206a7-Sunday-20,1,167,23,13680,90300,21,15.4,3.6,81,27.6,12.7,18.4,3838.8899818865345180953,Blue/Green/Waterfront Line,Light Rail
+67-112,1206-hr1206a7-Sunday-20,0,167,23,13680,90300,21,15.4,3.2,81,27.9,12.8,18.7,3843.0816595221843003245,Blue/Green/Waterfront Line,Light Rail

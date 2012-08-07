@@ -1,0 +1,155 @@
+stop_id,service_id,direction_id,numroutes,TripsServingStop,stop_name,stop_lat,stop_lon
+22nd Street Caltrain,ST_20120701,0,1,2,22nd Street Caltrain Station,37.757674,-122.392636
+22nd Street Caltrain,ST_20120701,1,1,2,22nd Street Caltrain Station,37.757674,-122.392636
+Atherton Caltrain,ST_20120701,0,1,2,Atherton Caltrain Station,37.464349,-122.198106
+Atherton Caltrain,ST_20120701,1,1,2,Atherton Caltrain Station,37.464349,-122.198106
+Bayshore Caltrain,ST_20120701,0,1,2,Bayshore Caltrain Station,37.709544,-122.401318
+Bayshore Caltrain,ST_20120701,1,1,2,Bayshore Caltrain Station,37.709544,-122.401318
+Belmont Caltrain,ST_20120701,0,1,2,Belmont Caltrain Station,37.520504,-122.276075
+Belmont Caltrain,ST_20120701,1,1,2,Belmont Caltrain Station,37.520504,-122.276075
+Broadway Caltrain,ST_20120701,0,1,2,Broadway Caltrain Station,37.587466,-122.363233
+Broadway Caltrain,ST_20120701,1,1,2,Broadway Caltrain Station,37.587466,-122.363233
+Burlingame Caltrain,ST_20120701,0,1,2,Burlingame Caltrain Station,37.579719,-122.345266
+Burlingame Caltrain,ST_20120701,1,1,2,Burlingame Caltrain Station,37.579719,-122.345266
+California Ave Caltrain,ST_20120701,0,1,2,California Ave Caltrain Station,37.428835,-122.142703
+California Ave Caltrain,ST_20120701,1,1,2,California Ave Caltrain Station,37.428835,-122.142703
+Hayward Park Caltrain,ST_20120701,0,1,2,Hayward Park Caltrain Station,37.552346,-122.308916
+Hayward Park Caltrain,ST_20120701,1,1,2,Hayward Park Caltrain Station,37.552346,-122.308916
+Hillsdale Caltrain,ST_20120701,0,1,2,Hillsdale Caltrain Station,37.537503,-122.298001
+Hillsdale Caltrain,ST_20120701,1,1,2,Hillsdale Caltrain Station,37.537503,-122.298001
+Lawrence Caltrain,ST_20120701,0,1,2,Lawrence Caltrain Station,37.371578,-121.996982
+Lawrence Caltrain,ST_20120701,1,1,2,Lawrence Caltrain Station,37.371578,-121.996982
+Menlo Park Caltrain,ST_20120701,0,1,2,Menlo Park Caltrain Station,37.454604,-122.182518
+Menlo Park Caltrain,ST_20120701,1,1,2,Menlo Park Caltrain Station,37.454604,-122.182518
+Millbrae Caltrain,ST_20120701,0,1,2,Millbrae Caltrain Station,37.600006,-122.386534
+Millbrae Caltrain,ST_20120701,1,1,2,Millbrae Caltrain Station,37.600006,-122.386534
+Mountain View Caltrain,ST_20120701,0,1,2,Mountain View Caltrain Station,37.393879,-122.076327
+Mountain View Caltrain,ST_20120701,1,1,2,Mountain View Caltrain Station,37.393879,-122.076327
+Palo Alto Caltrain,ST_20120701,0,1,2,Palo Alto Caltrain Station,37.44307,-122.1649
+Palo Alto Caltrain,ST_20120701,1,1,2,Palo Alto Caltrain Station,37.44307,-122.1649
+Redwood City Caltrain,ST_20120701,0,1,2,Redwood City Caltrain Station,37.485412,-122.231957
+Redwood City Caltrain,ST_20120701,1,1,2,Redwood City Caltrain Station,37.485412,-122.231957
+San Antonio Caltrain,ST_20120701,0,1,2,San Antonio Caltrain Station,37.406163,-122.105787
+San Antonio Caltrain,ST_20120701,1,1,2,San Antonio Caltrain Station,37.406163,-122.105787
+San Bruno Caltrain,ST_20120701,0,1,2,San Bruno Caltrain Station,37.621572,-122.406408
+San Bruno Caltrain,ST_20120701,1,1,2,San Bruno Caltrain Station,37.621572,-122.406408
+San Carlos Caltrain,ST_20120701,0,1,2,San Carlos Caltrain Station,37.507361,-122.260365
+San Carlos Caltrain,ST_20120701,1,1,2,San Carlos Caltrain Station,37.507361,-122.260365
+San Francisco Caltrain,ST_20120701,0,1,2,San Francisco Caltrain Station,37.776439,-122.394323
+San Francisco Caltrain,ST_20120701,1,1,2,San Francisco Caltrain Station,37.776439,-122.394323
+San Jose Caltrain,ST_20120701,0,1,2,San Jose Caltrain Station,37.330196,-121.901985
+San Jose Caltrain,ST_20120701,1,1,2,San Jose Caltrain Station,37.330196,-121.901985
+San Mateo Caltrain,ST_20120701,0,1,2,San Mateo Caltrain Station,37.568209,-122.323933
+San Mateo Caltrain,ST_20120701,1,1,2,San Mateo Caltrain Station,37.568209,-122.323933
+Santa Clara Caltrain,ST_20120701,0,1,2,Santa Clara Caltrain Station,37.352915,-121.936376
+Santa Clara Caltrain,ST_20120701,1,1,2,Santa Clara Caltrain Station,37.352915,-121.936376
+So. San Francisco Caltrain,ST_20120701,0,1,2,So. San Francisco Caltrain Station,37.657013,-122.405516
+So. San Francisco Caltrain,ST_20120701,1,1,2,So. San Francisco Caltrain Station,37.657013,-122.405516
+Sunnyvale Caltrain,ST_20120701,0,1,2,Sunnyvale Caltrain Station,37.377589,-122.030116
+Sunnyvale Caltrain,ST_20120701,1,1,2,Sunnyvale Caltrain Station,37.377589,-122.030116
+22nd Street Caltrain,WD_20120701,0,3,29,22nd Street Caltrain Station,37.757674,-122.392636
+22nd Street Caltrain,WD_20120701,1,3,29,22nd Street Caltrain Station,37.757674,-122.392636
+Bayshore Caltrain,WD_20120701,0,2,20,Bayshore Caltrain Station,37.709544,-122.401318
+Bayshore Caltrain,WD_20120701,1,2,20,Bayshore Caltrain Station,37.709544,-122.401318
+Belmont Caltrain,WD_20120701,0,2,21,Belmont Caltrain Station,37.520504,-122.276075
+Belmont Caltrain,WD_20120701,1,2,21,Belmont Caltrain Station,37.520504,-122.276075
+Blossom Hill Caltrain,WD_20120701,0,1,3,Blossom Hill Caltrain Station,37.252801,-121.797369
+Blossom Hill Caltrain,WD_20120701,1,2,3,Blossom Hill Caltrain Station,37.252801,-121.797369
+Burlingame Caltrain,WD_20120701,0,2,26,Burlingame Caltrain Station,37.579719,-122.345266
+Burlingame Caltrain,WD_20120701,1,2,26,Burlingame Caltrain Station,37.579719,-122.345266
+California Ave Caltrain,WD_20120701,0,2,24,California Ave Caltrain Station,37.428835,-122.142703
+California Ave Caltrain,WD_20120701,1,2,24,California Ave Caltrain Station,37.428835,-122.142703
+Capitol Caltrain,WD_20120701,0,1,3,Capitol Caltrain Station,37.284359,-121.841589
+Capitol Caltrain,WD_20120701,1,2,3,Capitol Caltrain Station,37.284359,-121.841589
+College Park Caltrain,WD_20120701,0,2,2,College Park Caltrain Station,37.34217,-121.914998
+College Park Caltrain,WD_20120701,1,2,2,College Park Caltrain Station,37.34217,-121.914998
+Gilroy Caltrain,WD_20120701,0,1,3,Gilroy Caltrain Station,37.003084,-121.567091
+Gilroy Caltrain,WD_20120701,1,2,3,Gilroy Caltrain Station,37.003084,-121.567091
+Hayward Park Caltrain,WD_20120701,0,2,20,Hayward Park Caltrain Station,37.552346,-122.308916
+Hayward Park Caltrain,WD_20120701,1,2,20,Hayward Park Caltrain Station,37.552346,-122.308916
+Hillsdale Caltrain,WD_20120701,0,3,34,Hillsdale Caltrain Station,37.537503,-122.298001
+Hillsdale Caltrain,WD_20120701,1,3,34,Hillsdale Caltrain Station,37.537503,-122.298001
+Lawrence Caltrain,WD_20120701,0,2,25,Lawrence Caltrain Station,37.371578,-121.996982
+Lawrence Caltrain,WD_20120701,1,2,25,Lawrence Caltrain Station,37.371578,-121.996982
+Menlo Park Caltrain,WD_20120701,0,3,30,Menlo Park Caltrain Station,37.454604,-122.182518
+Menlo Park Caltrain,WD_20120701,1,3,30,Menlo Park Caltrain Station,37.454604,-122.182518
+Millbrae Caltrain,WD_20120701,0,3,39,Millbrae Caltrain Station,37.600006,-122.386534
+Millbrae Caltrain,WD_20120701,1,3,39,Millbrae Caltrain Station,37.600006,-122.386534
+Morgan Hill Caltrain,WD_20120701,0,1,3,Morgan Hill Caltrain Station,37.129081,-121.650721
+Morgan Hill Caltrain,WD_20120701,1,2,3,Morgan Hill Caltrain Station,37.129081,-121.650721
+Mountain View Caltrain,WD_20120701,0,3,37,Mountain View Caltrain Station,37.393879,-122.076327
+Mountain View Caltrain,WD_20120701,1,3,37,Mountain View Caltrain Station,37.393879,-122.076327
+Palo Alto Caltrain,WD_20120701,0,3,37,Palo Alto Caltrain Station,37.44307,-122.1649
+Palo Alto Caltrain,WD_20120701,1,3,37,Palo Alto Caltrain Station,37.44307,-122.1649
+Redwood City Caltrain,WD_20120701,0,3,34,Redwood City Caltrain Station,37.485412,-122.231957
+Redwood City Caltrain,WD_20120701,1,3,34,Redwood City Caltrain Station,37.485412,-122.231957
+San Antonio Caltrain,WD_20120701,0,2,21,San Antonio Caltrain Station,37.406163,-122.105787
+San Antonio Caltrain,WD_20120701,1,2,21,San Antonio Caltrain Station,37.406163,-122.105787
+San Bruno Caltrain,WD_20120701,0,2,25,San Bruno Caltrain Station,37.621572,-122.406408
+San Bruno Caltrain,WD_20120701,1,2,25,San Bruno Caltrain Station,37.621572,-122.406408
+San Carlos Caltrain,WD_20120701,0,2,29,San Carlos Caltrain Station,37.507361,-122.260365
+San Carlos Caltrain,WD_20120701,1,2,29,San Carlos Caltrain Station,37.507361,-122.260365
+San Francisco Caltrain,WD_20120701,0,3,43,San Francisco Caltrain Station,37.776439,-122.394323
+San Francisco Caltrain,WD_20120701,1,3,43,San Francisco Caltrain Station,37.776439,-122.394323
+San Jose Caltrain,WD_20120701,0,3,43,San Jose Caltrain Station,37.330196,-121.901985
+San Jose Caltrain,WD_20120701,1,3,43,San Jose Caltrain Station,37.330196,-121.901985
+San Martin Caltrain,WD_20120701,0,1,3,San Martin Caltrain Station,37.085775,-121.610809
+San Martin Caltrain,WD_20120701,1,2,3,San Martin Caltrain Station,37.085775,-121.610809
+San Mateo Caltrain,WD_20120701,0,3,32,San Mateo Caltrain Station,37.568209,-122.323933
+San Mateo Caltrain,WD_20120701,1,3,32,San Mateo Caltrain Station,37.568209,-122.323933
+Santa Clara Caltrain,WD_20120701,0,2,27,Santa Clara Caltrain Station,37.352915,-121.936376
+Santa Clara Caltrain,WD_20120701,1,2,27,Santa Clara Caltrain Station,37.352915,-121.936376
+So. San Francisco Caltrain,WD_20120701,0,2,23,So. San Francisco Caltrain Station,37.657013,-122.405516
+So. San Francisco Caltrain,WD_20120701,1,2,23,So. San Francisco Caltrain Station,37.657013,-122.405516
+Sunnyvale Caltrain,WD_20120701,0,3,26,Sunnyvale Caltrain Station,37.377589,-122.030116
+Sunnyvale Caltrain,WD_20120701,1,3,26,Sunnyvale Caltrain Station,37.377589,-122.030116
+Tamien Caltrain,WD_20120701,0,3,18,Tamien Caltrain Station,37.31164,-121.8839
+Tamien Caltrain,WD_20120701,1,3,18,Tamien Caltrain Station,37.31164,-121.8839
+22nd Street Caltrain,WE_20120701,0,1,14,22nd Street Caltrain Station,37.757674,-122.392636
+22nd Street Caltrain,WE_20120701,1,1,14,22nd Street Caltrain Station,37.757674,-122.392636
+Atherton Caltrain,WE_20120701,0,1,14,Atherton Caltrain Station,37.464349,-122.198106
+Atherton Caltrain,WE_20120701,1,1,14,Atherton Caltrain Station,37.464349,-122.198106
+Bayshore Caltrain,WE_20120701,0,1,14,Bayshore Caltrain Station,37.709544,-122.401318
+Bayshore Caltrain,WE_20120701,1,1,14,Bayshore Caltrain Station,37.709544,-122.401318
+Belmont Caltrain,WE_20120701,0,1,14,Belmont Caltrain Station,37.520504,-122.276075
+Belmont Caltrain,WE_20120701,1,1,14,Belmont Caltrain Station,37.520504,-122.276075
+Broadway Caltrain,WE_20120701,0,1,14,Broadway Caltrain Station,37.587466,-122.363233
+Broadway Caltrain,WE_20120701,1,1,14,Broadway Caltrain Station,37.587466,-122.363233
+Burlingame Caltrain,WE_20120701,0,1,14,Burlingame Caltrain Station,37.579719,-122.345266
+Burlingame Caltrain,WE_20120701,1,1,14,Burlingame Caltrain Station,37.579719,-122.345266
+California Ave Caltrain,WE_20120701,0,1,14,California Ave Caltrain Station,37.428835,-122.142703
+California Ave Caltrain,WE_20120701,1,1,14,California Ave Caltrain Station,37.428835,-122.142703
+Hayward Park Caltrain,WE_20120701,0,1,14,Hayward Park Caltrain Station,37.552346,-122.308916
+Hayward Park Caltrain,WE_20120701,1,1,14,Hayward Park Caltrain Station,37.552346,-122.308916
+Hillsdale Caltrain,WE_20120701,0,2,16,Hillsdale Caltrain Station,37.537503,-122.298001
+Hillsdale Caltrain,WE_20120701,1,2,16,Hillsdale Caltrain Station,37.537503,-122.298001
+Lawrence Caltrain,WE_20120701,0,1,14,Lawrence Caltrain Station,37.371578,-121.996982
+Lawrence Caltrain,WE_20120701,1,1,14,Lawrence Caltrain Station,37.371578,-121.996982
+Menlo Park Caltrain,WE_20120701,0,1,14,Menlo Park Caltrain Station,37.454604,-122.182518
+Menlo Park Caltrain,WE_20120701,1,1,14,Menlo Park Caltrain Station,37.454604,-122.182518
+Millbrae Caltrain,WE_20120701,0,2,16,Millbrae Caltrain Station,37.600006,-122.386534
+Millbrae Caltrain,WE_20120701,1,2,16,Millbrae Caltrain Station,37.600006,-122.386534
+Mountain View Caltrain,WE_20120701,0,2,16,Mountain View Caltrain Station,37.393879,-122.076327
+Mountain View Caltrain,WE_20120701,1,2,16,Mountain View Caltrain Station,37.393879,-122.076327
+Palo Alto Caltrain,WE_20120701,0,2,16,Palo Alto Caltrain Station,37.44307,-122.1649
+Palo Alto Caltrain,WE_20120701,1,2,16,Palo Alto Caltrain Station,37.44307,-122.1649
+Redwood City Caltrain,WE_20120701,0,2,16,Redwood City Caltrain Station,37.485412,-122.231957
+Redwood City Caltrain,WE_20120701,1,2,16,Redwood City Caltrain Station,37.485412,-122.231957
+San Antonio Caltrain,WE_20120701,0,1,14,San Antonio Caltrain Station,37.406163,-122.105787
+San Antonio Caltrain,WE_20120701,1,1,14,San Antonio Caltrain Station,37.406163,-122.105787
+San Bruno Caltrain,WE_20120701,0,1,14,San Bruno Caltrain Station,37.621572,-122.406408
+San Bruno Caltrain,WE_20120701,1,1,14,San Bruno Caltrain Station,37.621572,-122.406408
+San Carlos Caltrain,WE_20120701,0,1,14,San Carlos Caltrain Station,37.507361,-122.260365
+San Carlos Caltrain,WE_20120701,1,1,14,San Carlos Caltrain Station,37.507361,-122.260365
+San Francisco Caltrain,WE_20120701,0,2,16,San Francisco Caltrain Station,37.776439,-122.394323
+San Francisco Caltrain,WE_20120701,1,2,16,San Francisco Caltrain Station,37.776439,-122.394323
+San Jose Caltrain,WE_20120701,0,2,16,San Jose Caltrain Station,37.330196,-121.901985
+San Jose Caltrain,WE_20120701,1,2,16,San Jose Caltrain Station,37.330196,-121.901985
+San Mateo Caltrain,WE_20120701,0,2,16,San Mateo Caltrain Station,37.568209,-122.323933
+San Mateo Caltrain,WE_20120701,1,2,16,San Mateo Caltrain Station,37.568209,-122.323933
+Santa Clara Caltrain,WE_20120701,0,1,14,Santa Clara Caltrain Station,37.352915,-121.936376
+Santa Clara Caltrain,WE_20120701,1,1,14,Santa Clara Caltrain Station,37.352915,-121.936376
+So. San Francisco Caltrain,WE_20120701,0,1,14,So. San Francisco Caltrain Station,37.657013,-122.405516
+So. San Francisco Caltrain,WE_20120701,1,1,14,So. San Francisco Caltrain Station,37.657013,-122.405516
+Sunnyvale Caltrain,WE_20120701,0,2,16,Sunnyvale Caltrain Station,37.377589,-122.030116
+Sunnyvale Caltrain,WE_20120701,1,2,16,Sunnyvale Caltrain Station,37.377589,-122.030116

@@ -1,0 +1,323 @@
+route_id,stop_id,service_id,direction_id,avghdwy,stdev_hdwy,stop_name,stop_lat,stop_lon,route_short_name,route_long_name
+Inland Emp.-Orange Co. Line,100,1154,1,,,Irvine Metrolink Station,33.657056,-117.732932,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,100,1154,0,,,Irvine Metrolink Station,33.657056,-117.732932,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,100,1153,1,50.0,15.0,Irvine Metrolink Station,33.657056,-117.732932,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,100,1153,0,49.5,18.5,Irvine Metrolink Station,33.657056,-117.732932,"",Inland Emp.-Orange Co. Line
+Orange County Line,100,1152,1,,,Irvine Metrolink Station,33.657056,-117.732932,"",Orange County Line
+Orange County Line,100,1152,0,,,Irvine Metrolink Station,33.657056,-117.732932,"",Orange County Line
+Orange County Line,100,1151,1,41.7,14.4,Irvine Metrolink Station,33.657056,-117.732932,"",Orange County Line
+Orange County Line,100,1151,0,39.7,19.7,Irvine Metrolink Station,33.657056,-117.732932,"",Orange County Line
+Inland Emp.-Orange Co. Line,101,1154,1,,,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,101,1154,0,,,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,101,1153,1,67.0,14.7,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,101,1153,0,67.6,7.7,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675,"",Inland Emp.-Orange Co. Line
+Orange County Line,101,1152,1,,,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675,"",Orange County Line
+Orange County Line,101,1152,0,,,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675,"",Orange County Line
+Orange County Line,101,1151,1,45.2,13.3,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675,"",Orange County Line
+Orange County Line,101,1151,0,44.6,17.9,Laguna Niguel/ Mission Viejo Metrolink Station,33.5539,-117.675,"",Orange County Line
+Antelope Valley Line,102,1144,1,,,Lancaster Metrolink Station,34.696578,-118.136131,"",Antelope Valley Line
+Antelope Valley Line,102,1144,0,,,Lancaster Metrolink Station,34.696578,-118.136131,"",Antelope Valley Line
+Antelope Valley Line,102,1143,1,90.0,,Lancaster Metrolink Station,34.696578,-118.136131,"",Antelope Valley Line
+Antelope Valley Line,102,1143,0,,,Lancaster Metrolink Station,34.696578,-118.136131,"",Antelope Valley Line
+Antelope Valley Line,102,1142,1,43.5,15.2,Lancaster Metrolink Station,34.696578,-118.136131,"",Antelope Valley Line
+Antelope Valley Line,102,1142,0,57.5,14.6,Lancaster Metrolink Station,34.696578,-118.136131,"",Antelope Valley Line
+Ventura County Line,103,1141,1,38.5,0.7,East Ventura Metrolink Station,34.250794,-119.205021,"",Ventura County Line
+Ventura County Line,103,1141,0,45.0,,East Ventura Metrolink Station,34.250794,-119.205021,"",Ventura County Line
+San Bernardino Line,104,1148,1,71.5,23.3,Montclair Metrolink Station,34.094085,-117.695576,"",San Bernardino Line
+San Bernardino Line,104,1148,0,67.0,,Montclair Metrolink Station,34.094085,-117.695576,"",San Bernardino Line
+San Bernardino Line,104,1147,1,78.7,12.1,Montclair Metrolink Station,34.094085,-117.695576,"",San Bernardino Line
+San Bernardino Line,104,1147,0,,,Montclair Metrolink Station,34.094085,-117.695576,"",San Bernardino Line
+San Bernardino Line,104,1146,1,47.2,24.1,Montclair Metrolink Station,34.094085,-117.695576,"",San Bernardino Line
+San Bernardino Line,104,1146,0,44.9,21.9,Montclair Metrolink Station,34.094085,-117.695576,"",San Bernardino Line
+Riverside Line,105,1149,1,53.2,24.4,Montebello/ Commerce Metrolink Station,34.00696,-118.125608,"",Riverside Line
+Riverside Line,105,1149,0,35.0,4.3,Montebello/ Commerce Metrolink Station,34.00696,-118.125608,"",Riverside Line
+Ventura County Line,106,1141,1,40.2,13.4,Moorpark Metrolink Station,34.285323,-118.877873,"",Ventura County Line
+Ventura County Line,106,1141,0,45.4,4.3,Moorpark Metrolink Station,34.285323,-118.877873,"",Ventura County Line
+Antelope Valley Line,107,1144,1,,,Newhall Metrolink Station,34.379915,-118.527306,"",Antelope Valley Line
+Antelope Valley Line,107,1144,0,,,Newhall Metrolink Station,34.379915,-118.527306,"",Antelope Valley Line
+Antelope Valley Line,107,1143,1,,,Newhall Metrolink Station,34.379915,-118.527306,"",Antelope Valley Line
+Antelope Valley Line,107,1143,0,,,Newhall Metrolink Station,34.379915,-118.527306,"",Antelope Valley Line
+Antelope Valley Line,107,1142,1,43.6,15.0,Newhall Metrolink Station,34.379915,-118.527306,"",Antelope Valley Line
+Antelope Valley Line,107,1142,0,51.6,21.0,Newhall Metrolink Station,34.379915,-118.527306,"",Antelope Valley Line
+Inland Emp.-Orange Co. Line,108,1154,1,,,North Main Corona Metrolink Station,33.882193,-117.563452,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,108,1154,0,,,North Main Corona Metrolink Station,33.882193,-117.563452,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,108,1153,1,49.5,14.8,North Main Corona Metrolink Station,33.882193,-117.563452,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,108,1153,0,49.2,18.4,North Main Corona Metrolink Station,33.882193,-117.563452,"",Inland Emp.-Orange Co. Line
+91 Line,108,1150,1,60.0,,North Main Corona Metrolink Station,33.882193,-117.563452,"",91 Line
+91 Line,108,1150,0,52.5,17.6,North Main Corona Metrolink Station,33.882193,-117.563452,"",91 Line
+Ventura County Line,109,1141,1,36.8,18.5,Northridge Metrolink Station,34.230612,-118.545098,"",Ventura County Line
+Ventura County Line,109,1141,0,36.2,13.0,Northridge Metrolink Station,34.230612,-118.545098,"",Ventura County Line
+Orange County Line,110,1152,1,,,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060168,"",Orange County Line
+Orange County Line,110,1152,0,,,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060168,"",Orange County Line
+Orange County Line,110,1151,1,40.5,15.9,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060168,"",Orange County Line
+Orange County Line,110,1151,0,45.7,19.0,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060168,"",Orange County Line
+91 Line,110,1150,1,60.0,,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060168,"",91 Line
+91 Line,110,1150,0,52.5,17.6,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060168,"",91 Line
+Inland Emp.-Orange Co. Line,111,1154,1,,,Oceanside Metrolink Station,33.192553,-117.379876,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,111,1154,0,,,Oceanside Metrolink Station,33.192553,-117.379876,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,111,1153,1,,,Oceanside Metrolink Station,33.192553,-117.379876,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,111,1153,0,,,Oceanside Metrolink Station,33.192553,-117.379876,"",Inland Emp.-Orange Co. Line
+Orange County Line,111,1152,1,,,Oceanside Metrolink Station,33.192553,-117.379876,"",Orange County Line
+Orange County Line,111,1152,0,,,Oceanside Metrolink Station,33.192553,-117.379876,"",Orange County Line
+Orange County Line,111,1151,1,38.2,9.2,Oceanside Metrolink Station,33.192553,-117.379876,"",Orange County Line
+Orange County Line,111,1151,0,60.6,12.7,Oceanside Metrolink Station,33.192553,-117.379876,"",Orange County Line
+Inland Emp.-Orange Co. Line,112,1154,1,,,Orange Metrolink Station,33.788779,-117.857298,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,112,1154,0,,,Orange Metrolink Station,33.788779,-117.857298,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,112,1153,1,49.5,14.8,Orange Metrolink Station,33.788779,-117.857298,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,112,1153,0,49.2,18.4,Orange Metrolink Station,33.788779,-117.857298,"",Inland Emp.-Orange Co. Line
+Orange County Line,112,1152,1,,,Orange Metrolink Station,33.788779,-117.857298,"",Orange County Line
+Orange County Line,112,1152,0,,,Orange Metrolink Station,33.788779,-117.857298,"",Orange County Line
+Orange County Line,112,1151,1,41.5,14.3,Orange Metrolink Station,33.788779,-117.857298,"",Orange County Line
+Orange County Line,112,1151,0,39.8,19.5,Orange Metrolink Station,33.788779,-117.857298,"",Orange County Line
+Ventura County Line,113,1141,1,39.3,1.5,Oxnard Metrolink Station,34.199275,-119.176308,"",Ventura County Line
+Ventura County Line,113,1141,0,45.0,,Oxnard Metrolink Station,34.199275,-119.176308,"",Ventura County Line
+Antelope Valley Line,114,1144,1,,,Palmdale Metrolink Station,34.59077,-118.11929,"",Antelope Valley Line
+Antelope Valley Line,114,1144,0,,,Palmdale Metrolink Station,34.59077,-118.11929,"",Antelope Valley Line
+Antelope Valley Line,114,1143,1,90.0,,Palmdale Metrolink Station,34.59077,-118.11929,"",Antelope Valley Line
+Antelope Valley Line,114,1143,0,,,Palmdale Metrolink Station,34.59077,-118.11929,"",Antelope Valley Line
+Antelope Valley Line,114,1142,1,34.8,17.1,Palmdale Metrolink Station,34.59077,-118.11929,"",Antelope Valley Line
+Antelope Valley Line,114,1142,0,46.0,16.9,Palmdale Metrolink Station,34.59077,-118.11929,"",Antelope Valley Line
+Riverside Line,115,1149,1,53.2,24.4,Pedley Metrolink Station,33.97812,-117.47627,"",Riverside Line
+Riverside Line,115,1149,0,34.7,4.0,Pedley Metrolink Station,33.97812,-117.47627,"",Riverside Line
+San Bernardino Line,116,1148,1,71.5,24.7,Pomona (North) Metrolink Station,34.093638,-117.753048,"",San Bernardino Line
+San Bernardino Line,116,1148,0,67.0,,Pomona (North) Metrolink Station,34.093638,-117.753048,"",San Bernardino Line
+San Bernardino Line,116,1147,1,78.7,12.9,Pomona (North) Metrolink Station,34.093638,-117.753048,"",San Bernardino Line
+San Bernardino Line,116,1147,0,,,Pomona (North) Metrolink Station,34.093638,-117.753048,"",San Bernardino Line
+San Bernardino Line,116,1146,1,47.2,24.1,Pomona (North) Metrolink Station,34.093638,-117.753048,"",San Bernardino Line
+San Bernardino Line,116,1146,0,44.9,21.9,Pomona (North) Metrolink Station,34.093638,-117.753048,"",San Bernardino Line
+Antelope Valley Line,117,1144,1,,,Via Princessa Metrolink Station,34.408818,-118.469404,"",Antelope Valley Line
+Antelope Valley Line,117,1144,0,,,Via Princessa Metrolink Station,34.408818,-118.469404,"",Antelope Valley Line
+Antelope Valley Line,117,1143,1,,,Via Princessa Metrolink Station,34.408818,-118.469404,"",Antelope Valley Line
+Antelope Valley Line,117,1143,0,,,Via Princessa Metrolink Station,34.408818,-118.469404,"",Antelope Valley Line
+Antelope Valley Line,117,1142,1,49.7,14.0,Via Princessa Metrolink Station,34.408818,-118.469404,"",Antelope Valley Line
+Antelope Valley Line,117,1142,0,59.6,10.4,Via Princessa Metrolink Station,34.408818,-118.469404,"",Antelope Valley Line
+San Bernardino Line,118,1148,1,73.0,21.2,Rancho Cucamonga Metrolink Station,34.091853,-117.559936,"",San Bernardino Line
+San Bernardino Line,118,1148,0,63.0,,Rancho Cucamonga Metrolink Station,34.091853,-117.559936,"",San Bernardino Line
+San Bernardino Line,118,1147,1,81.0,11.2,Rancho Cucamonga Metrolink Station,34.091853,-117.559936,"",San Bernardino Line
+San Bernardino Line,118,1147,0,90.0,,Rancho Cucamonga Metrolink Station,34.091853,-117.559936,"",San Bernardino Line
+San Bernardino Line,118,1146,1,44.6,25.2,Rancho Cucamonga Metrolink Station,34.091853,-117.559936,"",San Bernardino Line
+San Bernardino Line,118,1146,0,42.4,22.9,Rancho Cucamonga Metrolink Station,34.091853,-117.559936,"",San Bernardino Line
+San Bernardino Line,119,1148,1,73.5,20.5,Rialto Metrolink Station,34.096788,-117.371884,"",San Bernardino Line
+San Bernardino Line,119,1148,0,69.0,,Rialto Metrolink Station,34.096788,-117.371884,"",San Bernardino Line
+San Bernardino Line,119,1147,1,81.0,11.2,Rialto Metrolink Station,34.096788,-117.371884,"",San Bernardino Line
+San Bernardino Line,119,1147,0,90.0,,Rialto Metrolink Station,34.096788,-117.371884,"",San Bernardino Line
+San Bernardino Line,119,1146,1,47.1,23.5,Rialto Metrolink Station,34.096788,-117.371884,"",San Bernardino Line
+San Bernardino Line,119,1146,0,44.9,22.0,Rialto Metrolink Station,34.096788,-117.371884,"",San Bernardino Line
+Inland Emp.-Orange Co. Line,120,1154,1,,,Riverside-Downtown Metrolink Station,33.975553,-117.369892,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,120,1154,0,,,Riverside-Downtown Metrolink Station,33.975553,-117.369892,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,120,1153,1,50.5,22.6,Riverside-Downtown Metrolink Station,33.975553,-117.369892,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,120,1153,0,49.2,18.4,Riverside-Downtown Metrolink Station,33.975553,-117.369892,"",Inland Emp.-Orange Co. Line
+91 Line,120,1150,1,60.0,,Riverside-Downtown Metrolink Station,33.975553,-117.369892,"",91 Line
+91 Line,120,1150,0,57.5,10.6,Riverside-Downtown Metrolink Station,33.975553,-117.369892,"",91 Line
+Riverside Line,120,1149,1,53.2,24.4,Riverside-Downtown Metrolink Station,33.975553,-117.369892,"",Riverside Line
+Riverside Line,120,1149,0,35.0,4.7,Riverside-Downtown Metrolink Station,33.975553,-117.369892,"",Riverside Line
+San Bernardino Line,120,1148,1,,,Riverside-Downtown Metrolink Station,33.975553,-117.369892,"",San Bernardino Line
+San Bernardino Line,120,1148,0,,,Riverside-Downtown Metrolink Station,33.975553,-117.369892,"",San Bernardino Line
+San Bernardino Line,120,1147,1,,,Riverside-Downtown Metrolink Station,33.975553,-117.369892,"",San Bernardino Line
+San Bernardino Line,120,1147,0,,,Riverside-Downtown Metrolink Station,33.975553,-117.369892,"",San Bernardino Line
+Inland Emp.-Orange Co. Line,121,1154,1,,,Riverside-La Sierra Metrolink Station,33.899926,-117.470201,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,121,1154,0,,,Riverside-La Sierra Metrolink Station,33.899926,-117.470201,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,121,1153,1,49.7,15.3,Riverside-La Sierra Metrolink Station,33.899926,-117.470201,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,121,1153,0,49.2,18.4,Riverside-La Sierra Metrolink Station,33.899926,-117.470201,"",Inland Emp.-Orange Co. Line
+91 Line,121,1150,1,60.0,,Riverside-La Sierra Metrolink Station,33.899926,-117.470201,"",91 Line
+91 Line,121,1150,0,52.5,17.6,Riverside-La Sierra Metrolink Station,33.899926,-117.470201,"",91 Line
+Inland Emp.-Orange Co. Line,122,1154,1,,,San Bernardino Metrolink Station,34.104529,-117.310086,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,122,1154,0,,,San Bernardino Metrolink Station,34.104529,-117.310086,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,122,1153,1,42.5,10.6,San Bernardino Metrolink Station,34.104529,-117.310086,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,122,1153,0,34.0,2.8,San Bernardino Metrolink Station,34.104529,-117.310086,"",Inland Emp.-Orange Co. Line
+San Bernardino Line,122,1148,1,74.0,19.7,San Bernardino Metrolink Station,34.104529,-117.310086,"",San Bernardino Line
+San Bernardino Line,122,1148,0,65.0,,San Bernardino Metrolink Station,34.104529,-117.310086,"",San Bernardino Line
+San Bernardino Line,122,1147,1,81.0,11.2,San Bernardino Metrolink Station,34.104529,-117.310086,"",San Bernardino Line
+San Bernardino Line,122,1147,0,90.0,,San Bernardino Metrolink Station,34.104529,-117.310086,"",San Bernardino Line
+San Bernardino Line,122,1146,1,44.5,24.9,San Bernardino Metrolink Station,34.104529,-117.310086,"",San Bernardino Line
+San Bernardino Line,122,1146,0,42.7,23.4,San Bernardino Metrolink Station,34.104529,-117.310086,"",San Bernardino Line
+Inland Emp.-Orange Co. Line,123,1154,1,,,San Clemente Metrolink Station,33.432074,-117.632735,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,123,1154,0,,,San Clemente Metrolink Station,33.432074,-117.632735,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,123,1153,1,,,San Clemente Metrolink Station,33.432074,-117.632735,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,123,1153,0,,,San Clemente Metrolink Station,33.432074,-117.632735,"",Inland Emp.-Orange Co. Line
+Orange County Line,123,1152,1,,,San Clemente Metrolink Station,33.432074,-117.632735,"",Orange County Line
+Orange County Line,123,1152,0,,,San Clemente Metrolink Station,33.432074,-117.632735,"",Orange County Line
+Orange County Line,123,1151,1,38.0,8.5,San Clemente Metrolink Station,33.432074,-117.632735,"",Orange County Line
+Orange County Line,123,1151,0,61.0,12.2,San Clemente Metrolink Station,33.432074,-117.632735,"",Orange County Line
+Inland Emp.-Orange Co. Line,124,1154,1,,,San Juan Capistrano Metrolink Station,33.5014,-117.6637,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,124,1154,0,,,San Juan Capistrano Metrolink Station,33.5014,-117.6637,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,124,1153,1,,,San Juan Capistrano Metrolink Station,33.5014,-117.6637,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,124,1153,0,66.0,,San Juan Capistrano Metrolink Station,33.5014,-117.6637,"",Inland Emp.-Orange Co. Line
+Orange County Line,124,1152,1,,,San Juan Capistrano Metrolink Station,33.5014,-117.6637,"",Orange County Line
+Orange County Line,124,1152,0,,,San Juan Capistrano Metrolink Station,33.5014,-117.6637,"",Orange County Line
+Orange County Line,124,1151,1,39.7,8.4,San Juan Capistrano Metrolink Station,33.5014,-117.6637,"",Orange County Line
+Orange County Line,124,1151,0,61.6,12.7,San Juan Capistrano Metrolink Station,33.5014,-117.6637,"",Orange County Line
+Inland Emp.-Orange Co. Line,125,1154,1,,,Santa Ana Metrolink Station,33.751522,-117.85598,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,125,1154,0,,,Santa Ana Metrolink Station,33.751522,-117.85598,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,125,1153,1,49.5,14.8,Santa Ana Metrolink Station,33.751522,-117.85598,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,125,1153,0,49.2,18.4,Santa Ana Metrolink Station,33.751522,-117.85598,"",Inland Emp.-Orange Co. Line
+Orange County Line,125,1152,1,,,Santa Ana Metrolink Station,33.751522,-117.85598,"",Orange County Line
+Orange County Line,125,1152,0,,,Santa Ana Metrolink Station,33.751522,-117.85598,"",Orange County Line
+Orange County Line,125,1151,1,41.5,14.3,Santa Ana Metrolink Station,33.751522,-117.85598,"",Orange County Line
+Orange County Line,125,1151,0,39.8,19.5,Santa Ana Metrolink Station,33.751522,-117.85598,"",Orange County Line
+Antelope Valley Line,126,1144,1,,,Santa Clarita Metrolink Station,34.413438,-118.524819,"",Antelope Valley Line
+Antelope Valley Line,126,1144,0,,,Santa Clarita Metrolink Station,34.413438,-118.524819,"",Antelope Valley Line
+Antelope Valley Line,126,1143,1,,,Santa Clarita Metrolink Station,34.413438,-118.524819,"",Antelope Valley Line
+Antelope Valley Line,126,1143,0,,,Santa Clarita Metrolink Station,34.413438,-118.524819,"",Antelope Valley Line
+Antelope Valley Line,126,1142,1,38.8,15.8,Santa Clarita Metrolink Station,34.413438,-118.524819,"",Antelope Valley Line
+Antelope Valley Line,126,1142,0,47.0,20.5,Santa Clarita Metrolink Station,34.413438,-118.524819,"",Antelope Valley Line
+Ventura County Line,127,1141,1,40.2,14.5,Simi Valley Metrolink Station,34.270414,-118.695549,"",Ventura County Line
+Ventura County Line,127,1141,0,47.6,3.7,Simi Valley Metrolink Station,34.270414,-118.695549,"",Ventura County Line
+Antelope Valley Line,128,1144,1,,,Sun Valley Metrolink Station,34.222402,-118.373401,"",Antelope Valley Line
+Antelope Valley Line,128,1144,0,,,Sun Valley Metrolink Station,34.222402,-118.373401,"",Antelope Valley Line
+Antelope Valley Line,128,1143,1,90.0,,Sun Valley Metrolink Station,34.222402,-118.373401,"",Antelope Valley Line
+Antelope Valley Line,128,1143,0,,,Sun Valley Metrolink Station,34.222402,-118.373401,"",Antelope Valley Line
+Antelope Valley Line,128,1142,1,43.6,14.3,Sun Valley Metrolink Station,34.222402,-118.373401,"",Antelope Valley Line
+Antelope Valley Line,128,1142,0,52.5,21.2,Sun Valley Metrolink Station,34.222402,-118.373401,"",Antelope Valley Line
+Antelope Valley Line,129,1144,1,,,Sylmar/San Fernando Metrolink Station,34.292593,-118.45017,"",Antelope Valley Line
+Antelope Valley Line,129,1144,0,,,Sylmar/San Fernando Metrolink Station,34.292593,-118.45017,"",Antelope Valley Line
+Antelope Valley Line,129,1143,1,90.0,,Sylmar/San Fernando Metrolink Station,34.292593,-118.45017,"",Antelope Valley Line
+Antelope Valley Line,129,1143,0,,,Sylmar/San Fernando Metrolink Station,34.292593,-118.45017,"",Antelope Valley Line
+Antelope Valley Line,129,1142,1,39.3,16.2,Sylmar/San Fernando Metrolink Station,34.292593,-118.45017,"",Antelope Valley Line
+Antelope Valley Line,129,1142,0,47.7,22.2,Sylmar/San Fernando Metrolink Station,34.292593,-118.45017,"",Antelope Valley Line
+Inland Emp.-Orange Co. Line,130,1154,1,,,Tustin Metrolink Station,33.707966,-117.806018,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,130,1154,0,,,Tustin Metrolink Station,33.707966,-117.806018,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,130,1153,1,49.7,15.0,Tustin Metrolink Station,33.707966,-117.806018,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,130,1153,0,49.2,18.4,Tustin Metrolink Station,33.707966,-117.806018,"",Inland Emp.-Orange Co. Line
+Orange County Line,130,1152,1,,,Tustin Metrolink Station,33.707966,-117.806018,"",Orange County Line
+Orange County Line,130,1152,0,,,Tustin Metrolink Station,33.707966,-117.806018,"",Orange County Line
+Orange County Line,130,1151,1,41.5,14.0,Tustin Metrolink Station,33.707966,-117.806018,"",Orange County Line
+Orange County Line,130,1151,0,39.8,19.5,Tustin Metrolink Station,33.707966,-117.806018,"",Orange County Line
+Orange County Line,131,1152,1,,,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Orange County Line
+Orange County Line,131,1152,0,,,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Orange County Line
+Orange County Line,131,1151,1,39.8,15.2,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Orange County Line
+Orange County Line,131,1151,0,45.7,17.8,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Orange County Line
+91 Line,131,1150,1,60.0,,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",91 Line
+91 Line,131,1150,0,52.5,17.6,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",91 Line
+Riverside Line,131,1149,1,53.2,24.4,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Riverside Line
+Riverside Line,131,1149,0,35.0,4.3,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Riverside Line
+San Bernardino Line,131,1148,1,45.0,,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",San Bernardino Line
+San Bernardino Line,131,1148,0,70.0,,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",San Bernardino Line
+San Bernardino Line,131,1147,1,78.7,19.3,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",San Bernardino Line
+San Bernardino Line,131,1147,0,,,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",San Bernardino Line
+San Bernardino Line,131,1146,1,47.8,25.2,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",San Bernardino Line
+San Bernardino Line,131,1146,0,43.1,23.9,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",San Bernardino Line
+Burbank-Bob Hope Airport,131,1145,1,45.0,7.0,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Burbank-Bob Hope Airport
+Burbank-Bob Hope Airport,131,1145,0,46.0,36.3,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Burbank-Bob Hope Airport
+Antelope Valley Line,131,1144,1,,,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Antelope Valley Line
+Antelope Valley Line,131,1144,0,,,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Antelope Valley Line
+Antelope Valley Line,131,1143,1,90.0,,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Antelope Valley Line
+Antelope Valley Line,131,1143,0,,,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Antelope Valley Line
+Antelope Valley Line,131,1142,1,39.2,16.7,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Antelope Valley Line
+Antelope Valley Line,131,1142,0,47.7,22.2,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Antelope Valley Line
+Ventura County Line,131,1141,1,37.8,19.3,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Ventura County Line
+Ventura County Line,131,1141,0,35.7,13.3,L. A. Union Station Metrolink Station,34.054289,-118.234301,"",Ventura County Line
+San Bernardino Line,132,1148,1,72.0,22.6,Upland Metrolink Station,34.094501,-117.647503,"",San Bernardino Line
+San Bernardino Line,132,1148,0,67.0,,Upland Metrolink Station,34.094501,-117.647503,"",San Bernardino Line
+San Bernardino Line,132,1147,1,78.7,12.1,Upland Metrolink Station,34.094501,-117.647503,"",San Bernardino Line
+San Bernardino Line,132,1147,0,,,Upland Metrolink Station,34.094501,-117.647503,"",San Bernardino Line
+San Bernardino Line,132,1146,1,47.2,24.0,Upland Metrolink Station,34.094501,-117.647503,"",San Bernardino Line
+San Bernardino Line,132,1146,0,44.9,21.9,Upland Metrolink Station,34.094501,-117.647503,"",San Bernardino Line
+Ventura County Line,133,1141,1,37.5,19.5,Van Nuys Metrolink Station,34.211561,-118.448219,"",Ventura County Line
+Ventura County Line,133,1141,0,36.1,12.9,Van Nuys Metrolink Station,34.211561,-118.448219,"",Ventura County Line
+Antelope Valley Line,134,1144,1,,,Vincent Grade/Acton Metrolink Station,34.497859,-118.118299,"",Antelope Valley Line
+Antelope Valley Line,134,1144,0,,,Vincent Grade/Acton Metrolink Station,34.497859,-118.118299,"",Antelope Valley Line
+Antelope Valley Line,134,1143,1,89.0,,Vincent Grade/Acton Metrolink Station,34.497859,-118.118299,"",Antelope Valley Line
+Antelope Valley Line,134,1143,0,,,Vincent Grade/Acton Metrolink Station,34.497859,-118.118299,"",Antelope Valley Line
+Antelope Valley Line,134,1142,1,43.5,15.2,Vincent Grade/Acton Metrolink Station,34.497859,-118.118299,"",Antelope Valley Line
+Antelope Valley Line,134,1142,0,58.0,14.6,Vincent Grade/Acton Metrolink Station,34.497859,-118.118299,"",Antelope Valley Line
+Inland Emp.-Orange Co. Line,135,1154,1,,,West Corona Metrolink Station,33.885763,-117.613583,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,135,1154,0,,,West Corona Metrolink Station,33.885763,-117.613583,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,135,1153,1,49.5,14.8,West Corona Metrolink Station,33.885763,-117.613583,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,135,1153,0,49.2,18.4,West Corona Metrolink Station,33.885763,-117.613583,"",Inland Emp.-Orange Co. Line
+91 Line,135,1150,1,60.0,,West Corona Metrolink Station,33.885763,-117.613583,"",91 Line
+91 Line,135,1150,0,52.5,17.6,West Corona Metrolink Station,33.885763,-117.613583,"",91 Line
+Inland Emp.-Orange Co. Line,141,1154,1,,,San Clemente Pier Metrolink Station,33.419474,-117.619596,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,141,1154,0,,,San Clemente Pier Metrolink Station,33.419474,-117.619596,"",Inland Emp.-Orange Co. Line
+Orange County Line,81,1152,1,,,Anaheim Metrolink Station,33.803607,-117.882461,"",Orange County Line
+Orange County Line,81,1152,0,,,Anaheim Metrolink Station,33.803607,-117.882461,"",Orange County Line
+Orange County Line,81,1151,1,41.5,14.3,Anaheim Metrolink Station,33.803607,-117.882461,"",Orange County Line
+Orange County Line,81,1151,0,40.1,20.0,Anaheim Metrolink Station,33.803607,-117.882461,"",Orange County Line
+Inland Emp.-Orange Co. Line,82,1154,1,,,Anaheim Canyon Metrolink Station,33.854177,-117.840524,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,82,1154,0,,,Anaheim Canyon Metrolink Station,33.854177,-117.840524,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,82,1153,1,49.5,14.8,Anaheim Canyon Metrolink Station,33.854177,-117.840524,"",Inland Emp.-Orange Co. Line
+Inland Emp.-Orange Co. Line,82,1153,0,49.2,18.4,Anaheim Canyon Metrolink Station,33.854177,-117.840524,"",Inland Emp.-Orange Co. Line
+San Bernardino Line,83,1148,1,53.0,,Baldwin Park Metrolink Station,34.086426,-117.957398,"",San Bernardino Line
+San Bernardino Line,83,1148,0,68.0,,Baldwin Park Metrolink Station,34.086426,-117.957398,"",San Bernardino Line
+San Bernardino Line,83,1147,1,73.3,12.2,Baldwin Park Metrolink Station,34.086426,-117.957398,"",San Bernardino Line
+San Bernardino Line,83,1147,0,,,Baldwin Park Metrolink Station,34.086426,-117.957398,"",San Bernardino Line
+San Bernardino Line,83,1146,1,47.2,24.6,Baldwin Park Metrolink Station,34.086426,-117.957398,"",San Bernardino Line
+San Bernardino Line,83,1146,0,45.0,21.6,Baldwin Park Metrolink Station,34.086426,-117.957398,"",San Bernardino Line
+Orange County Line,84,1152,1,,,Buena Park Metrolink Station,33.875968,-117.986857,"",Orange County Line
+Orange County Line,84,1152,0,,,Buena Park Metrolink Station,33.875968,-117.986857,"",Orange County Line
+Orange County Line,84,1151,1,40.2,15.4,Buena Park Metrolink Station,33.875968,-117.986857,"",Orange County Line
+Orange County Line,84,1151,0,45.7,19.2,Buena Park Metrolink Station,33.875968,-117.986857,"",Orange County Line
+91 Line,84,1150,1,60.0,,Buena Park Metrolink Station,33.875968,-117.986857,"",91 Line
+91 Line,84,1150,0,52.5,17.6,Buena Park Metrolink Station,33.875968,-117.986857,"",91 Line
+Burbank-Bob Hope Airport,85,1145,1,44.0,8.4,Burbank-Bob Hope Airport Metrolink Station,34.192795,-118.352598,"",Burbank-Bob Hope Airport
+Burbank-Bob Hope Airport,85,1145,0,46.0,36.3,Burbank-Bob Hope Airport Metrolink Station,34.192795,-118.352598,"",Burbank-Bob Hope Airport
+Ventura County Line,85,1141,1,37.0,18.7,Burbank-Bob Hope Airport Metrolink Station,34.192795,-118.352598,"",Ventura County Line
+Ventura County Line,85,1141,0,36.2,12.6,Burbank-Bob Hope Airport Metrolink Station,34.192795,-118.352598,"",Ventura County Line
+Burbank-Bob Hope Airport,86,1145,1,44.5,9.1,Downtown Burbank Metrolink Station,34.178942,-118.312863,"",Burbank-Bob Hope Airport
+Burbank-Bob Hope Airport,86,1145,0,46.0,36.3,Downtown Burbank Metrolink Station,34.178942,-118.312863,"",Burbank-Bob Hope Airport
+Antelope Valley Line,86,1144,1,,,Downtown Burbank Metrolink Station,34.178942,-118.312863,"",Antelope Valley Line
+Antelope Valley Line,86,1144,0,,,Downtown Burbank Metrolink Station,34.178942,-118.312863,"",Antelope Valley Line
+Antelope Valley Line,86,1143,1,90.0,,Downtown Burbank Metrolink Station,34.178942,-118.312863,"",Antelope Valley Line
+Antelope Valley Line,86,1143,0,,,Downtown Burbank Metrolink Station,34.178942,-118.312863,"",Antelope Valley Line
+Antelope Valley Line,86,1142,1,39.4,16.3,Downtown Burbank Metrolink Station,34.178942,-118.312863,"",Antelope Valley Line
+Antelope Valley Line,86,1142,0,47.6,22.0,Downtown Burbank Metrolink Station,34.178942,-118.312863,"",Antelope Valley Line
+Ventura County Line,86,1141,1,37.1,19.0,Downtown Burbank Metrolink Station,34.178942,-118.312863,"",Ventura County Line
+Ventura County Line,86,1141,0,38.3,12.5,Downtown Burbank Metrolink Station,34.178942,-118.312863,"",Ventura County Line
+San Bernardino Line,87,1148,1,46.0,,Cal State LA Metrolink Station,34.062119,-118.171647,"",San Bernardino Line
+San Bernardino Line,87,1148,0,70.0,,Cal State LA Metrolink Station,34.062119,-118.171647,"",San Bernardino Line
+San Bernardino Line,87,1147,1,75.0,17.7,Cal State LA Metrolink Station,34.062119,-118.171647,"",San Bernardino Line
+San Bernardino Line,87,1147,0,,,Cal State LA Metrolink Station,34.062119,-118.171647,"",San Bernardino Line
+San Bernardino Line,87,1146,1,47.7,22.2,Cal State LA Metrolink Station,34.062119,-118.171647,"",San Bernardino Line
+San Bernardino Line,87,1146,0,45.6,22.3,Cal State LA Metrolink Station,34.062119,-118.171647,"",San Bernardino Line
+Ventura County Line,88,1141,1,39.6,2.0,Camarillo Metrolink Station,34.216656,-119.033825,"",Ventura County Line
+Ventura County Line,88,1141,0,67.5,31.8,Camarillo Metrolink Station,34.216656,-119.033825,"",Ventura County Line
+Ventura County Line,89,1141,1,36.8,18.5,Chatsworth Metrolink Station,34.253195,-118.599413,"",Ventura County Line
+Ventura County Line,89,1141,0,35.2,15.1,Chatsworth Metrolink Station,34.253195,-118.599413,"",Ventura County Line
+San Bernardino Line,90,1148,1,71.5,23.3,Claremont Metrolink Station,34.093883,-117.716354,"",San Bernardino Line
+San Bernardino Line,90,1148,0,67.0,,Claremont Metrolink Station,34.093883,-117.716354,"",San Bernardino Line
+San Bernardino Line,90,1147,1,78.7,12.1,Claremont Metrolink Station,34.093883,-117.716354,"",San Bernardino Line
+San Bernardino Line,90,1147,0,,,Claremont Metrolink Station,34.093883,-117.716354,"",San Bernardino Line
+San Bernardino Line,90,1146,1,47.2,24.1,Claremont Metrolink Station,34.093883,-117.716354,"",San Bernardino Line
+San Bernardino Line,90,1146,0,44.9,21.9,Claremont Metrolink Station,34.093883,-117.716354,"",San Bernardino Line
+Orange County Line,91,1151,1,40.6,10.0,Commerce Metrolink Station,33.990736,-118.143778,"",Orange County Line
+Orange County Line,91,1151,0,46.6,20.8,Commerce Metrolink Station,33.990736,-118.143778,"",Orange County Line
+San Bernardino Line,92,1148,1,71.0,25.4,Covina Metrolink Station,34.092139,-117.888896,"",San Bernardino Line
+San Bernardino Line,92,1148,0,68.0,,Covina Metrolink Station,34.092139,-117.888896,"",San Bernardino Line
+San Bernardino Line,92,1147,1,78.7,12.9,Covina Metrolink Station,34.092139,-117.888896,"",San Bernardino Line
+San Bernardino Line,92,1147,0,,,Covina Metrolink Station,34.092139,-117.888896,"",San Bernardino Line
+San Bernardino Line,92,1146,1,44.6,25.8,Covina Metrolink Station,34.092139,-117.888896,"",San Bernardino Line
+San Bernardino Line,92,1146,0,42.4,23.4,Covina Metrolink Station,34.092139,-117.888896,"",San Bernardino Line
+Riverside Line,93,1149,1,53.2,24.4,Downtown Pomona Metrolink Station,34.058764,-117.750553,"",Riverside Line
+Riverside Line,93,1149,0,35.0,4.3,Downtown Pomona Metrolink Station,34.058764,-117.750553,"",Riverside Line
+Riverside Line,94,1149,1,53.2,24.4,East Ontario Metrolink Station,34.039908,-117.579521,"",Riverside Line
+Riverside Line,94,1149,0,34.7,4.0,East Ontario Metrolink Station,34.039908,-117.579521,"",Riverside Line
+San Bernardino Line,95,1148,1,48.0,,El Monte Metrolink Station,34.076806,-118.035496,"",San Bernardino Line
+San Bernardino Line,95,1148,0,69.0,,El Monte Metrolink Station,34.076806,-118.035496,"",San Bernardino Line
+San Bernardino Line,95,1147,1,74.3,17.2,El Monte Metrolink Station,34.076806,-118.035496,"",San Bernardino Line
+San Bernardino Line,95,1147,0,,,El Monte Metrolink Station,34.076806,-118.035496,"",San Bernardino Line
+San Bernardino Line,95,1146,1,47.1,23.2,El Monte Metrolink Station,34.076806,-118.035496,"",San Bernardino Line
+San Bernardino Line,95,1146,0,45.3,22.0,El Monte Metrolink Station,34.076806,-118.035496,"",San Bernardino Line
+San Bernardino Line,96,1148,1,73.5,20.5,Fontana Metrolink Station,34.095167,-117.438096,"",San Bernardino Line
+San Bernardino Line,96,1148,0,63.0,,Fontana Metrolink Station,34.095167,-117.438096,"",San Bernardino Line
+San Bernardino Line,96,1147,1,81.0,11.2,Fontana Metrolink Station,34.095167,-117.438096,"",San Bernardino Line
+San Bernardino Line,96,1147,0,90.0,,Fontana Metrolink Station,34.095167,-117.438096,"",San Bernardino Line
+San Bernardino Line,96,1146,1,47.1,24.0,Fontana Metrolink Station,34.095167,-117.438096,"",San Bernardino Line
+San Bernardino Line,96,1146,0,44.9,21.9,Fontana Metrolink Station,34.095167,-117.438096,"",San Bernardino Line
+Orange County Line,97,1152,1,,,Fullerton Metrolink Station,33.868697,-117.922291,"",Orange County Line
+Orange County Line,97,1152,0,,,Fullerton Metrolink Station,33.868697,-117.922291,"",Orange County Line
+Orange County Line,97,1151,1,41.5,14.5,Fullerton Metrolink Station,33.868697,-117.922291,"",Orange County Line
+Orange County Line,97,1151,0,40.1,20.0,Fullerton Metrolink Station,33.868697,-117.922291,"",Orange County Line
+91 Line,97,1150,1,60.0,,Fullerton Metrolink Station,33.868697,-117.922291,"",91 Line
+91 Line,97,1150,0,52.5,17.6,Fullerton Metrolink Station,33.868697,-117.922291,"",91 Line
+Burbank-Bob Hope Airport,98,1145,1,44.0,8.4,Glendale Metrolink Station,34.12334,-118.258927,"",Burbank-Bob Hope Airport
+Burbank-Bob Hope Airport,98,1145,0,46.0,36.3,Glendale Metrolink Station,34.12334,-118.258927,"",Burbank-Bob Hope Airport
+Antelope Valley Line,98,1144,1,,,Glendale Metrolink Station,34.12334,-118.258927,"",Antelope Valley Line
+Antelope Valley Line,98,1144,0,,,Glendale Metrolink Station,34.12334,-118.258927,"",Antelope Valley Line
+Antelope Valley Line,98,1143,1,90.0,,Glendale Metrolink Station,34.12334,-118.258927,"",Antelope Valley Line
+Antelope Valley Line,98,1143,0,,,Glendale Metrolink Station,34.12334,-118.258927,"",Antelope Valley Line
+Antelope Valley Line,98,1142,1,43.8,15.5,Glendale Metrolink Station,34.12334,-118.258927,"",Antelope Valley Line
+Antelope Valley Line,98,1142,0,52.4,21.1,Glendale Metrolink Station,34.12334,-118.258927,"",Antelope Valley Line
+Ventura County Line,98,1141,1,37.2,19.2,Glendale Metrolink Station,34.12334,-118.258927,"",Ventura County Line
+Ventura County Line,98,1141,0,36.1,12.8,Glendale Metrolink Station,34.12334,-118.258927,"",Ventura County Line
+Riverside Line,99,1149,1,53.2,24.4,Industry Metrolink Station,34.007928,-117.845583,"",Riverside Line
+Riverside Line,99,1149,0,35.0,4.3,Industry Metrolink Station,34.007928,-117.845583,"",Riverside Line

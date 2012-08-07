@@ -1,0 +1,5 @@
+stop_id,service_id,direction_id,numroutes,TripsServingStop,stop_name,stop_lat,stop_lon
+COLS,M-FSAT,0,1,4,Coliseum/Oakland Airport,37.754006,-122.197273
+OAK,M-FSAT,0,1,4,Oakland Airport Terminals AirBART,37.712811,-122.213165
+COLS,SUNAB,0,1,2,Coliseum/Oakland Airport,37.754006,-122.197273
+OAK,SUNAB,0,1,2,Oakland Airport Terminals AirBART,37.712811,-122.213165

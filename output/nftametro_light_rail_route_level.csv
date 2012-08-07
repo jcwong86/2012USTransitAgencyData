@@ -1,0 +1,4 @@
+route_id,service_id,direction_id,numtripsperroute_both_dir,hours_of_service,first_departure_sec,last_departure_sec,span_of_service_hrs,route_avg_hdwy,route_stdev_hdwy,trips_per_day,average_speed,average_length_mi,w_avg_num_stops,avg_dist_bw_stops_ft,route_short_name,route_long_name
+45,sat,0,124,18,25500,89340,18,16.6,2.3,62,25.3,8.3,14.4,3266.1498316326530611209,"",METRO RAIL
+45,sun,0,92,16,28800,85740,16,20.0,0.0,46,25.4,8.3,14.4,3271.6203879870129869022,"",METRO RAIL
+45,wkd,0,180,20,18600,89280,20,12.7,3.5,90,23.2,8.3,14.4,3265.6931859504132231649,"",METRO RAIL

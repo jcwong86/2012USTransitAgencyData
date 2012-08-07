@@ -1,0 +1,377 @@
+route_id,stop_id,service_id,direction_id,avghdwy,stdev_hdwy,stop_name,stop_lat,stop_lon,route_short_name,route_long_name
+101C,23041,SA,0,31.0,,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail C Line
+101D,23041,SA,0,18.4,6.6,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail D Line
+101E,23041,SA,0,19.4,11.9,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail E Line
+101H,23041,SA,0,18.9,8.1,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail H Line
+101C,23042,SA,0,31.0,,Alameda Station,39.708706,-104.993143,101,Light Rail C Line
+101D,23042,SA,0,18.4,6.5,Alameda Station,39.708706,-104.993143,101,Light Rail D Line
+101E,23042,SA,0,18.7,10.4,Alameda Station,39.708706,-104.993143,101,Light Rail E Line
+101H,23042,SA,0,18.3,6.5,Alameda Station,39.708706,-104.993143,101,Light Rail H Line
+101C,23043,SA,0,31.0,,10th & Osage Station,39.732222,-105.005654,101,Light Rail C Line
+101D,23043,SA,0,18.4,6.5,10th & Osage Station,39.732222,-105.005654,101,Light Rail D Line
+101E,23043,SA,0,18.7,10.5,10th & Osage Station,39.732222,-105.005654,101,Light Rail E Line
+101H,23043,SA,0,18.3,6.5,10th & Osage Station,39.732222,-105.005654,101,Light Rail H Line
+101D,23044,SA,0,18.4,6.5,Colfax at Auraria Station,39.7402,-105.001847,101,Light Rail D Line
+101H,23044,SA,0,18.3,6.5,Colfax at Auraria Station,39.7402,-105.001847,101,Light Rail H Line
+101D,23046,SA,0,18.4,6.7,16th & California Station,39.744949,-104.992337,101,Light Rail D Line
+101H,23046,SA,0,18.3,6.5,16th & California Station,39.744949,-104.992337,101,Light Rail H Line
+101D,23047,SA,0,18.4,6.7,18th & California Station,39.746813,-104.989945,101,Light Rail D Line
+101H,23047,SA,0,18.4,6.5,18th & California Station,39.746813,-104.989945,101,Light Rail H Line
+101D,23048,SA,0,18.1,6.4,20th & Welton Station,39.748043,-104.986559,101,Light Rail D Line
+101D,23049,SA,0,18.1,6.4,25th & Welton Stn,39.753209,-104.979957,101,Light Rail D Line
+101D,23050,SA,0,18.1,6.4,29th & Welton Station,39.756723,-104.975372,101,Light Rail D Line
+101D,23051,SA,0,18.1,6.3,30th & Downing Station,39.758988,-104.97345,101,Light Rail D Line
+101D,23051,SA,1,17.9,6.3,30th & Downing Station,39.758988,-104.97345,101,Light Rail D Line
+101D,23052,SA,1,17.9,6.3,29th & Welton Station,39.756946,-104.975407,101,Light Rail D Line
+101D,23053,SA,1,17.9,6.3,25th & Welton Stn,39.753397,-104.980039,101,Light Rail D Line
+101D,23054,SA,1,17.9,6.3,20th & Welton Station,39.7481,-104.986756,101,Light Rail D Line
+101D,23055,SA,1,17.9,6.3,18th & Stout Station,39.748027,-104.990439,101,Light Rail D Line
+101H,23055,SA,1,19.0,8.3,18th & Stout Station,39.748027,-104.990439,101,Light Rail H Line
+101D,23056,SA,1,18.0,6.3,16th & Stout Station,39.746065,-104.992913,101,Light Rail D Line
+101H,23056,SA,1,19.0,8.3,16th & Stout Station,39.746065,-104.992913,101,Light Rail H Line
+101D,23058,SA,1,18.0,6.3,Colfax at Auraria Station,39.740512,-105.000881,101,Light Rail D Line
+101H,23058,SA,1,19.0,8.3,Colfax at Auraria Station,39.740512,-105.000881,101,Light Rail H Line
+101D,23059,SA,1,18.0,6.3,10th & Osage Station,39.731664,-105.005549,101,Light Rail D Line
+101E,23059,SA,1,18.4,9.0,10th & Osage Station,39.731664,-105.005549,101,Light Rail E Line
+101H,23059,SA,1,19.0,8.4,10th & Osage Station,39.731664,-105.005549,101,Light Rail H Line
+101D,23060,SA,1,18.0,6.3,Alameda Station,39.708196,-104.992785,101,Light Rail D Line
+101E,23060,SA,1,18.4,9.0,Alameda Station,39.708196,-104.992785,101,Light Rail E Line
+101H,23060,SA,1,19.0,8.4,Alameda Station,39.708196,-104.992785,101,Light Rail H Line
+101D,23061,SA,1,18.0,6.3,Hwy I-25 & Broadway Stn,39.701418,-104.990111,101,Light Rail D Line
+101E,23061,SA,1,18.5,9.0,Hwy I-25 & Broadway Stn,39.701418,-104.990111,101,Light Rail E Line
+101H,23061,SA,1,19.0,8.2,Hwy I-25 & Broadway Stn,39.701418,-104.990111,101,Light Rail H Line
+101D,23708,SA,0,18.1,6.4,27th & Welton Station,39.754823,-104.977835,101,Light Rail D Line
+101D,23709,SA,1,17.9,6.3,27th & Welton Station,39.754975,-104.977929,101,Light Rail D Line
+101C,24882,SA,0,31.0,,Evans Station,39.678143,-104.992653,101,Light Rail C Line
+101D,24882,SA,0,18.4,6.6,Evans Station,39.678143,-104.992653,101,Light Rail D Line
+101D,24890,SA,0,18.1,6.6,Englewood Station,39.655904,-104.999736,101,Light Rail D Line
+101D,24892,SA,0,18.1,6.6,Oxford - City of Sheridan Station,39.64339,-105.00457,101,Light Rail D Line
+101D,24894,SA,0,18.1,6.6,Littleton / Downtown Station,39.612258,-105.014684,101,Light Rail D Line
+101D,24896,SA,0,18.1,6.6,Littleton / Mineral Ave Station,39.580413,-105.024812,101,Light Rail D Line
+101C,25427,SA,0,31.0,,Auraria West Station,39.742027,-105.010937,101,Light Rail C Line
+101E,25427,SA,0,18.7,10.4,Auraria West Station,39.742027,-105.010937,101,Light Rail E Line
+101C,25428,SA,0,31.0,,Sports Authority Field at Mile High Station,39.743543,-105.013526,101,Light Rail C Line
+101E,25428,SA,0,18.7,10.3,Sports Authority Field at Mile High Station,39.743543,-105.013526,101,Light Rail E Line
+101C,25429,SA,0,31.0,,Pepsi Center/Elitch's Stn,39.748736,-105.00943,101,Light Rail C Line
+101E,25429,SA,0,18.7,10.1,Pepsi Center/Elitch's Stn,39.748736,-105.00943,101,Light Rail E Line
+101C,25430,SA,0,31.0,,Union Station LRT NB,39.755822,-105.002628,101,Light Rail C Line
+101E,25430,SA,0,18.6,10.0,Union Station LRT NB,39.755822,-105.002628,101,Light Rail E Line
+101E,25431,SA,1,18.4,9.0,Auraria West Station,39.741316,-105.010685,101,Light Rail E Line
+101E,25432,SA,1,18.4,9.0,Sports Authority Field at Mile High Station,39.743342,-105.012761,101,Light Rail E Line
+101E,25433,SA,1,18.4,9.0,Pepsi Center/Elitch's Stn,39.748568,-105.009966,101,Light Rail E Line
+101E,25434,SA,1,18.4,9.0,Union Station LRT SB,39.755125,-105.003351,101,Light Rail E Line
+101D,25435,SA,1,18.0,6.3,Evans Station,39.677331,-104.992946,101,Light Rail D Line
+101E,25435,SA,1,44.5,16.7,Evans Station,39.677331,-104.992946,101,Light Rail E Line
+101H,25435,SA,1,36.0,10.3,Evans Station,39.677331,-104.992946,101,Light Rail H Line
+101D,25436,SA,1,18.2,9.6,Englewood Station,39.655291,-105.000065,101,Light Rail D Line
+101D,25437,SA,1,18.2,9.6,Oxford - City of Sheridan Station,39.642554,-105.004967,101,Light Rail D Line
+101D,25438,SA,1,18.2,9.6,Littleton / Downtown Station,39.611761,-105.015065,101,Light Rail D Line
+101D,25439,SA,1,18.2,9.6,Littleton / Mineral Ave Station,39.579865,-105.025202,101,Light Rail D Line
+101D,25884,SA,0,18.4,6.5,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail D Line
+101D,25884,SA,1,18.0,6.3,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail D Line
+101H,25884,SA,0,18.3,6.5,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail H Line
+101H,25884,SA,1,19.0,8.3,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail H Line
+101E,25973,SA,0,19.5,12.1,Lincoln Station,39.54579,-104.86963,101,Light Rail E Line
+101E,25973,SA,1,19.2,11.7,Lincoln Station,39.54579,-104.86963,101,Light Rail E Line
+101H,25974,SA,0,18.9,8.0,Dayton Station,39.643119,-104.87767,101,Light Rail H Line
+101H,25974,SA,1,18.9,8.6,Dayton Station,39.643119,-104.87767,101,Light Rail H Line
+101E,25978,SA,0,19.5,12.0,Southmoor Station,39.648226,-104.9161,101,Light Rail E Line
+101E,25978,SA,1,17.5,5.7,Southmoor Station,39.648226,-104.9161,101,Light Rail E Line
+101H,25978,SA,0,18.9,8.1,Southmoor Station,39.648226,-104.9161,101,Light Rail H Line
+101H,25978,SA,1,19.2,9.9,Southmoor Station,39.648226,-104.9161,101,Light Rail H Line
+101E,25979,SA,0,19.5,12.0,Yale Station,39.668627,-104.927157,101,Light Rail E Line
+101E,25979,SA,1,17.5,5.7,Yale Station,39.668627,-104.927157,101,Light Rail E Line
+101H,25979,SA,0,18.9,8.0,Yale Station,39.668627,-104.927157,101,Light Rail H Line
+101H,25979,SA,1,19.2,9.9,Yale Station,39.668627,-104.927157,101,Light Rail H Line
+101E,25980,SA,0,19.5,12.0,Colorado Station,39.679672,-104.937714,101,Light Rail E Line
+101E,25980,SA,1,17.5,5.7,Colorado Station,39.679672,-104.937714,101,Light Rail E Line
+101H,25980,SA,0,18.9,8.1,Colorado Station,39.679672,-104.937714,101,Light Rail H Line
+101H,25980,SA,1,19.2,9.9,Colorado Station,39.679672,-104.937714,101,Light Rail H Line
+101E,25981,SA,0,19.4,11.9,University of Denver Station,39.685254,-104.964706,101,Light Rail E Line
+101E,25981,SA,1,17.5,5.7,University of Denver Station,39.685254,-104.964706,101,Light Rail E Line
+101H,25981,SA,0,18.9,8.1,University of Denver Station,39.685254,-104.964706,101,Light Rail H Line
+101H,25981,SA,1,19.2,9.9,University of Denver Station,39.685254,-104.964706,101,Light Rail H Line
+101E,25982,SA,0,19.4,11.9,Louisiana Station,39.692825,-104.978216,101,Light Rail E Line
+101E,25982,SA,1,17.5,5.7,Louisiana Station,39.692825,-104.978216,101,Light Rail E Line
+101H,25982,SA,0,18.9,8.1,Louisiana Station,39.692825,-104.978216,101,Light Rail H Line
+101H,25982,SA,1,19.2,9.9,Louisiana Station,39.692825,-104.978216,101,Light Rail H Line
+101E,25983,SA,0,19.5,12.1,Orchard Station,39.613379,-104.896079,101,Light Rail E Line
+101E,25983,SA,1,19.2,11.7,Orchard Station,39.613379,-104.896079,101,Light Rail E Line
+101H,25987,SA,0,18.9,8.0,Nine Mile Station,39.657552,-104.845102,101,Light Rail H Line
+101H,25987,SA,1,18.9,8.6,Nine Mile Station,39.657552,-104.845102,101,Light Rail H Line
+101E,25988,SA,0,19.5,12.1,County Line Station,39.561818,-104.872282,101,Light Rail E Line
+101E,25988,SA,1,19.2,11.7,County Line Station,39.561818,-104.872282,101,Light Rail E Line
+101E,25989,SA,0,19.5,12.1,Dry Creek Station,39.579064,-104.876783,101,Light Rail E Line
+101E,25989,SA,1,19.2,11.7,Dry Creek Station,39.579064,-104.876783,101,Light Rail E Line
+101E,25990,SA,0,19.5,12.1,Arapahoe at Village Center Station,39.600301,-104.888555,101,Light Rail E Line
+101E,25990,SA,1,19.2,11.7,Arapahoe at Village Center Station,39.600301,-104.888555,101,Light Rail E Line
+101E,25991,SA,0,19.5,12.1,Belleview Station,39.627686,-104.904568,101,Light Rail E Line
+101E,25991,SA,1,19.2,11.7,Belleview Station,39.627686,-104.904568,101,Light Rail E Line
+101C,23041,SU,0,31.0,,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail C Line
+101D,23041,SU,0,18.4,6.6,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail D Line
+101E,23041,SU,0,19.4,11.9,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail E Line
+101H,23041,SU,0,18.9,8.1,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail H Line
+101C,23042,SU,0,31.0,,Alameda Station,39.708706,-104.993143,101,Light Rail C Line
+101D,23042,SU,0,18.4,6.5,Alameda Station,39.708706,-104.993143,101,Light Rail D Line
+101E,23042,SU,0,18.7,10.4,Alameda Station,39.708706,-104.993143,101,Light Rail E Line
+101H,23042,SU,0,18.3,6.5,Alameda Station,39.708706,-104.993143,101,Light Rail H Line
+101C,23043,SU,0,31.0,,10th & Osage Station,39.732222,-105.005654,101,Light Rail C Line
+101D,23043,SU,0,18.4,6.5,10th & Osage Station,39.732222,-105.005654,101,Light Rail D Line
+101E,23043,SU,0,18.7,10.5,10th & Osage Station,39.732222,-105.005654,101,Light Rail E Line
+101H,23043,SU,0,18.3,6.5,10th & Osage Station,39.732222,-105.005654,101,Light Rail H Line
+101D,23044,SU,0,18.4,6.5,Colfax at Auraria Station,39.7402,-105.001847,101,Light Rail D Line
+101H,23044,SU,0,18.3,6.5,Colfax at Auraria Station,39.7402,-105.001847,101,Light Rail H Line
+101D,23046,SU,0,18.4,6.7,16th & California Station,39.744949,-104.992337,101,Light Rail D Line
+101H,23046,SU,0,18.3,6.5,16th & California Station,39.744949,-104.992337,101,Light Rail H Line
+101D,23047,SU,0,18.4,6.7,18th & California Station,39.746813,-104.989945,101,Light Rail D Line
+101H,23047,SU,0,18.4,6.5,18th & California Station,39.746813,-104.989945,101,Light Rail H Line
+101D,23048,SU,0,18.1,6.4,20th & Welton Station,39.748043,-104.986559,101,Light Rail D Line
+101D,23049,SU,0,18.1,6.4,25th & Welton Stn,39.753209,-104.979957,101,Light Rail D Line
+101D,23050,SU,0,18.1,6.4,29th & Welton Station,39.756723,-104.975372,101,Light Rail D Line
+101D,23051,SU,0,18.1,6.3,30th & Downing Station,39.758988,-104.97345,101,Light Rail D Line
+101D,23051,SU,1,17.9,6.3,30th & Downing Station,39.758988,-104.97345,101,Light Rail D Line
+101D,23052,SU,1,17.9,6.3,29th & Welton Station,39.756946,-104.975407,101,Light Rail D Line
+101D,23053,SU,1,17.9,6.3,25th & Welton Stn,39.753397,-104.980039,101,Light Rail D Line
+101D,23054,SU,1,17.9,6.3,20th & Welton Station,39.7481,-104.986756,101,Light Rail D Line
+101D,23055,SU,1,17.9,6.3,18th & Stout Station,39.748027,-104.990439,101,Light Rail D Line
+101H,23055,SU,1,19.0,8.3,18th & Stout Station,39.748027,-104.990439,101,Light Rail H Line
+101D,23056,SU,1,18.0,6.3,16th & Stout Station,39.746065,-104.992913,101,Light Rail D Line
+101H,23056,SU,1,19.0,8.3,16th & Stout Station,39.746065,-104.992913,101,Light Rail H Line
+101D,23058,SU,1,18.0,6.3,Colfax at Auraria Station,39.740512,-105.000881,101,Light Rail D Line
+101H,23058,SU,1,19.0,8.3,Colfax at Auraria Station,39.740512,-105.000881,101,Light Rail H Line
+101D,23059,SU,1,18.0,6.3,10th & Osage Station,39.731664,-105.005549,101,Light Rail D Line
+101E,23059,SU,1,18.4,9.0,10th & Osage Station,39.731664,-105.005549,101,Light Rail E Line
+101H,23059,SU,1,19.0,8.4,10th & Osage Station,39.731664,-105.005549,101,Light Rail H Line
+101D,23060,SU,1,18.0,6.3,Alameda Station,39.708196,-104.992785,101,Light Rail D Line
+101E,23060,SU,1,18.4,9.0,Alameda Station,39.708196,-104.992785,101,Light Rail E Line
+101H,23060,SU,1,19.0,8.4,Alameda Station,39.708196,-104.992785,101,Light Rail H Line
+101D,23061,SU,1,18.0,6.3,Hwy I-25 & Broadway Stn,39.701418,-104.990111,101,Light Rail D Line
+101E,23061,SU,1,18.5,9.0,Hwy I-25 & Broadway Stn,39.701418,-104.990111,101,Light Rail E Line
+101H,23061,SU,1,19.0,8.2,Hwy I-25 & Broadway Stn,39.701418,-104.990111,101,Light Rail H Line
+101D,23708,SU,0,18.1,6.4,27th & Welton Station,39.754823,-104.977835,101,Light Rail D Line
+101D,23709,SU,1,17.9,6.3,27th & Welton Station,39.754975,-104.977929,101,Light Rail D Line
+101C,24882,SU,0,31.0,,Evans Station,39.678143,-104.992653,101,Light Rail C Line
+101D,24882,SU,0,18.4,6.6,Evans Station,39.678143,-104.992653,101,Light Rail D Line
+101D,24890,SU,0,18.1,6.6,Englewood Station,39.655904,-104.999736,101,Light Rail D Line
+101D,24892,SU,0,18.1,6.6,Oxford - City of Sheridan Station,39.64339,-105.00457,101,Light Rail D Line
+101D,24894,SU,0,18.1,6.6,Littleton / Downtown Station,39.612258,-105.014684,101,Light Rail D Line
+101D,24896,SU,0,18.1,6.6,Littleton / Mineral Ave Station,39.580413,-105.024812,101,Light Rail D Line
+101C,25427,SU,0,31.0,,Auraria West Station,39.742027,-105.010937,101,Light Rail C Line
+101E,25427,SU,0,18.7,10.4,Auraria West Station,39.742027,-105.010937,101,Light Rail E Line
+101C,25428,SU,0,31.0,,Sports Authority Field at Mile High Station,39.743543,-105.013526,101,Light Rail C Line
+101E,25428,SU,0,18.7,10.3,Sports Authority Field at Mile High Station,39.743543,-105.013526,101,Light Rail E Line
+101C,25429,SU,0,31.0,,Pepsi Center/Elitch's Stn,39.748736,-105.00943,101,Light Rail C Line
+101E,25429,SU,0,18.6,10.1,Pepsi Center/Elitch's Stn,39.748736,-105.00943,101,Light Rail E Line
+101C,25430,SU,0,31.0,,Union Station LRT NB,39.755822,-105.002628,101,Light Rail C Line
+101E,25430,SU,0,18.6,10.0,Union Station LRT NB,39.755822,-105.002628,101,Light Rail E Line
+101E,25431,SU,1,18.4,9.0,Auraria West Station,39.741316,-105.010685,101,Light Rail E Line
+101E,25432,SU,1,18.4,9.0,Sports Authority Field at Mile High Station,39.743342,-105.012761,101,Light Rail E Line
+101E,25433,SU,1,18.4,9.0,Pepsi Center/Elitch's Stn,39.748568,-105.009966,101,Light Rail E Line
+101E,25434,SU,1,18.4,9.0,Union Station LRT SB,39.755125,-105.003351,101,Light Rail E Line
+101D,25435,SU,1,18.0,6.3,Evans Station,39.677331,-104.992946,101,Light Rail D Line
+101E,25435,SU,1,44.5,16.7,Evans Station,39.677331,-104.992946,101,Light Rail E Line
+101H,25435,SU,1,36.0,10.3,Evans Station,39.677331,-104.992946,101,Light Rail H Line
+101D,25436,SU,1,18.2,9.6,Englewood Station,39.655291,-105.000065,101,Light Rail D Line
+101D,25437,SU,1,18.2,9.6,Oxford - City of Sheridan Station,39.642554,-105.004967,101,Light Rail D Line
+101D,25438,SU,1,18.2,9.6,Littleton / Downtown Station,39.611761,-105.015065,101,Light Rail D Line
+101D,25439,SU,1,18.2,9.6,Littleton / Mineral Ave Station,39.579865,-105.025202,101,Light Rail D Line
+101D,25884,SU,0,18.4,6.5,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail D Line
+101D,25884,SU,1,18.0,6.3,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail D Line
+101H,25884,SU,0,18.3,6.5,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail H Line
+101H,25884,SU,1,19.0,8.3,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail H Line
+101E,25973,SU,0,19.5,12.1,Lincoln Station,39.54579,-104.86963,101,Light Rail E Line
+101E,25973,SU,1,19.2,11.7,Lincoln Station,39.54579,-104.86963,101,Light Rail E Line
+101H,25974,SU,0,18.9,8.0,Dayton Station,39.643119,-104.87767,101,Light Rail H Line
+101H,25974,SU,1,18.9,8.6,Dayton Station,39.643119,-104.87767,101,Light Rail H Line
+101E,25978,SU,0,19.4,12.0,Southmoor Station,39.648226,-104.9161,101,Light Rail E Line
+101E,25978,SU,1,17.5,5.7,Southmoor Station,39.648226,-104.9161,101,Light Rail E Line
+101H,25978,SU,0,18.9,8.1,Southmoor Station,39.648226,-104.9161,101,Light Rail H Line
+101H,25978,SU,1,19.2,9.9,Southmoor Station,39.648226,-104.9161,101,Light Rail H Line
+101E,25979,SU,0,19.4,12.0,Yale Station,39.668627,-104.927157,101,Light Rail E Line
+101E,25979,SU,1,17.5,5.7,Yale Station,39.668627,-104.927157,101,Light Rail E Line
+101H,25979,SU,0,18.9,8.0,Yale Station,39.668627,-104.927157,101,Light Rail H Line
+101H,25979,SU,1,19.2,9.9,Yale Station,39.668627,-104.927157,101,Light Rail H Line
+101E,25980,SU,0,19.4,12.0,Colorado Station,39.679672,-104.937714,101,Light Rail E Line
+101E,25980,SU,1,17.5,5.7,Colorado Station,39.679672,-104.937714,101,Light Rail E Line
+101H,25980,SU,0,18.9,8.1,Colorado Station,39.679672,-104.937714,101,Light Rail H Line
+101H,25980,SU,1,19.2,9.9,Colorado Station,39.679672,-104.937714,101,Light Rail H Line
+101E,25981,SU,0,19.4,11.9,University of Denver Station,39.685254,-104.964706,101,Light Rail E Line
+101E,25981,SU,1,17.5,5.7,University of Denver Station,39.685254,-104.964706,101,Light Rail E Line
+101H,25981,SU,0,18.9,8.1,University of Denver Station,39.685254,-104.964706,101,Light Rail H Line
+101H,25981,SU,1,19.2,9.9,University of Denver Station,39.685254,-104.964706,101,Light Rail H Line
+101E,25982,SU,0,19.4,11.9,Louisiana Station,39.692825,-104.978216,101,Light Rail E Line
+101E,25982,SU,1,17.5,5.7,Louisiana Station,39.692825,-104.978216,101,Light Rail E Line
+101H,25982,SU,0,18.9,8.1,Louisiana Station,39.692825,-104.978216,101,Light Rail H Line
+101H,25982,SU,1,19.2,9.9,Louisiana Station,39.692825,-104.978216,101,Light Rail H Line
+101E,25983,SU,0,19.5,12.1,Orchard Station,39.613379,-104.896079,101,Light Rail E Line
+101E,25983,SU,1,19.2,11.7,Orchard Station,39.613379,-104.896079,101,Light Rail E Line
+101H,25987,SU,0,18.9,8.0,Nine Mile Station,39.657552,-104.845102,101,Light Rail H Line
+101H,25987,SU,1,18.9,8.6,Nine Mile Station,39.657552,-104.845102,101,Light Rail H Line
+101E,25988,SU,0,19.5,12.1,County Line Station,39.561818,-104.872282,101,Light Rail E Line
+101E,25988,SU,1,19.2,11.7,County Line Station,39.561818,-104.872282,101,Light Rail E Line
+101E,25989,SU,0,19.5,12.1,Dry Creek Station,39.579064,-104.876783,101,Light Rail E Line
+101E,25989,SU,1,19.2,11.7,Dry Creek Station,39.579064,-104.876783,101,Light Rail E Line
+101E,25990,SU,0,19.5,12.1,Arapahoe at Village Center Station,39.600301,-104.888555,101,Light Rail E Line
+101E,25990,SU,1,19.2,11.7,Arapahoe at Village Center Station,39.600301,-104.888555,101,Light Rail E Line
+101E,25991,SU,0,19.5,12.1,Belleview Station,39.627686,-104.904568,101,Light Rail E Line
+101E,25991,SU,1,19.2,11.7,Belleview Station,39.627686,-104.904568,101,Light Rail E Line
+101C,23041,WK,0,26.4,6.5,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail C Line
+101D,23041,WK,0,13.6,6.2,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail D Line
+101E,23041,WK,0,23.1,12.6,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail E Line
+101F,23041,WK,0,16.8,5.1,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail F Line
+101H,23041,WK,0,17.1,6.6,Hwy I-25 & Broadway Stn,39.701958,-104.990075,101,Light Rail H Line
+101C,23042,WK,0,26.4,6.5,Alameda Station,39.708706,-104.993143,101,Light Rail C Line
+101D,23042,WK,0,13.6,6.2,Alameda Station,39.708706,-104.993143,101,Light Rail D Line
+101E,23042,WK,0,22.2,11.1,Alameda Station,39.708706,-104.993143,101,Light Rail E Line
+101F,23042,WK,0,16.8,5.1,Alameda Station,39.708706,-104.993143,101,Light Rail F Line
+101H,23042,WK,0,16.5,4.4,Alameda Station,39.708706,-104.993143,101,Light Rail H Line
+101C,23043,WK,0,26.4,6.5,10th & Osage Station,39.732222,-105.005654,101,Light Rail C Line
+101D,23043,WK,0,13.6,6.2,10th & Osage Station,39.732222,-105.005654,101,Light Rail D Line
+101E,23043,WK,0,22.2,11.1,10th & Osage Station,39.732222,-105.005654,101,Light Rail E Line
+101F,23043,WK,0,16.8,5.1,10th & Osage Station,39.732222,-105.005654,101,Light Rail F Line
+101H,23043,WK,0,16.5,4.4,10th & Osage Station,39.732222,-105.005654,101,Light Rail H Line
+101D,23044,WK,0,13.5,6.2,Colfax at Auraria Station,39.7402,-105.001847,101,Light Rail D Line
+101F,23044,WK,0,16.8,5.1,Colfax at Auraria Station,39.7402,-105.001847,101,Light Rail F Line
+101H,23044,WK,0,16.5,4.4,Colfax at Auraria Station,39.7402,-105.001847,101,Light Rail H Line
+101D,23046,WK,0,13.6,6.3,16th & California Station,39.744949,-104.992337,101,Light Rail D Line
+101F,23046,WK,0,16.8,5.1,16th & California Station,39.744949,-104.992337,101,Light Rail F Line
+101H,23046,WK,0,16.5,4.5,16th & California Station,39.744949,-104.992337,101,Light Rail H Line
+101D,23047,WK,0,13.5,6.3,18th & California Station,39.746813,-104.989945,101,Light Rail D Line
+101F,23047,WK,0,16.8,5.1,18th & California Station,39.746813,-104.989945,101,Light Rail F Line
+101H,23047,WK,0,16.5,4.5,18th & California Station,39.746813,-104.989945,101,Light Rail H Line
+101D,23048,WK,0,16.8,5.0,20th & Welton Station,39.748043,-104.986559,101,Light Rail D Line
+101D,23049,WK,0,16.8,5.0,25th & Welton Stn,39.753209,-104.979957,101,Light Rail D Line
+101D,23050,WK,0,16.8,5.0,29th & Welton Station,39.756723,-104.975372,101,Light Rail D Line
+101D,23051,WK,0,16.8,4.9,30th & Downing Station,39.758988,-104.97345,101,Light Rail D Line
+101D,23051,WK,1,16.7,5.2,30th & Downing Station,39.758988,-104.97345,101,Light Rail D Line
+101D,23052,WK,1,16.7,5.2,29th & Welton Station,39.756946,-104.975407,101,Light Rail D Line
+101D,23053,WK,1,16.7,5.2,25th & Welton Stn,39.753397,-104.980039,101,Light Rail D Line
+101D,23054,WK,1,16.7,5.2,20th & Welton Station,39.7481,-104.986756,101,Light Rail D Line
+101D,23055,WK,1,14.1,6.6,18th & Stout Station,39.748027,-104.990439,101,Light Rail D Line
+101F,23055,WK,1,16.9,5.5,18th & Stout Station,39.748027,-104.990439,101,Light Rail F Line
+101H,23055,WK,1,16.7,5.4,18th & Stout Station,39.748027,-104.990439,101,Light Rail H Line
+101D,23056,WK,1,14.2,6.6,16th & Stout Station,39.746065,-104.992913,101,Light Rail D Line
+101F,23056,WK,1,16.9,5.5,16th & Stout Station,39.746065,-104.992913,101,Light Rail F Line
+101H,23056,WK,1,16.8,5.5,16th & Stout Station,39.746065,-104.992913,101,Light Rail H Line
+101D,23058,WK,1,14.2,6.6,Colfax at Auraria Station,39.740512,-105.000881,101,Light Rail D Line
+101F,23058,WK,1,16.9,5.5,Colfax at Auraria Station,39.740512,-105.000881,101,Light Rail F Line
+101H,23058,WK,1,16.8,5.5,Colfax at Auraria Station,39.740512,-105.000881,101,Light Rail H Line
+101C,23059,WK,1,25.7,6.9,10th & Osage Station,39.731664,-105.005549,101,Light Rail C Line
+101D,23059,WK,1,14.2,6.6,10th & Osage Station,39.731664,-105.005549,101,Light Rail D Line
+101E,23059,WK,1,21.9,7.3,10th & Osage Station,39.731664,-105.005549,101,Light Rail E Line
+101F,23059,WK,1,16.9,5.5,10th & Osage Station,39.731664,-105.005549,101,Light Rail F Line
+101H,23059,WK,1,16.8,5.5,10th & Osage Station,39.731664,-105.005549,101,Light Rail H Line
+101C,23060,WK,1,25.7,6.9,Alameda Station,39.708196,-104.992785,101,Light Rail C Line
+101D,23060,WK,1,14.2,6.6,Alameda Station,39.708196,-104.992785,101,Light Rail D Line
+101E,23060,WK,1,21.9,7.3,Alameda Station,39.708196,-104.992785,101,Light Rail E Line
+101F,23060,WK,1,16.9,5.5,Alameda Station,39.708196,-104.992785,101,Light Rail F Line
+101H,23060,WK,1,16.8,5.5,Alameda Station,39.708196,-104.992785,101,Light Rail H Line
+101C,23061,WK,1,25.7,6.9,Hwy I-25 & Broadway Stn,39.701418,-104.990111,101,Light Rail C Line
+101D,23061,WK,1,14.2,6.6,Hwy I-25 & Broadway Stn,39.701418,-104.990111,101,Light Rail D Line
+101E,23061,WK,1,22.0,7.3,Hwy I-25 & Broadway Stn,39.701418,-104.990111,101,Light Rail E Line
+101F,23061,WK,1,16.9,5.5,Hwy I-25 & Broadway Stn,39.701418,-104.990111,101,Light Rail F Line
+101H,23061,WK,1,16.8,5.6,Hwy I-25 & Broadway Stn,39.701418,-104.990111,101,Light Rail H Line
+101D,23708,WK,0,16.8,5.0,27th & Welton Station,39.754823,-104.977835,101,Light Rail D Line
+101D,23709,WK,1,16.7,5.2,27th & Welton Station,39.754975,-104.977929,101,Light Rail D Line
+101C,24882,WK,0,26.4,6.5,Evans Station,39.678143,-104.992653,101,Light Rail C Line
+101D,24882,WK,0,13.6,6.2,Evans Station,39.678143,-104.992653,101,Light Rail D Line
+101C,24890,WK,0,30.0,0.0,Englewood Station,39.655904,-104.999736,101,Light Rail C Line
+101D,24890,WK,0,14.8,6.4,Englewood Station,39.655904,-104.999736,101,Light Rail D Line
+101C,24892,WK,0,30.0,0.0,Oxford - City of Sheridan Station,39.64339,-105.00457,101,Light Rail C Line
+101D,24892,WK,0,14.8,6.4,Oxford - City of Sheridan Station,39.64339,-105.00457,101,Light Rail D Line
+101C,24894,WK,0,30.0,0.0,Littleton / Downtown Station,39.612258,-105.014684,101,Light Rail C Line
+101D,24894,WK,0,14.8,6.5,Littleton / Downtown Station,39.612258,-105.014684,101,Light Rail D Line
+101C,24896,WK,0,30.0,0.0,Littleton / Mineral Ave Station,39.580413,-105.024812,101,Light Rail C Line
+101D,24896,WK,0,14.8,6.5,Littleton / Mineral Ave Station,39.580413,-105.024812,101,Light Rail D Line
+101C,25427,WK,0,26.4,6.5,Auraria West Station,39.742027,-105.010937,101,Light Rail C Line
+101E,25427,WK,0,22.2,11.1,Auraria West Station,39.742027,-105.010937,101,Light Rail E Line
+101C,25428,WK,0,26.4,6.5,Sports Authority Field at Mile High Station,39.743543,-105.013526,101,Light Rail C Line
+101E,25428,WK,0,22.2,11.1,Sports Authority Field at Mile High Station,39.743543,-105.013526,101,Light Rail E Line
+101C,25429,WK,0,26.4,6.5,Pepsi Center/Elitch's Stn,39.748736,-105.00943,101,Light Rail C Line
+101E,25429,WK,0,22.2,11.1,Pepsi Center/Elitch's Stn,39.748736,-105.00943,101,Light Rail E Line
+101C,25430,WK,0,26.4,6.5,Union Station LRT NB,39.755822,-105.002628,101,Light Rail C Line
+101E,25430,WK,0,22.2,11.1,Union Station LRT NB,39.755822,-105.002628,101,Light Rail E Line
+101C,25431,WK,1,25.7,6.9,Auraria West Station,39.741316,-105.010685,101,Light Rail C Line
+101E,25431,WK,1,21.9,7.3,Auraria West Station,39.741316,-105.010685,101,Light Rail E Line
+101C,25432,WK,1,25.7,6.9,Sports Authority Field at Mile High Station,39.743342,-105.012761,101,Light Rail C Line
+101E,25432,WK,1,21.9,7.3,Sports Authority Field at Mile High Station,39.743342,-105.012761,101,Light Rail E Line
+101C,25433,WK,1,25.7,6.9,Pepsi Center/Elitch's Stn,39.748568,-105.009966,101,Light Rail C Line
+101E,25433,WK,1,21.9,7.3,Pepsi Center/Elitch's Stn,39.748568,-105.009966,101,Light Rail E Line
+101C,25434,WK,1,25.7,6.9,Union Station LRT SB,39.755125,-105.003351,101,Light Rail C Line
+101E,25434,WK,1,21.9,7.3,Union Station LRT SB,39.755125,-105.003351,101,Light Rail E Line
+101C,25435,WK,1,30.0,0.0,Evans Station,39.677331,-104.992946,101,Light Rail C Line
+101D,25435,WK,1,14.1,6.6,Evans Station,39.677331,-104.992946,101,Light Rail D Line
+101E,25435,WK,1,15.6,13.6,Evans Station,39.677331,-104.992946,101,Light Rail E Line
+101H,25435,WK,1,27.4,14.5,Evans Station,39.677331,-104.992946,101,Light Rail H Line
+101C,25436,WK,1,30.0,0.0,Englewood Station,39.655291,-105.000065,101,Light Rail C Line
+101D,25436,WK,1,13.2,6.5,Englewood Station,39.655291,-105.000065,101,Light Rail D Line
+101C,25437,WK,1,30.0,0.0,Oxford - City of Sheridan Station,39.642554,-105.004967,101,Light Rail C Line
+101D,25437,WK,1,13.2,6.4,Oxford - City of Sheridan Station,39.642554,-105.004967,101,Light Rail D Line
+101C,25438,WK,1,30.0,0.0,Littleton / Downtown Station,39.611761,-105.015065,101,Light Rail C Line
+101D,25438,WK,1,13.2,6.4,Littleton / Downtown Station,39.611761,-105.015065,101,Light Rail D Line
+101C,25439,WK,1,29.9,0.2,Littleton / Mineral Ave Station,39.579865,-105.025202,101,Light Rail C Line
+101D,25439,WK,1,13.1,6.4,Littleton / Mineral Ave Station,39.579865,-105.025202,101,Light Rail D Line
+101D,25884,WK,0,13.5,6.2,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail D Line
+101D,25884,WK,1,14.2,6.6,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail D Line
+101F,25884,WK,0,16.8,5.1,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail F Line
+101F,25884,WK,1,16.9,5.5,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail F Line
+101H,25884,WK,0,16.5,4.4,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail H Line
+101H,25884,WK,1,16.8,5.5,Theatre District/Convention Ctr Stn,39.743866,-104.996427,101,Light Rail H Line
+101E,25973,WK,0,22.0,11.1,Lincoln Station,39.54579,-104.86963,101,Light Rail E Line
+101E,25973,WK,1,21.3,7.7,Lincoln Station,39.54579,-104.86963,101,Light Rail E Line
+101F,25973,WK,0,17.1,6.2,Lincoln Station,39.54579,-104.86963,101,Light Rail F Line
+101F,25973,WK,1,16.3,4.0,Lincoln Station,39.54579,-104.86963,101,Light Rail F Line
+101H,25974,WK,0,17.2,6.6,Dayton Station,39.643119,-104.87767,101,Light Rail H Line
+101H,25974,WK,1,16.4,5.3,Dayton Station,39.643119,-104.87767,101,Light Rail H Line
+101E,25978,WK,0,23.1,12.6,Southmoor Station,39.648226,-104.9161,101,Light Rail E Line
+101E,25978,WK,1,21.1,8.1,Southmoor Station,39.648226,-104.9161,101,Light Rail E Line
+101F,25978,WK,0,16.8,5.0,Southmoor Station,39.648226,-104.9161,101,Light Rail F Line
+101F,25978,WK,1,16.9,5.3,Southmoor Station,39.648226,-104.9161,101,Light Rail F Line
+101H,25978,WK,0,17.1,6.6,Southmoor Station,39.648226,-104.9161,101,Light Rail H Line
+101H,25978,WK,1,16.7,5.6,Southmoor Station,39.648226,-104.9161,101,Light Rail H Line
+101E,25979,WK,0,23.1,12.6,Yale Station,39.668627,-104.927157,101,Light Rail E Line
+101E,25979,WK,1,21.1,8.2,Yale Station,39.668627,-104.927157,101,Light Rail E Line
+101F,25979,WK,0,16.8,5.0,Yale Station,39.668627,-104.927157,101,Light Rail F Line
+101F,25979,WK,1,16.9,5.3,Yale Station,39.668627,-104.927157,101,Light Rail F Line
+101H,25979,WK,0,17.1,6.6,Yale Station,39.668627,-104.927157,101,Light Rail H Line
+101H,25979,WK,1,16.8,5.6,Yale Station,39.668627,-104.927157,101,Light Rail H Line
+101E,25980,WK,0,23.1,12.6,Colorado Station,39.679672,-104.937714,101,Light Rail E Line
+101E,25980,WK,1,21.1,8.3,Colorado Station,39.679672,-104.937714,101,Light Rail E Line
+101F,25980,WK,0,16.8,5.0,Colorado Station,39.679672,-104.937714,101,Light Rail F Line
+101F,25980,WK,1,16.9,5.5,Colorado Station,39.679672,-104.937714,101,Light Rail F Line
+101H,25980,WK,0,17.1,6.6,Colorado Station,39.679672,-104.937714,101,Light Rail H Line
+101H,25980,WK,1,16.8,5.6,Colorado Station,39.679672,-104.937714,101,Light Rail H Line
+101E,25981,WK,0,23.1,12.6,University of Denver Station,39.685254,-104.964706,101,Light Rail E Line
+101E,25981,WK,1,21.2,8.4,University of Denver Station,39.685254,-104.964706,101,Light Rail E Line
+101F,25981,WK,0,16.8,5.0,University of Denver Station,39.685254,-104.964706,101,Light Rail F Line
+101F,25981,WK,1,16.9,5.5,University of Denver Station,39.685254,-104.964706,101,Light Rail F Line
+101H,25981,WK,0,17.1,6.6,University of Denver Station,39.685254,-104.964706,101,Light Rail H Line
+101H,25981,WK,1,16.8,5.6,University of Denver Station,39.685254,-104.964706,101,Light Rail H Line
+101E,25982,WK,0,23.1,12.6,Louisiana Station,39.692825,-104.978216,101,Light Rail E Line
+101E,25982,WK,1,21.2,8.5,Louisiana Station,39.692825,-104.978216,101,Light Rail E Line
+101F,25982,WK,0,16.8,5.0,Louisiana Station,39.692825,-104.978216,101,Light Rail F Line
+101F,25982,WK,1,16.9,5.5,Louisiana Station,39.692825,-104.978216,101,Light Rail F Line
+101H,25982,WK,0,17.1,6.6,Louisiana Station,39.692825,-104.978216,101,Light Rail H Line
+101H,25982,WK,1,16.8,5.6,Louisiana Station,39.692825,-104.978216,101,Light Rail H Line
+101E,25983,WK,0,22.0,11.1,Orchard Station,39.613379,-104.896079,101,Light Rail E Line
+101E,25983,WK,1,21.4,7.8,Orchard Station,39.613379,-104.896079,101,Light Rail E Line
+101F,25983,WK,0,16.9,5.4,Orchard Station,39.613379,-104.896079,101,Light Rail F Line
+101F,25983,WK,1,16.3,4.0,Orchard Station,39.613379,-104.896079,101,Light Rail F Line
+101H,25987,WK,0,17.2,6.7,Nine Mile Station,39.657552,-104.845102,101,Light Rail H Line
+101H,25987,WK,1,16.4,5.2,Nine Mile Station,39.657552,-104.845102,101,Light Rail H Line
+101E,25988,WK,0,22.0,11.1,County Line Station,39.561818,-104.872282,101,Light Rail E Line
+101E,25988,WK,1,21.3,7.7,County Line Station,39.561818,-104.872282,101,Light Rail E Line
+101F,25988,WK,0,17.1,6.1,County Line Station,39.561818,-104.872282,101,Light Rail F Line
+101F,25988,WK,1,16.3,4.0,County Line Station,39.561818,-104.872282,101,Light Rail F Line
+101E,25989,WK,0,22.0,11.1,Dry Creek Station,39.579064,-104.876783,101,Light Rail E Line
+101E,25989,WK,1,21.3,7.7,Dry Creek Station,39.579064,-104.876783,101,Light Rail E Line
+101F,25989,WK,0,17.0,5.9,Dry Creek Station,39.579064,-104.876783,101,Light Rail F Line
+101F,25989,WK,1,16.3,4.0,Dry Creek Station,39.579064,-104.876783,101,Light Rail F Line
+101E,25990,WK,0,22.0,11.1,Arapahoe at Village Center Station,39.600301,-104.888555,101,Light Rail E Line
+101E,25990,WK,1,21.3,7.8,Arapahoe at Village Center Station,39.600301,-104.888555,101,Light Rail E Line
+101F,25990,WK,0,16.9,5.5,Arapahoe at Village Center Station,39.600301,-104.888555,101,Light Rail F Line
+101F,25990,WK,1,16.3,4.0,Arapahoe at Village Center Station,39.600301,-104.888555,101,Light Rail F Line
+101E,25991,WK,0,22.0,11.1,Belleview Station,39.627686,-104.904568,101,Light Rail E Line
+101E,25991,WK,1,21.4,7.9,Belleview Station,39.627686,-104.904568,101,Light Rail E Line
+101F,25991,WK,0,16.8,5.2,Belleview Station,39.627686,-104.904568,101,Light Rail F Line
+101F,25991,WK,1,16.3,4.0,Belleview Station,39.627686,-104.904568,101,Light Rail F Line

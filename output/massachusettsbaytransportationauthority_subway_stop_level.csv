@@ -1,0 +1,879 @@
+stop_id,service_id,direction_id,numroutes,TripsServingStop,stop_name,stop_lat,stop_lon
+70001,RTL212-hmo22011-Weekday-01,0,2,162,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL212-hmo22011-Weekday-01,1,1,162,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL212-hmo22016-Saturday-01,0,1,123,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL212-hmo22016-Saturday-01,1,1,123,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL212-hmo22017-Sunday-01,0,1,106,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL212-hmo22017-Sunday-01,1,1,106,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL212-hmo22bk1-Weekday-01,0,2,162,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL212-hmo22bk1-Weekday-01,1,1,162,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL312-hmo32011-Weekday-01,0,2,162,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL312-hmo32011-Weekday-01,1,1,162,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL312-hmo32016-Saturday-01,0,1,123,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL312-hmo32016-Saturday-01,1,1,123,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL312-hmo32017-Sunday-01,0,1,106,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL312-hmo32017-Sunday-01,1,1,106,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL312-hmo32j47-Sunday-01,0,1,115,Forest Hills Orange Line,42.300523,-71.113686
+70001,RTL312-hmo32j47-Sunday-01,1,1,115,Forest Hills Orange Line,42.300523,-71.113686
+70002,RTL212-hmo22011-Weekday-01,0,2,162,Green Street Station - Outbound,42.310525,-71.107414
+70002,RTL212-hmo22016-Saturday-01,0,1,123,Green Street Station - Outbound,42.310525,-71.107414
+70002,RTL212-hmo22017-Sunday-01,0,1,106,Green Street Station - Outbound,42.310525,-71.107414
+70002,RTL212-hmo22bk1-Weekday-01,0,2,162,Green Street Station - Outbound,42.310525,-71.107414
+70002,RTL312-hmo32011-Weekday-01,0,2,162,Green Street Station - Outbound,42.310525,-71.107414
+70002,RTL312-hmo32016-Saturday-01,0,1,123,Green Street Station - Outbound,42.310525,-71.107414
+70002,RTL312-hmo32017-Sunday-01,0,1,106,Green Street Station - Outbound,42.310525,-71.107414
+70002,RTL312-hmo32j47-Sunday-01,0,1,115,Green Street Station - Outbound,42.310525,-71.107414
+70003,RTL212-hmo22011-Weekday-01,1,1,162,Green St - Inbound,42.310525,-71.107414
+70003,RTL212-hmo22016-Saturday-01,1,1,123,Green St - Inbound,42.310525,-71.107414
+70003,RTL212-hmo22017-Sunday-01,1,1,106,Green St - Inbound,42.310525,-71.107414
+70003,RTL212-hmo22bk1-Weekday-01,1,1,162,Green St - Inbound,42.310525,-71.107414
+70003,RTL312-hmo32011-Weekday-01,1,1,162,Green St - Inbound,42.310525,-71.107414
+70003,RTL312-hmo32016-Saturday-01,1,1,123,Green St - Inbound,42.310525,-71.107414
+70003,RTL312-hmo32017-Sunday-01,1,1,106,Green St - Inbound,42.310525,-71.107414
+70003,RTL312-hmo32j47-Sunday-01,1,1,115,Green St - Inbound,42.310525,-71.107414
+70004,RTL212-hmo22011-Weekday-01,0,2,162,Stoneybrook -  Outbound,42.317062,-71.104248
+70004,RTL212-hmo22016-Saturday-01,0,1,123,Stoneybrook -  Outbound,42.317062,-71.104248
+70004,RTL212-hmo22017-Sunday-01,0,1,106,Stoneybrook -  Outbound,42.317062,-71.104248
+70004,RTL212-hmo22bk1-Weekday-01,0,2,162,Stoneybrook -  Outbound,42.317062,-71.104248
+70004,RTL312-hmo32011-Weekday-01,0,2,162,Stoneybrook -  Outbound,42.317062,-71.104248
+70004,RTL312-hmo32016-Saturday-01,0,1,123,Stoneybrook -  Outbound,42.317062,-71.104248
+70004,RTL312-hmo32017-Sunday-01,0,1,106,Stoneybrook -  Outbound,42.317062,-71.104248
+70004,RTL312-hmo32j47-Sunday-01,0,1,115,Stoneybrook -  Outbound,42.317062,-71.104248
+70005,RTL212-hmo22011-Weekday-01,1,1,162,Stoneybrook -  Inbound,42.317062,-71.104248
+70005,RTL212-hmo22016-Saturday-01,1,1,123,Stoneybrook -  Inbound,42.317062,-71.104248
+70005,RTL212-hmo22017-Sunday-01,1,1,106,Stoneybrook -  Inbound,42.317062,-71.104248
+70005,RTL212-hmo22bk1-Weekday-01,1,1,162,Stoneybrook -  Inbound,42.317062,-71.104248
+70005,RTL312-hmo32011-Weekday-01,1,1,162,Stoneybrook -  Inbound,42.317062,-71.104248
+70005,RTL312-hmo32016-Saturday-01,1,1,123,Stoneybrook -  Inbound,42.317062,-71.104248
+70005,RTL312-hmo32017-Sunday-01,1,1,106,Stoneybrook -  Inbound,42.317062,-71.104248
+70005,RTL312-hmo32j47-Sunday-01,1,1,115,Stoneybrook -  Inbound,42.317062,-71.104248
+70006,RTL212-hmo22011-Weekday-01,0,2,162,Jackson Sq -  Outbound,42.323132,-71.099592
+70006,RTL212-hmo22016-Saturday-01,0,1,123,Jackson Sq -  Outbound,42.323132,-71.099592
+70006,RTL212-hmo22017-Sunday-01,0,1,106,Jackson Sq -  Outbound,42.323132,-71.099592
+70006,RTL212-hmo22bk1-Weekday-01,0,2,162,Jackson Sq -  Outbound,42.323132,-71.099592
+70006,RTL312-hmo32011-Weekday-01,0,2,162,Jackson Sq -  Outbound,42.323132,-71.099592
+70006,RTL312-hmo32016-Saturday-01,0,1,123,Jackson Sq -  Outbound,42.323132,-71.099592
+70006,RTL312-hmo32017-Sunday-01,0,1,106,Jackson Sq -  Outbound,42.323132,-71.099592
+70006,RTL312-hmo32j47-Sunday-01,0,1,115,Jackson Sq -  Outbound,42.323132,-71.099592
+70007,RTL212-hmo22011-Weekday-01,1,1,162,Jackson Sq Orange Line Inbound,42.323132,-71.099592
+70007,RTL212-hmo22016-Saturday-01,1,1,123,Jackson Sq Orange Line Inbound,42.323132,-71.099592
+70007,RTL212-hmo22017-Sunday-01,1,1,106,Jackson Sq Orange Line Inbound,42.323132,-71.099592
+70007,RTL212-hmo22bk1-Weekday-01,1,1,162,Jackson Sq Orange Line Inbound,42.323132,-71.099592
+70007,RTL312-hmo32011-Weekday-01,1,1,162,Jackson Sq Orange Line Inbound,42.323132,-71.099592
+70007,RTL312-hmo32016-Saturday-01,1,1,123,Jackson Sq Orange Line Inbound,42.323132,-71.099592
+70007,RTL312-hmo32017-Sunday-01,1,1,106,Jackson Sq Orange Line Inbound,42.323132,-71.099592
+70007,RTL312-hmo32j47-Sunday-01,1,1,115,Jackson Sq Orange Line Inbound,42.323132,-71.099592
+70008,RTL212-hmo22011-Weekday-01,0,2,162,Roxbury Xng - Outbound,42.331397,-71.095451
+70008,RTL212-hmo22016-Saturday-01,0,1,123,Roxbury Xng - Outbound,42.331397,-71.095451
+70008,RTL212-hmo22017-Sunday-01,0,1,106,Roxbury Xng - Outbound,42.331397,-71.095451
+70008,RTL212-hmo22bk1-Weekday-01,0,2,162,Roxbury Xng - Outbound,42.331397,-71.095451
+70008,RTL312-hmo32011-Weekday-01,0,2,162,Roxbury Xng - Outbound,42.331397,-71.095451
+70008,RTL312-hmo32016-Saturday-01,0,1,123,Roxbury Xng - Outbound,42.331397,-71.095451
+70008,RTL312-hmo32017-Sunday-01,0,1,106,Roxbury Xng - Outbound,42.331397,-71.095451
+70008,RTL312-hmo32j47-Sunday-01,0,1,115,Roxbury Xng - Outbound,42.331397,-71.095451
+70009,RTL212-hmo22011-Weekday-01,1,1,162,Roxbury Xng - Inbound,42.331397,-71.095451
+70009,RTL212-hmo22016-Saturday-01,1,1,123,Roxbury Xng - Inbound,42.331397,-71.095451
+70009,RTL212-hmo22017-Sunday-01,1,1,106,Roxbury Xng - Inbound,42.331397,-71.095451
+70009,RTL212-hmo22bk1-Weekday-01,1,1,162,Roxbury Xng - Inbound,42.331397,-71.095451
+70009,RTL312-hmo32011-Weekday-01,1,1,162,Roxbury Xng - Inbound,42.331397,-71.095451
+70009,RTL312-hmo32016-Saturday-01,1,1,123,Roxbury Xng - Inbound,42.331397,-71.095451
+70009,RTL312-hmo32017-Sunday-01,1,1,106,Roxbury Xng - Inbound,42.331397,-71.095451
+70009,RTL312-hmo32j47-Sunday-01,1,1,115,Roxbury Xng - Inbound,42.331397,-71.095451
+70010,RTL212-hmo22011-Weekday-01,0,2,162,Ruggles Sta -  Outbound,42.336377,-71.088961
+70010,RTL212-hmo22016-Saturday-01,0,1,123,Ruggles Sta -  Outbound,42.336377,-71.088961
+70010,RTL212-hmo22017-Sunday-01,0,1,106,Ruggles Sta -  Outbound,42.336377,-71.088961
+70010,RTL212-hmo22bk1-Weekday-01,0,2,162,Ruggles Sta -  Outbound,42.336377,-71.088961
+70010,RTL312-hmo32011-Weekday-01,0,2,162,Ruggles Sta -  Outbound,42.336377,-71.088961
+70010,RTL312-hmo32016-Saturday-01,0,1,123,Ruggles Sta -  Outbound,42.336377,-71.088961
+70010,RTL312-hmo32017-Sunday-01,0,1,106,Ruggles Sta -  Outbound,42.336377,-71.088961
+70010,RTL312-hmo32j47-Sunday-01,0,1,115,Ruggles Sta -  Outbound,42.336377,-71.088961
+70011,RTL212-hmo22011-Weekday-01,1,1,162,Ruggles Sta - Inbound,42.336377,-71.088961
+70011,RTL212-hmo22016-Saturday-01,1,1,123,Ruggles Sta - Inbound,42.336377,-71.088961
+70011,RTL212-hmo22017-Sunday-01,1,1,106,Ruggles Sta - Inbound,42.336377,-71.088961
+70011,RTL212-hmo22bk1-Weekday-01,1,1,162,Ruggles Sta - Inbound,42.336377,-71.088961
+70011,RTL312-hmo32011-Weekday-01,1,1,162,Ruggles Sta - Inbound,42.336377,-71.088961
+70011,RTL312-hmo32016-Saturday-01,1,1,123,Ruggles Sta - Inbound,42.336377,-71.088961
+70011,RTL312-hmo32017-Sunday-01,1,1,106,Ruggles Sta - Inbound,42.336377,-71.088961
+70011,RTL312-hmo32j47-Sunday-01,1,1,115,Ruggles Sta - Inbound,42.336377,-71.088961
+70012,RTL212-hmo22011-Weekday-01,0,2,162,Massachusetts Ave Sta - Outbound,42.341512,-71.083423
+70012,RTL212-hmo22016-Saturday-01,0,1,123,Massachusetts Ave Sta - Outbound,42.341512,-71.083423
+70012,RTL212-hmo22017-Sunday-01,0,1,106,Massachusetts Ave Sta - Outbound,42.341512,-71.083423
+70012,RTL212-hmo22bk1-Weekday-01,0,2,162,Massachusetts Ave Sta - Outbound,42.341512,-71.083423
+70012,RTL312-hmo32011-Weekday-01,0,2,162,Massachusetts Ave Sta - Outbound,42.341512,-71.083423
+70012,RTL312-hmo32016-Saturday-01,0,1,123,Massachusetts Ave Sta - Outbound,42.341512,-71.083423
+70012,RTL312-hmo32017-Sunday-01,0,1,106,Massachusetts Ave Sta - Outbound,42.341512,-71.083423
+70012,RTL312-hmo32j47-Sunday-01,0,1,115,Massachusetts Ave Sta - Outbound,42.341512,-71.083423
+70013,RTL212-hmo22011-Weekday-01,1,1,162,Massachusetts Ave Sta - Inbound,42.341512,-71.083423
+70013,RTL212-hmo22016-Saturday-01,1,1,123,Massachusetts Ave Sta - Inbound,42.341512,-71.083423
+70013,RTL212-hmo22017-Sunday-01,1,1,106,Massachusetts Ave Sta - Inbound,42.341512,-71.083423
+70013,RTL212-hmo22bk1-Weekday-01,1,1,162,Massachusetts Ave Sta - Inbound,42.341512,-71.083423
+70013,RTL312-hmo32011-Weekday-01,1,1,162,Massachusetts Ave Sta - Inbound,42.341512,-71.083423
+70013,RTL312-hmo32016-Saturday-01,1,1,123,Massachusetts Ave Sta - Inbound,42.341512,-71.083423
+70013,RTL312-hmo32017-Sunday-01,1,1,106,Massachusetts Ave Sta - Inbound,42.341512,-71.083423
+70013,RTL312-hmo32j47-Sunday-01,1,1,115,Massachusetts Ave Sta - Inbound,42.341512,-71.083423
+70014,RTL212-hmo22011-Weekday-01,0,2,162,Back Bay Station - Outbound,42.34735,-71.075727
+70014,RTL212-hmo22016-Saturday-01,0,1,123,Back Bay Station - Outbound,42.34735,-71.075727
+70014,RTL212-hmo22017-Sunday-01,0,1,106,Back Bay Station - Outbound,42.34735,-71.075727
+70014,RTL212-hmo22bk1-Weekday-01,0,2,162,Back Bay Station - Outbound,42.34735,-71.075727
+70014,RTL312-hmo32011-Weekday-01,0,2,162,Back Bay Station - Outbound,42.34735,-71.075727
+70014,RTL312-hmo32016-Saturday-01,0,1,123,Back Bay Station - Outbound,42.34735,-71.075727
+70014,RTL312-hmo32017-Sunday-01,0,1,106,Back Bay Station - Outbound,42.34735,-71.075727
+70014,RTL312-hmo32j47-Sunday-01,0,1,115,Back Bay Station - Outbound,42.34735,-71.075727
+70015,RTL212-hmo22011-Weekday-01,1,1,162,Back Bay Sta - Inbound,42.34735,-71.075727
+70015,RTL212-hmo22016-Saturday-01,1,1,123,Back Bay Sta - Inbound,42.34735,-71.075727
+70015,RTL212-hmo22017-Sunday-01,1,1,106,Back Bay Sta - Inbound,42.34735,-71.075727
+70015,RTL212-hmo22bk1-Weekday-01,1,1,162,Back Bay Sta - Inbound,42.34735,-71.075727
+70015,RTL312-hmo32011-Weekday-01,1,1,162,Back Bay Sta - Inbound,42.34735,-71.075727
+70015,RTL312-hmo32016-Saturday-01,1,1,123,Back Bay Sta - Inbound,42.34735,-71.075727
+70015,RTL312-hmo32017-Sunday-01,1,1,106,Back Bay Sta - Inbound,42.34735,-71.075727
+70015,RTL312-hmo32j47-Sunday-01,1,1,115,Back Bay Sta - Inbound,42.34735,-71.075727
+70016,RTL212-hmo22011-Weekday-01,0,2,162,Tufts Medical Ctr - Outbound,42.349662,-71.063917
+70016,RTL212-hmo22016-Saturday-01,0,1,123,Tufts Medical Ctr - Outbound,42.349662,-71.063917
+70016,RTL212-hmo22017-Sunday-01,0,1,106,Tufts Medical Ctr - Outbound,42.349662,-71.063917
+70016,RTL212-hmo22bk1-Weekday-01,0,2,162,Tufts Medical Ctr - Outbound,42.349662,-71.063917
+70016,RTL312-hmo32011-Weekday-01,0,2,162,Tufts Medical Ctr - Outbound,42.349662,-71.063917
+70016,RTL312-hmo32016-Saturday-01,0,1,123,Tufts Medical Ctr - Outbound,42.349662,-71.063917
+70016,RTL312-hmo32017-Sunday-01,0,1,106,Tufts Medical Ctr - Outbound,42.349662,-71.063917
+70016,RTL312-hmo32j47-Sunday-01,0,1,115,Tufts Medical Ctr - Outbound,42.349662,-71.063917
+70017,RTL212-hmo22011-Weekday-01,1,1,162,Tufts  Medical Ctr - Inbound,42.349662,-71.063917
+70017,RTL212-hmo22016-Saturday-01,1,1,123,Tufts  Medical Ctr - Inbound,42.349662,-71.063917
+70017,RTL212-hmo22017-Sunday-01,1,1,106,Tufts  Medical Ctr - Inbound,42.349662,-71.063917
+70017,RTL212-hmo22bk1-Weekday-01,1,1,162,Tufts  Medical Ctr - Inbound,42.349662,-71.063917
+70017,RTL312-hmo32011-Weekday-01,1,1,162,Tufts  Medical Ctr - Inbound,42.349662,-71.063917
+70017,RTL312-hmo32016-Saturday-01,1,1,123,Tufts  Medical Ctr - Inbound,42.349662,-71.063917
+70017,RTL312-hmo32017-Sunday-01,1,1,106,Tufts  Medical Ctr - Inbound,42.349662,-71.063917
+70017,RTL312-hmo32j47-Sunday-01,1,1,115,Tufts  Medical Ctr - Inbound,42.349662,-71.063917
+70018,RTL212-hmo22011-Weekday-01,0,2,162,Chinatown Station - Outbound,42.352547,-71.062752
+70018,RTL212-hmo22016-Saturday-01,0,1,123,Chinatown Station - Outbound,42.352547,-71.062752
+70018,RTL212-hmo22017-Sunday-01,0,1,106,Chinatown Station - Outbound,42.352547,-71.062752
+70018,RTL212-hmo22bk1-Weekday-01,0,2,162,Chinatown Station - Outbound,42.352547,-71.062752
+70018,RTL312-hmo32011-Weekday-01,0,2,162,Chinatown Station - Outbound,42.352547,-71.062752
+70018,RTL312-hmo32016-Saturday-01,0,1,123,Chinatown Station - Outbound,42.352547,-71.062752
+70018,RTL312-hmo32017-Sunday-01,0,1,106,Chinatown Station - Outbound,42.352547,-71.062752
+70018,RTL312-hmo32j47-Sunday-01,0,1,115,Chinatown Station - Outbound,42.352547,-71.062752
+70019,RTL212-hmo22011-Weekday-01,1,1,162,Chinatown Station - Inbound,42.352547,-71.062752
+70019,RTL212-hmo22016-Saturday-01,1,1,123,Chinatown Station - Inbound,42.352547,-71.062752
+70019,RTL212-hmo22017-Sunday-01,1,1,106,Chinatown Station - Inbound,42.352547,-71.062752
+70019,RTL212-hmo22bk1-Weekday-01,1,1,162,Chinatown Station - Inbound,42.352547,-71.062752
+70019,RTL312-hmo32011-Weekday-01,1,1,162,Chinatown Station - Inbound,42.352547,-71.062752
+70019,RTL312-hmo32016-Saturday-01,1,1,123,Chinatown Station - Inbound,42.352547,-71.062752
+70019,RTL312-hmo32017-Sunday-01,1,1,106,Chinatown Station - Inbound,42.352547,-71.062752
+70019,RTL312-hmo32j47-Sunday-01,1,1,115,Chinatown Station - Inbound,42.352547,-71.062752
+70020,RTL212-hmo22011-Weekday-01,0,2,162,Downtown Crossing - to Forest Hills,42.355518,-71.060225
+70020,RTL212-hmo22016-Saturday-01,0,1,123,Downtown Crossing - to Forest Hills,42.355518,-71.060225
+70020,RTL212-hmo22017-Sunday-01,0,1,106,Downtown Crossing - to Forest Hills,42.355518,-71.060225
+70020,RTL212-hmo22bk1-Weekday-01,0,2,162,Downtown Crossing - to Forest Hills,42.355518,-71.060225
+70020,RTL312-hmo32011-Weekday-01,0,2,162,Downtown Crossing - to Forest Hills,42.355518,-71.060225
+70020,RTL312-hmo32016-Saturday-01,0,1,123,Downtown Crossing - to Forest Hills,42.355518,-71.060225
+70020,RTL312-hmo32017-Sunday-01,0,1,106,Downtown Crossing - to Forest Hills,42.355518,-71.060225
+70020,RTL312-hmo32j47-Sunday-01,0,1,115,Downtown Crossing - to Forest Hills,42.355518,-71.060225
+70021,RTL212-hmo22011-Weekday-01,1,1,162,Downtown Crossing - to Oak Grove,42.355518,-71.060225
+70021,RTL212-hmo22016-Saturday-01,1,1,123,Downtown Crossing - to Oak Grove,42.355518,-71.060225
+70021,RTL212-hmo22017-Sunday-01,1,1,106,Downtown Crossing - to Oak Grove,42.355518,-71.060225
+70021,RTL212-hmo22bk1-Weekday-01,1,1,162,Downtown Crossing - to Oak Grove,42.355518,-71.060225
+70021,RTL312-hmo32011-Weekday-01,1,1,162,Downtown Crossing - to Oak Grove,42.355518,-71.060225
+70021,RTL312-hmo32016-Saturday-01,1,1,123,Downtown Crossing - to Oak Grove,42.355518,-71.060225
+70021,RTL312-hmo32017-Sunday-01,1,1,106,Downtown Crossing - to Oak Grove,42.355518,-71.060225
+70021,RTL312-hmo32j47-Sunday-01,1,1,115,Downtown Crossing - to Oak Grove,42.355518,-71.060225
+70022,RTL212-hmo22011-Weekday-01,0,2,162,State St Orange Line to Forest Hills,42.358978,-71.057598
+70022,RTL212-hmo22016-Saturday-01,0,1,123,State St Orange Line to Forest Hills,42.358978,-71.057598
+70022,RTL212-hmo22017-Sunday-01,0,1,106,State St Orange Line to Forest Hills,42.358978,-71.057598
+70022,RTL212-hmo22bk1-Weekday-01,0,2,162,State St Orange Line to Forest Hills,42.358978,-71.057598
+70022,RTL312-hmo32011-Weekday-01,0,2,162,State St Orange Line to Forest Hills,42.358978,-71.057598
+70022,RTL312-hmo32016-Saturday-01,0,1,123,State St Orange Line to Forest Hills,42.358978,-71.057598
+70022,RTL312-hmo32017-Sunday-01,0,1,106,State St Orange Line to Forest Hills,42.358978,-71.057598
+70022,RTL312-hmo32j47-Sunday-01,0,1,115,State St Orange Line to Forest Hills,42.358978,-71.057598
+70023,RTL212-hmo22011-Weekday-01,1,1,162,State St - to Oak Grove,42.358978,-71.057598
+70023,RTL212-hmo22016-Saturday-01,1,1,123,State St - to Oak Grove,42.358978,-71.057598
+70023,RTL212-hmo22017-Sunday-01,1,1,106,State St - to Oak Grove,42.358978,-71.057598
+70023,RTL212-hmo22bk1-Weekday-01,1,1,162,State St - to Oak Grove,42.358978,-71.057598
+70023,RTL312-hmo32011-Weekday-01,1,1,162,State St - to Oak Grove,42.358978,-71.057598
+70023,RTL312-hmo32016-Saturday-01,1,1,123,State St - to Oak Grove,42.358978,-71.057598
+70023,RTL312-hmo32017-Sunday-01,1,1,106,State St - to Oak Grove,42.358978,-71.057598
+70023,RTL312-hmo32j47-Sunday-01,1,1,115,State St - to Oak Grove,42.358978,-71.057598
+70024,RTL212-hmo22011-Weekday-01,0,2,162,Haymarket Station - Inbound,42.363021,-71.05829
+70024,RTL212-hmo22016-Saturday-01,0,1,123,Haymarket Station - Inbound,42.363021,-71.05829
+70024,RTL212-hmo22017-Sunday-01,0,1,106,Haymarket Station - Inbound,42.363021,-71.05829
+70024,RTL212-hmo22bk1-Weekday-01,0,2,162,Haymarket Station - Inbound,42.363021,-71.05829
+70024,RTL312-hmo32011-Weekday-01,0,2,162,Haymarket Station - Inbound,42.363021,-71.05829
+70024,RTL312-hmo32016-Saturday-01,0,1,123,Haymarket Station - Inbound,42.363021,-71.05829
+70024,RTL312-hmo32017-Sunday-01,0,1,106,Haymarket Station - Inbound,42.363021,-71.05829
+70024,RTL312-hmo32j47-Sunday-01,0,1,115,Haymarket Station - Inbound,42.363021,-71.05829
+70025,RTL212-hmo22011-Weekday-01,1,1,162,Haymarket Station - Outbound,42.363021,-71.05829
+70025,RTL212-hmo22016-Saturday-01,1,1,123,Haymarket Station - Outbound,42.363021,-71.05829
+70025,RTL212-hmo22017-Sunday-01,1,1,106,Haymarket Station - Outbound,42.363021,-71.05829
+70025,RTL212-hmo22bk1-Weekday-01,1,1,162,Haymarket Station - Outbound,42.363021,-71.05829
+70025,RTL312-hmo32011-Weekday-01,1,1,162,Haymarket Station - Outbound,42.363021,-71.05829
+70025,RTL312-hmo32016-Saturday-01,1,1,123,Haymarket Station - Outbound,42.363021,-71.05829
+70025,RTL312-hmo32017-Sunday-01,1,1,106,Haymarket Station - Outbound,42.363021,-71.05829
+70025,RTL312-hmo32j47-Sunday-01,1,1,115,Haymarket Station - Outbound,42.363021,-71.05829
+70026,RTL212-hmo22011-Weekday-01,0,2,162,North Station - Inbound,42.365577,-71.06129
+70026,RTL212-hmo22016-Saturday-01,0,1,123,North Station - Inbound,42.365577,-71.06129
+70026,RTL212-hmo22017-Sunday-01,0,1,106,North Station - Inbound,42.365577,-71.06129
+70026,RTL212-hmo22bk1-Weekday-01,0,2,162,North Station - Inbound,42.365577,-71.06129
+70026,RTL312-hmo32011-Weekday-01,0,2,162,North Station - Inbound,42.365577,-71.06129
+70026,RTL312-hmo32016-Saturday-01,0,1,123,North Station - Inbound,42.365577,-71.06129
+70026,RTL312-hmo32017-Sunday-01,0,1,106,North Station - Inbound,42.365577,-71.06129
+70026,RTL312-hmo32j47-Sunday-01,0,1,115,North Station - Inbound,42.365577,-71.06129
+70027,RTL212-hmo22011-Weekday-01,1,1,162,North Station - Outbound,42.365577,-71.06129
+70027,RTL212-hmo22016-Saturday-01,1,1,123,North Station - Outbound,42.365577,-71.06129
+70027,RTL212-hmo22017-Sunday-01,1,1,106,North Station - Outbound,42.365577,-71.06129
+70027,RTL212-hmo22bk1-Weekday-01,1,1,162,North Station - Outbound,42.365577,-71.06129
+70027,RTL312-hmo32011-Weekday-01,1,1,162,North Station - Outbound,42.365577,-71.06129
+70027,RTL312-hmo32016-Saturday-01,1,1,123,North Station - Outbound,42.365577,-71.06129
+70027,RTL312-hmo32017-Sunday-01,1,1,106,North Station - Outbound,42.365577,-71.06129
+70027,RTL312-hmo32j47-Sunday-01,1,1,115,North Station - Outbound,42.365577,-71.06129
+70028,RTL212-hmo22011-Weekday-01,0,2,162,Community College - Inbound,42.373622,-71.069533
+70028,RTL212-hmo22016-Saturday-01,0,1,123,Community College - Inbound,42.373622,-71.069533
+70028,RTL212-hmo22017-Sunday-01,0,1,106,Community College - Inbound,42.373622,-71.069533
+70028,RTL212-hmo22bk1-Weekday-01,0,2,162,Community College - Inbound,42.373622,-71.069533
+70028,RTL312-hmo32011-Weekday-01,0,2,162,Community College - Inbound,42.373622,-71.069533
+70028,RTL312-hmo32016-Saturday-01,0,1,123,Community College - Inbound,42.373622,-71.069533
+70028,RTL312-hmo32017-Sunday-01,0,1,106,Community College - Inbound,42.373622,-71.069533
+70028,RTL312-hmo32j47-Sunday-01,0,1,115,Community College - Inbound,42.373622,-71.069533
+70029,RTL212-hmo22011-Weekday-01,1,1,162,Community College - Outbound,42.373622,-71.069533
+70029,RTL212-hmo22016-Saturday-01,1,1,123,Community College - Outbound,42.373622,-71.069533
+70029,RTL212-hmo22017-Sunday-01,1,1,106,Community College - Outbound,42.373622,-71.069533
+70029,RTL212-hmo22bk1-Weekday-01,1,1,162,Community College - Outbound,42.373622,-71.069533
+70029,RTL312-hmo32011-Weekday-01,1,1,162,Community College - Outbound,42.373622,-71.069533
+70029,RTL312-hmo32016-Saturday-01,1,1,123,Community College - Outbound,42.373622,-71.069533
+70029,RTL312-hmo32017-Sunday-01,1,1,106,Community College - Outbound,42.373622,-71.069533
+70029,RTL312-hmo32j47-Sunday-01,1,1,115,Community College - Outbound,42.373622,-71.069533
+70030,RTL212-hmo22011-Weekday-01,0,2,162,Sullivan Station - Inbound,42.383975,-71.076994
+70030,RTL212-hmo22016-Saturday-01,0,1,123,Sullivan Station - Inbound,42.383975,-71.076994
+70030,RTL212-hmo22017-Sunday-01,0,1,106,Sullivan Station - Inbound,42.383975,-71.076994
+70030,RTL212-hmo22bk1-Weekday-01,0,2,162,Sullivan Station - Inbound,42.383975,-71.076994
+70030,RTL312-hmo32011-Weekday-01,0,2,162,Sullivan Station - Inbound,42.383975,-71.076994
+70030,RTL312-hmo32016-Saturday-01,0,1,123,Sullivan Station - Inbound,42.383975,-71.076994
+70030,RTL312-hmo32017-Sunday-01,0,1,106,Sullivan Station - Inbound,42.383975,-71.076994
+70030,RTL312-hmo32j47-Sunday-01,0,1,115,Sullivan Station - Inbound,42.383975,-71.076994
+70031,RTL212-hmo22011-Weekday-01,1,1,162,Sullivan Station - Outbound,42.383975,-71.076994
+70031,RTL212-hmo22016-Saturday-01,1,1,123,Sullivan Station - Outbound,42.383975,-71.076994
+70031,RTL212-hmo22017-Sunday-01,1,1,106,Sullivan Station - Outbound,42.383975,-71.076994
+70031,RTL212-hmo22bk1-Weekday-01,1,1,162,Sullivan Station - Outbound,42.383975,-71.076994
+70031,RTL312-hmo32011-Weekday-01,1,1,162,Sullivan Station - Outbound,42.383975,-71.076994
+70031,RTL312-hmo32016-Saturday-01,1,1,123,Sullivan Station - Outbound,42.383975,-71.076994
+70031,RTL312-hmo32017-Sunday-01,1,1,106,Sullivan Station - Outbound,42.383975,-71.076994
+70031,RTL312-hmo32j47-Sunday-01,1,1,115,Sullivan Station - Outbound,42.383975,-71.076994
+70032,RTL212-hmo22011-Weekday-01,0,2,162,Wellington Station - Inbound,42.40237,-71.077082
+70032,RTL212-hmo22016-Saturday-01,0,1,123,Wellington Station - Inbound,42.40237,-71.077082
+70032,RTL212-hmo22017-Sunday-01,0,1,106,Wellington Station - Inbound,42.40237,-71.077082
+70032,RTL212-hmo22bk1-Weekday-01,0,2,162,Wellington Station - Inbound,42.40237,-71.077082
+70032,RTL312-hmo32011-Weekday-01,0,2,162,Wellington Station - Inbound,42.40237,-71.077082
+70032,RTL312-hmo32016-Saturday-01,0,1,123,Wellington Station - Inbound,42.40237,-71.077082
+70032,RTL312-hmo32017-Sunday-01,0,1,106,Wellington Station - Inbound,42.40237,-71.077082
+70032,RTL312-hmo32j47-Sunday-01,0,1,115,Wellington Station - Inbound,42.40237,-71.077082
+70033,RTL212-hmo22011-Weekday-01,1,1,162,Wellington Station - Outbound,42.40237,-71.077082
+70033,RTL212-hmo22016-Saturday-01,1,1,123,Wellington Station - Outbound,42.40237,-71.077082
+70033,RTL212-hmo22017-Sunday-01,1,1,106,Wellington Station - Outbound,42.40237,-71.077082
+70033,RTL212-hmo22bk1-Weekday-01,1,1,162,Wellington Station - Outbound,42.40237,-71.077082
+70033,RTL312-hmo32011-Weekday-01,1,1,162,Wellington Station - Outbound,42.40237,-71.077082
+70033,RTL312-hmo32016-Saturday-01,1,1,123,Wellington Station - Outbound,42.40237,-71.077082
+70033,RTL312-hmo32017-Sunday-01,1,1,106,Wellington Station - Outbound,42.40237,-71.077082
+70033,RTL312-hmo32j47-Sunday-01,1,1,115,Wellington Station - Outbound,42.40237,-71.077082
+70034,RTL212-hmo22011-Weekday-01,0,1,159,Malden Station - Inbound,42.426632,-71.07411
+70034,RTL212-hmo22016-Saturday-01,0,1,123,Malden Station - Inbound,42.426632,-71.07411
+70034,RTL212-hmo22017-Sunday-01,0,1,106,Malden Station - Inbound,42.426632,-71.07411
+70034,RTL212-hmo22bk1-Weekday-01,0,1,159,Malden Station - Inbound,42.426632,-71.07411
+70034,RTL312-hmo32011-Weekday-01,0,1,159,Malden Station - Inbound,42.426632,-71.07411
+70034,RTL312-hmo32016-Saturday-01,0,1,123,Malden Station - Inbound,42.426632,-71.07411
+70034,RTL312-hmo32017-Sunday-01,0,1,106,Malden Station - Inbound,42.426632,-71.07411
+70034,RTL312-hmo32j47-Sunday-01,0,1,115,Malden Station - Inbound,42.426632,-71.07411
+70035,RTL212-hmo22011-Weekday-01,1,1,162,Malden Station - Outbound,42.426632,-71.07411
+70035,RTL212-hmo22016-Saturday-01,1,1,123,Malden Station - Outbound,42.426632,-71.07411
+70035,RTL212-hmo22017-Sunday-01,1,1,106,Malden Station - Outbound,42.426632,-71.07411
+70035,RTL212-hmo22bk1-Weekday-01,1,1,162,Malden Station - Outbound,42.426632,-71.07411
+70035,RTL312-hmo32011-Weekday-01,1,1,162,Malden Station - Outbound,42.426632,-71.07411
+70035,RTL312-hmo32016-Saturday-01,1,1,123,Malden Station - Outbound,42.426632,-71.07411
+70035,RTL312-hmo32017-Sunday-01,1,1,106,Malden Station - Outbound,42.426632,-71.07411
+70035,RTL312-hmo32j47-Sunday-01,1,1,115,Malden Station - Outbound,42.426632,-71.07411
+70036,RTL212-hmo22011-Weekday-01,0,1,159,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL212-hmo22011-Weekday-01,1,1,162,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL212-hmo22016-Saturday-01,0,1,123,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL212-hmo22016-Saturday-01,1,1,123,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL212-hmo22017-Sunday-01,0,1,106,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL212-hmo22017-Sunday-01,1,1,106,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL212-hmo22bk1-Weekday-01,0,1,159,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL212-hmo22bk1-Weekday-01,1,1,162,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL312-hmo32011-Weekday-01,0,1,159,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL312-hmo32011-Weekday-01,1,1,162,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL312-hmo32016-Saturday-01,0,1,123,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL312-hmo32016-Saturday-01,1,1,123,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL312-hmo32017-Sunday-01,0,1,106,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL312-hmo32017-Sunday-01,1,1,106,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL312-hmo32j47-Sunday-01,0,1,115,Oak Grove Station - Orange Line,42.43668,-71.071097
+70036,RTL312-hmo32j47-Sunday-01,1,1,115,Oak Grove Station - Orange Line,42.43668,-71.071097
+70038,RTL212-hmb22011-Weekday-01,0,2,137,Bowdoin Station Blue Line,42.361365,-71.062037
+70038,RTL212-hmb22011-Weekday-01,1,1,137,Bowdoin Station Blue Line,42.361365,-71.062037
+70038,RTL212-hmb22bk1-Weekday-01,0,2,137,Bowdoin Station Blue Line,42.361365,-71.062037
+70038,RTL212-hmb22bk1-Weekday-01,1,1,137,Bowdoin Station Blue Line,42.361365,-71.062037
+70038,RTL212-hmb22no1-Weekday-01,0,2,137,Bowdoin Station Blue Line,42.361365,-71.062037
+70038,RTL212-hmb22no1-Weekday-01,1,1,137,Bowdoin Station Blue Line,42.361365,-71.062037
+70038,RTL312-hmb32011-Weekday-01,0,2,137,Bowdoin Station Blue Line,42.361365,-71.062037
+70038,RTL312-hmb32011-Weekday-01,1,1,137,Bowdoin Station Blue Line,42.361365,-71.062037
+70039,RTL212-hmb22011-Weekday-01,0,3,177,Government Center Station - to Bowdoin Staion,42.359705,-71.059215
+70039,RTL212-hmb22016-Saturday-01,0,2,126,Government Center Station - to Bowdoin Staion,42.359705,-71.059215
+70039,RTL212-hmb22017-Sunday-01,0,1,113,Government Center Station - to Bowdoin Staion,42.359705,-71.059215
+70039,RTL212-hmb22bk1-Weekday-01,0,3,177,Government Center Station - to Bowdoin Staion,42.359705,-71.059215
+70039,RTL212-hmb22no1-Weekday-01,0,3,177,Government Center Station - to Bowdoin Staion,42.359705,-71.059215
+70039,RTL312-hmb32011-Weekday-01,0,3,177,Government Center Station - to Bowdoin Staion,42.359705,-71.059215
+70039,RTL312-hmb32016-Saturday-01,0,2,126,Government Center Station - to Bowdoin Staion,42.359705,-71.059215
+70039,RTL312-hmb32017-Sunday-01,0,1,113,Government Center Station - to Bowdoin Staion,42.359705,-71.059215
+70039,RTL312-hmb32j47-Sunday-01,0,1,161,Government Center Station - to Bowdoin Staion,42.359705,-71.059215
+70040,RTL212-hmb22011-Weekday-01,1,2,177,Government Ctr Station - to Wonderland,42.359705,-71.059215
+70040,RTL212-hmb22016-Saturday-01,1,1,126,Government Ctr Station - to Wonderland,42.359705,-71.059215
+70040,RTL212-hmb22017-Sunday-01,1,1,113,Government Ctr Station - to Wonderland,42.359705,-71.059215
+70040,RTL212-hmb22bk1-Weekday-01,1,2,177,Government Ctr Station - to Wonderland,42.359705,-71.059215
+70040,RTL212-hmb22no1-Weekday-01,1,2,177,Government Ctr Station - to Wonderland,42.359705,-71.059215
+70040,RTL312-hmb32011-Weekday-01,1,2,177,Government Ctr Station - to Wonderland,42.359705,-71.059215
+70040,RTL312-hmb32016-Saturday-01,1,1,126,Government Ctr Station - to Wonderland,42.359705,-71.059215
+70040,RTL312-hmb32017-Sunday-01,1,1,113,Government Ctr Station - to Wonderland,42.359705,-71.059215
+70040,RTL312-hmb32j47-Sunday-01,1,1,161,Government Ctr Station - to Wonderland,42.359705,-71.059215
+70041,RTL212-hmb22011-Weekday-01,0,3,177,State St Station - to Bowdoin,42.358978,-71.057598
+70041,RTL212-hmb22016-Saturday-01,0,2,126,State St Station - to Bowdoin,42.358978,-71.057598
+70041,RTL212-hmb22017-Sunday-01,0,1,113,State St Station - to Bowdoin,42.358978,-71.057598
+70041,RTL212-hmb22bk1-Weekday-01,0,3,177,State St Station - to Bowdoin,42.358978,-71.057598
+70041,RTL212-hmb22no1-Weekday-01,0,3,177,State St Station - to Bowdoin,42.358978,-71.057598
+70041,RTL312-hmb32011-Weekday-01,0,3,177,State St Station - to Bowdoin,42.358978,-71.057598
+70041,RTL312-hmb32016-Saturday-01,0,2,126,State St Station - to Bowdoin,42.358978,-71.057598
+70041,RTL312-hmb32017-Sunday-01,0,1,113,State St Station - to Bowdoin,42.358978,-71.057598
+70041,RTL312-hmb32j47-Sunday-01,0,1,161,State St Station - to Bowdoin,42.358978,-71.057598
+70042,RTL212-hmb22011-Weekday-01,1,2,177,State St Station - Blue Line Eastbound,42.358978,-71.057598
+70042,RTL212-hmb22016-Saturday-01,1,1,126,State St Station - Blue Line Eastbound,42.358978,-71.057598
+70042,RTL212-hmb22017-Sunday-01,1,1,113,State St Station - Blue Line Eastbound,42.358978,-71.057598
+70042,RTL212-hmb22bk1-Weekday-01,1,2,177,State St Station - Blue Line Eastbound,42.358978,-71.057598
+70042,RTL212-hmb22no1-Weekday-01,1,2,177,State St Station - Blue Line Eastbound,42.358978,-71.057598
+70042,RTL312-hmb32011-Weekday-01,1,2,177,State St Station - Blue Line Eastbound,42.358978,-71.057598
+70042,RTL312-hmb32016-Saturday-01,1,1,126,State St Station - Blue Line Eastbound,42.358978,-71.057598
+70042,RTL312-hmb32017-Sunday-01,1,1,113,State St Station - Blue Line Eastbound,42.358978,-71.057598
+70042,RTL312-hmb32j47-Sunday-01,1,1,161,State St Station - Blue Line Eastbound,42.358978,-71.057598
+70043,RTL212-hmb22011-Weekday-01,0,3,177,Aquarium Station - Inbound,42.359784,-71.051652
+70043,RTL212-hmb22016-Saturday-01,0,2,126,Aquarium Station - Inbound,42.359784,-71.051652
+70043,RTL212-hmb22017-Sunday-01,0,1,113,Aquarium Station - Inbound,42.359784,-71.051652
+70043,RTL212-hmb22bk1-Weekday-01,0,3,177,Aquarium Station - Inbound,42.359784,-71.051652
+70043,RTL212-hmb22no1-Weekday-01,0,3,177,Aquarium Station - Inbound,42.359784,-71.051652
+70043,RTL312-hmb32011-Weekday-01,0,3,177,Aquarium Station - Inbound,42.359784,-71.051652
+70043,RTL312-hmb32016-Saturday-01,0,2,126,Aquarium Station - Inbound,42.359784,-71.051652
+70043,RTL312-hmb32017-Sunday-01,0,1,113,Aquarium Station - Inbound,42.359784,-71.051652
+70043,RTL312-hmb32j47-Sunday-01,0,1,161,Aquarium Station - Inbound,42.359784,-71.051652
+70044,RTL212-hmb22011-Weekday-01,1,2,177,Aquarium Station - Outbound,42.359784,-71.051652
+70044,RTL212-hmb22016-Saturday-01,1,1,126,Aquarium Station - Outbound,42.359784,-71.051652
+70044,RTL212-hmb22017-Sunday-01,1,1,113,Aquarium Station - Outbound,42.359784,-71.051652
+70044,RTL212-hmb22bk1-Weekday-01,1,2,177,Aquarium Station - Outbound,42.359784,-71.051652
+70044,RTL212-hmb22no1-Weekday-01,1,2,177,Aquarium Station - Outbound,42.359784,-71.051652
+70044,RTL312-hmb32011-Weekday-01,1,2,177,Aquarium Station - Outbound,42.359784,-71.051652
+70044,RTL312-hmb32016-Saturday-01,1,1,126,Aquarium Station - Outbound,42.359784,-71.051652
+70044,RTL312-hmb32017-Sunday-01,1,1,113,Aquarium Station - Outbound,42.359784,-71.051652
+70044,RTL312-hmb32j47-Sunday-01,1,1,161,Aquarium Station - Outbound,42.359784,-71.051652
+70045,RTL212-hmb22011-Weekday-01,0,3,177,Maverick Station - Inbound,42.369119,-71.03953
+70045,RTL212-hmb22016-Saturday-01,0,2,126,Maverick Station - Inbound,42.369119,-71.03953
+70045,RTL212-hmb22017-Sunday-01,0,1,113,Maverick Station - Inbound,42.369119,-71.03953
+70045,RTL212-hmb22bk1-Weekday-01,0,3,177,Maverick Station - Inbound,42.369119,-71.03953
+70045,RTL212-hmb22no1-Weekday-01,0,3,177,Maverick Station - Inbound,42.369119,-71.03953
+70045,RTL312-hmb32011-Weekday-01,0,3,177,Maverick Station - Inbound,42.369119,-71.03953
+70045,RTL312-hmb32016-Saturday-01,0,2,126,Maverick Station - Inbound,42.369119,-71.03953
+70045,RTL312-hmb32017-Sunday-01,0,1,113,Maverick Station - Inbound,42.369119,-71.03953
+70045,RTL312-hmb32j47-Sunday-01,0,1,161,Maverick Station - Inbound,42.369119,-71.03953
+70046,RTL212-hmb22011-Weekday-01,1,2,177,Maverick Station - Outbound,42.369119,-71.03953
+70046,RTL212-hmb22016-Saturday-01,1,1,126,Maverick Station - Outbound,42.369119,-71.03953
+70046,RTL212-hmb22017-Sunday-01,1,1,113,Maverick Station - Outbound,42.369119,-71.03953
+70046,RTL212-hmb22bk1-Weekday-01,1,2,177,Maverick Station - Outbound,42.369119,-71.03953
+70046,RTL212-hmb22no1-Weekday-01,1,2,177,Maverick Station - Outbound,42.369119,-71.03953
+70046,RTL312-hmb32011-Weekday-01,1,2,177,Maverick Station - Outbound,42.369119,-71.03953
+70046,RTL312-hmb32016-Saturday-01,1,1,126,Maverick Station - Outbound,42.369119,-71.03953
+70046,RTL312-hmb32017-Sunday-01,1,1,113,Maverick Station - Outbound,42.369119,-71.03953
+70046,RTL312-hmb32j47-Sunday-01,1,1,161,Maverick Station - Outbound,42.369119,-71.03953
+70047,RTL212-hmb22011-Weekday-01,0,3,177,Airport Station - Blue Line Inbound,42.374262,-71.030395
+70047,RTL212-hmb22016-Saturday-01,0,2,126,Airport Station - Blue Line Inbound,42.374262,-71.030395
+70047,RTL212-hmb22017-Sunday-01,0,1,113,Airport Station - Blue Line Inbound,42.374262,-71.030395
+70047,RTL212-hmb22bk1-Weekday-01,0,3,177,Airport Station - Blue Line Inbound,42.374262,-71.030395
+70047,RTL212-hmb22no1-Weekday-01,0,3,177,Airport Station - Blue Line Inbound,42.374262,-71.030395
+70047,RTL312-hmb32011-Weekday-01,0,3,177,Airport Station - Blue Line Inbound,42.374262,-71.030395
+70047,RTL312-hmb32016-Saturday-01,0,2,126,Airport Station - Blue Line Inbound,42.374262,-71.030395
+70047,RTL312-hmb32017-Sunday-01,0,1,113,Airport Station - Blue Line Inbound,42.374262,-71.030395
+70047,RTL312-hmb32j47-Sunday-01,0,1,161,Airport Station - Blue Line Inbound,42.374262,-71.030395
+70048,RTL212-hmb22011-Weekday-01,1,2,177,Airport Station - Outbound,42.374262,-71.030395
+70048,RTL212-hmb22016-Saturday-01,1,1,126,Airport Station - Outbound,42.374262,-71.030395
+70048,RTL212-hmb22017-Sunday-01,1,1,113,Airport Station - Outbound,42.374262,-71.030395
+70048,RTL212-hmb22bk1-Weekday-01,1,2,177,Airport Station - Outbound,42.374262,-71.030395
+70048,RTL212-hmb22no1-Weekday-01,1,2,177,Airport Station - Outbound,42.374262,-71.030395
+70048,RTL312-hmb32011-Weekday-01,1,2,177,Airport Station - Outbound,42.374262,-71.030395
+70048,RTL312-hmb32016-Saturday-01,1,1,126,Airport Station - Outbound,42.374262,-71.030395
+70048,RTL312-hmb32017-Sunday-01,1,1,113,Airport Station - Outbound,42.374262,-71.030395
+70048,RTL312-hmb32j47-Sunday-01,1,1,161,Airport Station - Outbound,42.374262,-71.030395
+70049,RTL212-hmb22011-Weekday-01,0,3,177,Wood Island Station - Inbound,42.37964,-71.022865
+70049,RTL212-hmb22016-Saturday-01,0,2,126,Wood Island Station - Inbound,42.37964,-71.022865
+70049,RTL212-hmb22017-Sunday-01,0,1,113,Wood Island Station - Inbound,42.37964,-71.022865
+70049,RTL212-hmb22bk1-Weekday-01,0,3,177,Wood Island Station - Inbound,42.37964,-71.022865
+70049,RTL212-hmb22no1-Weekday-01,0,3,177,Wood Island Station - Inbound,42.37964,-71.022865
+70049,RTL312-hmb32011-Weekday-01,0,3,177,Wood Island Station - Inbound,42.37964,-71.022865
+70049,RTL312-hmb32016-Saturday-01,0,2,126,Wood Island Station - Inbound,42.37964,-71.022865
+70049,RTL312-hmb32017-Sunday-01,0,1,113,Wood Island Station - Inbound,42.37964,-71.022865
+70049,RTL312-hmb32j47-Sunday-01,0,1,161,Wood Island Station - Inbound,42.37964,-71.022865
+70050,RTL212-hmb22011-Weekday-01,1,2,177,Wood Island Station - Outbound,42.37964,-71.022865
+70050,RTL212-hmb22016-Saturday-01,1,1,126,Wood Island Station - Outbound,42.37964,-71.022865
+70050,RTL212-hmb22017-Sunday-01,1,1,113,Wood Island Station - Outbound,42.37964,-71.022865
+70050,RTL212-hmb22bk1-Weekday-01,1,2,177,Wood Island Station - Outbound,42.37964,-71.022865
+70050,RTL212-hmb22no1-Weekday-01,1,2,177,Wood Island Station - Outbound,42.37964,-71.022865
+70050,RTL312-hmb32011-Weekday-01,1,2,177,Wood Island Station - Outbound,42.37964,-71.022865
+70050,RTL312-hmb32016-Saturday-01,1,1,126,Wood Island Station - Outbound,42.37964,-71.022865
+70050,RTL312-hmb32017-Sunday-01,1,1,113,Wood Island Station - Outbound,42.37964,-71.022865
+70050,RTL312-hmb32j47-Sunday-01,1,1,161,Wood Island Station - Outbound,42.37964,-71.022865
+70051,RTL212-hmb22011-Weekday-01,0,3,177,Orient Heights Station - Inbound,42.386867,-71.004736
+70051,RTL212-hmb22016-Saturday-01,0,2,126,Orient Heights Station - Inbound,42.386867,-71.004736
+70051,RTL212-hmb22017-Sunday-01,0,1,113,Orient Heights Station - Inbound,42.386867,-71.004736
+70051,RTL212-hmb22bk1-Weekday-01,0,3,177,Orient Heights Station - Inbound,42.386867,-71.004736
+70051,RTL212-hmb22no1-Weekday-01,0,3,177,Orient Heights Station - Inbound,42.386867,-71.004736
+70051,RTL312-hmb32011-Weekday-01,0,3,177,Orient Heights Station - Inbound,42.386867,-71.004736
+70051,RTL312-hmb32016-Saturday-01,0,2,126,Orient Heights Station - Inbound,42.386867,-71.004736
+70051,RTL312-hmb32017-Sunday-01,0,1,113,Orient Heights Station - Inbound,42.386867,-71.004736
+70051,RTL312-hmb32j47-Sunday-01,0,1,161,Orient Heights Station - Inbound,42.386867,-71.004736
+70052,RTL212-hmb22011-Weekday-01,1,2,177,Orient Heigts Station - Outbound,42.386867,-71.004736
+70052,RTL212-hmb22016-Saturday-01,1,1,126,Orient Heigts Station - Outbound,42.386867,-71.004736
+70052,RTL212-hmb22017-Sunday-01,1,1,113,Orient Heigts Station - Outbound,42.386867,-71.004736
+70052,RTL212-hmb22bk1-Weekday-01,1,2,177,Orient Heigts Station - Outbound,42.386867,-71.004736
+70052,RTL212-hmb22no1-Weekday-01,1,2,177,Orient Heigts Station - Outbound,42.386867,-71.004736
+70052,RTL312-hmb32011-Weekday-01,1,2,177,Orient Heigts Station - Outbound,42.386867,-71.004736
+70052,RTL312-hmb32016-Saturday-01,1,1,126,Orient Heigts Station - Outbound,42.386867,-71.004736
+70052,RTL312-hmb32017-Sunday-01,1,1,113,Orient Heigts Station - Outbound,42.386867,-71.004736
+70052,RTL312-hmb32j47-Sunday-01,1,1,161,Orient Heigts Station - Outbound,42.386867,-71.004736
+70053,RTL212-hmb22011-Weekday-01,0,2,170,Suffolk Downs Station - Inbound,42.390501,-70.997123
+70053,RTL212-hmb22016-Saturday-01,0,1,125,Suffolk Downs Station - Inbound,42.390501,-70.997123
+70053,RTL212-hmb22017-Sunday-01,0,1,113,Suffolk Downs Station - Inbound,42.390501,-70.997123
+70053,RTL212-hmb22bk1-Weekday-01,0,2,170,Suffolk Downs Station - Inbound,42.390501,-70.997123
+70053,RTL212-hmb22no1-Weekday-01,0,2,170,Suffolk Downs Station - Inbound,42.390501,-70.997123
+70053,RTL312-hmb32011-Weekday-01,0,2,170,Suffolk Downs Station - Inbound,42.390501,-70.997123
+70053,RTL312-hmb32016-Saturday-01,0,1,125,Suffolk Downs Station - Inbound,42.390501,-70.997123
+70053,RTL312-hmb32017-Sunday-01,0,1,113,Suffolk Downs Station - Inbound,42.390501,-70.997123
+70053,RTL312-hmb32j47-Sunday-01,0,1,161,Suffolk Downs Station - Inbound,42.390501,-70.997123
+70054,RTL212-hmb22011-Weekday-01,1,2,177,Suffolk Downs Station - Outbound,42.390501,-70.997123
+70054,RTL212-hmb22016-Saturday-01,1,1,126,Suffolk Downs Station - Outbound,42.390501,-70.997123
+70054,RTL212-hmb22017-Sunday-01,1,1,113,Suffolk Downs Station - Outbound,42.390501,-70.997123
+70054,RTL212-hmb22bk1-Weekday-01,1,2,177,Suffolk Downs Station - Outbound,42.390501,-70.997123
+70054,RTL212-hmb22no1-Weekday-01,1,2,177,Suffolk Downs Station - Outbound,42.390501,-70.997123
+70054,RTL312-hmb32011-Weekday-01,1,2,177,Suffolk Downs Station - Outbound,42.390501,-70.997123
+70054,RTL312-hmb32016-Saturday-01,1,1,126,Suffolk Downs Station - Outbound,42.390501,-70.997123
+70054,RTL312-hmb32017-Sunday-01,1,1,113,Suffolk Downs Station - Outbound,42.390501,-70.997123
+70054,RTL312-hmb32j47-Sunday-01,1,1,161,Suffolk Downs Station - Outbound,42.390501,-70.997123
+70055,RTL212-hmb22011-Weekday-01,0,2,170,Beachmont Station - Inbound,42.397542,-70.992319
+70055,RTL212-hmb22016-Saturday-01,0,1,125,Beachmont Station - Inbound,42.397542,-70.992319
+70055,RTL212-hmb22017-Sunday-01,0,1,113,Beachmont Station - Inbound,42.397542,-70.992319
+70055,RTL212-hmb22bk1-Weekday-01,0,2,170,Beachmont Station - Inbound,42.397542,-70.992319
+70055,RTL212-hmb22no1-Weekday-01,0,2,170,Beachmont Station - Inbound,42.397542,-70.992319
+70055,RTL312-hmb32011-Weekday-01,0,2,170,Beachmont Station - Inbound,42.397542,-70.992319
+70055,RTL312-hmb32016-Saturday-01,0,1,125,Beachmont Station - Inbound,42.397542,-70.992319
+70055,RTL312-hmb32017-Sunday-01,0,1,113,Beachmont Station - Inbound,42.397542,-70.992319
+70055,RTL312-hmb32j47-Sunday-01,0,1,161,Beachmont Station - Inbound,42.397542,-70.992319
+70056,RTL212-hmb22011-Weekday-01,1,2,177,Beachmont Station - Outbound,42.397542,-70.992319
+70056,RTL212-hmb22016-Saturday-01,1,1,126,Beachmont Station - Outbound,42.397542,-70.992319
+70056,RTL212-hmb22017-Sunday-01,1,1,113,Beachmont Station - Outbound,42.397542,-70.992319
+70056,RTL212-hmb22bk1-Weekday-01,1,2,177,Beachmont Station - Outbound,42.397542,-70.992319
+70056,RTL212-hmb22no1-Weekday-01,1,2,177,Beachmont Station - Outbound,42.397542,-70.992319
+70056,RTL312-hmb32011-Weekday-01,1,2,177,Beachmont Station - Outbound,42.397542,-70.992319
+70056,RTL312-hmb32016-Saturday-01,1,1,126,Beachmont Station - Outbound,42.397542,-70.992319
+70056,RTL312-hmb32017-Sunday-01,1,1,113,Beachmont Station - Outbound,42.397542,-70.992319
+70056,RTL312-hmb32j47-Sunday-01,1,1,161,Beachmont Station - Outbound,42.397542,-70.992319
+70057,RTL212-hmb22011-Weekday-01,0,2,170,Revere Beach Station - Inbound,42.407843,-70.992533
+70057,RTL212-hmb22016-Saturday-01,0,1,125,Revere Beach Station - Inbound,42.407843,-70.992533
+70057,RTL212-hmb22017-Sunday-01,0,1,113,Revere Beach Station - Inbound,42.407843,-70.992533
+70057,RTL212-hmb22bk1-Weekday-01,0,2,170,Revere Beach Station - Inbound,42.407843,-70.992533
+70057,RTL212-hmb22no1-Weekday-01,0,2,170,Revere Beach Station - Inbound,42.407843,-70.992533
+70057,RTL312-hmb32011-Weekday-01,0,2,170,Revere Beach Station - Inbound,42.407843,-70.992533
+70057,RTL312-hmb32016-Saturday-01,0,1,125,Revere Beach Station - Inbound,42.407843,-70.992533
+70057,RTL312-hmb32017-Sunday-01,0,1,113,Revere Beach Station - Inbound,42.407843,-70.992533
+70057,RTL312-hmb32j47-Sunday-01,0,1,161,Revere Beach Station - Inbound,42.407843,-70.992533
+70058,RTL212-hmb22011-Weekday-01,1,2,177,Revere Beach Station - Outbound,42.407843,-70.992533
+70058,RTL212-hmb22016-Saturday-01,1,1,126,Revere Beach Station - Outbound,42.407843,-70.992533
+70058,RTL212-hmb22017-Sunday-01,1,1,113,Revere Beach Station - Outbound,42.407843,-70.992533
+70058,RTL212-hmb22bk1-Weekday-01,1,2,177,Revere Beach Station - Outbound,42.407843,-70.992533
+70058,RTL212-hmb22no1-Weekday-01,1,2,177,Revere Beach Station - Outbound,42.407843,-70.992533
+70058,RTL312-hmb32011-Weekday-01,1,2,177,Revere Beach Station - Outbound,42.407843,-70.992533
+70058,RTL312-hmb32016-Saturday-01,1,1,126,Revere Beach Station - Outbound,42.407843,-70.992533
+70058,RTL312-hmb32017-Sunday-01,1,1,113,Revere Beach Station - Outbound,42.407843,-70.992533
+70058,RTL312-hmb32j47-Sunday-01,1,1,161,Revere Beach Station - Outbound,42.407843,-70.992533
+70060,RTL212-hmb22011-Weekday-01,0,2,170,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL212-hmb22011-Weekday-01,1,2,177,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL212-hmb22016-Saturday-01,0,1,125,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL212-hmb22016-Saturday-01,1,1,126,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL212-hmb22017-Sunday-01,0,1,113,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL212-hmb22017-Sunday-01,1,1,113,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL212-hmb22bk1-Weekday-01,0,2,170,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL212-hmb22bk1-Weekday-01,1,2,177,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL212-hmb22no1-Weekday-01,0,2,170,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL212-hmb22no1-Weekday-01,1,2,177,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL312-hmb32011-Weekday-01,0,2,170,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL312-hmb32011-Weekday-01,1,2,177,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL312-hmb32016-Saturday-01,0,1,125,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL312-hmb32016-Saturday-01,1,1,126,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL312-hmb32017-Sunday-01,0,1,113,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL312-hmb32017-Sunday-01,1,1,113,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL312-hmb32j47-Sunday-01,0,1,161,Wonderland Station -  Blue Line,42.41342,-70.991648
+70060,RTL312-hmb32j47-Sunday-01,1,1,161,Wonderland Station -  Blue Line,42.41342,-70.991648
+70061,RTL212-hms22011-Weekday-01,0,2,230,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL212-hms22011-Weekday-01,1,2,230,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL212-hms22016-Saturday-01,0,2,197,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL212-hms22016-Saturday-01,1,2,197,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL212-hms22017-Sunday-01,0,2,169,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL212-hms22017-Sunday-01,1,2,169,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL212-hms22bk1-Weekday-01,0,2,230,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL212-hms22bk1-Weekday-01,1,2,230,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL312-hms32011-Weekday-01,0,2,221,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL312-hms32011-Weekday-01,1,2,221,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL312-hms32016-Saturday-01,0,2,165,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL312-hms32016-Saturday-01,1,2,165,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL312-hms32017-Sunday-01,0,2,143,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL312-hms32017-Sunday-01,1,2,143,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL312-hms32j47-Sunday-01,0,2,201,Alewife Station Red Line,42.395428,-71.142483
+70061,RTL312-hms32j47-Sunday-01,1,2,201,Alewife Station Red Line,42.395428,-71.142483
+70063,RTL212-hms22011-Weekday-01,0,2,230,Davis Sq - Inbound,42.39674,-71.121815
+70063,RTL212-hms22016-Saturday-01,0,2,197,Davis Sq - Inbound,42.39674,-71.121815
+70063,RTL212-hms22017-Sunday-01,0,2,169,Davis Sq - Inbound,42.39674,-71.121815
+70063,RTL212-hms22bk1-Weekday-01,0,2,230,Davis Sq - Inbound,42.39674,-71.121815
+70063,RTL312-hms32011-Weekday-01,0,2,221,Davis Sq - Inbound,42.39674,-71.121815
+70063,RTL312-hms32016-Saturday-01,0,2,165,Davis Sq - Inbound,42.39674,-71.121815
+70063,RTL312-hms32017-Sunday-01,0,2,143,Davis Sq - Inbound,42.39674,-71.121815
+70063,RTL312-hms32j47-Sunday-01,0,2,201,Davis Sq - Inbound,42.39674,-71.121815
+70064,RTL212-hms22011-Weekday-01,1,2,230,Davis Square - Outbound,42.39674,-71.121815
+70064,RTL212-hms22016-Saturday-01,1,2,197,Davis Square - Outbound,42.39674,-71.121815
+70064,RTL212-hms22017-Sunday-01,1,2,169,Davis Square - Outbound,42.39674,-71.121815
+70064,RTL212-hms22bk1-Weekday-01,1,2,230,Davis Square - Outbound,42.39674,-71.121815
+70064,RTL312-hms32011-Weekday-01,1,2,221,Davis Square - Outbound,42.39674,-71.121815
+70064,RTL312-hms32016-Saturday-01,1,2,165,Davis Square - Outbound,42.39674,-71.121815
+70064,RTL312-hms32017-Sunday-01,1,2,143,Davis Square - Outbound,42.39674,-71.121815
+70064,RTL312-hms32j47-Sunday-01,1,2,201,Davis Square - Outbound,42.39674,-71.121815
+70065,RTL212-hms22011-Weekday-01,0,2,230,Porter Sq - Inbound,42.3884,-71.119149
+70065,RTL212-hms22016-Saturday-01,0,2,197,Porter Sq - Inbound,42.3884,-71.119149
+70065,RTL212-hms22017-Sunday-01,0,2,169,Porter Sq - Inbound,42.3884,-71.119149
+70065,RTL212-hms22bk1-Weekday-01,0,2,230,Porter Sq - Inbound,42.3884,-71.119149
+70065,RTL312-hms32011-Weekday-01,0,2,221,Porter Sq - Inbound,42.3884,-71.119149
+70065,RTL312-hms32016-Saturday-01,0,2,165,Porter Sq - Inbound,42.3884,-71.119149
+70065,RTL312-hms32017-Sunday-01,0,2,143,Porter Sq - Inbound,42.3884,-71.119149
+70065,RTL312-hms32j47-Sunday-01,0,2,201,Porter Sq - Inbound,42.3884,-71.119149
+70066,RTL212-hms22011-Weekday-01,1,2,230,Porter Sq - Outbound,42.3884,-71.119149
+70066,RTL212-hms22016-Saturday-01,1,2,197,Porter Sq - Outbound,42.3884,-71.119149
+70066,RTL212-hms22017-Sunday-01,1,2,169,Porter Sq - Outbound,42.3884,-71.119149
+70066,RTL212-hms22bk1-Weekday-01,1,2,230,Porter Sq - Outbound,42.3884,-71.119149
+70066,RTL312-hms32011-Weekday-01,1,2,221,Porter Sq - Outbound,42.3884,-71.119149
+70066,RTL312-hms32016-Saturday-01,1,2,165,Porter Sq - Outbound,42.3884,-71.119149
+70066,RTL312-hms32017-Sunday-01,1,2,143,Porter Sq - Outbound,42.3884,-71.119149
+70066,RTL312-hms32j47-Sunday-01,1,2,201,Porter Sq - Outbound,42.3884,-71.119149
+70067,RTL212-hms22011-Weekday-01,0,2,230,Harvard Station - Inbound,42.373362,-71.118956
+70067,RTL212-hms22016-Saturday-01,0,2,197,Harvard Station - Inbound,42.373362,-71.118956
+70067,RTL212-hms22017-Sunday-01,0,2,169,Harvard Station - Inbound,42.373362,-71.118956
+70067,RTL212-hms22bk1-Weekday-01,0,2,230,Harvard Station - Inbound,42.373362,-71.118956
+70067,RTL312-hms32011-Weekday-01,0,2,221,Harvard Station - Inbound,42.373362,-71.118956
+70067,RTL312-hms32016-Saturday-01,0,2,165,Harvard Station - Inbound,42.373362,-71.118956
+70067,RTL312-hms32017-Sunday-01,0,2,143,Harvard Station - Inbound,42.373362,-71.118956
+70067,RTL312-hms32j47-Sunday-01,0,2,201,Harvard Station - Inbound,42.373362,-71.118956
+70068,RTL212-hms22011-Weekday-01,1,2,230,Harvard Station - Outbound,42.373362,-71.118956
+70068,RTL212-hms22016-Saturday-01,1,2,197,Harvard Station - Outbound,42.373362,-71.118956
+70068,RTL212-hms22017-Sunday-01,1,2,169,Harvard Station - Outbound,42.373362,-71.118956
+70068,RTL212-hms22bk1-Weekday-01,1,2,230,Harvard Station - Outbound,42.373362,-71.118956
+70068,RTL312-hms32011-Weekday-01,1,2,221,Harvard Station - Outbound,42.373362,-71.118956
+70068,RTL312-hms32016-Saturday-01,1,2,165,Harvard Station - Outbound,42.373362,-71.118956
+70068,RTL312-hms32017-Sunday-01,1,2,143,Harvard Station - Outbound,42.373362,-71.118956
+70068,RTL312-hms32j47-Sunday-01,1,2,201,Harvard Station - Outbound,42.373362,-71.118956
+70069,RTL212-hms22011-Weekday-01,0,2,230,Central Sq - Inbound,42.365486,-71.103802
+70069,RTL212-hms22016-Saturday-01,0,2,197,Central Sq - Inbound,42.365486,-71.103802
+70069,RTL212-hms22017-Sunday-01,0,2,169,Central Sq - Inbound,42.365486,-71.103802
+70069,RTL212-hms22bk1-Weekday-01,0,2,230,Central Sq - Inbound,42.365486,-71.103802
+70069,RTL312-hms32011-Weekday-01,0,2,221,Central Sq - Inbound,42.365486,-71.103802
+70069,RTL312-hms32016-Saturday-01,0,2,165,Central Sq - Inbound,42.365486,-71.103802
+70069,RTL312-hms32017-Sunday-01,0,2,143,Central Sq - Inbound,42.365486,-71.103802
+70069,RTL312-hms32j47-Sunday-01,0,2,201,Central Sq - Inbound,42.365486,-71.103802
+70070,RTL212-hms22011-Weekday-01,1,2,230,Central Sq - Outbound,42.365486,-71.103802
+70070,RTL212-hms22016-Saturday-01,1,2,197,Central Sq - Outbound,42.365486,-71.103802
+70070,RTL212-hms22017-Sunday-01,1,2,169,Central Sq - Outbound,42.365486,-71.103802
+70070,RTL212-hms22bk1-Weekday-01,1,2,230,Central Sq - Outbound,42.365486,-71.103802
+70070,RTL312-hms32011-Weekday-01,1,2,221,Central Sq - Outbound,42.365486,-71.103802
+70070,RTL312-hms32016-Saturday-01,1,2,165,Central Sq - Outbound,42.365486,-71.103802
+70070,RTL312-hms32017-Sunday-01,1,2,143,Central Sq - Outbound,42.365486,-71.103802
+70070,RTL312-hms32j47-Sunday-01,1,2,201,Central Sq - Outbound,42.365486,-71.103802
+70071,RTL212-hms22011-Weekday-01,0,2,230,Kendall/MIT Station - Inbound,42.362491,-71.086177
+70071,RTL212-hms22016-Saturday-01,0,2,197,Kendall/MIT Station - Inbound,42.362491,-71.086177
+70071,RTL212-hms22017-Sunday-01,0,2,169,Kendall/MIT Station - Inbound,42.362491,-71.086177
+70071,RTL212-hms22bk1-Weekday-01,0,2,230,Kendall/MIT Station - Inbound,42.362491,-71.086177
+70071,RTL312-hms32011-Weekday-01,0,2,221,Kendall/MIT Station - Inbound,42.362491,-71.086177
+70071,RTL312-hms32016-Saturday-01,0,2,165,Kendall/MIT Station - Inbound,42.362491,-71.086177
+70071,RTL312-hms32017-Sunday-01,0,2,143,Kendall/MIT Station - Inbound,42.362491,-71.086177
+70071,RTL312-hms32j47-Sunday-01,0,2,201,Kendall/MIT Station - Inbound,42.362491,-71.086177
+70072,RTL212-hms22011-Weekday-01,1,2,230,Kendall/MIT Station - Outbound,42.362491,-71.086177
+70072,RTL212-hms22016-Saturday-01,1,2,197,Kendall/MIT Station - Outbound,42.362491,-71.086177
+70072,RTL212-hms22017-Sunday-01,1,2,169,Kendall/MIT Station - Outbound,42.362491,-71.086177
+70072,RTL212-hms22bk1-Weekday-01,1,2,230,Kendall/MIT Station - Outbound,42.362491,-71.086177
+70072,RTL312-hms32011-Weekday-01,1,2,221,Kendall/MIT Station - Outbound,42.362491,-71.086177
+70072,RTL312-hms32016-Saturday-01,1,2,165,Kendall/MIT Station - Outbound,42.362491,-71.086177
+70072,RTL312-hms32017-Sunday-01,1,2,143,Kendall/MIT Station - Outbound,42.362491,-71.086177
+70072,RTL312-hms32j47-Sunday-01,1,2,201,Kendall/MIT Station - Outbound,42.362491,-71.086177
+70073,RTL212-hms22011-Weekday-01,0,2,230,Charles/MGH Station -  Inbound,42.361166,-71.070628
+70073,RTL212-hms22016-Saturday-01,0,2,197,Charles/MGH Station -  Inbound,42.361166,-71.070628
+70073,RTL212-hms22017-Sunday-01,0,2,169,Charles/MGH Station -  Inbound,42.361166,-71.070628
+70073,RTL212-hms22bk1-Weekday-01,0,2,230,Charles/MGH Station -  Inbound,42.361166,-71.070628
+70073,RTL312-hms32011-Weekday-01,0,2,221,Charles/MGH Station -  Inbound,42.361166,-71.070628
+70073,RTL312-hms32016-Saturday-01,0,2,165,Charles/MGH Station -  Inbound,42.361166,-71.070628
+70073,RTL312-hms32017-Sunday-01,0,2,143,Charles/MGH Station -  Inbound,42.361166,-71.070628
+70073,RTL312-hms32j47-Sunday-01,0,2,201,Charles/MGH Station -  Inbound,42.361166,-71.070628
+70074,RTL212-hms22011-Weekday-01,1,2,230,Charles/MGH Station - Outbound,42.361166,-71.070628
+70074,RTL212-hms22016-Saturday-01,1,2,197,Charles/MGH Station - Outbound,42.361166,-71.070628
+70074,RTL212-hms22017-Sunday-01,1,2,169,Charles/MGH Station - Outbound,42.361166,-71.070628
+70074,RTL212-hms22bk1-Weekday-01,1,2,230,Charles/MGH Station - Outbound,42.361166,-71.070628
+70074,RTL312-hms32011-Weekday-01,1,2,221,Charles/MGH Station - Outbound,42.361166,-71.070628
+70074,RTL312-hms32016-Saturday-01,1,2,165,Charles/MGH Station - Outbound,42.361166,-71.070628
+70074,RTL312-hms32017-Sunday-01,1,2,143,Charles/MGH Station - Outbound,42.361166,-71.070628
+70074,RTL312-hms32j47-Sunday-01,1,2,201,Charles/MGH Station - Outbound,42.361166,-71.070628
+70075,RTL212-hms22011-Weekday-01,0,2,230,Park St Station - to Ashmont/Braintree,42.356395,-71.062424
+70075,RTL212-hms22016-Saturday-01,0,2,197,Park St Station - to Ashmont/Braintree,42.356395,-71.062424
+70075,RTL212-hms22017-Sunday-01,0,2,169,Park St Station - to Ashmont/Braintree,42.356395,-71.062424
+70075,RTL212-hms22bk1-Weekday-01,0,2,230,Park St Station - to Ashmont/Braintree,42.356395,-71.062424
+70075,RTL312-hms32011-Weekday-01,0,2,221,Park St Station - to Ashmont/Braintree,42.356395,-71.062424
+70075,RTL312-hms32016-Saturday-01,0,2,165,Park St Station - to Ashmont/Braintree,42.356395,-71.062424
+70075,RTL312-hms32017-Sunday-01,0,2,143,Park St Station - to Ashmont/Braintree,42.356395,-71.062424
+70075,RTL312-hms32j47-Sunday-01,0,2,201,Park St Station - to Ashmont/Braintree,42.356395,-71.062424
+70076,RTL212-hms22011-Weekday-01,1,2,230,Park St Station - to Alewife,42.356395,-71.062424
+70076,RTL212-hms22016-Saturday-01,1,2,197,Park St Station - to Alewife,42.356395,-71.062424
+70076,RTL212-hms22017-Sunday-01,1,2,169,Park St Station - to Alewife,42.356395,-71.062424
+70076,RTL212-hms22bk1-Weekday-01,1,2,230,Park St Station - to Alewife,42.356395,-71.062424
+70076,RTL312-hms32011-Weekday-01,1,2,221,Park St Station - to Alewife,42.356395,-71.062424
+70076,RTL312-hms32016-Saturday-01,1,2,165,Park St Station - to Alewife,42.356395,-71.062424
+70076,RTL312-hms32017-Sunday-01,1,2,143,Park St Station - to Alewife,42.356395,-71.062424
+70076,RTL312-hms32j47-Sunday-01,1,2,201,Park St Station - to Alewife,42.356395,-71.062424
+70077,RTL212-hms22011-Weekday-01,0,2,230,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225
+70077,RTL212-hms22016-Saturday-01,0,2,197,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225
+70077,RTL212-hms22017-Sunday-01,0,2,169,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225
+70077,RTL212-hms22bk1-Weekday-01,0,2,230,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225
+70077,RTL312-hms32011-Weekday-01,0,2,221,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225
+70077,RTL312-hms32016-Saturday-01,0,2,165,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225
+70077,RTL312-hms32017-Sunday-01,0,2,143,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225
+70077,RTL312-hms32j47-Sunday-01,0,2,201,Downtown Crossing - to Ashmont/Braintree,42.355518,-71.060225
+70078,RTL212-hms22011-Weekday-01,1,2,230,Downtown Crossing - to Alewife,42.355518,-71.060225
+70078,RTL212-hms22016-Saturday-01,1,2,197,Downtown Crossing - to Alewife,42.355518,-71.060225
+70078,RTL212-hms22017-Sunday-01,1,2,169,Downtown Crossing - to Alewife,42.355518,-71.060225
+70078,RTL212-hms22bk1-Weekday-01,1,2,230,Downtown Crossing - to Alewife,42.355518,-71.060225
+70078,RTL312-hms32011-Weekday-01,1,2,221,Downtown Crossing - to Alewife,42.355518,-71.060225
+70078,RTL312-hms32016-Saturday-01,1,2,165,Downtown Crossing - to Alewife,42.355518,-71.060225
+70078,RTL312-hms32017-Sunday-01,1,2,143,Downtown Crossing - to Alewife,42.355518,-71.060225
+70078,RTL312-hms32j47-Sunday-01,1,2,201,Downtown Crossing - to Alewife,42.355518,-71.060225
+70079,RTL212-hms22011-Weekday-01,0,2,230,South Station - Outbound,42.352271,-71.055242
+70079,RTL212-hms22016-Saturday-01,0,2,197,South Station - Outbound,42.352271,-71.055242
+70079,RTL212-hms22017-Sunday-01,0,2,169,South Station - Outbound,42.352271,-71.055242
+70079,RTL212-hms22bk1-Weekday-01,0,2,230,South Station - Outbound,42.352271,-71.055242
+70079,RTL312-hms32011-Weekday-01,0,2,221,South Station - Outbound,42.352271,-71.055242
+70079,RTL312-hms32016-Saturday-01,0,2,165,South Station - Outbound,42.352271,-71.055242
+70079,RTL312-hms32017-Sunday-01,0,2,143,South Station - Outbound,42.352271,-71.055242
+70079,RTL312-hms32j47-Sunday-01,0,2,201,South Station - Outbound,42.352271,-71.055242
+70080,RTL212-hms22011-Weekday-01,1,2,230,South Station - Inbound,42.352271,-71.055242
+70080,RTL212-hms22016-Saturday-01,1,2,197,South Station - Inbound,42.352271,-71.055242
+70080,RTL212-hms22017-Sunday-01,1,2,169,South Station - Inbound,42.352271,-71.055242
+70080,RTL212-hms22bk1-Weekday-01,1,2,230,South Station - Inbound,42.352271,-71.055242
+70080,RTL312-hms32011-Weekday-01,1,2,221,South Station - Inbound,42.352271,-71.055242
+70080,RTL312-hms32016-Saturday-01,1,2,165,South Station - Inbound,42.352271,-71.055242
+70080,RTL312-hms32017-Sunday-01,1,2,143,South Station - Inbound,42.352271,-71.055242
+70080,RTL312-hms32j47-Sunday-01,1,2,201,South Station - Inbound,42.352271,-71.055242
+70081,RTL212-hms22011-Weekday-01,0,2,230,Broadway Station - Outbound,42.342622,-71.056967
+70081,RTL212-hms22016-Saturday-01,0,2,197,Broadway Station - Outbound,42.342622,-71.056967
+70081,RTL212-hms22017-Sunday-01,0,2,169,Broadway Station - Outbound,42.342622,-71.056967
+70081,RTL212-hms22bk1-Weekday-01,0,2,230,Broadway Station - Outbound,42.342622,-71.056967
+70081,RTL312-hms32011-Weekday-01,0,2,221,Broadway Station - Outbound,42.342622,-71.056967
+70081,RTL312-hms32016-Saturday-01,0,2,165,Broadway Station - Outbound,42.342622,-71.056967
+70081,RTL312-hms32017-Sunday-01,0,2,143,Broadway Station - Outbound,42.342622,-71.056967
+70081,RTL312-hms32j47-Sunday-01,0,2,201,Broadway Station - Outbound,42.342622,-71.056967
+70082,RTL212-hms22011-Weekday-01,1,2,230,Broadway Station - Inbound,42.342622,-71.056967
+70082,RTL212-hms22016-Saturday-01,1,2,197,Broadway Station - Inbound,42.342622,-71.056967
+70082,RTL212-hms22017-Sunday-01,1,2,169,Broadway Station - Inbound,42.342622,-71.056967
+70082,RTL212-hms22bk1-Weekday-01,1,2,230,Broadway Station - Inbound,42.342622,-71.056967
+70082,RTL312-hms32011-Weekday-01,1,2,221,Broadway Station - Inbound,42.342622,-71.056967
+70082,RTL312-hms32016-Saturday-01,1,2,165,Broadway Station - Inbound,42.342622,-71.056967
+70082,RTL312-hms32017-Sunday-01,1,2,143,Broadway Station - Inbound,42.342622,-71.056967
+70082,RTL312-hms32j47-Sunday-01,1,2,201,Broadway Station - Inbound,42.342622,-71.056967
+70083,RTL212-hms22011-Weekday-01,0,2,230,Andrew Sq Station - Outbound,42.330154,-71.057655
+70083,RTL212-hms22016-Saturday-01,0,2,197,Andrew Sq Station - Outbound,42.330154,-71.057655
+70083,RTL212-hms22017-Sunday-01,0,2,169,Andrew Sq Station - Outbound,42.330154,-71.057655
+70083,RTL212-hms22bk1-Weekday-01,0,2,230,Andrew Sq Station - Outbound,42.330154,-71.057655
+70083,RTL312-hms32011-Weekday-01,0,2,221,Andrew Sq Station - Outbound,42.330154,-71.057655
+70083,RTL312-hms32016-Saturday-01,0,2,165,Andrew Sq Station - Outbound,42.330154,-71.057655
+70083,RTL312-hms32017-Sunday-01,0,2,143,Andrew Sq Station - Outbound,42.330154,-71.057655
+70083,RTL312-hms32j47-Sunday-01,0,2,201,Andrew Sq Station - Outbound,42.330154,-71.057655
+70084,RTL212-hms22011-Weekday-01,1,2,230,Andrew Sq Station - Inbound,42.330154,-71.057655
+70084,RTL212-hms22016-Saturday-01,1,2,197,Andrew Sq Station - Inbound,42.330154,-71.057655
+70084,RTL212-hms22017-Sunday-01,1,2,169,Andrew Sq Station - Inbound,42.330154,-71.057655
+70084,RTL212-hms22bk1-Weekday-01,1,2,230,Andrew Sq Station - Inbound,42.330154,-71.057655
+70084,RTL312-hms32011-Weekday-01,1,2,221,Andrew Sq Station - Inbound,42.330154,-71.057655
+70084,RTL312-hms32016-Saturday-01,1,2,165,Andrew Sq Station - Inbound,42.330154,-71.057655
+70084,RTL312-hms32017-Sunday-01,1,2,143,Andrew Sq Station - Inbound,42.330154,-71.057655
+70084,RTL312-hms32j47-Sunday-01,1,2,201,Andrew Sq Station - Inbound,42.330154,-71.057655
+70085,RTL212-hms22011-Weekday-01,0,1,114,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391
+70085,RTL212-hms22016-Saturday-01,0,1,99,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391
+70085,RTL212-hms22017-Sunday-01,0,1,85,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391
+70085,RTL212-hms22bk1-Weekday-01,0,1,114,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391
+70085,RTL312-hms32011-Weekday-01,0,1,110,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391
+70085,RTL312-hms32016-Saturday-01,0,1,83,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391
+70085,RTL312-hms32017-Sunday-01,0,1,72,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391
+70085,RTL312-hms32j47-Sunday-01,0,1,101,JFK/UMASS Ashmont - Outbound,42.320685,-71.052391
+70086,RTL212-hms22011-Weekday-01,1,1,114,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391
+70086,RTL212-hms22016-Saturday-01,1,1,99,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391
+70086,RTL212-hms22017-Sunday-01,1,1,85,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391
+70086,RTL212-hms22bk1-Weekday-01,1,1,114,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391
+70086,RTL312-hms32011-Weekday-01,1,1,110,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391
+70086,RTL312-hms32016-Saturday-01,1,1,83,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391
+70086,RTL312-hms32017-Sunday-01,1,1,72,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391
+70086,RTL312-hms32j47-Sunday-01,1,1,101,JFK/UMASS Ashmont Line Inbound,42.320685,-71.052391
+70087,RTL212-hms22011-Weekday-01,0,1,114,Savin Hill Station - Outbound,42.31129,-71.053331
+70087,RTL212-hms22016-Saturday-01,0,1,99,Savin Hill Station - Outbound,42.31129,-71.053331
+70087,RTL212-hms22017-Sunday-01,0,1,85,Savin Hill Station - Outbound,42.31129,-71.053331
+70087,RTL212-hms22bk1-Weekday-01,0,1,114,Savin Hill Station - Outbound,42.31129,-71.053331
+70087,RTL312-hms32011-Weekday-01,0,1,110,Savin Hill Station - Outbound,42.31129,-71.053331
+70087,RTL312-hms32016-Saturday-01,0,1,83,Savin Hill Station - Outbound,42.31129,-71.053331
+70087,RTL312-hms32017-Sunday-01,0,1,72,Savin Hill Station - Outbound,42.31129,-71.053331
+70087,RTL312-hms32j47-Sunday-01,0,1,101,Savin Hill Station - Outbound,42.31129,-71.053331
+70088,RTL212-hms22011-Weekday-01,1,1,114,Savin Hill Station - Inbound,42.31129,-71.053331
+70088,RTL212-hms22016-Saturday-01,1,1,99,Savin Hill Station - Inbound,42.31129,-71.053331
+70088,RTL212-hms22017-Sunday-01,1,1,85,Savin Hill Station - Inbound,42.31129,-71.053331
+70088,RTL212-hms22bk1-Weekday-01,1,1,114,Savin Hill Station - Inbound,42.31129,-71.053331
+70088,RTL312-hms32011-Weekday-01,1,1,110,Savin Hill Station - Inbound,42.31129,-71.053331
+70088,RTL312-hms32016-Saturday-01,1,1,83,Savin Hill Station - Inbound,42.31129,-71.053331
+70088,RTL312-hms32017-Sunday-01,1,1,72,Savin Hill Station - Inbound,42.31129,-71.053331
+70088,RTL312-hms32j47-Sunday-01,1,1,101,Savin Hill Station - Inbound,42.31129,-71.053331
+70089,RTL212-hms22011-Weekday-01,0,1,114,Fields Corner Station - Outbound,42.300093,-71.061667
+70089,RTL212-hms22016-Saturday-01,0,1,99,Fields Corner Station - Outbound,42.300093,-71.061667
+70089,RTL212-hms22017-Sunday-01,0,1,85,Fields Corner Station - Outbound,42.300093,-71.061667
+70089,RTL212-hms22bk1-Weekday-01,0,1,114,Fields Corner Station - Outbound,42.300093,-71.061667
+70089,RTL312-hms32011-Weekday-01,0,1,110,Fields Corner Station - Outbound,42.300093,-71.061667
+70089,RTL312-hms32016-Saturday-01,0,1,83,Fields Corner Station - Outbound,42.300093,-71.061667
+70089,RTL312-hms32017-Sunday-01,0,1,72,Fields Corner Station - Outbound,42.300093,-71.061667
+70089,RTL312-hms32j47-Sunday-01,0,1,101,Fields Corner Station - Outbound,42.300093,-71.061667
+70090,RTL212-hms22011-Weekday-01,1,1,114,Fields Corner Station - Inbound,42.300093,-71.061667
+70090,RTL212-hms22016-Saturday-01,1,1,99,Fields Corner Station - Inbound,42.300093,-71.061667
+70090,RTL212-hms22017-Sunday-01,1,1,85,Fields Corner Station - Inbound,42.300093,-71.061667
+70090,RTL212-hms22bk1-Weekday-01,1,1,114,Fields Corner Station - Inbound,42.300093,-71.061667
+70090,RTL312-hms32011-Weekday-01,1,1,110,Fields Corner Station - Inbound,42.300093,-71.061667
+70090,RTL312-hms32016-Saturday-01,1,1,83,Fields Corner Station - Inbound,42.300093,-71.061667
+70090,RTL312-hms32017-Sunday-01,1,1,72,Fields Corner Station - Inbound,42.300093,-71.061667
+70090,RTL312-hms32j47-Sunday-01,1,1,101,Fields Corner Station - Inbound,42.300093,-71.061667
+70091,RTL212-hms22011-Weekday-01,0,1,114,Shawmut Station - Outbound,42.293126,-71.065738
+70091,RTL212-hms22016-Saturday-01,0,1,99,Shawmut Station - Outbound,42.293126,-71.065738
+70091,RTL212-hms22017-Sunday-01,0,1,85,Shawmut Station - Outbound,42.293126,-71.065738
+70091,RTL212-hms22bk1-Weekday-01,0,1,114,Shawmut Station - Outbound,42.293126,-71.065738
+70091,RTL312-hms32011-Weekday-01,0,1,110,Shawmut Station - Outbound,42.293126,-71.065738
+70091,RTL312-hms32016-Saturday-01,0,1,83,Shawmut Station - Outbound,42.293126,-71.065738
+70091,RTL312-hms32017-Sunday-01,0,1,72,Shawmut Station - Outbound,42.293126,-71.065738
+70091,RTL312-hms32j47-Sunday-01,0,1,101,Shawmut Station - Outbound,42.293126,-71.065738
+70092,RTL212-hms22011-Weekday-01,1,1,114,Shawmut Station - Inbound,42.293126,-71.065738
+70092,RTL212-hms22016-Saturday-01,1,1,99,Shawmut Station - Inbound,42.293126,-71.065738
+70092,RTL212-hms22017-Sunday-01,1,1,85,Shawmut Station - Inbound,42.293126,-71.065738
+70092,RTL212-hms22bk1-Weekday-01,1,1,114,Shawmut Station - Inbound,42.293126,-71.065738
+70092,RTL312-hms32011-Weekday-01,1,1,110,Shawmut Station - Inbound,42.293126,-71.065738
+70092,RTL312-hms32016-Saturday-01,1,1,83,Shawmut Station - Inbound,42.293126,-71.065738
+70092,RTL312-hms32017-Sunday-01,1,1,72,Shawmut Station - Inbound,42.293126,-71.065738
+70092,RTL312-hms32j47-Sunday-01,1,1,101,Shawmut Station - Inbound,42.293126,-71.065738
+70093,RTL212-hms22011-Weekday-01,0,1,114,Ashmont Station - Red Line,42.284652,-71.064489
+70093,RTL212-hms22016-Saturday-01,0,1,99,Ashmont Station - Red Line,42.284652,-71.064489
+70093,RTL212-hms22017-Sunday-01,0,1,85,Ashmont Station - Red Line,42.284652,-71.064489
+70093,RTL212-hms22bk1-Weekday-01,0,1,114,Ashmont Station - Red Line,42.284652,-71.064489
+70093,RTL312-hms32011-Weekday-01,0,1,110,Ashmont Station - Red Line,42.284652,-71.064489
+70093,RTL312-hms32016-Saturday-01,0,1,83,Ashmont Station - Red Line,42.284652,-71.064489
+70093,RTL312-hms32017-Sunday-01,0,1,72,Ashmont Station - Red Line,42.284652,-71.064489
+70093,RTL312-hms32j47-Sunday-01,0,1,101,Ashmont Station - Red Line,42.284652,-71.064489
+70094,RTL212-hms22011-Weekday-01,1,1,114,Ashmont Station Red Line Inbound,42.284652,-71.064489
+70094,RTL212-hms22016-Saturday-01,1,1,99,Ashmont Station Red Line Inbound,42.284652,-71.064489
+70094,RTL212-hms22017-Sunday-01,1,1,85,Ashmont Station Red Line Inbound,42.284652,-71.064489
+70094,RTL212-hms22bk1-Weekday-01,1,1,114,Ashmont Station Red Line Inbound,42.284652,-71.064489
+70094,RTL312-hms32011-Weekday-01,1,1,110,Ashmont Station Red Line Inbound,42.284652,-71.064489
+70094,RTL312-hms32016-Saturday-01,1,1,83,Ashmont Station Red Line Inbound,42.284652,-71.064489
+70094,RTL312-hms32017-Sunday-01,1,1,72,Ashmont Station Red Line Inbound,42.284652,-71.064489
+70094,RTL312-hms32j47-Sunday-01,1,1,101,Ashmont Station Red Line Inbound,42.284652,-71.064489
+70095,RTL212-hms22011-Weekday-01,0,1,116,JFK/UMASS Braintree - Outbound,42.320685,-71.052391
+70095,RTL212-hms22016-Saturday-01,0,1,98,JFK/UMASS Braintree - Outbound,42.320685,-71.052391
+70095,RTL212-hms22017-Sunday-01,0,1,84,JFK/UMASS Braintree - Outbound,42.320685,-71.052391
+70095,RTL212-hms22bk1-Weekday-01,0,1,116,JFK/UMASS Braintree - Outbound,42.320685,-71.052391
+70095,RTL312-hms32011-Weekday-01,0,1,111,JFK/UMASS Braintree - Outbound,42.320685,-71.052391
+70095,RTL312-hms32016-Saturday-01,0,1,82,JFK/UMASS Braintree - Outbound,42.320685,-71.052391
+70095,RTL312-hms32017-Sunday-01,0,1,71,JFK/UMASS Braintree - Outbound,42.320685,-71.052391
+70095,RTL312-hms32j47-Sunday-01,0,1,100,JFK/UMASS Braintree - Outbound,42.320685,-71.052391
+70096,RTL212-hms22011-Weekday-01,1,1,116,JFK/UMASS Braintree - Inbound,42.320685,-71.052391
+70096,RTL212-hms22016-Saturday-01,1,1,98,JFK/UMASS Braintree - Inbound,42.320685,-71.052391
+70096,RTL212-hms22017-Sunday-01,1,1,84,JFK/UMASS Braintree - Inbound,42.320685,-71.052391
+70096,RTL212-hms22bk1-Weekday-01,1,1,116,JFK/UMASS Braintree - Inbound,42.320685,-71.052391
+70096,RTL312-hms32011-Weekday-01,1,1,111,JFK/UMASS Braintree - Inbound,42.320685,-71.052391
+70096,RTL312-hms32016-Saturday-01,1,1,82,JFK/UMASS Braintree - Inbound,42.320685,-71.052391
+70096,RTL312-hms32017-Sunday-01,1,1,71,JFK/UMASS Braintree - Inbound,42.320685,-71.052391
+70096,RTL312-hms32j47-Sunday-01,1,1,100,JFK/UMASS Braintree - Inbound,42.320685,-71.052391
+70097,RTL212-hms22011-Weekday-01,0,1,116,North Quincy Station - Outbound,42.275275,-71.029583
+70097,RTL212-hms22016-Saturday-01,0,1,98,North Quincy Station - Outbound,42.275275,-71.029583
+70097,RTL212-hms22017-Sunday-01,0,1,84,North Quincy Station - Outbound,42.275275,-71.029583
+70097,RTL212-hms22bk1-Weekday-01,0,1,116,North Quincy Station - Outbound,42.275275,-71.029583
+70097,RTL312-hms32011-Weekday-01,0,1,111,North Quincy Station - Outbound,42.275275,-71.029583
+70097,RTL312-hms32016-Saturday-01,0,1,82,North Quincy Station - Outbound,42.275275,-71.029583
+70097,RTL312-hms32017-Sunday-01,0,1,71,North Quincy Station - Outbound,42.275275,-71.029583
+70097,RTL312-hms32j47-Sunday-01,0,1,100,North Quincy Station - Outbound,42.275275,-71.029583
+70098,RTL212-hms22011-Weekday-01,1,1,116,North Quincy Station - Inbound,42.275275,-71.029583
+70098,RTL212-hms22016-Saturday-01,1,1,98,North Quincy Station - Inbound,42.275275,-71.029583
+70098,RTL212-hms22017-Sunday-01,1,1,84,North Quincy Station - Inbound,42.275275,-71.029583
+70098,RTL212-hms22bk1-Weekday-01,1,1,116,North Quincy Station - Inbound,42.275275,-71.029583
+70098,RTL312-hms32011-Weekday-01,1,1,111,North Quincy Station - Inbound,42.275275,-71.029583
+70098,RTL312-hms32016-Saturday-01,1,1,82,North Quincy Station - Inbound,42.275275,-71.029583
+70098,RTL312-hms32017-Sunday-01,1,1,71,North Quincy Station - Inbound,42.275275,-71.029583
+70098,RTL312-hms32j47-Sunday-01,1,1,100,North Quincy Station - Inbound,42.275275,-71.029583
+70099,RTL212-hms22011-Weekday-01,0,1,116,Wollaston Station - Outbound,42.266514,-71.020337
+70099,RTL212-hms22016-Saturday-01,0,1,98,Wollaston Station - Outbound,42.266514,-71.020337
+70099,RTL212-hms22017-Sunday-01,0,1,84,Wollaston Station - Outbound,42.266514,-71.020337
+70099,RTL212-hms22bk1-Weekday-01,0,1,116,Wollaston Station - Outbound,42.266514,-71.020337
+70099,RTL312-hms32011-Weekday-01,0,1,111,Wollaston Station - Outbound,42.266514,-71.020337
+70099,RTL312-hms32016-Saturday-01,0,1,82,Wollaston Station - Outbound,42.266514,-71.020337
+70099,RTL312-hms32017-Sunday-01,0,1,71,Wollaston Station - Outbound,42.266514,-71.020337
+70099,RTL312-hms32j47-Sunday-01,0,1,100,Wollaston Station - Outbound,42.266514,-71.020337
+70100,RTL212-hms22011-Weekday-01,1,1,116,Wollaston Station - Inbound,42.266514,-71.020337
+70100,RTL212-hms22016-Saturday-01,1,1,98,Wollaston Station - Inbound,42.266514,-71.020337
+70100,RTL212-hms22017-Sunday-01,1,1,84,Wollaston Station - Inbound,42.266514,-71.020337
+70100,RTL212-hms22bk1-Weekday-01,1,1,116,Wollaston Station - Inbound,42.266514,-71.020337
+70100,RTL312-hms32011-Weekday-01,1,1,111,Wollaston Station - Inbound,42.266514,-71.020337
+70100,RTL312-hms32016-Saturday-01,1,1,82,Wollaston Station - Inbound,42.266514,-71.020337
+70100,RTL312-hms32017-Sunday-01,1,1,71,Wollaston Station - Inbound,42.266514,-71.020337
+70100,RTL312-hms32j47-Sunday-01,1,1,100,Wollaston Station - Inbound,42.266514,-71.020337
+70101,RTL212-hms22011-Weekday-01,0,1,116,Quincy Center Station - Outbound,42.251809,-71.005409
+70101,RTL212-hms22016-Saturday-01,0,1,98,Quincy Center Station - Outbound,42.251809,-71.005409
+70101,RTL212-hms22017-Sunday-01,0,1,84,Quincy Center Station - Outbound,42.251809,-71.005409
+70101,RTL212-hms22bk1-Weekday-01,0,1,116,Quincy Center Station - Outbound,42.251809,-71.005409
+70101,RTL312-hms32011-Weekday-01,0,1,111,Quincy Center Station - Outbound,42.251809,-71.005409
+70101,RTL312-hms32016-Saturday-01,0,1,82,Quincy Center Station - Outbound,42.251809,-71.005409
+70101,RTL312-hms32017-Sunday-01,0,1,71,Quincy Center Station - Outbound,42.251809,-71.005409
+70101,RTL312-hms32j47-Sunday-01,0,1,100,Quincy Center Station - Outbound,42.251809,-71.005409
+70102,RTL212-hms22011-Weekday-01,1,1,116,Quincy Center Station - Inbound,42.251809,-71.005409
+70102,RTL212-hms22016-Saturday-01,1,1,98,Quincy Center Station - Inbound,42.251809,-71.005409
+70102,RTL212-hms22017-Sunday-01,1,1,84,Quincy Center Station - Inbound,42.251809,-71.005409
+70102,RTL212-hms22bk1-Weekday-01,1,1,116,Quincy Center Station - Inbound,42.251809,-71.005409
+70102,RTL312-hms32011-Weekday-01,1,1,111,Quincy Center Station - Inbound,42.251809,-71.005409
+70102,RTL312-hms32016-Saturday-01,1,1,82,Quincy Center Station - Inbound,42.251809,-71.005409
+70102,RTL312-hms32017-Sunday-01,1,1,71,Quincy Center Station - Inbound,42.251809,-71.005409
+70102,RTL312-hms32j47-Sunday-01,1,1,100,Quincy Center Station - Inbound,42.251809,-71.005409
+70103,RTL212-hms22011-Weekday-01,0,1,116,Quincy Adams Station - Outbound,42.233391,-71.007153
+70103,RTL212-hms22016-Saturday-01,0,1,98,Quincy Adams Station - Outbound,42.233391,-71.007153
+70103,RTL212-hms22017-Sunday-01,0,1,84,Quincy Adams Station - Outbound,42.233391,-71.007153
+70103,RTL212-hms22bk1-Weekday-01,0,1,116,Quincy Adams Station - Outbound,42.233391,-71.007153
+70103,RTL312-hms32011-Weekday-01,0,1,111,Quincy Adams Station - Outbound,42.233391,-71.007153
+70103,RTL312-hms32016-Saturday-01,0,1,82,Quincy Adams Station - Outbound,42.233391,-71.007153
+70103,RTL312-hms32017-Sunday-01,0,1,71,Quincy Adams Station - Outbound,42.233391,-71.007153
+70103,RTL312-hms32j47-Sunday-01,0,1,100,Quincy Adams Station - Outbound,42.233391,-71.007153
+70104,RTL212-hms22011-Weekday-01,1,1,116,Quincy Adams Station - Inbound,42.233391,-71.007153
+70104,RTL212-hms22016-Saturday-01,1,1,98,Quincy Adams Station - Inbound,42.233391,-71.007153
+70104,RTL212-hms22017-Sunday-01,1,1,84,Quincy Adams Station - Inbound,42.233391,-71.007153
+70104,RTL212-hms22bk1-Weekday-01,1,1,116,Quincy Adams Station - Inbound,42.233391,-71.007153
+70104,RTL312-hms32011-Weekday-01,1,1,111,Quincy Adams Station - Inbound,42.233391,-71.007153
+70104,RTL312-hms32016-Saturday-01,1,1,82,Quincy Adams Station - Inbound,42.233391,-71.007153
+70104,RTL312-hms32017-Sunday-01,1,1,71,Quincy Adams Station - Inbound,42.233391,-71.007153
+70104,RTL312-hms32j47-Sunday-01,1,1,100,Quincy Adams Station - Inbound,42.233391,-71.007153
+70105,RTL212-hms22011-Weekday-01,0,1,116,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL212-hms22011-Weekday-01,1,1,116,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL212-hms22016-Saturday-01,0,1,98,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL212-hms22016-Saturday-01,1,1,98,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL212-hms22017-Sunday-01,0,1,84,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL212-hms22017-Sunday-01,1,1,84,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL212-hms22bk1-Weekday-01,0,1,116,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL212-hms22bk1-Weekday-01,1,1,116,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL312-hms32011-Weekday-01,0,1,111,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL312-hms32011-Weekday-01,1,1,111,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL312-hms32016-Saturday-01,0,1,82,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL312-hms32016-Saturday-01,1,1,82,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL312-hms32017-Sunday-01,0,1,71,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL312-hms32017-Sunday-01,1,1,71,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL312-hms32j47-Sunday-01,0,1,100,Braintree Station Red Line Platform,42.207854,-71.001138
+70105,RTL312-hms32j47-Sunday-01,1,1,100,Braintree Station Red Line Platform,42.207854,-71.001138

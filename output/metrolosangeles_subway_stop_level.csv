@@ -1,0 +1,67 @@
+stop_id,service_id,direction_id,numroutes,TripsServingStop,stop_name,stop_lat,stop_lon
+80201,NOV11-802-1_Weekday,0,1,221,North Hollywood Station,34.168504,-118.376808
+80202,NOV11-802-1_Weekday,0,1,221,Universal City Station,34.140002,-118.362699
+80203,NOV11-802-1_Weekday,0,1,221,Hollywood / Highland Station,34.101547,-118.338549
+80204,NOV11-802-1_Weekday,0,1,221,Hollywood / Vine Station,34.10163,-118.32518
+80205,NOV11-802-1_Weekday,0,1,221,Hollywood / Western Station,34.101737,-118.308117
+80206,NOV11-802-1_Weekday,0,1,221,Vermont / Sunset Station,34.097708,-118.291756
+80207,NOV11-802-1_Weekday,0,1,221,Vermont / Santa Monica Station,34.08991,-118.29173
+80208,NOV11-802-1_Weekday,0,1,221,Vermont / Beverly Station,34.076526,-118.291686
+80209,NOV11-802-1_Weekday,0,1,221,Wilshire / Vermont Station,34.062701,-118.290082
+80210,NOV11-802-1_Weekday,0,1,221,Westlake / McArthur Park Station,34.056368,-118.274879
+80211,NOV11-802-1_Weekday,0,1,221,7th Street / Metro Center Station - Metro Red & Purple Lines,34.048634,-118.258682
+80212,NOV11-802-1_Weekday,0,1,221,Pershing Square Station,34.049316,-118.251259
+80213,NOV11-802-1_Weekday,0,1,221,Civic Center Station,34.0549,-118.246057
+80214,NOV11-802-1_Weekday,0,1,221,Union Station - Metro Red & Purple Lines,34.056197,-118.234249
+80201,NOV11-802-2_Saturday,0,1,197,North Hollywood Station,34.168504,-118.376808
+80202,NOV11-802-2_Saturday,0,1,197,Universal City Station,34.140002,-118.362699
+80203,NOV11-802-2_Saturday,0,1,197,Hollywood / Highland Station,34.101547,-118.338549
+80204,NOV11-802-2_Saturday,0,1,197,Hollywood / Vine Station,34.10163,-118.32518
+80205,NOV11-802-2_Saturday,0,1,197,Hollywood / Western Station,34.101737,-118.308117
+80206,NOV11-802-2_Saturday,0,1,197,Vermont / Sunset Station,34.097708,-118.291756
+80207,NOV11-802-2_Saturday,0,1,197,Vermont / Santa Monica Station,34.08991,-118.29173
+80208,NOV11-802-2_Saturday,0,1,197,Vermont / Beverly Station,34.076526,-118.291686
+80209,NOV11-802-2_Saturday,0,1,197,Wilshire / Vermont Station,34.062701,-118.290082
+80210,NOV11-802-2_Saturday,0,1,197,Westlake / McArthur Park Station,34.056368,-118.274879
+80211,NOV11-802-2_Saturday,0,1,197,7th Street / Metro Center Station - Metro Red & Purple Lines,34.048634,-118.258682
+80212,NOV11-802-2_Saturday,0,1,197,Pershing Square Station,34.049316,-118.251259
+80213,NOV11-802-2_Saturday,0,1,197,Civic Center Station,34.0549,-118.246057
+80214,NOV11-802-2_Saturday,0,1,197,Union Station - Metro Red & Purple Lines,34.056197,-118.234249
+80201,NOV11-802-3_Sunday,0,1,197,North Hollywood Station,34.168504,-118.376808
+80202,NOV11-802-3_Sunday,0,1,197,Universal City Station,34.140002,-118.362699
+80203,NOV11-802-3_Sunday,0,1,197,Hollywood / Highland Station,34.101547,-118.338549
+80204,NOV11-802-3_Sunday,0,1,197,Hollywood / Vine Station,34.10163,-118.32518
+80205,NOV11-802-3_Sunday,0,1,197,Hollywood / Western Station,34.101737,-118.308117
+80206,NOV11-802-3_Sunday,0,1,197,Vermont / Sunset Station,34.097708,-118.291756
+80207,NOV11-802-3_Sunday,0,1,197,Vermont / Santa Monica Station,34.08991,-118.29173
+80208,NOV11-802-3_Sunday,0,1,197,Vermont / Beverly Station,34.076526,-118.291686
+80209,NOV11-802-3_Sunday,0,1,197,Wilshire / Vermont Station,34.062701,-118.290082
+80210,NOV11-802-3_Sunday,0,1,197,Westlake / McArthur Park Station,34.056368,-118.274879
+80211,NOV11-802-3_Sunday,0,1,197,7th Street / Metro Center Station - Metro Red & Purple Lines,34.048634,-118.258682
+80212,NOV11-802-3_Sunday,0,1,197,Pershing Square Station,34.049316,-118.251259
+80213,NOV11-802-3_Sunday,0,1,197,Civic Center Station,34.0549,-118.246057
+80214,NOV11-802-3_Sunday,0,1,197,Union Station - Metro Red & Purple Lines,34.056197,-118.234249
+80209,NOV11-805-1_Weekday,0,1,212,Wilshire / Vermont Station,34.062701,-118.290082
+80210,NOV11-805-1_Weekday,0,1,212,Westlake / McArthur Park Station,34.056368,-118.274879
+80211,NOV11-805-1_Weekday,0,1,212,7th Street / Metro Center Station - Metro Red & Purple Lines,34.048634,-118.258682
+80212,NOV11-805-1_Weekday,0,1,212,Pershing Square Station,34.049316,-118.251259
+80213,NOV11-805-1_Weekday,0,1,212,Civic Center Station,34.0549,-118.246057
+80214,NOV11-805-1_Weekday,0,1,212,Union Station - Metro Red & Purple Lines,34.056197,-118.234249
+80215,NOV11-805-1_Weekday,0,1,212,Wilshire / Normandie Station,34.061753,-118.301458
+80216,NOV11-805-1_Weekday,0,1,212,Wilshire / Western Station,34.061689,-118.308756
+80209,NOV11-805-2_Saturday,0,1,188,Wilshire / Vermont Station,34.062701,-118.290082
+80210,NOV11-805-2_Saturday,0,1,188,Westlake / McArthur Park Station,34.056368,-118.274879
+80211,NOV11-805-2_Saturday,0,1,188,7th Street / Metro Center Station - Metro Red & Purple Lines,34.048634,-118.258682
+80212,NOV11-805-2_Saturday,0,1,188,Pershing Square Station,34.049316,-118.251259
+80213,NOV11-805-2_Saturday,0,1,188,Civic Center Station,34.0549,-118.246057
+80214,NOV11-805-2_Saturday,0,1,188,Union Station - Metro Red & Purple Lines,34.056197,-118.234249
+80215,NOV11-805-2_Saturday,0,1,188,Wilshire / Normandie Station,34.061753,-118.301458
+80216,NOV11-805-2_Saturday,0,1,188,Wilshire / Western Station,34.061689,-118.308756
+80209,NOV11-805-3_Sunday,0,1,188,Wilshire / Vermont Station,34.062701,-118.290082
+80210,NOV11-805-3_Sunday,0,1,188,Westlake / McArthur Park Station,34.056368,-118.274879
+80211,NOV11-805-3_Sunday,0,1,188,7th Street / Metro Center Station - Metro Red & Purple Lines,34.048634,-118.258682
+80212,NOV11-805-3_Sunday,0,1,188,Pershing Square Station,34.049316,-118.251259
+80213,NOV11-805-3_Sunday,0,1,188,Civic Center Station,34.0549,-118.246057
+80214,NOV11-805-3_Sunday,0,1,188,Union Station - Metro Red & Purple Lines,34.056197,-118.234249
+80215,NOV11-805-3_Sunday,0,1,188,Wilshire / Normandie Station,34.061753,-118.301458
+80216,NOV11-805-3_Sunday,0,1,188,Wilshire / Western Station,34.061689,-118.308756

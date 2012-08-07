@@ -1,0 +1,7 @@
+route_id,service_id,direction_id,numtripsperroute_both_dir,hours_of_service,first_departure_sec,last_departure_sec,span_of_service_hrs,route_avg_hdwy,route_stdev_hdwy,trips_per_day,average_speed,average_length_mi,w_avg_num_stops,avg_dist_bw_stops_ft,route_short_name,route_long_name
+5463,1,1,249,22,13500,89580,21,9.7,2.0,127,39.4,18.0,13.0,7924.6460798828125000000,Metro,METRO
+5463,1,0,249,22,13500,89580,21,10.6,4.7,121,38.9,18.6,13.6,7822.3329875164257555369,Metro,METRO
+5463,2,0,154,21,15000,89580,21,15.6,3.7,75,38.7,18.7,13.5,7890.8132975763962064516,Metro,METRO
+5463,2,1,154,21,15000,89580,21,16.1,7.9,77,38.9,18.2,13.1,7935.0676322410147990815,Metro,METRO
+5463,3,1,154,21,15000,89580,21,16.1,7.9,77,38.9,18.2,13.1,7935.0676322410147990815,Metro,METRO
+5463,3,0,154,21,15000,89580,21,15.3,2.4,75,38.7,18.7,13.5,7890.8132975763962064516,Metro,METRO

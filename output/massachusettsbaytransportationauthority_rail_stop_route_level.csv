@@ -1,0 +1,861 @@
+route_id,stop_id,service_id,direction_id,avghdwy,stdev_hdwy,stop_name,stop_lat,stop_lon,route_short_name,route_long_name
+CR-Kingston,Abington,CR-Weekday,1,57.4,17.7,Abington,42.108034,-70.935296,"",Kingston/Plymouth Line
+CR-Kingston,Abington,CR-Weekday,0,51.6,19.1,Abington,42.108034,-70.935296,"",Kingston/Plymouth Line
+CR-Kingston,Abington,CR-SunSuspended,1,79.0,8.4,Abington,42.108034,-70.935296,"",Kingston/Plymouth Line
+CR-Kingston,Abington,CR-SunSuspended,0,71.0,,Abington,42.108034,-70.935296,"",Kingston/Plymouth Line
+CR-Kingston,Abington,CR-SatSuspended,1,79.0,8.4,Abington,42.108034,-70.935296,"",Kingston/Plymouth Line
+CR-Kingston,Abington,CR-SatSuspended,0,71.0,,Abington,42.108034,-70.935296,"",Kingston/Plymouth Line
+CR-Lowell,Anderson/ Woburn,CR-Weekday,1,40.8,18.2,Anderson/ Woburn,42.518082,-71.13865,"",Lowell Line
+CR-Lowell,Anderson/ Woburn,CR-Weekday,0,44.2,21.2,Anderson/ Woburn,42.518082,-71.13865,"",Lowell Line
+CR-Haverhill,Anderson/ Woburn,CR-Weekday,1,,,Anderson/ Woburn,42.518082,-71.13865,"",Haverhill Line
+CR-Haverhill,Anderson/ Woburn,CR-Weekday,0,,,Anderson/ Woburn,42.518082,-71.13865,"",Haverhill Line
+CR-Lowell,Anderson/ Woburn,CR-Sunday,1,,,Anderson/ Woburn,42.518082,-71.13865,"",Lowell Line
+CR-Lowell,Anderson/ Woburn,CR-Sunday,0,,,Anderson/ Woburn,42.518082,-71.13865,"",Lowell Line
+CR-Lowell,Anderson/ Woburn,CR-Saturday,1,,,Anderson/ Woburn,42.518082,-71.13865,"",Lowell Line
+CR-Lowell,Anderson/ Woburn,CR-Saturday,0,,,Anderson/ Woburn,42.518082,-71.13865,"",Lowell Line
+CR-Haverhill,Andover,CR-Weekday,1,44.6,13.5,Andover,42.657798,-71.144513,"",Haverhill Line
+CR-Haverhill,Andover,CR-Weekday,0,36.5,10.4,Andover,42.657798,-71.144513,"",Haverhill Line
+CR-Haverhill,Andover,CR-Sunday,1,,,Andover,42.657798,-71.144513,"",Haverhill Line
+CR-Haverhill,Andover,CR-Sunday,0,,,Andover,42.657798,-71.144513,"",Haverhill Line
+CR-Haverhill,Andover,CR-Saturday,1,,,Andover,42.657798,-71.144513,"",Haverhill Line
+CR-Haverhill,Andover,CR-Saturday,0,,,Andover,42.657798,-71.144513,"",Haverhill Line
+CR-Worcester,Ashland,CR-Weekday,1,42.4,19.9,Ashland,42.261694,-71.478813,"",Framingham/Worcester Line
+CR-Worcester,Ashland,CR-Weekday,0,55.5,18.8,Ashland,42.261694,-71.478813,"",Framingham/Worcester Line
+CR-Worcester,Ashland,CR-Sunday,1,,,Ashland,42.261694,-71.478813,"",Framingham/Worcester Line
+CR-Worcester,Ashland,CR-Sunday,0,89.0,,Ashland,42.261694,-71.478813,"",Framingham/Worcester Line
+CR-Worcester,Ashland,CR-Saturday,1,,,Ashland,42.261694,-71.478813,"",Framingham/Worcester Line
+CR-Worcester,Ashland,CR-Saturday,0,89.0,,Ashland,42.261694,-71.478813,"",Framingham/Worcester Line
+CR-Providence,Attleboro,CR-Weekday,1,43.9,21.1,Attleboro,41.942097,-71.284897,"",Providence/Stoughton Line
+CR-Providence,Attleboro,CR-Weekday,0,49.0,23.2,Attleboro,41.942097,-71.284897,"",Providence/Stoughton Line
+CR-Providence,Attleboro,CR-Sunday,1,68.0,,Attleboro,41.942097,-71.284897,"",Providence/Stoughton Line
+CR-Providence,Attleboro,CR-Sunday,0,75.0,,Attleboro,41.942097,-71.284897,"",Providence/Stoughton Line
+CR-Providence,Attleboro,CR-Saturday,1,68.0,,Attleboro,41.942097,-71.284897,"",Providence/Stoughton Line
+CR-Providence,Attleboro,CR-Saturday,0,70.0,7.0,Attleboro,41.942097,-71.284897,"",Providence/Stoughton Line
+CR-Worcester,Auburndale,CR-Weekday,1,43.6,14.3,Auburndale,42.346087,-71.246658,"",Framingham/Worcester Line
+CR-Worcester,Auburndale,CR-Weekday,0,56.8,19.1,Auburndale,42.346087,-71.246658,"",Framingham/Worcester Line
+CR-Worcester,Auburndale,CR-Sunday,1,42.5,31.8,Auburndale,42.346087,-71.246658,"",Framingham/Worcester Line
+CR-Worcester,Auburndale,CR-Sunday,0,89.0,,Auburndale,42.346087,-71.246658,"",Framingham/Worcester Line
+CR-Worcester,Auburndale,CR-Saturday,1,42.5,31.8,Auburndale,42.346087,-71.246658,"",Framingham/Worcester Line
+CR-Worcester,Auburndale,CR-Saturday,0,57.0,45.2,Auburndale,42.346087,-71.246658,"",Framingham/Worcester Line
+CR-Fitchburg,Ayer,CR-Weekday,1,41.2,14.1,Ayer,42.560047,-71.590117,"",Fitchburg/South Acton Line
+CR-Fitchburg,Ayer,CR-Weekday,0,50.3,23.9,Ayer,42.560047,-71.590117,"",Fitchburg/South Acton Line
+CR-Fitchburg,Ayer,CR-Sunday,1,,,Ayer,42.560047,-71.590117,"",Fitchburg/South Acton Line
+CR-Fitchburg,Ayer,CR-Sunday,0,,,Ayer,42.560047,-71.590117,"",Fitchburg/South Acton Line
+CR-Fitchburg,Ayer,CR-Saturday,1,,,Ayer,42.560047,-71.590117,"",Fitchburg/South Acton Line
+CR-Fitchburg,Ayer,CR-Saturday,0,,,Ayer,42.560047,-71.590117,"",Fitchburg/South Acton Line
+CR-Worcester,Back Bay,CR-Weekday,1,28.3,13.7,Back Bay,42.347158,-71.075769,"",Framingham/Worcester Line
+CR-Worcester,Back Bay,CR-Weekday,0,40.5,23.9,Back Bay,42.347158,-71.075769,"",Framingham/Worcester Line
+CR-Providence,Back Bay,CR-Weekday,1,29.3,21.3,Back Bay,42.347158,-71.075769,"",Providence/Stoughton Line
+CR-Providence,Back Bay,CR-Weekday,0,31.7,21.6,Back Bay,42.347158,-71.075769,"",Providence/Stoughton Line
+CR-Needham,Back Bay,CR-Weekday,1,49.6,18.1,Back Bay,42.347158,-71.075769,"",Needham Line
+CR-Needham,Back Bay,CR-Weekday,0,52.6,18.9,Back Bay,42.347158,-71.075769,"",Needham Line
+CR-Franklin,Back Bay,CR-Weekday,1,39.6,24.8,Back Bay,42.347158,-71.075769,"",Franklin Line
+CR-Franklin,Back Bay,CR-Weekday,0,56.3,27.6,Back Bay,42.347158,-71.075769,"",Franklin Line
+CR-Worcester,Back Bay,CR-Sunday,1,43.5,28.9,Back Bay,42.347158,-71.075769,"",Framingham/Worcester Line
+CR-Worcester,Back Bay,CR-Sunday,0,90.0,,Back Bay,42.347158,-71.075769,"",Framingham/Worcester Line
+CR-Providence,Back Bay,CR-Sunday,1,65.0,,Back Bay,42.347158,-71.075769,"",Providence/Stoughton Line
+CR-Providence,Back Bay,CR-Sunday,0,80.0,,Back Bay,42.347158,-71.075769,"",Providence/Stoughton Line
+CR-Franklin,Back Bay,CR-Sunday,1,,,Back Bay,42.347158,-71.075769,"",Franklin Line
+CR-Franklin,Back Bay,CR-Sunday,0,,,Back Bay,42.347158,-71.075769,"",Franklin Line
+CR-Worcester,Back Bay,CR-Saturday,1,43.5,28.9,Back Bay,42.347158,-71.075769,"",Framingham/Worcester Line
+CR-Worcester,Back Bay,CR-Saturday,0,57.5,45.9,Back Bay,42.347158,-71.075769,"",Framingham/Worcester Line
+CR-Providence,Back Bay,CR-Saturday,1,65.0,,Back Bay,42.347158,-71.075769,"",Providence/Stoughton Line
+CR-Providence,Back Bay,CR-Saturday,0,70.0,14.1,Back Bay,42.347158,-71.075769,"",Providence/Stoughton Line
+CR-Franklin,Back Bay,CR-Saturday,1,,,Back Bay,42.347158,-71.075769,"",Franklin Line
+CR-Franklin,Back Bay,CR-Saturday,0,,,Back Bay,42.347158,-71.075769,"",Franklin Line
+CR-Needham,Back Bay,CR-SatSuspended,1,,,Back Bay,42.347158,-71.075769,"",Needham Line
+CR-Needham,Back Bay,CR-SatSuspended,0,,,Back Bay,42.347158,-71.075769,"",Needham Line
+CR-Haverhill,Ballardvale,CR-Weekday,1,44.8,13.7,Ballardvale,42.626449,-71.159653,"",Haverhill Line
+CR-Haverhill,Ballardvale,CR-Weekday,0,36.6,10.2,Ballardvale,42.626449,-71.159653,"",Haverhill Line
+CR-Haverhill,Ballardvale,CR-Sunday,1,,,Ballardvale,42.626449,-71.159653,"",Haverhill Line
+CR-Haverhill,Ballardvale,CR-Sunday,0,,,Ballardvale,42.626449,-71.159653,"",Haverhill Line
+CR-Haverhill,Ballardvale,CR-Saturday,1,,,Ballardvale,42.626449,-71.159653,"",Haverhill Line
+CR-Haverhill,Ballardvale,CR-Saturday,0,,,Ballardvale,42.626449,-71.159653,"",Haverhill Line
+CR-Needham,Bellevue,CR-Weekday,1,51.7,19.8,Bellevue,42.287138,-71.14606,"",Needham Line
+CR-Needham,Bellevue,CR-Weekday,0,53.0,15.8,Bellevue,42.287138,-71.14606,"",Needham Line
+CR-Needham,Bellevue,CR-SatSuspended,1,,,Bellevue,42.287138,-71.14606,"",Needham Line
+CR-Needham,Bellevue,CR-SatSuspended,0,,,Bellevue,42.287138,-71.14606,"",Needham Line
+CR-Fitchburg,Belmont,CR-Weekday,1,51.7,14.3,Belmont,42.395896,-71.17619,"",Fitchburg/South Acton Line
+CR-Fitchburg,Belmont,CR-Weekday,0,62.4,16.6,Belmont,42.395896,-71.17619,"",Fitchburg/South Acton Line
+CR-Fitchburg,Belmont,CR-Sunday,1,39.0,22.6,Belmont,42.395896,-71.17619,"",Fitchburg/South Acton Line
+CR-Fitchburg,Belmont,CR-Sunday,0,60.0,0.0,Belmont,42.395896,-71.17619,"",Fitchburg/South Acton Line
+CR-Fitchburg,Belmont,CR-Saturday,1,39.0,22.6,Belmont,42.395896,-71.17619,"",Fitchburg/South Acton Line
+CR-Fitchburg,Belmont,CR-Saturday,0,60.0,0.0,Belmont,42.395896,-71.17619,"",Fitchburg/South Acton Line
+CR-Newburyport,Beverly,CR-Weekday,1,33.0,20.3,Beverly,42.546907,-70.885168,"",Newburyport/Rockport Line
+CR-Newburyport,Beverly,CR-Weekday,0,36.2,21.0,Beverly,42.546907,-70.885168,"",Newburyport/Rockport Line
+CR-Newburyport,Beverly,CR-Sunday,1,60.0,20.6,Beverly,42.546907,-70.885168,"",Newburyport/Rockport Line
+CR-Newburyport,Beverly,CR-Sunday,0,61.5,13.8,Beverly,42.546907,-70.885168,"",Newburyport/Rockport Line
+CR-Newburyport,Beverly,CR-Saturday,1,60.0,20.6,Beverly,42.546907,-70.885168,"",Newburyport/Rockport Line
+CR-Newburyport,Beverly,CR-Saturday,0,61.5,13.8,Beverly,42.546907,-70.885168,"",Newburyport/Rockport Line
+CR-Newburyport,Beverly Farms,CR-Weekday,1,56.4,19.5,Beverly Farms,42.561403,-70.812745,"",Newburyport/Rockport Line
+CR-Newburyport,Beverly Farms,CR-Weekday,0,58.0,18.1,Beverly Farms,42.561403,-70.812745,"",Newburyport/Rockport Line
+CR-Newburyport,Beverly Farms,CR-Sunday,1,,,Beverly Farms,42.561403,-70.812745,"",Newburyport/Rockport Line
+CR-Newburyport,Beverly Farms,CR-Sunday,0,,,Beverly Farms,42.561403,-70.812745,"",Newburyport/Rockport Line
+CR-Newburyport,Beverly Farms,CR-Saturday,1,,,Beverly Farms,42.561403,-70.812745,"",Newburyport/Rockport Line
+CR-Newburyport,Beverly Farms,CR-Saturday,0,,,Beverly Farms,42.561403,-70.812745,"",Newburyport/Rockport Line
+CR-Haverhill,Bradford,CR-Weekday,1,40.0,9.6,Bradford,42.768899,-71.085998,"",Haverhill Line
+CR-Haverhill,Bradford,CR-Weekday,0,33.8,9.4,Bradford,42.768899,-71.085998,"",Haverhill Line
+CR-Haverhill,Bradford,CR-Sunday,1,,,Bradford,42.768899,-71.085998,"",Haverhill Line
+CR-Haverhill,Bradford,CR-Sunday,0,,,Bradford,42.768899,-71.085998,"",Haverhill Line
+CR-Haverhill,Bradford,CR-Saturday,1,,,Bradford,42.768899,-71.085998,"",Haverhill Line
+CR-Haverhill,Bradford,CR-Saturday,0,,,Bradford,42.768899,-71.085998,"",Haverhill Line
+CR-Middleborough,Braintree,CR-Weekday,1,82.5,7.7,Braintree,42.20855,-71.00085,"",Middleborough/Lakeville Line
+CR-Middleborough,Braintree,CR-Weekday,0,,,Braintree,42.20855,-71.00085,"",Middleborough/Lakeville Line
+CR-Kingston,Braintree,CR-Weekday,1,58.8,19.3,Braintree,42.20855,-71.00085,"",Kingston/Plymouth Line
+CR-Kingston,Braintree,CR-Weekday,0,51.6,19.1,Braintree,42.20855,-71.00085,"",Kingston/Plymouth Line
+CR-Kingston,Braintree,CR-SunSuspended,1,79.0,4.2,Braintree,42.20855,-71.00085,"",Kingston/Plymouth Line
+CR-Kingston,Braintree,CR-SunSuspended,0,71.0,,Braintree,42.20855,-71.00085,"",Kingston/Plymouth Line
+CR-Middleborough,Braintree,CR-Sunday,1,,,Braintree,42.20855,-71.00085,"",Middleborough/Lakeville Line
+CR-Middleborough,Braintree,CR-Sunday,0,,,Braintree,42.20855,-71.00085,"",Middleborough/Lakeville Line
+CR-Middleborough,Braintree,CR-Saturday,1,,,Braintree,42.20855,-71.00085,"",Middleborough/Lakeville Line
+CR-Middleborough,Braintree,CR-Saturday,0,,,Braintree,42.20855,-71.00085,"",Middleborough/Lakeville Line
+CR-Kingston,Braintree,CR-SatSuspended,1,79.0,4.2,Braintree,42.20855,-71.00085,"",Kingston/Plymouth Line
+CR-Kingston,Braintree,CR-SatSuspended,0,71.0,,Braintree,42.20855,-71.00085,"",Kingston/Plymouth Line
+CR-Fitchburg,Brandeis/ Roberts,CR-Weekday,1,51.3,12.8,Brandeis/ Roberts,42.361728,-71.260854,"",Fitchburg/South Acton Line
+CR-Fitchburg,Brandeis/ Roberts,CR-Weekday,0,56.5,15.5,Brandeis/ Roberts,42.361728,-71.260854,"",Fitchburg/South Acton Line
+CR-Fitchburg,Brandeis/ Roberts,CR-Sunday,1,39.0,22.6,Brandeis/ Roberts,42.361728,-71.260854,"",Fitchburg/South Acton Line
+CR-Fitchburg,Brandeis/ Roberts,CR-Sunday,0,60.0,0.0,Brandeis/ Roberts,42.361728,-71.260854,"",Fitchburg/South Acton Line
+CR-Fitchburg,Brandeis/ Roberts,CR-Saturday,1,39.0,22.6,Brandeis/ Roberts,42.361728,-71.260854,"",Fitchburg/South Acton Line
+CR-Fitchburg,Brandeis/ Roberts,CR-Saturday,0,60.0,0.0,Brandeis/ Roberts,42.361728,-71.260854,"",Fitchburg/South Acton Line
+CR-Middleborough,Bridgewater,CR-Weekday,1,55.3,24.4,Bridgewater,41.986355,-70.966625,"",Middleborough/Lakeville Line
+CR-Middleborough,Bridgewater,CR-Weekday,0,52.8,16.7,Bridgewater,41.986355,-70.966625,"",Middleborough/Lakeville Line
+CR-Middleborough,Bridgewater,CR-Sunday,1,70.0,,Bridgewater,41.986355,-70.966625,"",Middleborough/Lakeville Line
+CR-Middleborough,Bridgewater,CR-Sunday,0,80.0,9.8,Bridgewater,41.986355,-70.966625,"",Middleborough/Lakeville Line
+CR-Middleborough,Bridgewater,CR-Saturday,1,70.0,,Bridgewater,41.986355,-70.966625,"",Middleborough/Lakeville Line
+CR-Middleborough,Bridgewater,CR-Saturday,0,80.0,9.8,Bridgewater,41.986355,-70.966625,"",Middleborough/Lakeville Line
+CR-Middleborough,Brockton,CR-Weekday,1,55.6,24.3,Brockton,42.08572,-71.01686,"",Middleborough/Lakeville Line
+CR-Middleborough,Brockton,CR-Weekday,0,52.8,16.7,Brockton,42.08572,-71.01686,"",Middleborough/Lakeville Line
+CR-Middleborough,Brockton,CR-Sunday,1,70.0,,Brockton,42.08572,-71.01686,"",Middleborough/Lakeville Line
+CR-Middleborough,Brockton,CR-Sunday,0,79.0,8.4,Brockton,42.08572,-71.01686,"",Middleborough/Lakeville Line
+CR-Middleborough,Brockton,CR-Saturday,1,70.0,,Brockton,42.08572,-71.01686,"",Middleborough/Lakeville Line
+CR-Middleborough,Brockton,CR-Saturday,0,79.0,8.4,Brockton,42.08572,-71.01686,"",Middleborough/Lakeville Line
+CR-Middleborough,Campello,CR-Weekday,1,55.5,24.2,Campello,42.060038,-71.01246,"",Middleborough/Lakeville Line
+CR-Middleborough,Campello,CR-Weekday,0,52.8,16.7,Campello,42.060038,-71.01246,"",Middleborough/Lakeville Line
+CR-Middleborough,Campello,CR-Sunday,1,70.0,,Campello,42.060038,-71.01246,"",Middleborough/Lakeville Line
+CR-Middleborough,Campello,CR-Sunday,0,79.0,8.4,Campello,42.060038,-71.01246,"",Middleborough/Lakeville Line
+CR-Middleborough,Campello,CR-Saturday,1,70.0,,Campello,42.060038,-71.01246,"",Middleborough/Lakeville Line
+CR-Middleborough,Campello,CR-Saturday,0,79.0,8.4,Campello,42.060038,-71.01246,"",Middleborough/Lakeville Line
+CR-Providence,Canton Center,CR-Weekday,1,50.6,17.6,Canton Center,42.156769,-71.14553,"",Providence/Stoughton Line
+CR-Providence,Canton Center,CR-Weekday,0,52.0,21.1,Canton Center,42.156769,-71.14553,"",Providence/Stoughton Line
+CR-Providence,Canton Junction,CR-Weekday,1,40.1,20.4,Canton Junction,42.163423,-71.153374,"",Providence/Stoughton Line
+CR-Providence,Canton Junction,CR-Weekday,0,39.0,21.1,Canton Junction,42.163423,-71.153374,"",Providence/Stoughton Line
+CR-Providence,Canton Junction,CR-Sunday,1,65.0,,Canton Junction,42.163423,-71.153374,"",Providence/Stoughton Line
+CR-Providence,Canton Junction,CR-Sunday,0,75.0,,Canton Junction,42.163423,-71.153374,"",Providence/Stoughton Line
+CR-Providence,Canton Junction,CR-Saturday,1,65.0,,Canton Junction,42.163423,-71.153374,"",Providence/Stoughton Line
+CR-Providence,Canton Junction,CR-Saturday,0,70.0,7.0,Canton Junction,42.163423,-71.153374,"",Providence/Stoughton Line
+CR-Newburyport,Chelsea,CR-Weekday,1,39.5,21.3,Chelsea,42.395661,-71.034826,"",Newburyport/Rockport Line
+CR-Newburyport,Chelsea,CR-Weekday,0,42.9,20.6,Chelsea,42.395661,-71.034826,"",Newburyport/Rockport Line
+CR-Newburyport,Chelsea,CR-Sunday,1,59.6,21.3,Chelsea,42.395661,-71.034826,"",Newburyport/Rockport Line
+CR-Newburyport,Chelsea,CR-Sunday,0,61.6,13.9,Chelsea,42.395661,-71.034826,"",Newburyport/Rockport Line
+CR-Newburyport,Chelsea,CR-Saturday,1,59.6,21.3,Chelsea,42.395661,-71.034826,"",Newburyport/Rockport Line
+CR-Newburyport,Chelsea,CR-Saturday,0,61.6,13.9,Chelsea,42.395661,-71.034826,"",Newburyport/Rockport Line
+CR-Greenbush,Cohasset,CR-Weekday,1,54.5,16.7,Cohasset,42.2424,-70.837,"",Greenbush Line
+CR-Greenbush,Cohasset,CR-Weekday,0,44.2,17.5,Cohasset,42.2424,-70.837,"",Greenbush Line
+CR-Greenbush,Cohasset,CR-SunSuspended,1,72.0,,Cohasset,42.2424,-70.837,"",Greenbush Line
+CR-Greenbush,Cohasset,CR-SunSuspended,0,79.0,,Cohasset,42.2424,-70.837,"",Greenbush Line
+CR-Greenbush,Cohasset,CR-SatSuspended,1,72.0,,Cohasset,42.2424,-70.837,"",Greenbush Line
+CR-Greenbush,Cohasset,CR-SatSuspended,0,79.0,,Cohasset,42.2424,-70.837,"",Greenbush Line
+CR-Fitchburg,Concord,CR-Weekday,1,46.0,9.8,Concord,42.457147,-71.358051,"",Fitchburg/South Acton Line
+CR-Fitchburg,Concord,CR-Weekday,0,51.0,19.4,Concord,42.457147,-71.358051,"",Fitchburg/South Acton Line
+CR-Fitchburg,Concord,CR-Sunday,1,39.0,22.6,Concord,42.457147,-71.358051,"",Fitchburg/South Acton Line
+CR-Fitchburg,Concord,CR-Sunday,0,60.0,0.0,Concord,42.457147,-71.358051,"",Fitchburg/South Acton Line
+CR-Fitchburg,Concord,CR-Saturday,1,39.0,22.6,Concord,42.457147,-71.358051,"",Fitchburg/South Acton Line
+CR-Fitchburg,Concord,CR-Saturday,0,60.0,0.0,Concord,42.457147,-71.358051,"",Fitchburg/South Acton Line
+CR-Franklin,Dedham Corp Center,CR-Weekday,1,43.2,22.5,Dedham Corp Center,42.225896,-71.173806,"",Franklin Line
+CR-Franklin,Dedham Corp Center,CR-Weekday,0,52.8,25.4,Dedham Corp Center,42.225896,-71.173806,"",Franklin Line
+CR-Franklin,Dedham Corp Center,CR-Sunday,1,,,Dedham Corp Center,42.225896,-71.173806,"",Franklin Line
+CR-Franklin,Dedham Corp Center,CR-Sunday,0,,,Dedham Corp Center,42.225896,-71.173806,"",Franklin Line
+CR-Franklin,Dedham Corp Center,CR-Saturday,1,,,Dedham Corp Center,42.225896,-71.173806,"",Franklin Line
+CR-Franklin,Dedham Corp Center,CR-Saturday,0,,,Dedham Corp Center,42.225896,-71.173806,"",Franklin Line
+CR-Greenbush,East Weymouth,CR-Weekday,1,53.8,16.1,East Weymouth,42.2191,-70.9214,"",Greenbush Line
+CR-Greenbush,East Weymouth,CR-Weekday,0,44.2,17.1,East Weymouth,42.2191,-70.9214,"",Greenbush Line
+CR-Greenbush,East Weymouth,CR-SunSuspended,1,68.0,,East Weymouth,42.2191,-70.9214,"",Greenbush Line
+CR-Greenbush,East Weymouth,CR-SunSuspended,0,78.0,,East Weymouth,42.2191,-70.9214,"",Greenbush Line
+CR-Greenbush,East Weymouth,CR-SatSuspended,1,68.0,,East Weymouth,42.2191,-70.9214,"",Greenbush Line
+CR-Greenbush,East Weymouth,CR-SatSuspended,0,78.0,,East Weymouth,42.2191,-70.9214,"",Greenbush Line
+CR-Franklin,Endicott,CR-Weekday,1,39.8,21.6,Endicott,42.232881,-71.160413,"",Franklin Line
+CR-Franklin,Endicott,CR-Weekday,0,67.4,16.8,Endicott,42.232881,-71.160413,"",Franklin Line
+CR-Franklin,Endicott,CR-Sunday,1,,,Endicott,42.232881,-71.160413,"",Franklin Line
+CR-Franklin,Endicott,CR-Sunday,0,,,Endicott,42.232881,-71.160413,"",Franklin Line
+CR-Franklin,Endicott,CR-Saturday,1,,,Endicott,42.232881,-71.160413,"",Franklin Line
+CR-Franklin,Endicott,CR-Saturday,0,,,Endicott,42.232881,-71.160413,"",Franklin Line
+CR-Franklin,Fairmount,CR-Weekday,1,,,Fairmount,42.253638,-71.11927,"",Franklin Line
+CR-Fairmount,Fairmount,CR-Weekday,1,49.4,12.4,Fairmount,42.253638,-71.11927,"",Fairmount Line
+CR-Fairmount,Fairmount,CR-Weekday,0,52.2,15.7,Fairmount,42.253638,-71.11927,"",Fairmount Line
+CR-Fitchburg,Fitchburg,CR-Weekday,1,41.0,14.0,Fitchburg,42.581739,-71.79275,"",Fitchburg/South Acton Line
+CR-Fitchburg,Fitchburg,CR-Weekday,0,50.2,23.9,Fitchburg,42.581739,-71.79275,"",Fitchburg/South Acton Line
+CR-Fitchburg,Fitchburg,CR-Sunday,1,,,Fitchburg,42.581739,-71.79275,"",Fitchburg/South Acton Line
+CR-Fitchburg,Fitchburg,CR-Sunday,0,,,Fitchburg,42.581739,-71.79275,"",Fitchburg/South Acton Line
+CR-Fitchburg,Fitchburg,CR-Saturday,1,,,Fitchburg,42.581739,-71.79275,"",Fitchburg/South Acton Line
+CR-Fitchburg,Fitchburg,CR-Saturday,0,,,Fitchburg,42.581739,-71.79275,"",Fitchburg/South Acton Line
+CR-Needham,Forest Hills,CR-Weekday,1,49.7,18.4,Forest Hills,42.300023,-71.113377,"",Needham Line
+CR-Needham,Forest Hills,CR-Weekday,0,50.9,14.6,Forest Hills,42.300023,-71.113377,"",Needham Line
+CR-Needham,Forest Hills,CR-SatSuspended,1,,,Forest Hills,42.300023,-71.113377,"",Needham Line
+CR-Needham,Forest Hills,CR-SatSuspended,0,,,Forest Hills,42.300023,-71.113377,"",Needham Line
+CR-Franklin,Forge Park / 495,CR-Weekday,1,52.5,25.3,Forge Park / 495,42.089941,-71.43902,"",Franklin Line
+CR-Franklin,Forge Park / 495,CR-Weekday,0,58.3,24.4,Forge Park / 495,42.089941,-71.43902,"",Franklin Line
+CR-Franklin,Forge Park / 495,CR-Sunday,1,,,Forge Park / 495,42.089941,-71.43902,"",Franklin Line
+CR-Franklin,Forge Park / 495,CR-Sunday,0,,,Forge Park / 495,42.089941,-71.43902,"",Franklin Line
+CR-Franklin,Forge Park / 495,CR-Saturday,1,,,Forge Park / 495,42.089941,-71.43902,"",Franklin Line
+CR-Franklin,Forge Park / 495,CR-Saturday,0,,,Forge Park / 495,42.089941,-71.43902,"",Franklin Line
+CR-Worcester,Framingham,CR-Weekday,1,30.5,12.7,Framingham,42.276719,-71.416792,"",Framingham/Worcester Line
+CR-Worcester,Framingham,CR-Weekday,0,44.1,25.7,Framingham,42.276719,-71.416792,"",Framingham/Worcester Line
+CR-Worcester,Framingham,CR-Sunday,1,42.5,31.8,Framingham,42.276719,-71.416792,"",Framingham/Worcester Line
+CR-Worcester,Framingham,CR-Sunday,0,89.0,,Framingham,42.276719,-71.416792,"",Framingham/Worcester Line
+CR-Worcester,Framingham,CR-Saturday,1,42.5,31.8,Framingham,42.276719,-71.416792,"",Framingham/Worcester Line
+CR-Worcester,Framingham,CR-Saturday,0,56.5,45.9,Framingham,42.276719,-71.416792,"",Framingham/Worcester Line
+CR-Franklin,Franklin,CR-Weekday,1,52.7,25.2,Franklin,42.083591,-71.396735,"",Franklin Line
+CR-Franklin,Franklin,CR-Weekday,0,58.6,24.7,Franklin,42.083591,-71.396735,"",Franklin Line
+CR-Franklin,Franklin,CR-Sunday,1,,,Franklin,42.083591,-71.396735,"",Franklin Line
+CR-Franklin,Franklin,CR-Sunday,0,,,Franklin,42.083591,-71.396735,"",Franklin Line
+CR-Franklin,Franklin,CR-Saturday,1,,,Franklin,42.083591,-71.396735,"",Franklin Line
+CR-Franklin,Franklin,CR-Saturday,0,,,Franklin,42.083591,-71.396735,"",Franklin Line
+CR-Newburyport,Gloucester,CR-Weekday,1,60.2,20.6,Gloucester,42.616069,-70.668767,"",Newburyport/Rockport Line
+CR-Newburyport,Gloucester,CR-Weekday,0,57.8,17.8,Gloucester,42.616069,-70.668767,"",Newburyport/Rockport Line
+CR-Newburyport,Gloucester,CR-Sunday,1,,,Gloucester,42.616069,-70.668767,"",Newburyport/Rockport Line
+CR-Newburyport,Gloucester,CR-Sunday,0,,,Gloucester,42.616069,-70.668767,"",Newburyport/Rockport Line
+CR-Newburyport,Gloucester,CR-Saturday,1,,,Gloucester,42.616069,-70.668767,"",Newburyport/Rockport Line
+CR-Newburyport,Gloucester,CR-Saturday,0,,,Gloucester,42.616069,-70.668767,"",Newburyport/Rockport Line
+CR-Worcester,Grafton,CR-Weekday,1,43.2,19.7,Grafton,42.246291,-71.684614,"",Framingham/Worcester Line
+CR-Worcester,Grafton,CR-Weekday,0,55.5,18.7,Grafton,42.246291,-71.684614,"",Framingham/Worcester Line
+CR-Worcester,Grafton,CR-Sunday,1,,,Grafton,42.246291,-71.684614,"",Framingham/Worcester Line
+CR-Worcester,Grafton,CR-Sunday,0,89.0,,Grafton,42.246291,-71.684614,"",Framingham/Worcester Line
+CR-Worcester,Grafton,CR-Saturday,1,,,Grafton,42.246291,-71.684614,"",Framingham/Worcester Line
+CR-Worcester,Grafton,CR-Saturday,0,89.0,,Grafton,42.246291,-71.684614,"",Framingham/Worcester Line
+CR-Greenbush,Greenbush,CR-Weekday,1,55.0,16.9,Greenbush,42.1781,-70.7462,"",Greenbush Line
+CR-Greenbush,Greenbush,CR-Weekday,0,44.4,17.5,Greenbush,42.1781,-70.7462,"",Greenbush Line
+CR-Greenbush,Greenbush,CR-SunSuspended,1,72.0,,Greenbush,42.1781,-70.7462,"",Greenbush Line
+CR-Greenbush,Greenbush,CR-SunSuspended,0,80.0,,Greenbush,42.1781,-70.7462,"",Greenbush Line
+CR-Greenbush,Greenbush,CR-SatSuspended,1,72.0,,Greenbush,42.1781,-70.7462,"",Greenbush Line
+CR-Greenbush,Greenbush,CR-SatSuspended,0,80.0,,Greenbush,42.1781,-70.7462,"",Greenbush Line
+CR-Haverhill,Greenwood,CR-Weekday,1,45.2,20.7,Greenwood,42.483473,-71.067233,"",Haverhill Line
+CR-Haverhill,Greenwood,CR-Weekday,0,54.3,17.7,Greenwood,42.483473,-71.067233,"",Haverhill Line
+CR-Haverhill,Greenwood,CR-Sunday,1,,,Greenwood,42.483473,-71.067233,"",Haverhill Line
+CR-Haverhill,Greenwood,CR-Sunday,0,,,Greenwood,42.483473,-71.067233,"",Haverhill Line
+CR-Haverhill,Greenwood,CR-Saturday,1,,,Greenwood,42.483473,-71.067233,"",Haverhill Line
+CR-Haverhill,Greenwood,CR-Saturday,0,,,Greenwood,42.483473,-71.067233,"",Haverhill Line
+CR-Kingston,Halifax,CR-Weekday,1,58.0,18.1,Halifax,42.012867,-70.820832,"",Kingston/Plymouth Line
+CR-Kingston,Halifax,CR-Weekday,0,51.8,19.8,Halifax,42.012867,-70.820832,"",Kingston/Plymouth Line
+CR-Kingston,Halifax,CR-SunSuspended,1,80.0,7.0,Halifax,42.012867,-70.820832,"",Kingston/Plymouth Line
+CR-Kingston,Halifax,CR-SunSuspended,0,71.0,,Halifax,42.012867,-70.820832,"",Kingston/Plymouth Line
+CR-Kingston,Halifax,CR-SatSuspended,1,80.0,7.0,Halifax,42.012867,-70.820832,"",Kingston/Plymouth Line
+CR-Kingston,Halifax,CR-SatSuspended,0,71.0,,Halifax,42.012867,-70.820832,"",Kingston/Plymouth Line
+CR-Newburyport,Hamilton/ Wenham,CR-Weekday,1,38.5,20.8,Hamilton/ Wenham,42.610756,-70.874005,"",Newburyport/Rockport Line
+CR-Newburyport,Hamilton/ Wenham,CR-Weekday,0,64.7,21.4,Hamilton/ Wenham,42.610756,-70.874005,"",Newburyport/Rockport Line
+CR-Newburyport,Hamilton/ Wenham,CR-Sunday,1,,,Hamilton/ Wenham,42.610756,-70.874005,"",Newburyport/Rockport Line
+CR-Newburyport,Hamilton/ Wenham,CR-Sunday,0,,,Hamilton/ Wenham,42.610756,-70.874005,"",Newburyport/Rockport Line
+CR-Newburyport,Hamilton/ Wenham,CR-Saturday,1,,,Hamilton/ Wenham,42.610756,-70.874005,"",Newburyport/Rockport Line
+CR-Newburyport,Hamilton/ Wenham,CR-Saturday,0,,,Hamilton/ Wenham,42.610756,-70.874005,"",Newburyport/Rockport Line
+CR-Kingston,Hanson,CR-Weekday,1,58.0,18.1,Hanson,42.043262,-70.881553,"",Kingston/Plymouth Line
+CR-Kingston,Hanson,CR-Weekday,0,51.8,19.8,Hanson,42.043262,-70.881553,"",Kingston/Plymouth Line
+CR-Kingston,Hanson,CR-SunSuspended,1,80.0,7.0,Hanson,42.043262,-70.881553,"",Kingston/Plymouth Line
+CR-Kingston,Hanson,CR-SunSuspended,0,71.0,,Hanson,42.043262,-70.881553,"",Kingston/Plymouth Line
+CR-Kingston,Hanson,CR-SatSuspended,1,80.0,7.0,Hanson,42.043262,-70.881553,"",Kingston/Plymouth Line
+CR-Kingston,Hanson,CR-SatSuspended,0,71.0,,Hanson,42.043262,-70.881553,"",Kingston/Plymouth Line
+CR-Fitchburg,Hastings,CR-Weekday,1,71.3,20.4,Hastings,42.385755,-71.289203,"",Fitchburg/South Acton Line
+CR-Fitchburg,Hastings,CR-Weekday,0,50.0,0.0,Hastings,42.385755,-71.289203,"",Fitchburg/South Acton Line
+CR-Haverhill,Haverhill,CR-Weekday,1,40.0,9.6,Haverhill,42.772684,-71.085962,"",Haverhill Line
+CR-Haverhill,Haverhill,CR-Weekday,0,33.8,9.4,Haverhill,42.772684,-71.085962,"",Haverhill Line
+CR-Haverhill,Haverhill,CR-Sunday,1,,,Haverhill,42.772684,-71.085962,"",Haverhill Line
+CR-Haverhill,Haverhill,CR-Sunday,0,,,Haverhill,42.772684,-71.085962,"",Haverhill Line
+CR-Haverhill,Haverhill,CR-Saturday,1,,,Haverhill,42.772684,-71.085962,"",Haverhill Line
+CR-Haverhill,Haverhill,CR-Saturday,0,,,Haverhill,42.772684,-71.085962,"",Haverhill Line
+CR-Needham,Hersey,CR-Weekday,1,50.5,18.4,Hersey,42.275842,-71.214853,"",Needham Line
+CR-Needham,Hersey,CR-Weekday,0,52.3,18.5,Hersey,42.275842,-71.214853,"",Needham Line
+CR-Needham,Hersey,CR-SatSuspended,1,,,Hersey,42.275842,-71.214853,"",Needham Line
+CR-Needham,Hersey,CR-SatSuspended,0,,,Hersey,42.275842,-71.214853,"",Needham Line
+CR-Needham,Highland,CR-Weekday,1,51.8,20.0,Highland,42.284869,-71.1547,"",Needham Line
+CR-Needham,Highland,CR-Weekday,0,53.0,15.8,Highland,42.284869,-71.1547,"",Needham Line
+CR-Needham,Highland,CR-SatSuspended,1,,,Highland,42.284869,-71.1547,"",Needham Line
+CR-Needham,Highland,CR-SatSuspended,0,,,Highland,42.284869,-71.1547,"",Needham Line
+CR-Middleborough,Holbrook/ Randolph,CR-Weekday,1,55.8,24.5,Holbrook/ Randolph,42.155314,-71.027518,"",Middleborough/Lakeville Line
+CR-Middleborough,Holbrook/ Randolph,CR-Weekday,0,52.8,16.7,Holbrook/ Randolph,42.155314,-71.027518,"",Middleborough/Lakeville Line
+CR-Middleborough,Holbrook/ Randolph,CR-Sunday,1,70.0,,Holbrook/ Randolph,42.155314,-71.027518,"",Middleborough/Lakeville Line
+CR-Middleborough,Holbrook/ Randolph,CR-Sunday,0,79.0,8.4,Holbrook/ Randolph,42.155314,-71.027518,"",Middleborough/Lakeville Line
+CR-Middleborough,Holbrook/ Randolph,CR-Saturday,1,70.0,,Holbrook/ Randolph,42.155314,-71.027518,"",Middleborough/Lakeville Line
+CR-Middleborough,Holbrook/ Randolph,CR-Saturday,0,79.0,8.4,Holbrook/ Randolph,42.155314,-71.027518,"",Middleborough/Lakeville Line
+CR-Providence,Hyde Park,CR-Weekday,1,42.2,21.6,Hyde Park,42.255121,-71.125022,"",Providence/Stoughton Line
+CR-Providence,Hyde Park,CR-Weekday,0,48.1,23.9,Hyde Park,42.255121,-71.125022,"",Providence/Stoughton Line
+CR-Franklin,Hyde Park,CR-Weekday,1,,,Hyde Park,42.255121,-71.125022,"",Franklin Line
+CR-Franklin,Hyde Park,CR-Weekday,0,41.0,21.2,Hyde Park,42.255121,-71.125022,"",Franklin Line
+CR-Providence,Hyde Park,CR-Sunday,1,65.0,,Hyde Park,42.255121,-71.125022,"",Providence/Stoughton Line
+CR-Providence,Hyde Park,CR-Sunday,0,80.0,,Hyde Park,42.255121,-71.125022,"",Providence/Stoughton Line
+CR-Providence,Hyde Park,CR-Saturday,1,65.0,,Hyde Park,42.255121,-71.125022,"",Providence/Stoughton Line
+CR-Providence,Hyde Park,CR-Saturday,0,70.0,14.1,Hyde Park,42.255121,-71.125022,"",Providence/Stoughton Line
+CR-Newburyport,Ipswich,CR-Weekday,1,44.6,17.7,Ipswich,42.678355,-70.840024,"",Newburyport/Rockport Line
+CR-Newburyport,Ipswich,CR-Weekday,0,61.7,21.0,Ipswich,42.678355,-70.840024,"",Newburyport/Rockport Line
+CR-Newburyport,Ipswich,CR-Sunday,1,,,Ipswich,42.678355,-70.840024,"",Newburyport/Rockport Line
+CR-Newburyport,Ipswich,CR-Sunday,0,,,Ipswich,42.678355,-70.840024,"",Newburyport/Rockport Line
+CR-Newburyport,Ipswich,CR-Saturday,1,,,Ipswich,42.678355,-70.840024,"",Newburyport/Rockport Line
+CR-Newburyport,Ipswich,CR-Saturday,0,,,Ipswich,42.678355,-70.840024,"",Newburyport/Rockport Line
+CR-Franklin,Islington,CR-Weekday,1,40.0,21.4,Islington,42.220714,-71.183406,"",Franklin Line
+CR-Franklin,Islington,CR-Weekday,0,62.1,17.0,Islington,42.220714,-71.183406,"",Franklin Line
+CR-Franklin,Islington,CR-Sunday,1,,,Islington,42.220714,-71.183406,"",Franklin Line
+CR-Franklin,Islington,CR-Sunday,0,,,Islington,42.220714,-71.183406,"",Franklin Line
+CR-Franklin,Islington,CR-Saturday,1,,,Islington,42.220714,-71.183406,"",Franklin Line
+CR-Franklin,Islington,CR-Saturday,0,,,Islington,42.220714,-71.183406,"",Franklin Line
+CR-Middleborough,JFK/UMASS,CR-Weekday,1,35.0,16.9,JFK/UMASS,42.321123,-71.052555,"",Middleborough/Lakeville Line
+CR-Middleborough,JFK/UMASS,CR-Weekday,0,,,JFK/UMASS,42.321123,-71.052555,"",Middleborough/Lakeville Line
+CR-Kingston,JFK/UMASS,CR-Weekday,1,42.0,24.0,JFK/UMASS,42.321123,-71.052555,"",Kingston/Plymouth Line
+CR-Kingston,JFK/UMASS,CR-Weekday,0,55.0,21.2,JFK/UMASS,42.321123,-71.052555,"",Kingston/Plymouth Line
+CR-Greenbush,JFK/UMASS,CR-Weekday,1,58.0,,JFK/UMASS,42.321123,-71.052555,"",Greenbush Line
+CR-Greenbush,JFK/UMASS,CR-Weekday,0,78.0,,JFK/UMASS,42.321123,-71.052555,"",Greenbush Line
+CR-Kingston,JFK/UMASS,CR-SunSuspended,1,79.0,4.2,JFK/UMASS,42.321123,-71.052555,"",Kingston/Plymouth Line
+CR-Kingston,JFK/UMASS,CR-SunSuspended,0,70.0,,JFK/UMASS,42.321123,-71.052555,"",Kingston/Plymouth Line
+CR-Greenbush,JFK/UMASS,CR-SunSuspended,1,68.0,,JFK/UMASS,42.321123,-71.052555,"",Greenbush Line
+CR-Greenbush,JFK/UMASS,CR-SunSuspended,0,78.0,,JFK/UMASS,42.321123,-71.052555,"",Greenbush Line
+CR-Middleborough,JFK/UMASS,CR-Sunday,1,72.0,,JFK/UMASS,42.321123,-71.052555,"",Middleborough/Lakeville Line
+CR-Middleborough,JFK/UMASS,CR-Sunday,0,79.5,7.7,JFK/UMASS,42.321123,-71.052555,"",Middleborough/Lakeville Line
+CR-Middleborough,JFK/UMASS,CR-Saturday,1,72.0,,JFK/UMASS,42.321123,-71.052555,"",Middleborough/Lakeville Line
+CR-Middleborough,JFK/UMASS,CR-Saturday,0,79.5,7.7,JFK/UMASS,42.321123,-71.052555,"",Middleborough/Lakeville Line
+CR-Kingston,JFK/UMASS,CR-SatSuspended,1,79.0,4.2,JFK/UMASS,42.321123,-71.052555,"",Kingston/Plymouth Line
+CR-Kingston,JFK/UMASS,CR-SatSuspended,0,70.0,,JFK/UMASS,42.321123,-71.052555,"",Kingston/Plymouth Line
+CR-Greenbush,JFK/UMASS,CR-SatSuspended,1,68.0,,JFK/UMASS,42.321123,-71.052555,"",Greenbush Line
+CR-Greenbush,JFK/UMASS,CR-SatSuspended,0,78.0,,JFK/UMASS,42.321123,-71.052555,"",Greenbush Line
+CR-Fitchburg,Kendal Green,CR-Weekday,1,50.3,13.4,Kendal Green,42.37897,-71.282411,"",Fitchburg/South Acton Line
+CR-Fitchburg,Kendal Green,CR-Weekday,0,62.7,17.1,Kendal Green,42.37897,-71.282411,"",Fitchburg/South Acton Line
+CR-Fitchburg,Kendal Green,CR-Sunday,1,39.0,22.6,Kendal Green,42.37897,-71.282411,"",Fitchburg/South Acton Line
+CR-Fitchburg,Kendal Green,CR-Sunday,0,60.0,0.0,Kendal Green,42.37897,-71.282411,"",Fitchburg/South Acton Line
+CR-Fitchburg,Kendal Green,CR-Saturday,1,39.0,22.6,Kendal Green,42.37897,-71.282411,"",Fitchburg/South Acton Line
+CR-Fitchburg,Kendal Green,CR-Saturday,0,60.0,0.0,Kendal Green,42.37897,-71.282411,"",Fitchburg/South Acton Line
+CR-Kingston,Kingston,CR-Weekday,1,59.8,22.6,Kingston,41.978548,-70.720315,"",Kingston/Plymouth Line
+CR-Kingston,Kingston,CR-Weekday,0,51.6,19.1,Kingston,41.978548,-70.720315,"",Kingston/Plymouth Line
+CR-Kingston,Kingston,CR-SunSuspended,1,80.0,7.0,Kingston,41.978548,-70.720315,"",Kingston/Plymouth Line
+CR-Kingston,Kingston,CR-SunSuspended,0,69.0,1.4,Kingston,41.978548,-70.720315,"",Kingston/Plymouth Line
+CR-Kingston,Kingston,CR-SatSuspended,1,80.0,7.0,Kingston,41.978548,-70.720315,"",Kingston/Plymouth Line
+CR-Kingston,Kingston,CR-SatSuspended,0,69.0,1.4,Kingston,41.978548,-70.720315,"",Kingston/Plymouth Line
+CR-Haverhill,Lawrence,CR-Weekday,1,40.0,9.6,Lawrence,42.701806,-71.15198,"",Haverhill Line
+CR-Haverhill,Lawrence,CR-Weekday,0,33.8,9.0,Lawrence,42.701806,-71.15198,"",Haverhill Line
+CR-Haverhill,Lawrence,CR-Sunday,1,,,Lawrence,42.701806,-71.15198,"",Haverhill Line
+CR-Haverhill,Lawrence,CR-Sunday,0,,,Lawrence,42.701806,-71.15198,"",Haverhill Line
+CR-Haverhill,Lawrence,CR-Saturday,1,,,Lawrence,42.701806,-71.15198,"",Haverhill Line
+CR-Haverhill,Lawrence,CR-Saturday,0,,,Lawrence,42.701806,-71.15198,"",Haverhill Line
+CR-Fitchburg,Lincoln,CR-Weekday,1,46.0,9.8,Lincoln,42.414229,-71.325344,"",Fitchburg/South Acton Line
+CR-Fitchburg,Lincoln,CR-Weekday,0,56.3,22.0,Lincoln,42.414229,-71.325344,"",Fitchburg/South Acton Line
+CR-Fitchburg,Lincoln,CR-Sunday,1,39.0,22.6,Lincoln,42.414229,-71.325344,"",Fitchburg/South Acton Line
+CR-Fitchburg,Lincoln,CR-Sunday,0,60.0,0.0,Lincoln,42.414229,-71.325344,"",Fitchburg/South Acton Line
+CR-Fitchburg,Lincoln,CR-Saturday,1,39.0,22.6,Lincoln,42.414229,-71.325344,"",Fitchburg/South Acton Line
+CR-Fitchburg,Lincoln,CR-Saturday,0,60.0,0.0,Lincoln,42.414229,-71.325344,"",Fitchburg/South Acton Line
+CR-Fitchburg,Littleton / Rte 495,CR-Weekday,1,41.1,14.0,Littleton / Rte 495,42.519236,-71.502643,"",Fitchburg/South Acton Line
+CR-Fitchburg,Littleton / Rte 495,CR-Weekday,0,50.2,23.8,Littleton / Rte 495,42.519236,-71.502643,"",Fitchburg/South Acton Line
+CR-Fitchburg,Littleton / Rte 495,CR-Sunday,1,,,Littleton / Rte 495,42.519236,-71.502643,"",Fitchburg/South Acton Line
+CR-Fitchburg,Littleton / Rte 495,CR-Sunday,0,,,Littleton / Rte 495,42.519236,-71.502643,"",Fitchburg/South Acton Line
+CR-Fitchburg,Littleton / Rte 495,CR-Saturday,1,,,Littleton / Rte 495,42.519236,-71.502643,"",Fitchburg/South Acton Line
+CR-Fitchburg,Littleton / Rte 495,CR-Saturday,0,,,Littleton / Rte 495,42.519236,-71.502643,"",Fitchburg/South Acton Line
+CR-Lowell,Lowell,CR-Weekday,1,48.5,14.1,Lowell,42.638402,-71.314916,"",Lowell Line
+CR-Lowell,Lowell,CR-Weekday,0,52.6,17.7,Lowell,42.638402,-71.314916,"",Lowell Line
+CR-Lowell,Lowell,CR-Sunday,1,,,Lowell,42.638402,-71.314916,"",Lowell Line
+CR-Lowell,Lowell,CR-Sunday,0,,,Lowell,42.638402,-71.314916,"",Lowell Line
+CR-Lowell,Lowell,CR-Saturday,1,,,Lowell,42.638402,-71.314916,"",Lowell Line
+CR-Lowell,Lowell,CR-Saturday,0,,,Lowell,42.638402,-71.314916,"",Lowell Line
+CR-Newburyport,Lynn,CR-Weekday,1,41.2,22.0,Lynn,42.462293,-70.947794,"",Newburyport/Rockport Line
+CR-Newburyport,Lynn,CR-Weekday,0,44.3,20.1,Lynn,42.462293,-70.947794,"",Newburyport/Rockport Line
+CR-Newburyport,Lynn,CR-Sunday,1,59.5,21.2,Lynn,42.462293,-70.947794,"",Newburyport/Rockport Line
+CR-Newburyport,Lynn,CR-Sunday,0,61.6,13.9,Lynn,42.462293,-70.947794,"",Newburyport/Rockport Line
+CR-Newburyport,Lynn,CR-Saturday,1,59.5,21.2,Lynn,42.462293,-70.947794,"",Newburyport/Rockport Line
+CR-Newburyport,Lynn,CR-Saturday,0,61.6,13.9,Lynn,42.462293,-70.947794,"",Newburyport/Rockport Line
+CR-Haverhill,Malden Center,CR-Weekday,1,48.1,20.4,Malden Center,42.426407,-71.074227,"",Haverhill Line
+CR-Haverhill,Malden Center,CR-Weekday,0,44.2,21.1,Malden Center,42.426407,-71.074227,"",Haverhill Line
+CR-Haverhill,Malden Center,CR-Sunday,1,,,Malden Center,42.426407,-71.074227,"",Haverhill Line
+CR-Haverhill,Malden Center,CR-Sunday,0,,,Malden Center,42.426407,-71.074227,"",Haverhill Line
+CR-Haverhill,Malden Center,CR-Saturday,1,,,Malden Center,42.426407,-71.074227,"",Haverhill Line
+CR-Haverhill,Malden Center,CR-Saturday,0,,,Malden Center,42.426407,-71.074227,"",Haverhill Line
+CR-Newburyport,Manchester,CR-Weekday,1,60.4,20.7,Manchester,42.57357,-70.770473,"",Newburyport/Rockport Line
+CR-Newburyport,Manchester,CR-Weekday,0,58.0,18.1,Manchester,42.57357,-70.770473,"",Newburyport/Rockport Line
+CR-Newburyport,Manchester,CR-Sunday,1,,,Manchester,42.57357,-70.770473,"",Newburyport/Rockport Line
+CR-Newburyport,Manchester,CR-Sunday,0,,,Manchester,42.57357,-70.770473,"",Newburyport/Rockport Line
+CR-Newburyport,Manchester,CR-Saturday,1,,,Manchester,42.57357,-70.770473,"",Newburyport/Rockport Line
+CR-Newburyport,Manchester,CR-Saturday,0,,,Manchester,42.57357,-70.770473,"",Newburyport/Rockport Line
+CR-Providence,Mansfield,CR-Weekday,1,40.4,22.0,Mansfield,42.032734,-71.219318,"",Providence/Stoughton Line
+CR-Providence,Mansfield,CR-Weekday,0,45.4,24.6,Mansfield,42.032734,-71.219318,"",Providence/Stoughton Line
+CR-Providence,Mansfield,CR-Sunday,1,65.0,,Mansfield,42.032734,-71.219318,"",Providence/Stoughton Line
+CR-Providence,Mansfield,CR-Sunday,0,75.0,,Mansfield,42.032734,-71.219318,"",Providence/Stoughton Line
+CR-Providence,Mansfield,CR-Saturday,1,65.0,,Mansfield,42.032734,-71.219318,"",Providence/Stoughton Line
+CR-Providence,Mansfield,CR-Saturday,0,70.0,7.0,Mansfield,42.032734,-71.219318,"",Providence/Stoughton Line
+CR-Haverhill,Melrose Cedar Park,CR-Weekday,1,45.2,20.5,Melrose Cedar Park,42.459128,-71.069448,"",Haverhill Line
+CR-Haverhill,Melrose Cedar Park,CR-Weekday,0,46.6,20.2,Melrose Cedar Park,42.459128,-71.069448,"",Haverhill Line
+CR-Haverhill,Melrose Cedar Park,CR-Sunday,1,,,Melrose Cedar Park,42.459128,-71.069448,"",Haverhill Line
+CR-Haverhill,Melrose Cedar Park,CR-Sunday,0,,,Melrose Cedar Park,42.459128,-71.069448,"",Haverhill Line
+CR-Haverhill,Melrose Cedar Park,CR-Saturday,1,,,Melrose Cedar Park,42.459128,-71.069448,"",Haverhill Line
+CR-Haverhill,Melrose Cedar Park,CR-Saturday,0,,,Melrose Cedar Park,42.459128,-71.069448,"",Haverhill Line
+CR-Haverhill,Melrose Highlands,CR-Weekday,1,48.0,20.6,Melrose Highlands,42.468793,-71.06827,"",Haverhill Line
+CR-Haverhill,Melrose Highlands,CR-Weekday,0,46.6,20.2,Melrose Highlands,42.468793,-71.06827,"",Haverhill Line
+CR-Haverhill,Melrose Highlands,CR-Sunday,1,,,Melrose Highlands,42.468793,-71.06827,"",Haverhill Line
+CR-Haverhill,Melrose Highlands,CR-Sunday,0,,,Melrose Highlands,42.468793,-71.06827,"",Haverhill Line
+CR-Haverhill,Melrose Highlands,CR-Saturday,1,,,Melrose Highlands,42.468793,-71.06827,"",Haverhill Line
+CR-Haverhill,Melrose Highlands,CR-Saturday,0,,,Melrose Highlands,42.468793,-71.06827,"",Haverhill Line
+CR-Middleborough,Middleborough/ Lakeville,CR-Weekday,1,54.5,23.6,Middleborough/ Lakeville,41.87821,-70.918444,"",Middleborough/Lakeville Line
+CR-Middleborough,Middleborough/ Lakeville,CR-Weekday,0,59.0,20.7,Middleborough/ Lakeville,41.87821,-70.918444,"",Middleborough/Lakeville Line
+CR-Middleborough,Middleborough/ Lakeville,CR-Sunday,1,70.0,,Middleborough/ Lakeville,41.87821,-70.918444,"",Middleborough/Lakeville Line
+CR-Middleborough,Middleborough/ Lakeville,CR-Sunday,0,79.0,7.0,Middleborough/ Lakeville,41.87821,-70.918444,"",Middleborough/Lakeville Line
+CR-Middleborough,Middleborough/ Lakeville,CR-Saturday,1,70.0,,Middleborough/ Lakeville,41.87821,-70.918444,"",Middleborough/Lakeville Line
+CR-Middleborough,Middleborough/ Lakeville,CR-Saturday,0,79.0,7.0,Middleborough/ Lakeville,41.87821,-70.918444,"",Middleborough/Lakeville Line
+CR-Lowell,Mishawum,CR-Weekday,1,45.0,14.1,Mishawum,42.503595,-71.137511,"",Lowell Line
+CR-Lowell,Mishawum,CR-Weekday,0,43.5,2.1,Mishawum,42.503595,-71.137511,"",Lowell Line
+CR-Middleborough,Montello,CR-Weekday,1,55.8,24.5,Montello,42.106047,-71.021078,"",Middleborough/Lakeville Line
+CR-Middleborough,Montello,CR-Weekday,0,52.8,16.7,Montello,42.106047,-71.021078,"",Middleborough/Lakeville Line
+CR-Middleborough,Montello,CR-Sunday,1,70.0,,Montello,42.106047,-71.021078,"",Middleborough/Lakeville Line
+CR-Middleborough,Montello,CR-Sunday,0,79.0,8.4,Montello,42.106047,-71.021078,"",Middleborough/Lakeville Line
+CR-Middleborough,Montello,CR-Saturday,1,70.0,,Montello,42.106047,-71.021078,"",Middleborough/Lakeville Line
+CR-Middleborough,Montello,CR-Saturday,0,79.0,8.4,Montello,42.106047,-71.021078,"",Middleborough/Lakeville Line
+CR-Newburyport,Montserrat,CR-Weekday,1,56.6,19.6,Montserrat,42.561483,-70.870035,"",Newburyport/Rockport Line
+CR-Newburyport,Montserrat,CR-Weekday,0,58.1,18.6,Montserrat,42.561483,-70.870035,"",Newburyport/Rockport Line
+CR-Newburyport,Montserrat,CR-Sunday,1,,,Montserrat,42.561483,-70.870035,"",Newburyport/Rockport Line
+CR-Newburyport,Montserrat,CR-Sunday,0,,,Montserrat,42.561483,-70.870035,"",Newburyport/Rockport Line
+CR-Newburyport,Montserrat,CR-Saturday,1,,,Montserrat,42.561483,-70.870035,"",Newburyport/Rockport Line
+CR-Newburyport,Montserrat,CR-Saturday,0,,,Montserrat,42.561483,-70.870035,"",Newburyport/Rockport Line
+CR-Franklin,Morton Street,CR-Weekday,1,,,Morton Street,42.280994,-71.085475,"",Franklin Line
+CR-Fairmount,Morton Street,CR-Weekday,1,49.4,12.4,Morton Street,42.280994,-71.085475,"",Fairmount Line
+CR-Fairmount,Morton Street,CR-Weekday,0,52.2,15.7,Morton Street,42.280994,-71.085475,"",Fairmount Line
+CR-Greenbush,Nantasket Junction,CR-Weekday,1,54.5,16.9,Nantasket Junction,42.2452,-70.8698,"",Greenbush Line
+CR-Greenbush,Nantasket Junction,CR-Weekday,0,44.2,17.1,Nantasket Junction,42.2452,-70.8698,"",Greenbush Line
+CR-Greenbush,Nantasket Junction,CR-SunSuspended,1,71.0,,Nantasket Junction,42.2452,-70.8698,"",Greenbush Line
+CR-Greenbush,Nantasket Junction,CR-SunSuspended,0,79.0,,Nantasket Junction,42.2452,-70.8698,"",Greenbush Line
+CR-Greenbush,Nantasket Junction,CR-SatSuspended,1,71.0,,Nantasket Junction,42.2452,-70.8698,"",Greenbush Line
+CR-Greenbush,Nantasket Junction,CR-SatSuspended,0,79.0,,Nantasket Junction,42.2452,-70.8698,"",Greenbush Line
+CR-Worcester,Natick,CR-Weekday,1,29.8,11.4,Natick,42.285239,-71.347641,"",Framingham/Worcester Line
+CR-Worcester,Natick,CR-Weekday,0,55.2,25.7,Natick,42.285239,-71.347641,"",Framingham/Worcester Line
+CR-Worcester,Natick,CR-Sunday,1,42.5,31.8,Natick,42.285239,-71.347641,"",Framingham/Worcester Line
+CR-Worcester,Natick,CR-Sunday,0,89.0,,Natick,42.285239,-71.347641,"",Framingham/Worcester Line
+CR-Worcester,Natick,CR-Saturday,1,42.5,31.8,Natick,42.285239,-71.347641,"",Framingham/Worcester Line
+CR-Worcester,Natick,CR-Saturday,0,57.0,45.2,Natick,42.285239,-71.347641,"",Framingham/Worcester Line
+CR-Needham,Needham Center,CR-Weekday,1,50.5,17.5,Needham Center,42.280274,-71.238089,"",Needham Line
+CR-Needham,Needham Center,CR-Weekday,0,51.8,16.4,Needham Center,42.280274,-71.238089,"",Needham Line
+CR-Needham,Needham Center,CR-SatSuspended,1,,,Needham Center,42.280274,-71.238089,"",Needham Line
+CR-Needham,Needham Center,CR-SatSuspended,0,,,Needham Center,42.280274,-71.238089,"",Needham Line
+CR-Needham,Needham Heights,CR-Weekday,1,50.5,17.5,Needham Heights,42.293139,-71.235087,"",Needham Line
+CR-Needham,Needham Heights,CR-Weekday,0,51.8,16.5,Needham Heights,42.293139,-71.235087,"",Needham Line
+CR-Needham,Needham Heights,CR-SatSuspended,1,,,Needham Heights,42.293139,-71.235087,"",Needham Line
+CR-Needham,Needham Heights,CR-SatSuspended,0,,,Needham Heights,42.293139,-71.235087,"",Needham Line
+CR-Needham,Needham Junction,CR-Weekday,1,50.5,17.5,Needham Junction,42.273327,-71.238007,"",Needham Line
+CR-Needham,Needham Junction,CR-Weekday,0,51.8,16.4,Needham Junction,42.273327,-71.238007,"",Needham Line
+CR-Needham,Needham Junction,CR-SatSuspended,1,,,Needham Junction,42.273327,-71.238007,"",Needham Line
+CR-Needham,Needham Junction,CR-SatSuspended,0,,,Needham Junction,42.273327,-71.238007,"",Needham Line
+CR-Newburyport,Newburyport,CR-Weekday,1,44.6,17.7,Newburyport,42.800292,-70.880262,"",Newburyport/Rockport Line
+CR-Newburyport,Newburyport,CR-Weekday,0,61.5,21.0,Newburyport,42.800292,-70.880262,"",Newburyport/Rockport Line
+CR-Newburyport,Newburyport,CR-Sunday,1,,,Newburyport,42.800292,-70.880262,"",Newburyport/Rockport Line
+CR-Newburyport,Newburyport,CR-Sunday,0,,,Newburyport,42.800292,-70.880262,"",Newburyport/Rockport Line
+CR-Newburyport,Newburyport,CR-Saturday,1,,,Newburyport,42.800292,-70.880262,"",Newburyport/Rockport Line
+CR-Newburyport,Newburyport,CR-Saturday,0,,,Newburyport,42.800292,-70.880262,"",Newburyport/Rockport Line
+CR-Worcester,Newtonville,CR-Weekday,1,43.6,14.3,Newtonville,42.351603,-71.207338,"",Framingham/Worcester Line
+CR-Worcester,Newtonville,CR-Weekday,0,56.7,18.9,Newtonville,42.351603,-71.207338,"",Framingham/Worcester Line
+CR-Worcester,Newtonville,CR-Sunday,1,42.5,31.8,Newtonville,42.351603,-71.207338,"",Framingham/Worcester Line
+CR-Worcester,Newtonville,CR-Sunday,0,89.0,,Newtonville,42.351603,-71.207338,"",Framingham/Worcester Line
+CR-Worcester,Newtonville,CR-Saturday,1,42.5,31.8,Newtonville,42.351603,-71.207338,"",Framingham/Worcester Line
+CR-Worcester,Newtonville,CR-Saturday,0,57.0,45.2,Newtonville,42.351603,-71.207338,"",Framingham/Worcester Line
+CR-Franklin,Norfolk,CR-Weekday,1,48.5,23.8,Norfolk,42.120694,-71.325217,"",Franklin Line
+CR-Franklin,Norfolk,CR-Weekday,0,58.5,24.6,Norfolk,42.120694,-71.325217,"",Franklin Line
+CR-Franklin,Norfolk,CR-Sunday,1,,,Norfolk,42.120694,-71.325217,"",Franklin Line
+CR-Franklin,Norfolk,CR-Sunday,0,,,Norfolk,42.120694,-71.325217,"",Franklin Line
+CR-Franklin,Norfolk,CR-Saturday,1,,,Norfolk,42.120694,-71.325217,"",Franklin Line
+CR-Franklin,Norfolk,CR-Saturday,0,,,Norfolk,42.120694,-71.325217,"",Franklin Line
+CR-Newburyport,North Beverly,CR-Weekday,1,38.5,20.8,North Beverly,42.582471,-70.884501,"",Newburyport/Rockport Line
+CR-Newburyport,North Beverly,CR-Weekday,0,61.7,21.2,North Beverly,42.582471,-70.884501,"",Newburyport/Rockport Line
+CR-Newburyport,North Beverly,CR-Sunday,1,,,North Beverly,42.582471,-70.884501,"",Newburyport/Rockport Line
+CR-Newburyport,North Beverly,CR-Sunday,0,,,North Beverly,42.582471,-70.884501,"",Newburyport/Rockport Line
+CR-Newburyport,North Beverly,CR-Saturday,1,,,North Beverly,42.582471,-70.884501,"",Newburyport/Rockport Line
+CR-Newburyport,North Beverly,CR-Saturday,0,,,North Beverly,42.582471,-70.884501,"",Newburyport/Rockport Line
+CR-Lowell,North Billerica,CR-Weekday,1,48.5,14.1,North Billerica,42.592881,-71.280869,"",Lowell Line
+CR-Lowell,North Billerica,CR-Weekday,0,52.6,17.7,North Billerica,42.592881,-71.280869,"",Lowell Line
+CR-Lowell,North Billerica,CR-Sunday,1,,,North Billerica,42.592881,-71.280869,"",Lowell Line
+CR-Lowell,North Billerica,CR-Sunday,0,,,North Billerica,42.592881,-71.280869,"",Lowell Line
+CR-Lowell,North Billerica,CR-Saturday,1,,,North Billerica,42.592881,-71.280869,"",Lowell Line
+CR-Lowell,North Billerica,CR-Saturday,0,,,North Billerica,42.592881,-71.280869,"",Lowell Line
+CR-Fitchburg,North Leominster,CR-Weekday,1,41.0,14.0,North Leominster,42.540577,-71.739402,"",Fitchburg/South Acton Line
+CR-Fitchburg,North Leominster,CR-Weekday,0,50.3,23.9,North Leominster,42.540577,-71.739402,"",Fitchburg/South Acton Line
+CR-Fitchburg,North Leominster,CR-Sunday,1,,,North Leominster,42.540577,-71.739402,"",Fitchburg/South Acton Line
+CR-Fitchburg,North Leominster,CR-Sunday,0,,,North Leominster,42.540577,-71.739402,"",Fitchburg/South Acton Line
+CR-Fitchburg,North Leominster,CR-Saturday,1,,,North Leominster,42.540577,-71.739402,"",Fitchburg/South Acton Line
+CR-Fitchburg,North Leominster,CR-Saturday,0,,,North Leominster,42.540577,-71.739402,"",Fitchburg/South Acton Line
+CR-Greenbush,North Scituate,CR-Weekday,1,55.0,16.9,North Scituate,42.2197,-70.7877,"",Greenbush Line
+CR-Greenbush,North Scituate,CR-Weekday,0,44.2,17.5,North Scituate,42.2197,-70.7877,"",Greenbush Line
+CR-Greenbush,North Scituate,CR-SunSuspended,1,72.0,,North Scituate,42.2197,-70.7877,"",Greenbush Line
+CR-Greenbush,North Scituate,CR-SunSuspended,0,79.0,,North Scituate,42.2197,-70.7877,"",Greenbush Line
+CR-Greenbush,North Scituate,CR-SatSuspended,1,72.0,,North Scituate,42.2197,-70.7877,"",Greenbush Line
+CR-Greenbush,North Scituate,CR-SatSuspended,0,79.0,,North Scituate,42.2197,-70.7877,"",Greenbush Line
+CR-Newburyport,North Station,CR-Weekday,1,35.0,21.9,North Station,42.365551,-71.061251,"",Newburyport/Rockport Line
+CR-Newburyport,North Station,CR-Weekday,0,37.8,22.6,North Station,42.365551,-71.061251,"",Newburyport/Rockport Line
+CR-Lowell,North Station,CR-Weekday,1,40.7,18.9,North Station,42.365551,-71.061251,"",Lowell Line
+CR-Lowell,North Station,CR-Weekday,0,44.2,21.1,North Station,42.365551,-71.061251,"",Lowell Line
+CR-Haverhill,North Station,CR-Weekday,1,41.3,22.2,North Station,42.365551,-71.061251,"",Haverhill Line
+CR-Haverhill,North Station,CR-Weekday,0,40.0,21.6,North Station,42.365551,-71.061251,"",Haverhill Line
+CR-Fitchburg,North Station,CR-Weekday,1,42.0,12.6,North Station,42.365551,-71.061251,"",Fitchburg/South Acton Line
+CR-Fitchburg,North Station,CR-Weekday,0,46.9,22.5,North Station,42.365551,-71.061251,"",Fitchburg/South Acton Line
+CR-Newburyport,North Station,CR-Sunday,1,59.3,21.6,North Station,42.365551,-71.061251,"",Newburyport/Rockport Line
+CR-Newburyport,North Station,CR-Sunday,0,61.6,13.9,North Station,42.365551,-71.061251,"",Newburyport/Rockport Line
+CR-Lowell,North Station,CR-Sunday,1,,,North Station,42.365551,-71.061251,"",Lowell Line
+CR-Lowell,North Station,CR-Sunday,0,,,North Station,42.365551,-71.061251,"",Lowell Line
+CR-Haverhill,North Station,CR-Sunday,1,,,North Station,42.365551,-71.061251,"",Haverhill Line
+CR-Haverhill,North Station,CR-Sunday,0,,,North Station,42.365551,-71.061251,"",Haverhill Line
+CR-Fitchburg,North Station,CR-Sunday,1,38.5,23.3,North Station,42.365551,-71.061251,"",Fitchburg/South Acton Line
+CR-Fitchburg,North Station,CR-Sunday,0,60.0,0.0,North Station,42.365551,-71.061251,"",Fitchburg/South Acton Line
+CR-Newburyport,North Station,CR-Saturday,1,59.3,21.6,North Station,42.365551,-71.061251,"",Newburyport/Rockport Line
+CR-Newburyport,North Station,CR-Saturday,0,61.6,13.9,North Station,42.365551,-71.061251,"",Newburyport/Rockport Line
+CR-Lowell,North Station,CR-Saturday,1,,,North Station,42.365551,-71.061251,"",Lowell Line
+CR-Lowell,North Station,CR-Saturday,0,,,North Station,42.365551,-71.061251,"",Lowell Line
+CR-Haverhill,North Station,CR-Saturday,1,,,North Station,42.365551,-71.061251,"",Haverhill Line
+CR-Haverhill,North Station,CR-Saturday,0,,,North Station,42.365551,-71.061251,"",Haverhill Line
+CR-Fitchburg,North Station,CR-Saturday,1,38.5,23.3,North Station,42.365551,-71.061251,"",Fitchburg/South Acton Line
+CR-Fitchburg,North Station,CR-Saturday,0,60.0,0.0,North Station,42.365551,-71.061251,"",Fitchburg/South Acton Line
+CR-Haverhill,North Wilmington,CR-Weekday,1,40.3,12.7,North Wilmington,42.568462,-71.159724,"",Haverhill Line
+CR-Haverhill,North Wilmington,CR-Weekday,0,38.2,10.4,North Wilmington,42.568462,-71.159724,"",Haverhill Line
+CR-Haverhill,North Wilmington,CR-Sunday,1,,,North Wilmington,42.568462,-71.159724,"",Haverhill Line
+CR-Haverhill,North Wilmington,CR-Sunday,0,,,North Wilmington,42.568462,-71.159724,"",Haverhill Line
+CR-Haverhill,North Wilmington,CR-Saturday,1,,,North Wilmington,42.568462,-71.159724,"",Haverhill Line
+CR-Haverhill,North Wilmington,CR-Saturday,0,,,North Wilmington,42.568462,-71.159724,"",Haverhill Line
+CR-Franklin,Norwood Central,CR-Weekday,1,43.7,22.3,Norwood Central,42.190776,-71.199748,"",Franklin Line
+CR-Franklin,Norwood Central,CR-Weekday,0,51.3,28.0,Norwood Central,42.190776,-71.199748,"",Franklin Line
+CR-Franklin,Norwood Central,CR-Sunday,1,,,Norwood Central,42.190776,-71.199748,"",Franklin Line
+CR-Franklin,Norwood Central,CR-Sunday,0,,,Norwood Central,42.190776,-71.199748,"",Franklin Line
+CR-Franklin,Norwood Central,CR-Saturday,1,,,Norwood Central,42.190776,-71.199748,"",Franklin Line
+CR-Franklin,Norwood Central,CR-Saturday,0,,,Norwood Central,42.190776,-71.199748,"",Franklin Line
+CR-Franklin,Norwood Depot,CR-Weekday,1,39.8,21.3,Norwood Depot,42.195668,-71.196784,"",Franklin Line
+CR-Franklin,Norwood Depot,CR-Weekday,0,56.0,26.0,Norwood Depot,42.195668,-71.196784,"",Franklin Line
+CR-Franklin,Norwood Depot,CR-Sunday,1,,,Norwood Depot,42.195668,-71.196784,"",Franklin Line
+CR-Franklin,Norwood Depot,CR-Sunday,0,,,Norwood Depot,42.195668,-71.196784,"",Franklin Line
+CR-Franklin,Norwood Depot,CR-Saturday,1,,,Norwood Depot,42.195668,-71.196784,"",Franklin Line
+CR-Franklin,Norwood Depot,CR-Saturday,0,,,Norwood Depot,42.195668,-71.196784,"",Franklin Line
+CR-Franklin,Plimptonville,CR-Weekday,1,,,Plimptonville,42.159123,-71.236125,"",Franklin Line
+CR-Franklin,Plimptonville,CR-Weekday,0,,,Plimptonville,42.159123,-71.236125,"",Franklin Line
+CR-Kingston,Plymouth,CR-Weekday,1,78.0,,Plymouth,41.981184,-70.692514,"",Kingston/Plymouth Line
+CR-Kingston,Plymouth,CR-Weekday,0,84.0,,Plymouth,41.981184,-70.692514,"",Kingston/Plymouth Line
+CR-Kingston,Plymouth,CR-SunSuspended,1,,,Plymouth,41.981184,-70.692514,"",Kingston/Plymouth Line
+CR-Kingston,Plymouth,CR-SunSuspended,0,,,Plymouth,41.981184,-70.692514,"",Kingston/Plymouth Line
+CR-Kingston,Plymouth,CR-SatSuspended,1,,,Plymouth,41.981184,-70.692514,"",Kingston/Plymouth Line
+CR-Kingston,Plymouth,CR-SatSuspended,0,,,Plymouth,41.981184,-70.692514,"",Kingston/Plymouth Line
+CR-Fitchburg,Porter Square,CR-Weekday,1,42.0,12.5,Porter Square,42.388353,-71.119159,"",Fitchburg/South Acton Line
+CR-Fitchburg,Porter Square,CR-Weekday,0,46.9,22.5,Porter Square,42.388353,-71.119159,"",Fitchburg/South Acton Line
+CR-Fitchburg,Porter Square,CR-Sunday,1,39.0,22.6,Porter Square,42.388353,-71.119159,"",Fitchburg/South Acton Line
+CR-Fitchburg,Porter Square,CR-Sunday,0,60.0,0.0,Porter Square,42.388353,-71.119159,"",Fitchburg/South Acton Line
+CR-Fitchburg,Porter Square,CR-Saturday,1,39.0,22.6,Porter Square,42.388353,-71.119159,"",Fitchburg/South Acton Line
+CR-Fitchburg,Porter Square,CR-Saturday,0,60.0,0.0,Porter Square,42.388353,-71.119159,"",Fitchburg/South Acton Line
+CR-Newburyport,Prides Crossing,CR-Weekday,1,39.5,0.7,Prides Crossing,42.559513,-70.824813,"",Newburyport/Rockport Line
+CR-Newburyport,Prides Crossing,CR-Weekday,0,45.0,10.5,Prides Crossing,42.559513,-70.824813,"",Newburyport/Rockport Line
+CR-Providence,Providence,CR-Weekday,1,44.2,27.9,Providence,41.829641,-71.413332,"",Providence/Stoughton Line
+CR-Providence,Providence,CR-Weekday,0,48.9,24.1,Providence,41.829641,-71.413332,"",Providence/Stoughton Line
+CR-Providence,Providence,CR-Sunday,1,68.0,,Providence,41.829641,-71.413332,"",Providence/Stoughton Line
+CR-Providence,Providence,CR-Sunday,0,75.0,,Providence,41.829641,-71.413332,"",Providence/Stoughton Line
+CR-Providence,Providence,CR-Saturday,1,68.0,,Providence,41.829641,-71.413332,"",Providence/Stoughton Line
+CR-Providence,Providence,CR-Saturday,0,70.0,7.0,Providence,41.829641,-71.413332,"",Providence/Stoughton Line
+CR-Middleborough,Quincy Center,CR-Weekday,1,39.5,24.7,Quincy Center,42.251809,-71.005409,"",Middleborough/Lakeville Line
+CR-Middleborough,Quincy Center,CR-Weekday,0,52.8,16.0,Quincy Center,42.251809,-71.005409,"",Middleborough/Lakeville Line
+CR-Kingston,Quincy Center,CR-Weekday,0,,,Quincy Center,42.251809,-71.005409,"",Kingston/Plymouth Line
+CR-Greenbush,Quincy Center,CR-Weekday,1,64.0,15.0,Quincy Center,42.251809,-71.005409,"",Greenbush Line
+CR-Greenbush,Quincy Center,CR-Weekday,0,57.0,6.9,Quincy Center,42.251809,-71.005409,"",Greenbush Line
+CR-Kingston,Quincy Center,CR-SunSuspended,1,,,Quincy Center,42.251809,-71.005409,"",Kingston/Plymouth Line
+CR-Kingston,Quincy Center,CR-SunSuspended,0,70.0,,Quincy Center,42.251809,-71.005409,"",Kingston/Plymouth Line
+CR-Greenbush,Quincy Center,CR-SunSuspended,1,68.0,,Quincy Center,42.251809,-71.005409,"",Greenbush Line
+CR-Greenbush,Quincy Center,CR-SunSuspended,0,78.0,,Quincy Center,42.251809,-71.005409,"",Greenbush Line
+CR-Middleborough,Quincy Center,CR-Sunday,1,72.0,,Quincy Center,42.251809,-71.005409,"",Middleborough/Lakeville Line
+CR-Middleborough,Quincy Center,CR-Sunday,0,79.5,7.7,Quincy Center,42.251809,-71.005409,"",Middleborough/Lakeville Line
+CR-Middleborough,Quincy Center,CR-Saturday,1,72.0,,Quincy Center,42.251809,-71.005409,"",Middleborough/Lakeville Line
+CR-Middleborough,Quincy Center,CR-Saturday,0,79.5,7.7,Quincy Center,42.251809,-71.005409,"",Middleborough/Lakeville Line
+CR-Kingston,Quincy Center,CR-SatSuspended,1,,,Quincy Center,42.251809,-71.005409,"",Kingston/Plymouth Line
+CR-Kingston,Quincy Center,CR-SatSuspended,0,70.0,,Quincy Center,42.251809,-71.005409,"",Kingston/Plymouth Line
+CR-Greenbush,Quincy Center,CR-SatSuspended,1,68.0,,Quincy Center,42.251809,-71.005409,"",Greenbush Line
+CR-Greenbush,Quincy Center,CR-SatSuspended,0,78.0,,Quincy Center,42.251809,-71.005409,"",Greenbush Line
+CR-Haverhill,Reading,CR-Weekday,1,48.0,21.0,Reading,42.52148,-71.10744,"",Haverhill Line
+CR-Haverhill,Reading,CR-Weekday,0,42.0,21.8,Reading,42.52148,-71.10744,"",Haverhill Line
+CR-Haverhill,Reading,CR-Sunday,1,,,Reading,42.52148,-71.10744,"",Haverhill Line
+CR-Haverhill,Reading,CR-Sunday,0,,,Reading,42.52148,-71.10744,"",Haverhill Line
+CR-Haverhill,Reading,CR-Saturday,1,,,Reading,42.52148,-71.10744,"",Haverhill Line
+CR-Haverhill,Reading,CR-Saturday,0,,,Reading,42.52148,-71.10744,"",Haverhill Line
+CR-Franklin,Readville,CR-Weekday,1,39.8,21.5,Readville,42.23775,-71.132376,"",Franklin Line
+CR-Franklin,Readville,CR-Weekday,0,61.4,23.0,Readville,42.23775,-71.132376,"",Franklin Line
+CR-Fairmount,Readville,CR-Weekday,1,49.4,13.0,Readville,42.23775,-71.132376,"",Fairmount Line
+CR-Fairmount,Readville,CR-Weekday,0,52.2,15.7,Readville,42.23775,-71.132376,"",Fairmount Line
+CR-Franklin,Readville,CR-Sunday,1,,,Readville,42.23775,-71.132376,"",Franklin Line
+CR-Franklin,Readville,CR-Sunday,0,,,Readville,42.23775,-71.132376,"",Franklin Line
+CR-Franklin,Readville,CR-Saturday,1,,,Readville,42.23775,-71.132376,"",Franklin Line
+CR-Franklin,Readville,CR-Saturday,0,,,Readville,42.23775,-71.132376,"",Franklin Line
+CR-Newburyport,River Works,CR-Weekday,1,35.8,19.2,River Works,42.453804,-70.975698,"",Newburyport/Rockport Line
+CR-Newburyport,River Works,CR-Weekday,0,39.3,19.1,River Works,42.453804,-70.975698,"",Newburyport/Rockport Line
+CR-Newburyport,Rockport,CR-Weekday,1,60.2,20.6,Rockport,42.656173,-70.625616,"",Newburyport/Rockport Line
+CR-Newburyport,Rockport,CR-Weekday,0,57.7,18.1,Rockport,42.656173,-70.625616,"",Newburyport/Rockport Line
+CR-Newburyport,Rockport,CR-Sunday,1,,,Rockport,42.656173,-70.625616,"",Newburyport/Rockport Line
+CR-Newburyport,Rockport,CR-Sunday,0,,,Rockport,42.656173,-70.625616,"",Newburyport/Rockport Line
+CR-Newburyport,Rockport,CR-Saturday,1,,,Rockport,42.656173,-70.625616,"",Newburyport/Rockport Line
+CR-Newburyport,Rockport,CR-Saturday,0,,,Rockport,42.656173,-70.625616,"",Newburyport/Rockport Line
+CR-Needham,Roslindale Village,CR-Weekday,1,51.6,19.5,Roslindale Village,42.287206,-71.12961,"",Needham Line
+CR-Needham,Roslindale Village,CR-Weekday,0,53.0,15.8,Roslindale Village,42.287206,-71.12961,"",Needham Line
+CR-Needham,Roslindale Village,CR-SatSuspended,1,,,Roslindale Village,42.287206,-71.12961,"",Needham Line
+CR-Needham,Roslindale Village,CR-SatSuspended,0,,,Roslindale Village,42.287206,-71.12961,"",Needham Line
+CR-Providence,Route 128,CR-Weekday,1,30.9,18.5,Route 128,42.209884,-71.1471,"",Providence/Stoughton Line
+CR-Providence,Route 128,CR-Weekday,0,41.0,21.4,Route 128,42.209884,-71.1471,"",Providence/Stoughton Line
+CR-Providence,Route 128,CR-Sunday,1,65.0,,Route 128,42.209884,-71.1471,"",Providence/Stoughton Line
+CR-Providence,Route 128,CR-Sunday,0,75.0,,Route 128,42.209884,-71.1471,"",Providence/Stoughton Line
+CR-Providence,Route 128,CR-Saturday,1,65.0,,Route 128,42.209884,-71.1471,"",Providence/Stoughton Line
+CR-Providence,Route 128,CR-Saturday,0,70.0,7.0,Route 128,42.209884,-71.1471,"",Providence/Stoughton Line
+CR-Newburyport,Rowley,CR-Weekday,1,44.6,17.7,Rowley,42.725351,-70.859436,"",Newburyport/Rockport Line
+CR-Newburyport,Rowley,CR-Weekday,0,61.7,21.0,Rowley,42.725351,-70.859436,"",Newburyport/Rockport Line
+CR-Newburyport,Rowley,CR-Sunday,1,,,Rowley,42.725351,-70.859436,"",Newburyport/Rockport Line
+CR-Newburyport,Rowley,CR-Sunday,0,,,Rowley,42.725351,-70.859436,"",Newburyport/Rockport Line
+CR-Newburyport,Rowley,CR-Saturday,1,,,Rowley,42.725351,-70.859436,"",Newburyport/Rockport Line
+CR-Newburyport,Rowley,CR-Saturday,0,,,Rowley,42.725351,-70.859436,"",Newburyport/Rockport Line
+CR-Providence,Ruggles,CR-Weekday,1,45.5,22.8,Ruggles,42.336377,-71.088961,"",Providence/Stoughton Line
+CR-Providence,Ruggles,CR-Weekday,0,32.0,20.7,Ruggles,42.336377,-71.088961,"",Providence/Stoughton Line
+CR-Needham,Ruggles,CR-Weekday,1,50.0,18.2,Ruggles,42.336377,-71.088961,"",Needham Line
+CR-Needham,Ruggles,CR-Weekday,0,51.0,14.7,Ruggles,42.336377,-71.088961,"",Needham Line
+CR-Franklin,Ruggles,CR-Weekday,1,51.4,26.5,Ruggles,42.336377,-71.088961,"",Franklin Line
+CR-Franklin,Ruggles,CR-Weekday,0,49.4,25.6,Ruggles,42.336377,-71.088961,"",Franklin Line
+CR-Providence,Ruggles,CR-Sunday,1,65.0,,Ruggles,42.336377,-71.088961,"",Providence/Stoughton Line
+CR-Providence,Ruggles,CR-Sunday,0,80.0,,Ruggles,42.336377,-71.088961,"",Providence/Stoughton Line
+CR-Franklin,Ruggles,CR-Sunday,1,,,Ruggles,42.336377,-71.088961,"",Franklin Line
+CR-Franklin,Ruggles,CR-Sunday,0,,,Ruggles,42.336377,-71.088961,"",Franklin Line
+CR-Providence,Ruggles,CR-Saturday,1,65.0,,Ruggles,42.336377,-71.088961,"",Providence/Stoughton Line
+CR-Providence,Ruggles,CR-Saturday,0,70.0,14.1,Ruggles,42.336377,-71.088961,"",Providence/Stoughton Line
+CR-Franklin,Ruggles,CR-Saturday,1,,,Ruggles,42.336377,-71.088961,"",Franklin Line
+CR-Franklin,Ruggles,CR-Saturday,0,,,Ruggles,42.336377,-71.088961,"",Franklin Line
+CR-Needham,Ruggles,CR-SatSuspended,1,,,Ruggles,42.336377,-71.088961,"",Needham Line
+CR-Needham,Ruggles,CR-SatSuspended,0,,,Ruggles,42.336377,-71.088961,"",Needham Line
+CR-Newburyport,Salem,CR-Weekday,1,35.1,20.6,Salem,42.523927,-70.898903,"",Newburyport/Rockport Line
+CR-Newburyport,Salem,CR-Weekday,0,36.6,22.1,Salem,42.523927,-70.898903,"",Newburyport/Rockport Line
+CR-Newburyport,Salem,CR-Sunday,1,60.0,20.6,Salem,42.523927,-70.898903,"",Newburyport/Rockport Line
+CR-Newburyport,Salem,CR-Sunday,0,61.5,13.8,Salem,42.523927,-70.898903,"",Newburyport/Rockport Line
+CR-Newburyport,Salem,CR-Saturday,1,60.0,20.6,Salem,42.523927,-70.898903,"",Newburyport/Rockport Line
+CR-Newburyport,Salem,CR-Saturday,0,61.5,13.8,Salem,42.523927,-70.898903,"",Newburyport/Rockport Line
+CR-Providence,Sharon,CR-Weekday,1,43.8,21.0,Sharon,42.124804,-71.183213,"",Providence/Stoughton Line
+CR-Providence,Sharon,CR-Weekday,0,51.1,24.1,Sharon,42.124804,-71.183213,"",Providence/Stoughton Line
+CR-Providence,Sharon,CR-Sunday,1,65.0,,Sharon,42.124804,-71.183213,"",Providence/Stoughton Line
+CR-Providence,Sharon,CR-Sunday,0,75.0,,Sharon,42.124804,-71.183213,"",Providence/Stoughton Line
+CR-Providence,Sharon,CR-Saturday,1,65.0,,Sharon,42.124804,-71.183213,"",Providence/Stoughton Line
+CR-Providence,Sharon,CR-Saturday,0,70.0,7.0,Sharon,42.124804,-71.183213,"",Providence/Stoughton Line
+CR-Fitchburg,Shirley,CR-Weekday,1,41.2,14.2,Shirley,42.544726,-71.648363,"",Fitchburg/South Acton Line
+CR-Fitchburg,Shirley,CR-Weekday,0,50.3,23.9,Shirley,42.544726,-71.648363,"",Fitchburg/South Acton Line
+CR-Fitchburg,Shirley,CR-Sunday,1,,,Shirley,42.544726,-71.648363,"",Fitchburg/South Acton Line
+CR-Fitchburg,Shirley,CR-Sunday,0,,,Shirley,42.544726,-71.648363,"",Fitchburg/South Acton Line
+CR-Fitchburg,Shirley,CR-Saturday,1,,,Shirley,42.544726,-71.648363,"",Fitchburg/South Acton Line
+CR-Fitchburg,Shirley,CR-Saturday,0,,,Shirley,42.544726,-71.648363,"",Fitchburg/South Acton Line
+CR-Fitchburg,Silver Hill,CR-Weekday,1,80.0,,Silver Hill,42.395625,-71.302357,"",Fitchburg/South Acton Line
+CR-Fitchburg,Silver Hill,CR-Weekday,0,58.0,19.7,Silver Hill,42.395625,-71.302357,"",Fitchburg/South Acton Line
+CR-Fitchburg,South Acton,CR-Weekday,1,42.0,11.6,South Acton,42.461575,-71.455322,"",Fitchburg/South Acton Line
+CR-Fitchburg,South Acton,CR-Weekday,0,46.4,21.9,South Acton,42.461575,-71.455322,"",Fitchburg/South Acton Line
+CR-Fitchburg,South Acton,CR-Sunday,1,39.0,22.6,South Acton,42.461575,-71.455322,"",Fitchburg/South Acton Line
+CR-Fitchburg,South Acton,CR-Sunday,0,60.0,0.0,South Acton,42.461575,-71.455322,"",Fitchburg/South Acton Line
+CR-Fitchburg,South Acton,CR-Saturday,1,39.0,22.6,South Acton,42.461575,-71.455322,"",Fitchburg/South Acton Line
+CR-Fitchburg,South Acton,CR-Saturday,0,60.0,0.0,South Acton,42.461575,-71.455322,"",Fitchburg/South Acton Line
+CR-Providence,South Attleboro,CR-Weekday,1,48.0,23.4,South Attleboro,41.897943,-71.354621,"",Providence/Stoughton Line
+CR-Providence,South Attleboro,CR-Weekday,0,50.4,23.5,South Attleboro,41.897943,-71.354621,"",Providence/Stoughton Line
+CR-Providence,South Attleboro,CR-Sunday,1,68.0,,South Attleboro,41.897943,-71.354621,"",Providence/Stoughton Line
+CR-Providence,South Attleboro,CR-Sunday,0,75.0,,South Attleboro,41.897943,-71.354621,"",Providence/Stoughton Line
+CR-Providence,South Attleboro,CR-Saturday,1,68.0,,South Attleboro,41.897943,-71.354621,"",Providence/Stoughton Line
+CR-Providence,South Attleboro,CR-Saturday,0,70.0,7.0,South Attleboro,41.897943,-71.354621,"",Providence/Stoughton Line
+CR-Worcester,South Station,CR-Weekday,1,28.3,13.7,South Station,42.352614,-71.055364,"",Framingham/Worcester Line
+CR-Worcester,South Station,CR-Weekday,0,40.5,23.9,South Station,42.352614,-71.055364,"",Framingham/Worcester Line
+CR-Providence,South Station,CR-Weekday,1,29.3,21.3,South Station,42.352614,-71.055364,"",Providence/Stoughton Line
+CR-Providence,South Station,CR-Weekday,0,31.3,21.4,South Station,42.352614,-71.055364,"",Providence/Stoughton Line
+CR-Needham,South Station,CR-Weekday,1,49.6,18.1,South Station,42.352614,-71.055364,"",Needham Line
+CR-Needham,South Station,CR-Weekday,0,52.6,18.9,South Station,42.352614,-71.055364,"",Needham Line
+CR-Middleborough,South Station,CR-Weekday,1,47.4,17.7,South Station,42.352614,-71.055364,"",Middleborough/Lakeville Line
+CR-Middleborough,South Station,CR-Weekday,0,52.8,15.8,South Station,42.352614,-71.055364,"",Middleborough/Lakeville Line
+CR-Kingston,South Station,CR-Weekday,1,57.8,18.4,South Station,42.352614,-71.055364,"",Kingston/Plymouth Line
+CR-Kingston,South Station,CR-Weekday,0,51.8,18.5,South Station,42.352614,-71.055364,"",Kingston/Plymouth Line
+CR-Greenbush,South Station,CR-Weekday,1,54.1,16.0,South Station,42.352614,-71.055364,"",Greenbush Line
+CR-Greenbush,South Station,CR-Weekday,0,44.2,17.1,South Station,42.352614,-71.055364,"",Greenbush Line
+CR-Franklin,South Station,CR-Weekday,1,42.6,21.5,South Station,42.352614,-71.055364,"",Franklin Line
+CR-Franklin,South Station,CR-Weekday,0,56.6,26.4,South Station,42.352614,-71.055364,"",Franklin Line
+CR-Fairmount,South Station,CR-Weekday,1,49.2,14.0,South Station,42.352614,-71.055364,"",Fairmount Line
+CR-Fairmount,South Station,CR-Weekday,0,52.2,15.8,South Station,42.352614,-71.055364,"",Fairmount Line
+CR-Kingston,South Station,CR-SunSuspended,1,78.5,4.9,South Station,42.352614,-71.055364,"",Kingston/Plymouth Line
+CR-Kingston,South Station,CR-SunSuspended,0,70.0,,South Station,42.352614,-71.055364,"",Kingston/Plymouth Line
+CR-Greenbush,South Station,CR-SunSuspended,1,71.0,,South Station,42.352614,-71.055364,"",Greenbush Line
+CR-Greenbush,South Station,CR-SunSuspended,0,78.0,,South Station,42.352614,-71.055364,"",Greenbush Line
+CR-Worcester,South Station,CR-Sunday,1,43.5,28.9,South Station,42.352614,-71.055364,"",Framingham/Worcester Line
+CR-Worcester,South Station,CR-Sunday,0,90.0,,South Station,42.352614,-71.055364,"",Framingham/Worcester Line
+CR-Providence,South Station,CR-Sunday,1,65.0,,South Station,42.352614,-71.055364,"",Providence/Stoughton Line
+CR-Providence,South Station,CR-Sunday,0,80.0,,South Station,42.352614,-71.055364,"",Providence/Stoughton Line
+CR-Middleborough,South Station,CR-Sunday,1,71.0,,South Station,42.352614,-71.055364,"",Middleborough/Lakeville Line
+CR-Middleborough,South Station,CR-Sunday,0,79.5,7.7,South Station,42.352614,-71.055364,"",Middleborough/Lakeville Line
+CR-Franklin,South Station,CR-Sunday,1,,,South Station,42.352614,-71.055364,"",Franklin Line
+CR-Franklin,South Station,CR-Sunday,0,,,South Station,42.352614,-71.055364,"",Franklin Line
+CR-Worcester,South Station,CR-Saturday,1,43.5,28.9,South Station,42.352614,-71.055364,"",Framingham/Worcester Line
+CR-Worcester,South Station,CR-Saturday,0,57.5,45.9,South Station,42.352614,-71.055364,"",Framingham/Worcester Line
+CR-Providence,South Station,CR-Saturday,1,65.0,,South Station,42.352614,-71.055364,"",Providence/Stoughton Line
+CR-Providence,South Station,CR-Saturday,0,70.0,14.1,South Station,42.352614,-71.055364,"",Providence/Stoughton Line
+CR-Middleborough,South Station,CR-Saturday,1,71.0,,South Station,42.352614,-71.055364,"",Middleborough/Lakeville Line
+CR-Middleborough,South Station,CR-Saturday,0,79.5,7.7,South Station,42.352614,-71.055364,"",Middleborough/Lakeville Line
+CR-Franklin,South Station,CR-Saturday,1,,,South Station,42.352614,-71.055364,"",Franklin Line
+CR-Franklin,South Station,CR-Saturday,0,,,South Station,42.352614,-71.055364,"",Franklin Line
+CR-Needham,South Station,CR-SatSuspended,1,81.0,,South Station,42.352614,-71.055364,"",Needham Line
+CR-Needham,South Station,CR-SatSuspended,0,,,South Station,42.352614,-71.055364,"",Needham Line
+CR-Kingston,South Station,CR-SatSuspended,1,78.5,4.9,South Station,42.352614,-71.055364,"",Kingston/Plymouth Line
+CR-Kingston,South Station,CR-SatSuspended,0,70.0,,South Station,42.352614,-71.055364,"",Kingston/Plymouth Line
+CR-Greenbush,South Station,CR-SatSuspended,1,71.0,,South Station,42.352614,-71.055364,"",Greenbush Line
+CR-Greenbush,South Station,CR-SatSuspended,0,78.0,,South Station,42.352614,-71.055364,"",Greenbush Line
+CR-Kingston,South Weymouth,CR-Weekday,1,57.2,18.0,South Weymouth,42.153747,-70.95249,"",Kingston/Plymouth Line
+CR-Kingston,South Weymouth,CR-Weekday,0,51.6,19.1,South Weymouth,42.153747,-70.95249,"",Kingston/Plymouth Line
+CR-Kingston,South Weymouth,CR-SunSuspended,1,79.0,4.2,South Weymouth,42.153747,-70.95249,"",Kingston/Plymouth Line
+CR-Kingston,South Weymouth,CR-SunSuspended,0,71.0,,South Weymouth,42.153747,-70.95249,"",Kingston/Plymouth Line
+CR-Kingston,South Weymouth,CR-SatSuspended,1,79.0,4.2,South Weymouth,42.153747,-70.95249,"",Kingston/Plymouth Line
+CR-Kingston,South Weymouth,CR-SatSuspended,0,71.0,,South Weymouth,42.153747,-70.95249,"",Kingston/Plymouth Line
+CR-Worcester,Southborough,CR-Weekday,1,42.8,19.8,Southborough,42.267518,-71.523621,"",Framingham/Worcester Line
+CR-Worcester,Southborough,CR-Weekday,0,55.5,18.8,Southborough,42.267518,-71.523621,"",Framingham/Worcester Line
+CR-Worcester,Southborough,CR-Sunday,1,,,Southborough,42.267518,-71.523621,"",Framingham/Worcester Line
+CR-Worcester,Southborough,CR-Sunday,0,90.0,,Southborough,42.267518,-71.523621,"",Framingham/Worcester Line
+CR-Worcester,Southborough,CR-Saturday,1,,,Southborough,42.267518,-71.523621,"",Framingham/Worcester Line
+CR-Worcester,Southborough,CR-Saturday,0,90.0,,Southborough,42.267518,-71.523621,"",Framingham/Worcester Line
+CR-Providence,Stoughton,CR-Weekday,1,50.4,17.4,Stoughton,42.123818,-71.10309,"",Providence/Stoughton Line
+CR-Providence,Stoughton,CR-Weekday,0,52.0,20.3,Stoughton,42.123818,-71.10309,"",Providence/Stoughton Line
+CR-Newburyport,Swampscott,CR-Weekday,1,41.2,21.9,Swampscott,42.473739,-70.922036,"",Newburyport/Rockport Line
+CR-Newburyport,Swampscott,CR-Weekday,0,44.3,20.1,Swampscott,42.473739,-70.922036,"",Newburyport/Rockport Line
+CR-Newburyport,Swampscott,CR-Sunday,1,59.8,21.0,Swampscott,42.473739,-70.922036,"",Newburyport/Rockport Line
+CR-Newburyport,Swampscott,CR-Sunday,0,61.6,13.9,Swampscott,42.473739,-70.922036,"",Newburyport/Rockport Line
+CR-Newburyport,Swampscott,CR-Saturday,1,59.8,21.0,Swampscott,42.473739,-70.922036,"",Newburyport/Rockport Line
+CR-Newburyport,Swampscott,CR-Saturday,0,61.6,13.9,Swampscott,42.473739,-70.922036,"",Newburyport/Rockport Line
+CR-Providence,TF Green Airport,CR-Weekday,1,62.2,17.9,TF Green Airport,41.726599,-71.442453,"",Providence/Stoughton Line
+CR-Providence,TF Green Airport,CR-Weekday,0,57.2,21.9,TF Green Airport,41.726599,-71.442453,"",Providence/Stoughton Line
+CR-Franklin,Uphams Corner,CR-Weekday,1,,,Uphams Corner,42.31867,-71.069072,"",Franklin Line
+CR-Fairmount,Uphams Corner,CR-Weekday,1,49.4,12.4,Uphams Corner,42.31867,-71.069072,"",Fairmount Line
+CR-Fairmount,Uphams Corner,CR-Weekday,0,58.6,20.6,Uphams Corner,42.31867,-71.069072,"",Fairmount Line
+CR-Haverhill,Wakefield,CR-Weekday,1,48.0,20.8,Wakefield,42.501811,-71.075,"",Haverhill Line
+CR-Haverhill,Wakefield,CR-Weekday,0,44.3,20.8,Wakefield,42.501811,-71.075,"",Haverhill Line
+CR-Haverhill,Wakefield,CR-Sunday,1,,,Wakefield,42.501811,-71.075,"",Haverhill Line
+CR-Haverhill,Wakefield,CR-Sunday,0,,,Wakefield,42.501811,-71.075,"",Haverhill Line
+CR-Haverhill,Wakefield,CR-Saturday,1,,,Wakefield,42.501811,-71.075,"",Haverhill Line
+CR-Haverhill,Wakefield,CR-Saturday,0,,,Wakefield,42.501811,-71.075,"",Haverhill Line
+CR-Franklin,Walpole,CR-Weekday,1,47.2,27.5,Walpole,42.145477,-71.25779,"",Franklin Line
+CR-Franklin,Walpole,CR-Weekday,0,57.5,23.3,Walpole,42.145477,-71.25779,"",Franklin Line
+CR-Franklin,Walpole,CR-Sunday,1,,,Walpole,42.145477,-71.25779,"",Franklin Line
+CR-Franklin,Walpole,CR-Sunday,0,,,Walpole,42.145477,-71.25779,"",Franklin Line
+CR-Franklin,Walpole,CR-Saturday,1,,,Walpole,42.145477,-71.25779,"",Franklin Line
+CR-Franklin,Walpole,CR-Saturday,0,,,Walpole,42.145477,-71.25779,"",Franklin Line
+CR-Fitchburg,Waltham,CR-Weekday,1,46.4,9.1,Waltham,42.374424,-71.236595,"",Fitchburg/South Acton Line
+CR-Fitchburg,Waltham,CR-Weekday,0,51.2,19.7,Waltham,42.374424,-71.236595,"",Fitchburg/South Acton Line
+CR-Fitchburg,Waltham,CR-Sunday,1,39.0,22.6,Waltham,42.374424,-71.236595,"",Fitchburg/South Acton Line
+CR-Fitchburg,Waltham,CR-Sunday,0,60.0,0.0,Waltham,42.374424,-71.236595,"",Fitchburg/South Acton Line
+CR-Fitchburg,Waltham,CR-Saturday,1,39.0,22.6,Waltham,42.374424,-71.236595,"",Fitchburg/South Acton Line
+CR-Fitchburg,Waltham,CR-Saturday,0,60.0,0.0,Waltham,42.374424,-71.236595,"",Fitchburg/South Acton Line
+CR-Fitchburg,Waverley,CR-Weekday,1,54.0,15.8,Waverley,42.387489,-71.189864,"",Fitchburg/South Acton Line
+CR-Fitchburg,Waverley,CR-Weekday,0,62.5,16.6,Waverley,42.387489,-71.189864,"",Fitchburg/South Acton Line
+CR-Fitchburg,Waverley,CR-Sunday,1,39.0,22.6,Waverley,42.387489,-71.189864,"",Fitchburg/South Acton Line
+CR-Fitchburg,Waverley,CR-Sunday,0,60.0,0.0,Waverley,42.387489,-71.189864,"",Fitchburg/South Acton Line
+CR-Fitchburg,Waverley,CR-Saturday,1,39.0,22.6,Waverley,42.387489,-71.189864,"",Fitchburg/South Acton Line
+CR-Fitchburg,Waverley,CR-Saturday,0,60.0,0.0,Waverley,42.387489,-71.189864,"",Fitchburg/South Acton Line
+CR-Lowell,Wedgemere,CR-Weekday,1,44.3,18.2,Wedgemere,42.445284,-71.140909,"",Lowell Line
+CR-Lowell,Wedgemere,CR-Weekday,0,52.8,18.8,Wedgemere,42.445284,-71.140909,"",Lowell Line
+CR-Haverhill,Wedgemere,CR-Weekday,1,,,Wedgemere,42.445284,-71.140909,"",Haverhill Line
+CR-Haverhill,Wedgemere,CR-Weekday,0,,,Wedgemere,42.445284,-71.140909,"",Haverhill Line
+CR-Lowell,Wedgemere,CR-Sunday,1,,,Wedgemere,42.445284,-71.140909,"",Lowell Line
+CR-Lowell,Wedgemere,CR-Sunday,0,,,Wedgemere,42.445284,-71.140909,"",Lowell Line
+CR-Lowell,Wedgemere,CR-Saturday,1,,,Wedgemere,42.445284,-71.140909,"",Lowell Line
+CR-Lowell,Wedgemere,CR-Saturday,0,,,Wedgemere,42.445284,-71.140909,"",Lowell Line
+CR-Worcester,Wellesley Farms,CR-Weekday,1,34.8,14.0,Wellesley Farms,42.323608,-71.272288,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Farms,CR-Weekday,0,58.3,21.4,Wellesley Farms,42.323608,-71.272288,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Farms,CR-Sunday,1,42.5,31.8,Wellesley Farms,42.323608,-71.272288,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Farms,CR-Sunday,0,89.0,,Wellesley Farms,42.323608,-71.272288,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Farms,CR-Saturday,1,42.5,31.8,Wellesley Farms,42.323608,-71.272288,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Farms,CR-Saturday,0,57.0,45.2,Wellesley Farms,42.323608,-71.272288,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Hills,CR-Weekday,1,34.8,14.0,Wellesley Hills,42.310027,-71.276769,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Hills,CR-Weekday,0,60.0,21.1,Wellesley Hills,42.310027,-71.276769,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Hills,CR-Sunday,1,42.5,31.8,Wellesley Hills,42.310027,-71.276769,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Hills,CR-Sunday,0,89.0,,Wellesley Hills,42.310027,-71.276769,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Hills,CR-Saturday,1,42.5,31.8,Wellesley Hills,42.310027,-71.276769,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Hills,CR-Saturday,0,57.0,45.2,Wellesley Hills,42.310027,-71.276769,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Square,CR-Weekday,1,34.8,14.0,Wellesley Square,42.296427,-71.294311,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Square,CR-Weekday,0,60.0,21.1,Wellesley Square,42.296427,-71.294311,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Square,CR-Sunday,1,42.5,31.8,Wellesley Square,42.296427,-71.294311,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Square,CR-Sunday,0,89.0,,Wellesley Square,42.296427,-71.294311,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Square,CR-Saturday,1,42.5,31.8,Wellesley Square,42.296427,-71.294311,"",Framingham/Worcester Line
+CR-Worcester,Wellesley Square,CR-Saturday,0,57.0,45.2,Wellesley Square,42.296427,-71.294311,"",Framingham/Worcester Line
+CR-Fitchburg,West Concord,CR-Weekday,1,46.0,9.5,West Concord,42.456372,-71.392371,"",Fitchburg/South Acton Line
+CR-Fitchburg,West Concord,CR-Weekday,0,56.1,21.9,West Concord,42.456372,-71.392371,"",Fitchburg/South Acton Line
+CR-Fitchburg,West Concord,CR-Sunday,1,39.0,22.6,West Concord,42.456372,-71.392371,"",Fitchburg/South Acton Line
+CR-Fitchburg,West Concord,CR-Sunday,0,60.0,0.0,West Concord,42.456372,-71.392371,"",Fitchburg/South Acton Line
+CR-Fitchburg,West Concord,CR-Saturday,1,39.0,22.6,West Concord,42.456372,-71.392371,"",Fitchburg/South Acton Line
+CR-Fitchburg,West Concord,CR-Saturday,0,60.0,0.0,West Concord,42.456372,-71.392371,"",Fitchburg/South Acton Line
+CR-Newburyport,West Gloucester,CR-Weekday,1,56.4,19.3,West Gloucester,42.610928,-70.706456,"",Newburyport/Rockport Line
+CR-Newburyport,West Gloucester,CR-Weekday,0,57.8,17.8,West Gloucester,42.610928,-70.706456,"",Newburyport/Rockport Line
+CR-Newburyport,West Gloucester,CR-Sunday,1,,,West Gloucester,42.610928,-70.706456,"",Newburyport/Rockport Line
+CR-Newburyport,West Gloucester,CR-Sunday,0,,,West Gloucester,42.610928,-70.706456,"",Newburyport/Rockport Line
+CR-Newburyport,West Gloucester,CR-Saturday,1,,,West Gloucester,42.610928,-70.706456,"",Newburyport/Rockport Line
+CR-Newburyport,West Gloucester,CR-Saturday,0,,,West Gloucester,42.610928,-70.706456,"",Newburyport/Rockport Line
+CR-Greenbush,West Hingham,CR-Weekday,1,54.5,16.9,West Hingham,42.2367,-70.9031,"",Greenbush Line
+CR-Greenbush,West Hingham,CR-Weekday,0,44.4,17.4,West Hingham,42.2367,-70.9031,"",Greenbush Line
+CR-Greenbush,West Hingham,CR-SunSuspended,1,71.0,,West Hingham,42.2367,-70.9031,"",Greenbush Line
+CR-Greenbush,West Hingham,CR-SunSuspended,0,78.0,,West Hingham,42.2367,-70.9031,"",Greenbush Line
+CR-Greenbush,West Hingham,CR-SatSuspended,1,71.0,,West Hingham,42.2367,-70.9031,"",Greenbush Line
+CR-Greenbush,West Hingham,CR-SatSuspended,0,78.0,,West Hingham,42.2367,-70.9031,"",Greenbush Line
+CR-Lowell,West Medford,CR-Weekday,1,44.3,18.2,West Medford,42.421184,-71.132468,"",Lowell Line
+CR-Lowell,West Medford,CR-Weekday,0,52.6,18.1,West Medford,42.421184,-71.132468,"",Lowell Line
+CR-Haverhill,West Medford,CR-Weekday,1,,,West Medford,42.421184,-71.132468,"",Haverhill Line
+CR-Haverhill,West Medford,CR-Weekday,0,,,West Medford,42.421184,-71.132468,"",Haverhill Line
+CR-Lowell,West Medford,CR-Sunday,1,,,West Medford,42.421184,-71.132468,"",Lowell Line
+CR-Lowell,West Medford,CR-Sunday,0,,,West Medford,42.421184,-71.132468,"",Lowell Line
+CR-Lowell,West Medford,CR-Saturday,1,,,West Medford,42.421184,-71.132468,"",Lowell Line
+CR-Lowell,West Medford,CR-Saturday,0,,,West Medford,42.421184,-71.132468,"",Lowell Line
+CR-Worcester,West Natick,CR-Weekday,1,29.8,11.4,West Natick,42.281855,-71.390548,"",Framingham/Worcester Line
+CR-Worcester,West Natick,CR-Weekday,0,47.3,24.7,West Natick,42.281855,-71.390548,"",Framingham/Worcester Line
+CR-Worcester,West Natick,CR-Sunday,1,42.5,31.8,West Natick,42.281855,-71.390548,"",Framingham/Worcester Line
+CR-Worcester,West Natick,CR-Sunday,0,89.0,,West Natick,42.281855,-71.390548,"",Framingham/Worcester Line
+CR-Worcester,West Natick,CR-Saturday,1,42.5,31.8,West Natick,42.281855,-71.390548,"",Framingham/Worcester Line
+CR-Worcester,West Natick,CR-Saturday,0,57.0,45.2,West Natick,42.281855,-71.390548,"",Framingham/Worcester Line
+CR-Worcester,West Newton,CR-Weekday,1,43.6,14.3,West Newton,42.348599,-71.22901,"",Framingham/Worcester Line
+CR-Worcester,West Newton,CR-Weekday,0,56.8,19.1,West Newton,42.348599,-71.22901,"",Framingham/Worcester Line
+CR-Worcester,West Newton,CR-Sunday,1,42.5,31.8,West Newton,42.348599,-71.22901,"",Framingham/Worcester Line
+CR-Worcester,West Newton,CR-Sunday,0,89.0,,West Newton,42.348599,-71.22901,"",Framingham/Worcester Line
+CR-Worcester,West Newton,CR-Saturday,1,42.5,31.8,West Newton,42.348599,-71.22901,"",Framingham/Worcester Line
+CR-Worcester,West Newton,CR-Saturday,0,57.0,45.2,West Newton,42.348599,-71.22901,"",Framingham/Worcester Line
+CR-Needham,West Roxbury,CR-Weekday,1,49.8,18.7,West Roxbury,42.2816,-71.159932,"",Needham Line
+CR-Needham,West Roxbury,CR-Weekday,0,52.3,20.1,West Roxbury,42.2816,-71.159932,"",Needham Line
+CR-Needham,West Roxbury,CR-SatSuspended,1,,,West Roxbury,42.2816,-71.159932,"",Needham Line
+CR-Needham,West Roxbury,CR-SatSuspended,0,,,West Roxbury,42.2816,-71.159932,"",Needham Line
+CR-Worcester,Westborough,CR-Weekday,1,43.0,19.7,Westborough,42.269184,-71.652005,"",Framingham/Worcester Line
+CR-Worcester,Westborough,CR-Weekday,0,55.5,18.5,Westborough,42.269184,-71.652005,"",Framingham/Worcester Line
+CR-Worcester,Westborough,CR-Sunday,1,,,Westborough,42.269184,-71.652005,"",Framingham/Worcester Line
+CR-Worcester,Westborough,CR-Sunday,0,90.0,,Westborough,42.269184,-71.652005,"",Framingham/Worcester Line
+CR-Worcester,Westborough,CR-Saturday,1,,,Westborough,42.269184,-71.652005,"",Framingham/Worcester Line
+CR-Worcester,Westborough,CR-Saturday,0,90.0,,Westborough,42.269184,-71.652005,"",Framingham/Worcester Line
+CR-Greenbush,Weymouth Landing/ East Braintree,CR-Weekday,1,53.8,16.1,Weymouth Landing/ East Braintree,42.2208,-70.9682,"",Greenbush Line
+CR-Greenbush,Weymouth Landing/ East Braintree,CR-Weekday,0,44.2,17.1,Weymouth Landing/ East Braintree,42.2208,-70.9682,"",Greenbush Line
+CR-Greenbush,Weymouth Landing/ East Braintree,CR-SunSuspended,1,68.0,,Weymouth Landing/ East Braintree,42.2208,-70.9682,"",Greenbush Line
+CR-Greenbush,Weymouth Landing/ East Braintree,CR-SunSuspended,0,78.0,,Weymouth Landing/ East Braintree,42.2208,-70.9682,"",Greenbush Line
+CR-Greenbush,Weymouth Landing/ East Braintree,CR-SatSuspended,1,68.0,,Weymouth Landing/ East Braintree,42.2208,-70.9682,"",Greenbush Line
+CR-Greenbush,Weymouth Landing/ East Braintree,CR-SatSuspended,0,78.0,,Weymouth Landing/ East Braintree,42.2208,-70.9682,"",Greenbush Line
+CR-Kingston,Whitman,CR-Weekday,1,57.2,17.5,Whitman,42.083563,-70.923204,"",Kingston/Plymouth Line
+CR-Kingston,Whitman,CR-Weekday,0,51.8,19.8,Whitman,42.083563,-70.923204,"",Kingston/Plymouth Line
+CR-Kingston,Whitman,CR-SunSuspended,1,79.0,8.4,Whitman,42.083563,-70.923204,"",Kingston/Plymouth Line
+CR-Kingston,Whitman,CR-SunSuspended,0,71.0,,Whitman,42.083563,-70.923204,"",Kingston/Plymouth Line
+CR-Kingston,Whitman,CR-SatSuspended,1,79.0,8.4,Whitman,42.083563,-70.923204,"",Kingston/Plymouth Line
+CR-Kingston,Whitman,CR-SatSuspended,0,71.0,,Whitman,42.083563,-70.923204,"",Kingston/Plymouth Line
+CR-Providence,Wickford Junction,CR-Weekday,1,62.0,17.8,Wickford Junction,41.5808,-71.4914,"",Providence/Stoughton Line
+CR-Providence,Wickford Junction,CR-Weekday,0,57.2,21.9,Wickford Junction,41.5808,-71.4914,"",Providence/Stoughton Line
+CR-Lowell,Wilmington,CR-Weekday,1,51.3,13.0,Wilmington,42.546368,-71.173569,"",Lowell Line
+CR-Lowell,Wilmington,CR-Weekday,0,52.6,17.6,Wilmington,42.546368,-71.173569,"",Lowell Line
+CR-Haverhill,Wilmington,CR-Weekday,1,45.0,,Wilmington,42.546368,-71.173569,"",Haverhill Line
+CR-Haverhill,Wilmington,CR-Weekday,0,,,Wilmington,42.546368,-71.173569,"",Haverhill Line
+CR-Lowell,Wilmington,CR-Sunday,1,,,Wilmington,42.546368,-71.173569,"",Lowell Line
+CR-Lowell,Wilmington,CR-Sunday,0,,,Wilmington,42.546368,-71.173569,"",Lowell Line
+CR-Lowell,Wilmington,CR-Saturday,1,,,Wilmington,42.546368,-71.173569,"",Lowell Line
+CR-Lowell,Wilmington,CR-Saturday,0,,,Wilmington,42.546368,-71.173569,"",Lowell Line
+CR-Lowell,Winchester Center,CR-Weekday,1,44.3,18.2,Winchester Center,42.45265,-71.137041,"",Lowell Line
+CR-Lowell,Winchester Center,CR-Weekday,0,52.6,18.1,Winchester Center,42.45265,-71.137041,"",Lowell Line
+CR-Haverhill,Winchester Center,CR-Weekday,1,,,Winchester Center,42.45265,-71.137041,"",Haverhill Line
+CR-Haverhill,Winchester Center,CR-Weekday,0,,,Winchester Center,42.45265,-71.137041,"",Haverhill Line
+CR-Lowell,Winchester Center,CR-Sunday,1,,,Winchester Center,42.45265,-71.137041,"",Lowell Line
+CR-Lowell,Winchester Center,CR-Sunday,0,,,Winchester Center,42.45265,-71.137041,"",Lowell Line
+CR-Lowell,Winchester Center,CR-Saturday,1,,,Winchester Center,42.45265,-71.137041,"",Lowell Line
+CR-Lowell,Winchester Center,CR-Saturday,0,,,Winchester Center,42.45265,-71.137041,"",Lowell Line
+CR-Franklin,Windsor Gardens,CR-Weekday,1,40.0,26.0,Windsor Gardens,42.172192,-71.220704,"",Franklin Line
+CR-Franklin,Windsor Gardens,CR-Weekday,0,58.4,24.0,Windsor Gardens,42.172192,-71.220704,"",Franklin Line
+CR-Franklin,Windsor Gardens,CR-Sunday,1,,,Windsor Gardens,42.172192,-71.220704,"",Franklin Line
+CR-Franklin,Windsor Gardens,CR-Sunday,0,,,Windsor Gardens,42.172192,-71.220704,"",Franklin Line
+CR-Franklin,Windsor Gardens,CR-Saturday,1,,,Windsor Gardens,42.172192,-71.220704,"",Franklin Line
+CR-Franklin,Windsor Gardens,CR-Saturday,0,,,Windsor Gardens,42.172192,-71.220704,"",Franklin Line
+CR-Worcester,Worcester / Union Station,CR-Weekday,1,43.5,19.7,Worcester / Union Station,42.261796,-71.793881,"",Framingham/Worcester Line
+CR-Worcester,Worcester / Union Station,CR-Weekday,0,55.5,18.3,Worcester / Union Station,42.261796,-71.793881,"",Framingham/Worcester Line
+CR-Worcester,Worcester / Union Station,CR-Sunday,1,,,Worcester / Union Station,42.261796,-71.793881,"",Framingham/Worcester Line
+CR-Worcester,Worcester / Union Station,CR-Sunday,0,89.0,,Worcester / Union Station,42.261796,-71.793881,"",Framingham/Worcester Line
+CR-Worcester,Worcester / Union Station,CR-Saturday,1,,,Worcester / Union Station,42.261796,-71.793881,"",Framingham/Worcester Line
+CR-Worcester,Worcester / Union Station,CR-Saturday,0,89.0,,Worcester / Union Station,42.261796,-71.793881,"",Framingham/Worcester Line
+CR-Haverhill,Wyoming Hill,CR-Weekday,1,45.2,20.5,Wyoming Hill,42.452097,-71.069518,"",Haverhill Line
+CR-Haverhill,Wyoming Hill,CR-Weekday,0,48.6,18.3,Wyoming Hill,42.452097,-71.069518,"",Haverhill Line
+CR-Haverhill,Wyoming Hill,CR-Sunday,1,,,Wyoming Hill,42.452097,-71.069518,"",Haverhill Line
+CR-Haverhill,Wyoming Hill,CR-Sunday,0,,,Wyoming Hill,42.452097,-71.069518,"",Haverhill Line
+CR-Haverhill,Wyoming Hill,CR-Saturday,1,,,Wyoming Hill,42.452097,-71.069518,"",Haverhill Line
+CR-Haverhill,Wyoming Hill,CR-Saturday,0,,,Wyoming Hill,42.452097,-71.069518,"",Haverhill Line
+CR-Worcester,Yawkey,CR-Weekday,1,44.4,24.2,Yawkey,42.346796,-71.098937,"",Framingham/Worcester Line
+CR-Worcester,Yawkey,CR-Weekday,0,52.1,18.2,Yawkey,42.346796,-71.098937,"",Framingham/Worcester Line
+CR-Worcester,Yawkey,CR-Sunday,1,,,Yawkey,42.346796,-71.098937,"",Framingham/Worcester Line
+CR-Worcester,Yawkey,CR-Sunday,0,89.0,,Yawkey,42.346796,-71.098937,"",Framingham/Worcester Line
+CR-Worcester,Yawkey,CR-Saturday,1,,,Yawkey,42.346796,-71.098937,"",Framingham/Worcester Line
+CR-Worcester,Yawkey,CR-Saturday,0,89.0,,Yawkey,42.346796,-71.098937,"",Framingham/Worcester Line

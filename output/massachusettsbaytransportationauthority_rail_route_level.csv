@@ -1,0 +1,67 @@
+route_id,service_id,direction_id,numtripsperroute_both_dir,hours_of_service,first_departure_sec,last_departure_sec,span_of_service_hrs,route_avg_hdwy,route_stdev_hdwy,trips_per_day,average_speed,average_length_mi,w_avg_num_stops,avg_dist_bw_stops_ft,route_short_name,route_long_name
+CR-Kingston,CR-SunSuspended,1,16,17,25200,85320,17,79.0,4.2,8,,,10.0,,"",Kingston/Plymouth Line
+CR-Needham,CR-Weekday,0,32,18,22200,83340,17,52.6,18.9,16,,,11.4,,"",Needham Line
+CR-Franklin,CR-Sunday,1,14,15,38400,87540,14,,,7,,,14.0,,"",Franklin Line
+CR-Haverhill,CR-Weekday,0,48,21,18300,90900,20,40.0,21.6,24,,,10.6,,"",Haverhill Line
+CR-Middleborough,CR-Saturday,1,16,18,24600,84840,17,71.0,,8,,,9.4,,"",Middleborough/Lakeville Line
+CR-Franklin,CR-Weekday,0,37,21,14400,89460,21,56.6,26.4,18,,,12.0,,"",Franklin Line
+CR-Haverhill,CR-Sunday,1,12,18,26100,88500,17,,,6,,,14.0,,"",Haverhill Line
+CR-Fitchburg,CR-Saturday,0,16,20,24600,90180,18,60.0,0.0,8,,,14.8,,"",Fitchburg/South Acton Line
+CR-Lowell,CR-Saturday,1,16,17,25200,87180,17,,,8,,,8.0,,"",Lowell Line
+CR-Newburyport,CR-Saturday,1,26,18,25200,88620,18,59.3,21.6,13,,,11.5,,"",Newburyport/Rockport Line
+CR-Greenbush,CR-SatSuspended,1,16,17,26100,86040,17,68.0,,8,,,10.0,,"",Greenbush Line
+CR-Worcester,CR-Saturday,1,18,20,25200,94560,19,42.5,31.8,9,,,14.2,,"",Framingham/Worcester Line
+CR-Providence,CR-Saturday,0,18,19,23700,87300,18,70.0,14.1,9,,,11.0,,"",Providence/Stoughton Line
+CR-Kingston,CR-Weekday,1,24,19,19920,84960,18,58.0,18.1,12,,,8.6,,"",Kingston/Plymouth Line
+CR-Newburyport,CR-Weekday,1,62,21,18300,91020,20,33.0,20.3,31,,,10.5,,"",Newburyport/Rockport Line
+CR-Worcester,CR-Sunday,0,16,20,26700,94560,19,89.0,,8,,,14.6,,"",Framingham/Worcester Line
+CR-Lowell,CR-Weekday,1,52,20,20100,89640,19,40.8,18.2,26,,,7.3,,"",Lowell Line
+CR-Providence,CR-Sunday,1,14,14,39900,87300,13,65.0,,7,,,11.0,,"",Providence/Stoughton Line
+CR-Greenbush,CR-SunSuspended,0,16,17,26100,86040,17,79.0,,8,,,10.0,,"",Greenbush Line
+CR-Lowell,CR-Sunday,0,16,17,25200,87180,17,,,8,,,8.0,,"",Lowell Line
+CR-Providence,CR-Weekday,0,73,22,17400,90360,20,31.3,21.4,34,,,8.1,,"",Providence/Stoughton Line
+CR-Needham,CR-SatSuspended,1,18,17,25800,86220,17,81.0,,9,,,10.9,,"",Needham Line
+CR-Fairmount,CR-Weekday,0,28,18,21000,81900,17,52.2,15.7,14,,,4.9,,"",Fairmount Line
+CR-Newburyport,CR-Sunday,0,26,18,25200,88620,18,61.6,13.9,13,,,11.5,,"",Newburyport/Rockport Line
+CR-Worcester,CR-Weekday,1,41,22,14700,91800,21,28.3,13.7,21,,,12.0,,"",Framingham/Worcester Line
+CR-Kingston,CR-SatSuspended,0,16,17,25200,85320,17,71.0,,8,,,10.4,,"",Kingston/Plymouth Line
+CR-Middleborough,CR-Sunday,0,16,18,24600,84840,17,79.0,8.4,8,,,9.5,,"",Middleborough/Lakeville Line
+CR-Haverhill,CR-Saturday,0,12,18,26100,88500,17,,,6,,,14.0,,"",Haverhill Line
+CR-Fitchburg,CR-Sunday,1,16,20,24600,90180,18,39.0,22.6,8,,,14.8,,"",Fitchburg/South Acton Line
+CR-Greenbush,CR-Weekday,0,24,18,20400,82620,17,44.2,17.1,12,,,8.9,,"",Greenbush Line
+CR-Middleborough,CR-Weekday,1,24,19,19200,84420,18,55.5,24.2,12,,,8.5,,"",Middleborough/Lakeville Line
+CR-Franklin,CR-Saturday,0,18,19,23700,87540,18,,,9,,,14.0,,"",Franklin Line
+CR-Fitchburg,CR-Weekday,0,34,21,18900,92520,20,46.4,21.9,17,,,14.2,,"",Fitchburg/South Acton Line
+CR-Middleborough,CR-Weekday,0,24,19,19200,84420,18,52.8,16.7,12,,,8.3,,"",Middleborough/Lakeville Line
+CR-Greenbush,CR-Weekday,1,24,18,20400,82620,17,54.5,16.7,12,,,9.0,,"",Greenbush Line
+CR-Fitchburg,CR-Weekday,1,34,21,18900,92520,20,42.0,11.6,17,,,14.0,,"",Fitchburg/South Acton Line
+CR-Franklin,CR-Saturday,1,18,19,23700,87540,18,,,9,,,14.0,,"",Franklin Line
+CR-Middleborough,CR-Sunday,1,16,18,24600,84840,17,70.0,,8,,,9.4,,"",Middleborough/Lakeville Line
+CR-Haverhill,CR-Saturday,1,12,18,26100,88500,17,,,6,,,14.0,,"",Haverhill Line
+CR-Fitchburg,CR-Sunday,0,16,20,24600,90180,18,60.0,0.0,8,,,14.8,,"",Fitchburg/South Acton Line
+CR-Kingston,CR-SatSuspended,1,16,17,25200,85320,17,79.0,8.4,8,,,10.0,,"",Kingston/Plymouth Line
+CR-Newburyport,CR-Sunday,1,26,18,25200,88620,18,60.0,20.6,13,,,11.5,,"",Newburyport/Rockport Line
+CR-Needham,CR-SatSuspended,0,18,17,25800,86220,17,,,9,,,12.0,,"",Needham Line
+CR-Fairmount,CR-Weekday,1,28,18,21000,81900,17,49.4,13.0,14,,,4.8,,"",Fairmount Line
+CR-Worcester,CR-Weekday,0,41,22,14700,91800,21,40.5,23.9,20,,,11.8,,"",Framingham/Worcester Line
+CR-Lowell,CR-Sunday,1,16,17,25200,87180,17,,,8,,,8.0,,"",Lowell Line
+CR-Providence,CR-Weekday,1,73,22,17400,90360,20,29.3,21.3,34,,,7.9,,"",Providence/Stoughton Line
+CR-Lowell,CR-Weekday,0,52,20,20100,89640,19,44.2,21.2,26,,,7.2,,"",Lowell Line
+CR-Greenbush,CR-SunSuspended,1,16,17,26100,86040,17,68.0,,8,,,10.0,,"",Greenbush Line
+CR-Providence,CR-Sunday,0,14,14,39900,87300,13,75.0,,7,,,11.0,,"",Providence/Stoughton Line
+CR-Newburyport,CR-Weekday,0,62,21,18300,91020,20,36.2,21.0,30,,,10.4,,"",Newburyport/Rockport Line
+CR-Worcester,CR-Sunday,1,16,20,26700,94560,19,42.5,31.8,8,,,14.6,,"",Framingham/Worcester Line
+CR-Kingston,CR-Weekday,0,24,19,19920,84960,18,51.6,19.1,12,,,8.8,,"",Kingston/Plymouth Line
+CR-Providence,CR-Saturday,1,18,19,23700,87300,18,68.0,,9,,,11.0,,"",Providence/Stoughton Line
+CR-Worcester,CR-Saturday,0,18,20,25200,94560,19,57.0,45.2,9,,,14.2,,"",Framingham/Worcester Line
+CR-Newburyport,CR-Saturday,0,26,18,25200,88620,18,61.6,13.9,13,,,11.5,,"",Newburyport/Rockport Line
+CR-Greenbush,CR-SatSuspended,0,16,17,26100,86040,17,78.0,,8,,,10.0,,"",Greenbush Line
+CR-Lowell,CR-Saturday,0,16,17,25200,87180,17,,,8,,,8.0,,"",Lowell Line
+CR-Middleborough,CR-Saturday,0,16,18,24600,84840,17,79.5,7.7,8,,,9.5,,"",Middleborough/Lakeville Line
+CR-Haverhill,CR-Sunday,0,12,18,26100,88500,17,,,6,,,14.0,,"",Haverhill Line
+CR-Fitchburg,CR-Saturday,1,16,20,24600,90180,18,39.0,22.6,8,,,14.8,,"",Fitchburg/South Acton Line
+CR-Franklin,CR-Weekday,1,37,21,14400,89460,21,43.7,22.3,19,,,11.4,,"",Franklin Line
+CR-Kingston,CR-SunSuspended,0,16,17,25200,85320,17,71.0,,8,,,10.4,,"",Kingston/Plymouth Line
+CR-Haverhill,CR-Weekday,1,48,21,18300,90900,20,41.3,22.2,24,,,10.2,,"",Haverhill Line
+CR-Needham,CR-Weekday,1,32,18,22200,83340,17,50.5,18.4,16,,,11.4,,"",Needham Line
+CR-Franklin,CR-Sunday,0,14,15,38400,87540,14,,,7,,,14.0,,"",Franklin Line
